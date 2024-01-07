@@ -130,6 +130,7 @@ dmypy.json
 .pyre/
 
 # Airflow
+airflow/
 logs/
 airflow.cfg
 airflow.db
