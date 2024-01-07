@@ -3,6 +3,17 @@ from airflow.decorators import task
 import json
 import os
 
+from bs4 import BeautifulSoup
+import re
+
+def clean_text(texte):
+    # Supprimer les balises HTML
+    text_without_html = BeautifulSoup(texte, 'html.parser').get_text()
+
+    # Supprimer les caractères spéciaux
+    cleaned_text = re.sub(r'[^a-zA-Z0-9\s]', '', text_without_html)
+
+    return cleaned_text
 
 def transform_json(json_data):
     # Créer un nouveau dictionnaire avec les clés sélectionnées et renommées
@@ -62,13 +73,17 @@ def transform_json(json_data):
                 output_data["experience"]["seniority_level"] = indicator
                 break
 
+    # Clean description
+    description = output_data["job"]["description"]
+    output_data["job"]["description"] = clean_text(description)
+
     return output_data
 
 
 @task()
 def transform():
     """Clean and convert extracted elements to json."""
-    # 2. Transformation
+
     extracted_folder_path = 'staging/extracted'
     transformed_folder_path = 'staging/transformed'
 

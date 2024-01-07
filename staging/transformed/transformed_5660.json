@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "&lt;p&gt;&lt;strong&gt;Job Description: &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Production Support / Application Support, Linux / Windows / SQL – Expert ;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;span class=\"ql-cursor\"&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Desired Skills:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;SQL experts in Unix/Linux Production Support profiles.&amp;nbsp;SQL is the main deciding factor&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Unix – 8/10&lt;/li&gt;&lt;li&gt;Windows – How to login, IIS, Services, Security policy, Computer management – 8/10&lt;/li&gt;&lt;li&gt;SQL – Strong knowledge (Writing queries, Stored procedure trouble-shooting, Statistics, DDL, DML knowledge, transact-SQL, Oracle) – 9/10&lt;/li&gt;&lt;li&gt;Monitoring – 8/10&lt;/li&gt;&lt;li&gt;Analytical – Needs to understand production issue scenarios and approach to engage and resolve – 8/10&lt;/li&gt;&lt;li&gt;Communication – 8/10&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Good to have:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Scheduling tools – 7/10&lt;/li&gt;&lt;li&gt;Security Certificate Management – 7/10&lt;/li&gt;&lt;li&gt;SFTP, SSH protocol – 7/10&lt;/li&gt;&lt;li&gt;Linux –Advanced&lt;/li&gt;&lt;li&gt;SQL – Advanced&lt;/li&gt;&lt;li&gt;Windows – Advanced&lt;/li&gt;&lt;li&gt;Scripting (such as Shell/Perl or PowerShell)&lt;/li&gt;&lt;li&gt;Knowledge of production application environments and components including database design and performance (such as Oracle, MS SQL); virtual servers (such as VMWare); monitoring platforms (such as Geneos); application resiliency automation; scheduling tools (such as Autosys); load balancing (such as DR pairs, CNAMES, A-Record); transmission protocols (such as SFTP, NDM); Messaging tools (such as MQ, KAFKA)&lt;/li&gt;&lt;li&gt;BS or MS in Computer Science highly desired&lt;/li&gt;&lt;li&gt;Service Now – a plus&lt;/li&gt;&lt;li&gt;Investment Banking Financial Services (such as institutional markets, post trade technology, prime brokerage and fund services) a plus.&lt;/li&gt;&lt;/ul&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-23T19:31:41.000Z"
+  },
+  "company": {
+    "name": "Securepeoplebase, Inc",
+    "link": "https://www.linkedin.com/company/securepleoplebase-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

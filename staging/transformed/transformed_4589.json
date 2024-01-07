@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "Site Reliability Engineer / Sr DevOps Engineer&lt;br&gt;Location – Seattle, WA – Remote OK&lt;br&gt;Duration – 12 months&lt;br&gt;Required:&lt;br&gt;•\tBachelor's degree in CS or a related STEM engineering field strongly preferred&lt;br&gt;•\tRelevant certifications are a plus&lt;br&gt;•\t8-10+ years of Site Reliability / DevOps Engineering&lt;br&gt;•\tExpertise in AWS / Azure&lt;br&gt;•\tExpertise in Kubernetes, kOps, &amp; Helm 3.&lt;br&gt;•\tIstio service mesh experience is strongly preferred.&lt;br&gt;•\t•Experience with Infrastructure as Code IIAC) required.&lt;br&gt;•\tSpecifically we are looking for Terraform&lt;br&gt;•\tFluency in at least one language required: Python, C#, JAVA. Should have strong API experience.&lt;br&gt;•\tExperience working in SOA and 12 factor app methodology&lt;br&gt;•\tStrong leadership, initiative taking, and capacity for decision making&lt;br&gt;•\tExpert knowledge in any or all of these is a huge plus: Prometheus Operator, Grafana, Loki, ELK Stack, OpenTelemetry, Jaeger/OpenTracing&lt;br&gt;•\tParticipate in the on-call rotation&lt;br&gt;&lt;br&gt;What You'll Do&lt;br&gt;•\tWork across teams to completely automate everything we do&lt;br&gt;•\tDrive and own best practices with automation, be passionate and proactive&lt;br&gt;•\tApproach alerting, monitoring, and log aggregation with an eye toward flexibility and insight-driven metrics&lt;br&gt;•\tCollaborate with the teams to ensure ongoing infrastructure management/automation (IAC), CI/CD pipeline construction in collaboration with the Release Engineering team, monitoring, and maintenance&lt;br&gt;•\tEnable our engineering teams to deliver high quality software, fast, well tested, in a highly repeatable way&lt;br&gt;•\tCreate automated tool sets to deploy, measure, solidify and observe our infrastructure &lt;br&gt;•\tOngoing study and implementation of the industry's latest best practices and drive those within the company&lt;br&gt;•\tParticipate in the on-call rotation&lt;br&gt;&lt;br&gt;",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-18T19:20:22.000Z"
+  },
+  "company": {
+    "name": "OrgSpire Inc",
+    "link": "https://www.linkedin.com/company/orgspire-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}
