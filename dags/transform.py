@@ -5,15 +5,17 @@ import os
 
 from bs4 import BeautifulSoup
 import re
-
 def clean_text(texte):
-    # Supprimer les balises HTML
-    text_without_html = BeautifulSoup(texte, 'html.parser').get_text()
+    if texte is not None:
+        # Supprimer les balises HTML
+        text_without_html = BeautifulSoup(texte, 'html.parser').get_text()
 
-    # Supprimer les caractères spéciaux
-    cleaned_text = re.sub(r'[^a-zA-Z0-9\s]', '', text_without_html)
+        # Supprimer les caractères spéciaux
+        cleaned_text = re.sub(r'[^a-zA-Z0-9\s]', '', text_without_html)
 
-    return cleaned_text
+        return cleaned_text
+    else:
+        return None
 
 def transform_json(json_data):
     # Créer un nouveau dictionnaire avec les clés sélectionnées et renommées
@@ -66,7 +68,7 @@ def transform_json(json_data):
     # Extract seniority_level from title
     title = output_data["job"]["title"]
     if title is not None:
-        seniority_indicators = ["Senior", "Lead", "Principal", "Manager", "Sr."]  # Add more indicators as needed
+        seniority_indicators = ["Senior", "Lead", "Principal", "Manager", "Sr."]
 
         for indicator in seniority_indicators:
             if indicator in title:
@@ -90,8 +92,6 @@ def transform():
     # Créer le dossier staging/transformed s'il n'existe pas
     os.makedirs(transformed_folder_path, exist_ok=True)
 
-    # Lire les fichiers texte extraits et les transformer en fichiers JSON
-    # Parcourir tous les fichiers texte dans le dossier
     for filename in os.listdir(extracted_folder_path):
         if filename.endswith('.txt'):
             input_file_path = os.path.join(extracted_folder_path, filename)
