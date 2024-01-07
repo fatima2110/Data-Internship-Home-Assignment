@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff ML Engineer - ML, NLP, Tensorflow",
+    "industry": "Consumer Goods",
+    "description": "If you are a Staff ML Engineer with experience please read on We are looking for someone who has extensive experience and expertise in designing and implementing ML training pipelines as we improve and scale our AI NLP solution As our Staff Engineer you will serve as the ML specialist and guide other engineers to tackle complex algorithmic and architectural challengesbrbrWhat You Will Be Doingbrbr Investigate and experiment with new model architecture to improve existing ML model and training pipelines runtime inference and performance improvementsbr You will creatively balance the demands of productionlevel software engineering with exploratory research and developmentbr Work with teams to develop and improve machine learning pipeline that goes all the way from RampD to atscale deploymentbrbrWhat You Need for this Positionbrbr Extensive experience working with developing and maintaining productionlevel Pythonbr You have some C experiencebr Handson experience with ML model deployment and inference in a production settingbr Experience using TensorFlow PyTorch MxNet or similar toolsbr Ability to build NLP data pipelines and perform data transformations to fit deep learning models for language learningbr Experience with sequencetosequence neural networks eg LSTMs GRUs Transformers etc in any domainbrbrSo if you are a Staff ML Engineer with experience please apply todaybrbrstronguEmail Your Resume In Word TobrbrustrongLooking forward to receiving your resume through our website and going over the position with you Clicking apply is the best way to apply but you may alsobrbrStephenMarodaCyberCoderscombrulliPlease do NOT change the email subject line in any way You must keep the JobID linkedin  SM11643969  in the email subject line for your application to be consideredbrliulStephen Maroda  Lead Recruiter  CyberCodersbrbrApplicants must be authorized to work in the USbrbrstrongCyberCoders Inc is proud to be an Equal Opportunity EmployerbrbrstrongAll qualified applicants will receive consideration for employment without regard to race color religion sex national origin disability protected veteran status or any other characteristic protected by lawbrbrstrongYour Right to Workstrong  In compliance with federal law all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:05:49.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

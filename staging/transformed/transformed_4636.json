@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer",
+    "industry": "Computer Software,Human Resources,Information Technology and Services",
+    "description": "brstrongDo what you love Love what you do brbrstrong At Workday we help the worlds largest organizations adapt to whats next by bringing finance HR and planning into a single enterprise cloud We work hard and were serious about what we do But we like to have fun too We put people first celebrate diversity drive innovation and do good in the communities where we live and work brbrstrongAbout the TeambrstrongInbox team has an excellent opportunity to rebuild and reinvent Inbox including searching tagging and new bespoke UI The position presents the opportunity to work in a collaborative environment designing developing delivering and maintaining Inbox used by 100 of Workday customersbrstrongAbout the Rolebrstrongulli Design and build REST APIs highly scalable collaboration platform and features lili Collaborate in a small team using your engineering background to get work done lili Exert your independence and ability to learn unfamiliar technology lili Build and maintain robust and quality code and reliable automated tests brbrliulstrongAbout Youbrstrongulli Bachelors Degree or higher Computer ScienceEngineering major is preferable lili You have experience owning production systems lili Experience developing cloud software services and an understanding of design for scalability performance and reliability and tradeoffs therein lili Extensive experience developing distributed and concurrent systems secure fault tolerant highly available recoverable consistent scalable and predictable and the tradeoffs therein lili Knowledge of Business Process Frameworks brbrliulstrongBasic Qualificationsbrstrongulli 3 Years of development in object oriented design Java or Workday Xpresso lili Previous experience developing in an AgileScrum environment lili A love for learning and a passion for helping others brbrliulstrongOther Qualificationsbrstrongulli 2 Years of functional programming in Scala lili React Typescript Node experience a plus brbrliul Workday is an Equal Opportunity Employer including individuals with disabilities and protected veterans",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:04:33.000Z"
+  },
+  "company": {
+    "name": "Workday",
+    "link": "https://www.linkedin.com/company/workday"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 77100,
+    "max_value": 130000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boulder",
+    "region": "CO",
+    "postal_code": "80310",
+    "street_address": null,
+    "latitude": 40.016872,
+    "longitude": -105.279625
+  }
+}

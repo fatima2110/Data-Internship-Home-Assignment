@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "Click the following link to review the full position description and to applybrhttpsrecruitingultiprocomCAP1012JobBoarda4f3ab9c7963cd0a9ab662060f9d9cc3OpportunityDetailopportunityId5619f6119ed34d7dafd0adcd1dd2383b",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T18:35:19.000Z"
+  },
+  "company": {
+    "name": "CapEd Credit Union",
+    "link": "https://www.linkedin.com/company/capedcu"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boise Metropolitan Area",
+    "region": null,
+    "postal_code": "83709",
+    "street_address": null,
+    "latitude": 43.604378,
+    "longitude": -116.204384
+  }
+}

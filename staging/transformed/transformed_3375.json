@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer - Applied ML",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brApple Special Projects Group is seeking software engineers to develop scalable machine learning approaches for autonomous systems You will directly contribute to ML approaches using rich data You will work closely with specialists across highperformance computing machine learning and autonomous system development to identify needs and deliver new capabilities You will share every stage of development from concept to deployment brbrbrJOB SUMMARY brbr  Build and integrate end to end lifecycles of largescale distributed machine learning systems using the latest open source technologiesbrbr  Build software that improves your rate of experimentation and helps you make better decisions about what to try nextbrbr  Train evaluate and debug deep learning models for complex tasksbrbr  Develop tools and services for improving ML systems beyond modeling choices  data distribution editing data quality improvements and representation learning with selfsupervisionbrbr  Improve distributed cloud GPU training approaches for deep learning modelsbrbr  Collaborate with engineers across functions to solve complex data problems at scalebrbr  Identify and evaluate new patterns and technologies to improve performance maintainability and elegance of our machine learning systemsbrbr  Lead technical projects to completion Communicate with peers to build requirements and track progressbrbr  Mentor fellow engineers in your areas of expertisebrbr  Contribute to a team culture that values effective collaboration technical perfection and innovationbrbr brstrongKey Qualificationsbrstrong brSignificant fulltime experience building end to end data systems as an ML Engineer Platform Engineer or equivalentbrbrSolid software engineering skills in complex multilanguage systems Fluency in PythonbrbrExperience working with cloud data processing technologies Spark Dask ElasticSearch Presto SQL etcbrbrExpertise in ML algorithms and top practices for working with deep learning systemsbrbrProficiency with ML modeling frameworks PyTorch Tensorflow etcbrbrAbility to serve as a technical lead  building technical requirements software design implementation and clear communicationbrbrStrong overall software development approach You deliver clean welltested codebrbr brstrongDescriptionbrstrong brWe are a team of hardworking engineers and researchers with deep experience in robotics machine learning and software engineering We work on exciting new technologies and balance exploration of new problems with resultdriven project planning and execution In our daily work the team stays effective productive and fun by sharing some key valuesbrbrbrPassion for the mission Were here to make something extraordinary We seek whatever work is right and strive for the best possible resultsbrbrbrModesty The right answer is more significant than being right We search for solutions as a team and value cleareyed feedbackbrbrbrLean habits You cant grow without limits Time constraints and big goals encourage us to sharpen our focus and learn to make phenomenal decisionsbrbr brstrongEducation amp Experiencebrstrong brBachelors Masters or PhD Degree in Computer ScienceMachine Learning or equivalent professional experiencebrbr brRole Number 200166605brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T08:02:55.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 135000,
+    "max_value": 214000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

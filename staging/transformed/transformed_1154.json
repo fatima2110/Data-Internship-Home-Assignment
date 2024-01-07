@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Linux System Engineer II",
+    "industry": "Information Technology and Services,Telecommunications,Financial Services",
+    "description": "DISH is a Fortune 250 company with more than 13 billion in annual revenue that continues to redefine the communications industry Our legacy is innovation and a willingness to challenge the status quo including reinventing ourselves We disrupted the payTV industry in the mid90s with the launch of the DISH satellite TV service taking on some of the largest US corporations in the process and grew to be the fourthlargest payTV provider We are doing it again with the first live internetdelivered TV service  Sling TV  that bucks traditional payTV norms and gives consumers a truly new way to access and watch televisionbrbrstrong This role can be in either Cheyenne WY or Gilbert AZ brbrstrongDISH is seeking an innovative and passionate Linux Engineer to join a team that manages the onpremise hardwarevirtualizationOSapplications for the DISH Network conditional access systems This position provides an opportunity to learn Docker and Kubernetes administrationbrbrstrong Primary Responsibilities brstrongulli Administer and manage server hardware virtualization and Linux OSs lili Ensure high availability of conditional access applications in devtestprod environments lili Work with engineering teams to deploy new features and upgrades lili Manage system monitoring and alerting tools lili Create and maintain technical documents and procedures brbrliulstrong Required Qualifications brstrongulli BS in Computer Science or a related technical degree or equivalent combination of education and experience lili 3 years experience performing Linux system administration lili 3 years working in a virtualized VMware Linux server environment lili Scripting proficiency Bash Python etc lili Strong critical thinking decision making and problemsolving skills lili Strong desire to automate tasks lili Excellent written and verbal communication skills brbrliulstrong Preferred Qualifications brstrongulli Experience with DockerKubernetes lili Experience with SaltStack ArgoCD Helm lili Experience with Active DirectoryCentrify lili Experience with system performance tuningtesting lili Familiarization with Scaled AgileScrum methodologies brbrliulDICEVPbrbrCompensation 5580000Yr  8745000YrbrbrFrom versatile health perks to new career opportunities check out our benefits on our careers website brbrEmployment is contingent on Successful completion of a preemployment screen which may include a drug testbrbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:05:10.000Z"
+  },
+  "company": {
+    "name": "DISH Network",
+    "link": "https://www.linkedin.com/company/dish-network"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 66100,
+    "max_value": 116000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cheyenne",
+    "region": "WY",
+    "postal_code": "82003",
+    "street_address": null,
+    "latitude": 41.14024,
+    "longitude": -104.8188
+  }
+}

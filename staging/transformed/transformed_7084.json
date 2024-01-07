@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Site Reliability Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "stronguOur CompanybrbrustrongChanging the world through digital experiences is what Adobes all about We give everyonefrom emerging artists to global brandseverything they need to design and deliver exceptional digital experiences Were passionate about empowering people to create beautiful and powerful images videos and apps and transform how companies interact with customers across every screenbrbrWere on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity We realize that new ideas can come from everywhere in the organization and we know the next big idea could be yoursbrbrstrongThe Opportunity brbrstrongYou will be a member of the Site Reliability Engineering team in Dynamic Media We are looking for a Senior Site Reliability Engineer with a software engineering background who is passionate about developing software to help scale monitoring alerting provisioning and configuration management We are a multicloud environment are securityfocused and are helping customers succeed This individual should be selfmotivated and have a drive for qualitybrbrstronguWhat Youll DobrustrongulliWill use troubleshooting monitoring and reporting tools to analyze the root cause of serious and impactful technical issues and to build stable and sustainable solutions and improvementsliliWork closely with customer care internal escalation teams product management and engineering to seek solutions for customers and drive ownership of tasks toward completionliliDrive and improve the whole lifecycle of operational readiness  from inception and design through deployment operation and refinementliliDevelop tools operational enhancements and automated solutions that enable selfservice configuration changes speed deployments and improve monitoring in support of businesscritical customer facing SaaS applications and environmentsliliAssist our software engineering team to ensure proper monitoring and metrics are being built into the applications before going to productionliliParticipate in an oncall rotationbrliulstronguWhat You Need To SucceedbrustrongulliBachelors Degree in Computer Science or equivalent and 5 years of relevant work experienceliliFull Stack troubleshooting experience including networking operating system CentOS Windows Tomcat AVI Mongo and OracleliliExperience leveraging monitoring tools such as Splunk New Relic Prometheus Grafana and Nagios for troubleshootingliliExperience with AWS andor Azure stack  particularly in the areas of networking VMs databases and load balancingliliExcellent information management practices such as detailed documentation usage of wikis and other collaboration toolsliliAbility to scope project work estimate effort and then break down work into subtasksliliExperience developing applications in one or more of the following Python Nodejs or JavaliliStrong comprehension of continuous integration and continuous deployment methodologiesliliExcellent written and verbal communication skills demonstrating the ability to effectively convey technical information to both technical and nontechnical audiencesbrliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T22:01:05.000Z"
+  },
+  "company": {
+    "name": "Adobe",
+    "link": "https://www.linkedin.com/company/adobe"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Sr."
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

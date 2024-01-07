@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "pstrongJob Description for SREstrongppAs we expand our service offerings we are currently seeking an experienced solutions architect to analyze and improve existing complex architecture Specifically we are searching for someone who brings fresh ideas demonstrates a unique and informed viewpoint and enjoys collaborating with a crossfunctional team to develop realworld solutions and positive user experiences at every interactionppstrongObjectives of this RolestrongppnbspppnbspnbspnbspnbspMeasure and optimize system performance with an eye toward pushing our capabilities forward getting ahead of customer needs and innovating to continually improve our processesppnbspnbspnbspnbspCommunicate to the executive team on the architectural approach that has been taken in our GCP landscapeppnbspnbspnbspnbspPresent architecture via presentations and clear diagrams depictionsnbspppnbspnbspnbspnbspBreakdown the architecture into tangible tasks for a developer to execute in an Agile formatppnbspnbspnbspnbspRun the production environment by monitoring availability and taking a holistic view of system healthppnbspnbspnbspnbspImprove observability reliability and quality of our suite of software solutionsppnbspnbspnbspnbspProvide primary operational support and engineering for our rapidly growing new business unitsppnbspppnbspppstrongDaily and Monthly ResponsibilitiesstrongppnbspnbspnbspnbspGather and analyze metrics from both operating systems and applications to assist in performance tuning and fault findingppnbspnbspnbspnbspParticipate in system design consulting platform management and capacity planningppnbspnbspnbspnbspBalance feature development speed and reliability with welldefined service level objectivesppstrongRequired Skills and QualificationsstrongppnbspnbspnbspnbspAbility to program structured and OO with one or more high level languages such as Golang Python or JavappnbspnbspnbspnbspExperience with Hyper Ledger blockchain technologyppnbspnbspnbspnbspStrong understanding of Kubernetes GKE a plusppnbspnbspnbspnbspStrong familiarity with Google Cloud Platform and related Google service offeringsppnbspnbspnbspnbspGitHub GitLab Confluence and Jira experience a mustppnbspnbspnbspnbspExperience with Prometheus and GrafanappnbspnbspnbspnbspA proactive approach to spotting problems areas for improvement and performance bottlenecksppnbspnbspnbspnbspA desire to take ownership of a new and growing production environmentppbrp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T17:16:52.000Z"
+  },
+  "company": {
+    "name": "LPT2 LIMITED",
+    "link": "https://www.linkedin.com/company/lpt2-limited"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tampa",
+    "region": "FL",
+    "postal_code": "33675",
+    "street_address": null,
+    "latitude": 27.947424,
+    "longitude": -82.45878
+  }
+}

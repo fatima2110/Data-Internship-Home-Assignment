@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "pLooperRoom Inc is looking to hire a Software Engineer with experience in app development Our quest is to become the leading resource for overall mental wellness As a Machine Learning AI Software Engineer with LooperRoom you will be uniquely positioned to contribute to our mission to provide individuals who can benefit from mental health but may not currently utilize mental health services pp pp strongHeres what you will dostrongpp Develop and perform research to advance AI stateoftheartpp Communicate with internal and external partners on RampD project details goals and outcomespp Engage in team collaborations to meet goalsppbrppstrongHeres what wed like to see in youstrongppBachelors degree in Computer Science or related technical field or equivalent practical experiencepp pulli Experience with Mobile App Development AndroidIOSlili Knowledge of Rest API GraphQL Websocket JavaScript NodeJS Visual Studio Code React     Native Android Studio Expo GoliliPython Clojure NLP Machine Learning Deep Learninglili Google Firebase MS Azurelili Experience or knowledge with databaseslili Experience in developing a chatbot optionalliliSoftware engineering experience in design coding testing deployment and supportliulpbrppstrongBonusstrongppbrpulli2 years of work or educational experience in Machine Learning or Artificial Intelligence lili1 year of relevant work experience including software developmentliliPrior work with Natural Language Processing text understanding classification pattern recognition recommendation systems targeting systems ranking systems or similar liliSomeone that can quickly prototype new ideastechnologies to create proof of concept and demosliliKnowledge of cognitive computing technology such as ontologyliliGood understanding of Machine Learning such as regression classification and Deep Learning techniques CNN RNNLSTMliliNatural Language Processing NLP experience Text Preprocessing Language Model BoW TFIDF Word EmbeddingliliExperience with NLP Preprocessing techniques BERT Reformer GPT2Generative PreTraining GLUE General Language Understanding Evaluation liliExperience in NLTK TensorFlow with NLPliulpbrppstrongCulture fitstrongppbrppstrongMstrongotivated On a quest to be the best We work best with people who are driven and resourceful Are you the sort of person that will independently find interesting and useful things to do ppbrppstrongIstrongnnovative Were a creative group introducing new ideas are you open to learningppbrppstrongNstrongurturing We embrace diversity that everyone brings to the table we believe in the whole self approach to inspire creativity and shape innovation ppbrppstrongDstrongedicated Were committed to making a positive impact on those we meet We inspire to provide a rewarding supportive and exciting experience for all Are you ready for a new adventureppp",
+    "employment_type": "TEMPORARY",
+    "date_posted": "2021-07-30T00:26:45.000Z"
+  },
+  "company": {
+    "name": "LooperRoom, Inc.",
+    "link": "https://www.linkedin.com/company/looperroom-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Newport Beach",
+    "region": "CA",
+    "postal_code": "92661",
+    "street_address": null,
+    "latitude": 33.60877,
+    "longitude": -117.87336
+  }
+}

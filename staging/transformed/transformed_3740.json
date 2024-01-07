@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": " Duties and ResponsibilitiesbrbrbrDesign Develop and own scalable Cloud Data PipelinebrDesign and Develop scalable micro servicesbrWrite great quality maintainable code following best practicesbrApply analytical skills to solving complex financial problemsbrDevelop ETL pipeline to extract data from multiple cloud sourcesbrDevelop efficient data model for storing timeseries databrbrbr Skill RequirementsbrbrbrExperience with programming languages like Python and JavabrExperience with  Elasticsearch Apache Solr Apache Druid etcbrExperience with NoSQL databases like Cassandra DynamoDBbrExperience working with SQL and SQL databases like MySQL Postgres etcbrExperience with Stream Data Processing tools like Kafka Airflow Apache SparkbrStrong analytic skillsbrDevelopment experience with Unix tools and scriptsbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T22:04:01.000Z"
+  },
+  "company": {
+    "name": "Usage AI",
+    "link": "https://www.linkedin.com/company/usage-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York City Metropolitan Area",
+    "region": null,
+    "postal_code": "10021",
+    "street_address": null,
+    "latitude": 40.748295,
+    "longitude": -73.98556
+  }
+}

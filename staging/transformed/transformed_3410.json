@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software,Information Technology and Services",
+    "description": "pstrongRESPONSIBILITIESstrongpulliWork with leaders from Data Science Product and Engineering to solve customer challenges with advanced data analysis and machine learningliliPartner with software engineering to deliver automated optimized pipeline for production productsliliWrite scalable Python code in a cloud environmentliliOptimize code for large data setsliliIdentify innovative ways to optimize the application development processliulpbrppstrongQUALIFICATIONS FOR THIS JOBstrongpulliBachelors Masters or PhD in a quantitative field such as Statistics Computer Science Economics or Mathematicslili3 to 5 years of industry experience in predictive modeling data science and analysisliliStrong expertise in Python SQL and related data science toolsliliExperience with Google Cloud amp AI platformliliKnowledge of Git or other version control toolsliliFamiliarity with APIsliliExperience in insurance or financial services is a plusliliStrong analytical and problemsolving skills with an exploratory curious mindsetliliRelevant successful professional industry experienceliulpp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T21:40:45.000Z"
+  },
+  "company": {
+    "name": "Quest Groups LLC",
+    "link": "https://www.linkedin.com/company/quest-groups"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "Texas Metropolitan Area",
+    "postal_code": "78723",
+    "street_address": null,
+    "latitude": 30.276316,
+    "longitude": -97.70931
+  }
+}

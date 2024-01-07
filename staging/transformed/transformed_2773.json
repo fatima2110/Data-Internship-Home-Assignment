@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "pstrongJob Title  Machine LearningML Engineerstrongppstrong  Duration  12 Monthsstrongnbsppp  strongLocation  Full Remotestrongppstrong  strongnbspppstrongDescriptionstrongpulliCollaborates with ML engineers and other senior architects for ML model onboarding deployment Testability and availability for internal clientsliliWrite automate and execute performance and load running test scripts to measure latency and throughput of ML backend microservices at the edgegateway withwithout cacheliliHelp analyze and troubleshoot performance bottlenecks at edgegateway and ML backend microservices liliCreate client integration scriptsample code for internal clients to integrate with gateway serviceliliExperience with programming in Java lili35 years of experience in RESTful APIs and distributed systems using Spring frameworks Spring bootnbspliliExperience with Docker and Kubernetes liliExperience writing test automation suites using JUnit and Mockito liliFamiliarity with performance testing write automate and execute performance scripts liliExperience with CICD Proficiency in Jira Wiki git GitHub and Postman and SOAPUI Proficiency in JSON SQL and regular expressions liliFamiliarity with agile software development lifecycle liliExcellent written and verbal communication skills Experience working with multiple stakeholders to produce and review documentationliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T23:17:01.000Z"
+  },
+  "company": {
+    "name": "Aditi Consulting",
+    "link": "https://www.linkedin.com/company/aditiconsulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

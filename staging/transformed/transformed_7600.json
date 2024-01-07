@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "pstrongWed love to hear from you if you are looking for a tech company with the followingstrongpullistrongHuge marketstrongnbsp800 billion market size we are building the first AIpowered super app to help people own a carliliOpenstrongnbsptransparentstrongnbspmeritbased cultureliliHyper growth nbspstrong10X strongrevenue growth in 2020liliBest user experiencestrongnbsp1 ranked appstrongnbspin the insurance comparison categoryliliStrong leadership from Amazon Microsoft Facebook Nvidia Alibaba etc and rockstar colleaguesliliA series C withnbspstrong130Mnbsptotal financingstrong backed by top VCs such as YCombinator Goodwater SV Angel Funders Club and Bow Capital etcliulpbrppstrongAbout jerryaistrongppJerry is the first Super App for car owners to help them save money on all their car expenses insurance loans repairs etc Having builtnbspthenbsp1 ranked appnbspandnbspthe fastest growing appnbspin the insurance comparison category we are tackling other areas of car ownership and looking for engineering talents to join us in expanding our product offerings Headquartered in Silicon Valley CA we have offices in the US China and CanadappbrppstrongA few examples of the exciting projects that we are working onstrongpulliCreate a smart prediction engine for customers insurance coverage needsliliBuild predictive models on customer purchase behavior based on a large data setliliUse telematics tracking to build customer driving risk profileliulpbrppstrongResponsibilitiesstrongpulliAnalyze large amounts of data to discover trends and patterns solve a wide array of challenging problems using different analytical and statistical approachesliliApply technical expertise with quantitative analysis experimentation data mining and the presentation of data to develop strategies for our productsliliIdentify and measure success of product efforts through goal setting forecasting and monitoring of key product metrics to understand trendsliliPartner with relevant teams eg product engineering and marketing to build better models solve problems and identify trends and opportunities from both a market and user perspectiveliliSQL and MapReduce job tuning to improve data processing performanceliulpbrppstrongRequirementsstrongpulliBachelorsMasters Degree with 4 years or PhD with 2 years of experience working within an analytical roleliliStrong SQL skills Able to write algorithms needed for modeling and prediction that deals with advanced data structuresliliExperience solving analytical problems using quantitative approachesliliFollow Data Science literature and advancements The most successful candidates possess the ability to apply cutting edge advancements in data science methodologies to relevant business problemsliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:24:17.000Z"
+  },
+  "company": {
+    "name": "Jerry",
+    "link": "https://www.linkedin.com/company/jerryinc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

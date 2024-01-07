@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer In Test",
+    "industry": "Logistics and Supply Chain",
+    "description": "pstrongJob TitlestrongnbspnbspSoftware Engineer in TestppbrppstrongLocationstrongnbspAlpharetta Georgia FlexibleHybridppstrongIndustrystrongnbspSupply ChainppstrongTermsstrongnbspPermanentppstrongRequirementsstrongnbspJavascriptppstrongPreferredstrongnbsppulliemJest or JasminnbspemliliemChai for assertionsemliliemTypescript or JavaScriptnbspemliliemVisual Studio Code editoremliulpbrppstronguSDET Job SummaryustronguuppOur client is looking for a strong Software Development Engineer in Test to join its Quality Assurance team This will be a vital role to the team and the candidate must be selfdriven motivated and passionate about tackling their next challenge This role will report to the VP of Solutions and Quality and will have autonomy and decision making responsibilitiesnbspppbrppstrongSDET Job ResponsibilitiesstrongpulliParticipate in requirement meetings and projectrelated meetings to gain a thorough understanding of project goals and objectivesliliAnalyze project requirements identifying gaps and ensuring acceptability for test case creationliliOwn and develop automated testing tools for our omnichannel suite of solutionsliliUtilize automated testing tools for the RESTFUL service tied to marketplace integrationsliliIdentify specific use cases tied to the individual marketplaces and assist in testing those manually as needed while working on the longerterm automated solutionliliDevelop automated acceptance and unit test for the agile teamliliWork with Jenkins and CI tools to automate development building deployment and testingliliBe a part of the Scrum team and work closely with product owners to understand the requirementsliliAnalyze test results from a technical standpoint and provide detailed analysis to technology teamliliTest related support for production issue troubleshooting in collaboration with DevliliDevelop all test artifacts required as part of the QA deliverables such as test plans test scripts strategy RTM documents etcliulpbrppstrongSDET Job RequirementsstrongpulliFouryear degree in Computer ScienceEngineering preferredlili2 years experience in software quality testinglilinbsp2 years of Agile Experiencelili3 years Java Experience preferredliliExperience in integration platforms preferredliliDetailed knowledge of all aspects of the Software Development Life Cycle including requirements gathering design and testing with experience using current testing methodologies and toolliliWorking knowledge on JSON and XML messagingliliExperience with Atlassian tools like JIRA Confluence and etcliliExperience developing in agile amp with CI tools like GitHubliliRelational database understanding with the ability to query MySQL database to verify the test resultsliliExposureworking knowledge with Restful automation tools  JMeterSoapUIOtherliliKnowledge and understanding of at least one OOP language scripting language a plusliliAbility to work independently and with a team in a fastpaced and dynamic company environment under tight deadlinesliliExcellent analytical and organizational skills with the ability to multitask on multiple projects at one timeliliStrong individual initiative and ownership of projects and quality testing tasksliulpPlusnbsppulliJest or JasminliliChai for assertionsliliTypescript or JavaScriptnbspliliVisual Studio Code editorliulpbrppstronguJob Key WordsustronguupulliSDET Software Engineer in Test QA JavascriptliulpbrppstrongFrequently Asked QuestionsstrongpullistrongBenefitsstrongnbspYes provided the clientlilistrongRemote WorkersstrongnbspAllows for 23 days per week remotenbsplilistrongVisa SponsorshipstrongnbspNot offerednbsplilistrongCorptoCorpstrongnbspNot eligiblenbspliulpbrppstrongHow to ApplystrongppFor immediate attention please apply onlineppp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T20:21:42.000Z"
+  },
+  "company": {
+    "name": "ettain group",
+    "link": "https://www.linkedin.com/company/ettain-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Alpharetta",
+    "region": "GA",
+    "postal_code": "30022",
+    "street_address": null,
+    "latitude": 34.075615,
+    "longitude": -84.29455
+  }
+}

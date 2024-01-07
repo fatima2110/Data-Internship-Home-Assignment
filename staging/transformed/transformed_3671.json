@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Retail",
+    "description": "pstrongReports to strongPrinciple Data Scientist NuulyppnbspppstrongWhat is NuulystrongppnbspppUrban Outfitters Inc NASDAQ URBN wwwurbncom is a Fortune 1000 company with 35 Billion in revenues offering lifestyle merchandise to highly defined customer niches through brands including Urban Outfitters Anthropologie Free People Terrain BHLDN and Nuuly Nuuly is the newest brand under the URBN umbrella focusing on circular fashion and offering a subscription rental experience for womens apparel At Nuuly we pride ourselves on a relaxed office culture including flexible work from home and campus perks including a gym When in the office our employees enjoy our beautiful dogfriendly workplace at the Philadelphia Navy YardppbrppstrongWhat is Nuuly Data SciencestrongppbrppThe Nuuly Data Science team is part of the larger URBN Data Science organization and is responsible for the Data Science Machine Learning Analytics and Reporting functions at Nuuly Our expertise spans project management machine learning software engineering data engineering and analytics Unlike most Data Science organizations our team is a fullservice Machine Learning solution provider taking projects from ideation and requirements through deployment of production services We work closely with the Engineering organization on a very wide range of projects including an inhouse onsite personalization system dynamic pricing and a warehouse optimization system for our fulfilment center in Bristol PAnbspppbrppstrongWhat is the Data Scientist rolestrongppbrppAs a rapidly growing brand Nuuly has a broad array of fresh business campaigns that you will have the opportunity to help shape and execute Nuuly is driven by a stateoftheart Kafkabased streaming data platform which provides unfettered access to data both in realtime and offline This enables the Data Science team to flexibly iterate on prototypes and seamlessly integrate new capabilities You will design build evaluate and support deployment of machine learning models and systems This includes working closely with other data scientists ML engineers and data engineers to performppbrpullistrongML Modeling strongEvaluate and build statistical and machine learning models with an emphasis on business impact and timetoproduction Approaches span from basic regressions to advanced neural networkslilistrongAnalysisstrong Support opportunities to add value to the business through application of statistical and ML techniques Quantify the impact of those opportunities and communicate the outcome to peers and leaderslilistrongML Deployment strongSupport Nuuly ML engineers in deploying data science algorithms in production This includes containerizing algorithm training and inference workflows building data pipelines and monitoring alreadydeployed ML systemsliulpbrppstrongDesired skillsexperiencestrongppbrpulliExperience with pythonliliML tools TensorFlow pyTorch scikit learn Jupyter Notebooks etcliliUnderstanding of fundamental Machine Learning concepts including experience with traindevtest sets overfitting scoring metrics etcliulpbrppstrongOpportunities to learn with the teamstrongppbrpulliExperience using ML approaches on realworld applicationsliliContainerization DockerliliCloud platforms Google Cloud Platform Amazon Web Services Microsoft AzurenbspetcliliCloud infrastructure Virtual Machines Cloud Storage IAM etcliliPerformance evaluation of deployed customerfacing applications and ML modelsliliData or ML orchestration frameworks KubeFlow MLflow Airflow etcliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T12:56:35.000Z"
+  },
+  "company": {
+    "name": "Nuuly",
+    "link": "https://www.linkedin.com/company/nuuly"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Philadelphia",
+    "region": "PA",
+    "postal_code": "08051",
+    "street_address": null,
+    "latitude": 39.95106,
+    "longitude": -75.16562
+  }
+}

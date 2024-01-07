@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist (Open to Remote)",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "stronguCompany DescriptionbrbrustrongstrongAbout us but well be briefbrbrstrongWe are thrilled to share thatstrong FORTUNE has named Experian one of the 100 Best Companies to Work For strongIn addition for the last five years weve been name in the top strong100 Worlds Most Innovative Companies by Forbes MagazinebrbrstrongExperian DataLabs is a RampD unit at Experian formed with the desire to work in collaboration with Experians business units to enhance relationships with clients and acquire strategic datasets Experian is a global leader in providing information analytical tools and marketing services to organizations and consumers to help manage the risk and reward of commercial and financial decisions Using our comprehensive understanding of individuals markets and economies we help organizations find develop and manage customer relationships to make their businesses more profitablebrbrstronguJob DescriptionbrbrustrongstrongWhat youll be doingbrbrstrongstronguThe Key Job Functions IncludebrbrustrongYou will be part of Experian North America RampD DataLabs concentrating on research and development of novel analytical solutions new product prototyping as well as new data asset evaluation and acquisition This position requires extensive background and knowledge in deep learning and machine learningbrulliDevelop complex machine learningbased analytical solutions extracting insights from large amount of structured and unstructured data from diverse data sourcesliliIdentifydevelop appropriate machine learningdeep learningnatural language understandingnatural language processing techniques to uncover the value of the dataliliDesigning data structure and data storage schemes for efficient data manipulation and information retrievalliliDeveloping tools for data processing and information retrievalliliAnalyzing processing evaluating and documenting large data setsliliApplying developing and inventing algorithms to solve challenging business problemsliliValidating score performance and conducting ROI and benefit analysisliliDocumenting and presenting model process and model performancebrliulstronguQualificationsbrbrustrongstrongWhat your background looks likebrstrongulliAdvanced degree in Machine Learning Data Science AI Computer Science Computer Engineering Electrical Engineering Physics Statistics Applied Math or other quantitative fieldslili06 years of working experience in data science andor predictive modelingliliDemonstrated ability to lead and execute projects from start to finishliliAbility to independently support existing productsliliProven track record in modifying and applying advanced algorithms to address practical problemsliliExperience in deep learning CNN RNN LSTM attention models etc machine learning SVM GLM boosting random forest etc graph models andor reinforcement learningliliExperience with generative modeling techniques such as GANliliExperience with open source tools for deep learning and machine learning technology such as pytorch Keras tensorflow scikitlearn pandas etcliliProven ability to work independently on development of complex models with extremely large and complex data structuresliliProficient in more than one of Python R Java C or CliliExperience in large data analysis using Spark pySpark preferredliliRobust knowledge and experience with statistical methodsliliPlussesliliExperience with Natural Language Processing Natural Language Understanding and the relevant opensource toolsliliExperience in developing modifying and experimenting advanced language modelsliliExperience in developingapplyingevaluating conversational AI technologyliliExtensive knowledge of SQLliliExperience with Hadoop and NoSQL related technologies such as Map Reduce Hive HBase mongoDB Cassandra etcliliExperience with online mobile marketing analyticsliliExperience with GPU programmingliliSolid knowledge of Bayesian statistical inference and related machine learning methodsliliExperience with Agile methods for software developmentbrliulstrongPerksbrstrongulliDuring this pandemic all Experian employees are working remotely Once its safe to do so well slowly return to our offices however we are in no rush to do this The safety of our employees is of utmost importanceliliFour weeks of vacation to start five sick days and two volunteer days plus eleven paid holidaysliliCompetitive pay and comprehensive benefits package with a bonus target of 20liliFlexible work schedule and relaxed dress codebrliulstronguAdditional InformationbrbrustrongAll your information will be kept confidential according to EEO guidelinesbrbremExperian is proud to be an Equal Opportunity and Affirmative Action employer Our goal is to create a thriving inclusive and diverse team where people love their work and love working together We believe that diversity equity and inclusion is essential to our purpose of creating a better tomorrow We value the uniqueness of every individual and want you to bring your whole authentic self to work For us this is The Power of YOU and it ensures that we live what we believeem",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-23T06:39:50.000Z"
+  },
+  "company": {
+    "name": "Experian",
+    "link": "https://www.linkedin.com/company/experian"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "no requirements",
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

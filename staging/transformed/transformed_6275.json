@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "pRequirement Skillspp1 Developer role ML Model implementation experimentation amp related software engineering focusedpp2 Experience as a data scientist with a preference in forecasting algorithmspp3 Python PySparknbspdevelopment experience a mustppnbspnbspnbspnbspnbspnbspnbspVery good Python PySparknbspdevelopment experienceppnbspnbspnbspnbspnbspnbspnbspSoftware development experience ppnbspnbspnbspnbspnbspnbspnbspExperience as a data scientist with a preference in forecasting algorithmsppnbspnbspnbspnbspnbspnbspnbspnbspBS or MS degree is Software Engineering or Computer ScienceppnbspnbspnbspnbspnbspnbspnbspnbspAbility to learn fast and handle multiple prioritiesppnbspnbspnbspnbspnbspnbspnbspnbspDeveloper role ML Model implementation experimentation amp related software engineering focusedppnbspp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-26T16:03:42.000Z"
+  },
+  "company": {
+    "name": "InfoVision Inc.",
+    "link": "https://www.linkedin.com/company/infovision"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

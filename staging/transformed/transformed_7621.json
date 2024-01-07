@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Software Engineer",
+    "industry": "Consumer Goods,Health, Wellness and Fitness,Food Production",
+    "description": "pstrongAbout Daily HarvestnbspstrongppbrppDaily Harvest makes nourishing food built on fruits and vegetables accessible We do this by delivering thoughtfully sourced chefcrafted food to customers doorsteps all ready to enjoy in minutes Were on a mission to take care of food so food can take care of younbspnbspppbrppOur team is collaborative driven and futurethinkingnbspWere constantly learning experimenting and iterating and celebrate failure just as much as success We take risks try new things and we get things done We love adaptogens and cruciferous vegetables but never say no to cake Everything we do we do in the service of our communityppbrppstrongPosition OverviewstrongppbrppDaily Harvest is looking for a Staff Software Engineer to join our Engineering team The Engineering team focuses on architecting developing and delivering highly scalable and innovative software that meets the needs of the Daily Harvest business and our customersppbrppThe Staff Software Engineernbspwill lead the technical direction of our software stack be responsible for our most complex and impactful projects and act as a mentor for our engineers This role will be part of a dynamic environment working to transform our digital business all while collaborating crossfunctionally with multiple teamsnbspStaffnbspSoftware Engineers deliver results that move the needle at the organizational level and impact companywide goalsppbrppstrongWhat youll dostrongppbrpulliLead the planning and implementation of new or existing software features and architecture improvementsliliInspire and mentor the engineering team by providing technical advice instruction and trainingliliIdentify risk and present recommendations that drive the software engineering schedule and lead the effort in performing software improvements and upgradesnbspliliBe accountable for wellwritten code to enhance functionality andor performance of software applications and oversee software testing on new and existing programs for the purposes of correcting errors and general debuggingnbspliliCollaborate withnbspengineersnbspto develop and maintain code quality and architecture standardsliliWrite fullstack code and services architected for scalability and reuse Have strong opinions on code structure and modularizationnbspliliOperate in a scalable engineering culture that leverages modern principles of decoupled systems and automated CICD and monitoring platforms to drive efficienciesliliDrive the definition of software development project plans including scoping estimates and implementationliulpbrppstrongWho you arestrongppbrpulliEducation training or experience equivalent to a BS or higher eg MS or PhD in Computer Science or a related technical field involving coding eg physics or mathematicslili8 years of progressive experience with extensive knowledge in all aspects of application development and project lifecycleliliIdentify and solve ambiguous problems architecture deficiencies and bottlenecksliliExperienced with modern microservice architectures and serverside coding languages such as Python Java Ruby or CliliExperienced with modern database systems and cloudbased persistence technologiesliliExperience with at least one cloud services provider such as Google Cloud AWS or AzureliliExperienced with modern JS frameworks eg React AngularliliExcellent understanding and proven experience of coding methods and best practicesliliExperience leading design reviewsnbspliliExperience in interviewing and hiring engineersnbspliliExperience with system performance metric gathering softwareliulpbrppstrongBenefitsstrongppstrongspan classqlcursorspanstrongpulliRemote Work ProgramliliFlexible timeoff policy  flexible working hours Unlimited PTO PlanliliCompetitive medical dental and vision benefits 401K  equity participationnbspliliAncillary benefits Commuter Gym membership  Citi Bike discountsliliAccess to everything we make including recipes in developmentliliAnnual company retreatliliUnlimited Daily Harvest in the office to keep you hustling not hangry  cold brew always stockedliliQuarterly team outings weekly onsite happy hours  regular DH team gatherings to celebrate our coworkersliliBook club  running clubliliShowers for postmorning or midworkday workoutsliliA dynamic ambitious and fun work environment  dog friendlyliulpbrppemAt Daily Harvest our mission is to take care of food so that food can take care of you And it wouldnt be possible without our team We celebrate the unique POV that each person brings to the table and believe in a collaborative and inclusive environment As an equal opportunity employer we prohibit any unlawful discrimination on the basis of race color religion military or veteran status sex gender gender identity or expression sexual orientation national origin age disability or genetic information These are our guiding principles and apply across all aspects of employmentemp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:37:31.000Z"
+  },
+  "company": {
+    "name": "Daily Harvest",
+    "link": "https://www.linkedin.com/company/daily-harvest"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

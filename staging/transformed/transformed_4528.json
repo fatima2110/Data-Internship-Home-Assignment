@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "pstrongRequired skillsstrongpulli8 years of handson experience programming in JavaliliMust be passionate about software development and delivering great workliliExperience with Spring FrameworkliliStrong understanding of OOP design patterns clean code and SOA architectureliliExperience with RESTful APIs and distributed systemsliliIdeally looking for a Lead developer who has experience in leading projectsmaking architectural decisions for the development projectsliulpbrppstrongspan classqlcursorspanTop skillsstrongpulliJava and Spring is mustliliRestful APIliliDesign patterns design principles strong understanding of OOPliulpbrp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-18T15:52:29.000Z"
+  },
+  "company": {
+    "name": "Akraya, Inc.",
+    "link": "https://www.linkedin.com/company/akraya-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

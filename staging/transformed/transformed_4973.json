@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Full Stack Software Engineer (.NET)",
+    "industry": "Information Technology and Services",
+    "description": "pstrongOwn and build solutions for eCommerce applicationsstrongppbrppnbspnbspnbspnbspnbspnbspnbspBuild complex solutions from the ground up using the latest web technologiesppnbspnbspnbspnbspnbspnbspnbspDevelop new userfacing features using cuttingedge technologiesppnbspnbspnbspnbspnbspnbspnbspCollaborate with a diverse team of designers developers and engineersppnbspnbspnbspnbspnbspnbspnbspImplement web design principles and standards to ensure our sites renders well across multiple devicesnbspppnbspnbspnbspnbspnbspnbspnbspTranslate designs and wireframes into high quality codeppnbspnbspnbspnbspnbspnbspnbspWorking in a dynamic agile team environment developing awesome new frontend applicationsnbspppnbspnbspnbspnbspnbspnbspnbspInnovating new ideas to evolve our applications and processesnbspppnbspnbspnbspnbspnbspnbspnbspLeadcontribute to engineering efforts from design to implementation solving complex technical challenges around developer and engineering productivity and velocityppnbspnbspnbspnbspnbspnbspnbspBuild and ensure our code artifacts are building in Continuous Integration CI fashion and we soon realize our dream of Continuous Delivery CDppnbspppstrongnbspWhat you bring to the rolestrongppbrppnbspnbspnbspnbspnbspnbspnbspEducation Bachelors degree in Computer Science or Relevant Science and Math disciplines with an IT emphasis is requiredppnbspnbspnbspnbspnbspnbspnbsp10 years of relevant technical experience with at least 5 years building Front End Solutions in eCommerce or Masters degree plus 6 years of relevant experienceppnbspnbspnbspnbspnbspnbspnbspDeep handson experience with Frontend technologies JSON HTML CSS and CSS preprocessing frameworks Sass Less or Stylus JavaScript JavaScript libraries Jquery or Web Components and other industry standard frameworksppnbspnbspnbspnbspnbspnbspnbspHandson experience in developing frontend solutionsppnbspnbspnbspnbspnbspnbspnbspHigh proficiency in React JQuery Angular 2 JS Bootstrap and Knockout JSppnbspnbspnbspnbspnbspnbspnbspDeep handson experience with NET Web development experience with C NET4x  MVCppnbspnbspnbspnbspnbspnbspnbspStrong background in MS SQL Server SQL Databases and writing SQL stored proceduresppnbspnbspnbspnbspnbspnbspnbspIndepth understanding of the entire web development process design development and deploymentppnbspnbspnbspnbspnbspnbspnbspUnderstanding of layout aestheticsppnbspnbspnbspnbspnbspnbspnbspExtensive experience with front end frameworks such as ASPNet MVC React Angular Vue or EmberppnbspnbspnbspnbspnbspnbspnbspGood understanding of asynchronous request handling AJAXppnbspnbspnbspnbspnbspnbspnbspExperience with RESTful APIs and MicroServicesppnbspnbspnbspnbspnbspnbspnbspExperience with unit testing libraries such as Mocha Jest Chai EnzymeppnbspnbspnbspnbspnbspnbspnbspExperience with code versioning tools TFS git and processppnbspnbspnbspnbspnbspnbspnbspKnowledge of SEO principlesppnbspnbspnbspnbspnbspnbspnbspStrong interpersonal skillsnbspppnbspnbspnbspnbspnbspnbspnbspStrong ability to collaborate and work across teams and disciplinesnbspppnbspnbspnbspnbspnbspnbspnbspStrong software design and test methodology knowledge and abilitiesnbspppnbspnbspnbspnbspnbspnbspnbspAbility to communicate clearly and concisely both verbally and in written formsnbspppnbspnbspnbspnbspnbspnbspnbspAbility to understand and analyze complex problems and break them into small solvable piecesppnbspnbspnbspnbspnbspnbspnbspAbility to learn new tools frameworks technologies and platforms required experiencenbspppnbspp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-20T22:54:42.000Z"
+  },
+  "company": {
+    "name": "Numentica LLC",
+    "link": "https://www.linkedin.com/company/numentica-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irvine",
+    "region": "CA",
+    "postal_code": "92717",
+    "street_address": null,
+    "latitude": 33.68591,
+    "longitude": -117.82472
+  }
+}

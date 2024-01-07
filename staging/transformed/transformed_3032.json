@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Our technology teams at Zest AI thrive on solving challenging problems that have a big impact on peoples daily lives We build tools to improve consumer lending by meeting the needs of financial institutions and their customers around the world By leveraging a combination of machine learning and vast amounts of data we seek to challenge traditional credit scoring models while expanding the use of our proprietary technology across the fintech industry Our team is committed to continuously leveraging and adapting the latest advances in AIML to benefit those we servebrbrMachine Learning Engineers at Zest AI build software that enables our customers to quickly create adopt and operate machine learning models in production For example some work might be focused on scale automating model buildsdeployments while other work might be addressing a specific capability better model power clearer model explainability more desirable fairer model alternativesbrbrstrong In This Role You Will brstrongulliCreate experiments and develop prototypes with the goal of developing robust and efficient productionready softwareliliCollaborate with product management and engineering departments to understand company needs and devise MLAIpowered solutionsliliBuild tools that will increase the productivity of teams leveraging the MLAIbased systemsliliBuild demos guidance documentation and assist with training to help increase proficiency for our internalexternal customersliliTest and apply cuttingedge MLAI research to develop new and improved products processes or technologiesbrbrliulstrong We Are Looking For brstrongulliBS MS or PhD in a quantitative field Computer Science Engineering Physics etc with demonstrated use of ML techniques  MS and PhD preferredliliStrong fundamentals in programming statistics mathematics and ML algorithms neural networks treebased methods optimizers superunsupervised learning feature engineering etc  experience with Python strongly preferredliliFamiliar with MLAI frameworks TensorFlow XGBoost Scikitlearn etc and modularmodern software design practicesliliGood development practicesability regarding memory disk IO and CPUGPU managementliliHistory of research publications andor implementations of state of the art techniques  preferably viewable through open source channels arXiv GitHub etcliliPassionate about MLAI and how it can improve on the worldbrbrliulstrong Perks And Benefits brstrongulliRobust healthcare plans matching 401K and unlimited vacation timeliliWeekly companywide all hands meetings liliVirtual weekly happy hours sometimes casual and other times with a focus around topics like racial discrimination and LGBTQ historyliliEmployee care packages to make WFH more enjoyablebrbrliulstrong About Zest AI brbrstrongZest AI has been perfecting AI for consumer lending decisions since 2009 Our Model Management System helps lenders make better decisions and better loansincreasing revenue reducing risk and automating compliance Our mission is to make fair and transparent credit available to everyone and our software creates some of the most inclusive risk models in the industry Using Zestbuilt machine learning software financial institutions can dramatically expand credit access to deserving people with no added risk Learn more at Zestai and connect with us on Twitter ZestAI or our Insights blogbrbrZest is committed to diversity equity and inclusion and encourages professionals from underrepresented groups in technology and financial services to applybrbrPlease review our CCPA Policy with regard to applicant and employee personal information here",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-25T17:03:57.000Z"
+  },
+  "company": {
+    "name": "Zest AI",
+    "link": "https://www.linkedin.com/company/zest-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Burbank",
+    "region": "CA",
+    "postal_code": "91504",
+    "street_address": null,
+    "latitude": 34.182053,
+    "longitude": -118.30747
+  }
+}

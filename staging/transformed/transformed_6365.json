@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "pstrongData ScientiststrongppstrongLocationstrong Bellevue WA mostly remote workppstrongContractstrong 10 month contract with potential to extendppstrongBenefits strong3 weeks of PTO annuallyppstrongPay Ratestrong 50hr on W2ppbrppstrongDRI tickets 1025 a week amp Experimentation supportstrongpulliRespond to tickets flag if need to be raised to EXP or guide teams Typical issuesliliDebug why scorecards arent running late build interesting slices etcliliHow to analyze a scorecard needs ramp up with DSDevliulpbrppstrongExperimentation healthstrongpulliBuild back P0 auto shut down reporting  no reports today to see scorecard delaysliliMetrics and templates clean up to reduce load on COSMOS where unnecessaryliliMake sure metrics have updated descriptionsliliMonitor and remove certain repeat scorecards as needed liliTriage new metric additions  MG changes to follow best practices description use cache etc include DSDevliulpbrppstrongDashboardstrongpulliMonitor platform experimentation healthliliEnsure updates are done at least weekly for syncsliliUpdates to dashboard for new dataliulpbrppstrongExperiment programstrongpulliArrange and or share exp brownbags and remind  rally folks experimentsliliMaintain a FAQs  WikiliulpbrppstrongCommunicationstrongpulliShare monthly updates on health top changes top asks top questions offline or office hrsliliShare live sites via emails  bannersliliUpdate banners in exp or tools etcliliUpdate or follow up on tooling messages to give selfserve directions gt propose fixessolutionsliliOffice hours support  Host it Pull experts Gather questions and follow ups answer frequent onesliulpbrppstrongRequired QualificationstrongpulliSQL Python basic codingscripting skillsliliDashboarding  PowerBI or TableauliliExcellent communication and partnerships skillsliliProblem solving skillslili6mo AB Experimentation amp TestingliliData Science experienceliulpbrppstrongPreferred QualificationstrongpulliOperations or Technical support handling experienceliliC family language programming experienceliliMS data stack experience like CosmosSCOPEliul",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-26T17:01:46.000Z"
+  },
+  "company": {
+    "name": "Apex Systems",
+    "link": "https://www.linkedin.com/company/apex-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellevue",
+    "region": "WA",
+    "postal_code": "98007",
+    "street_address": null,
+    "latitude": 47.6137,
+    "longitude": -122.19093
+  }
+}

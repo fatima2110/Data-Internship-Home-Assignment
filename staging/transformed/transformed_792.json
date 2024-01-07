@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "pstrongLimeLoopnbspstrongppLimeLoop is the IOT solution for sustainable ecommerce logistics What does that mean Weve developed reusable packages that can be used over 200 times and are pairing it with a digital platform consisting of a software management system and IOT driven hardware sensor Think goodbye singleuse boxes piling up at our door hello smart package of the futureppbrppstrongThe RolestrongppJoin us as we reimagine the ecommerce experience We are seeking a Software Engineer to execute against a number of key tasks for our web and mobilebased appsnbspppbrppstrongSo how will you spend your daysstrongppYoull be one of our first hires of a fastgrowing team There are fundamental technical and architectural decisions to make There are key user experiences to develop iterate and innovate on There are best practices to solidify Youll be building a product and youll be establishing the foundation for a worldclass engineering departmentnbspppbrppstrongThe StackstrongpulliReactliliNodeJS ExpressjsliliMongoDBliulpbrppstrongWho are youstrongpulliCare deeply about UX  User experience is at the forefront of how we create intuitive innovative and beautiful products that people love We strive to learn and understand our users needs behaviors and emotions to gather insights that inform product strategy and designliliAn insightful problem solver capable of autonomously defining and executing on a technical vision but eager to collaborate on itliliExcited to join an earlystage startup and cleareyed about the scrappiness flexibility and resilience that it requiresliulpbrppstrongWhat do you knowstrongpulliFrontend expertise Deep proficiency with at least one modern frontend framework including interaction design animation and performance optimizationliliJavaScript expertise An expert in the ins and outs of the language Having strong opinions loosely held on best practices and design patternsliliAlthough we know that years of experience isnt always the best indicator of talent at least 5 years of focused Javascript experience is what we imagine JS has changed a lot over the years and you should have some historical knowledge of past versions of JSliulpbrppWe understand that sometimes the best engineers arent the ones who check all the boxes We also value and support individual growth which means not knowing something isnt as important as your ability and willingness to learn it If you answer yes to the majority of the skills and traits above and youre excited to develop the others then youre someone wed love to talk withppbrppstrongCompensationstrongppThis is a remote role with salary  equity  benefit compensationp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T18:45:10.000Z"
+  },
+  "company": {
+    "name": "LimeLoop",
+    "link": "https://www.linkedin.com/company/limeloop"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

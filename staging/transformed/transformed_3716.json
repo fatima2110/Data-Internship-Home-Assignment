@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - New Grad",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "stronguAbout RipplingbrbrustrongRippling is the first way for businesses to manage their HR amp IT  from payroll and benefits to employee computers and apps  all in one modern systembrbrIn just 90seconds a company can set up or disable an employees payroll health insurance work computer and thirdparty apps like Gmail Microsoft Office and Slack Its the only platform that truly unifies every employee system and automates all of the administrative workbrbrRippling is headquartered in San Francisco and has raised over 200M from toptier investors including Founders Fund Greenoaks Capital Coatue Management Kleiner Perkins and YCombinatorbrbrstronguAbout Our TeamsbrbrustrongstrongDevice TeambrbrstrongThe Device Management product enables IT admins to secure and manage company devices and data effortlessly When a customer hires a new employee Rippling ships them a laptop that is preconfigured with the new employees user account all of the companys security settings and any software the new employee needs This makes onboarding easy for new hires and saves hours of an IT admins time Our device management team is building out an entire product vertical that competes against multibillion dollar incumbents like Jamf  and by building our device management product on top of an employee system of record were able to build better automation and outcompete those standalone device management productsbrbrThe tech stack on the device management team is broader than most other teams within Rippling In addition to fullstack web development in Python and Javascript the device team also runs Chef and Ruby on managed devices with a lot of Bash and Powershell to interact with the OS and infrastructure to manage clusters of devices across Linux Mac and WindowsbrbrstrongIdentity TeambrbrstrongOur Identity product automates the management of employee accounts in 400 cloud services When one of our customers hires an employee our system automatically creates the employees accounts in G Suite Slack Dropbox GitHub AWS etc adds the user to the right groups and permissions and allows the employee to sign in to those services using SAML or RPass  Ripplings endtoend encrypted password manager We work closely with our integration partners and our business development team to build new integrations manage our existing partnerships and most importantly build an integration ecosystem that is a key long term moat for Ripplings businessbrbrstrongHRIS TeambrbrstrongThe Human Resource Information Systemsstrong strongHRIS team is responsible for building products for employee lifecycle management employee experience management compliance management documents management and talent management Each product as a standalone is part of a multibillion dollar marketbrbrEngineers working on this team will get to develop products that are used by Rippling customers and internal engineering teams they will work on scaling the existing products help in reducing latency and in making the products more securebrbrstrongPlatform TeambrbrstrongThe platform team builds both the product and technology foundations of Rippling Were responsible for the core service framework permissioning and any other core technologies needed to write backend code at RipplingbrbrWere also responsible for core product platforms like data reporting products workflows search and RQL Rippling Query Language which are both external and internal facing Projects like our workflow product allows company admins to define bespoke action and triggers to customize their Rippling ecosystembrbrstronguAbout The RolebrbrustrongWe are looking for highly motivated upcoming grads or recent grads to join our team You will have an opportunity to enjoy our fast paced and innovative environment You will get the opportunity to build products and features that fulfill our mission free smart people to work on hard problemsbrbrstronguWhat Youll DobrustrongulliDevelop high quality software with attention to detailliliDesign develop code and test software systems improvements products and userfacing experiencesliliWork alongside software architects and senior developers doing stateoftheart development workliliContribute to product design and implementation discussionsliliFind and build unique solutions to implement projects from the idea phase to productionliliConnect with peers new teammates and colleagues from across the business liliBecome the inhouse expert on Rippling customers and competitionbrliulstronguQualificationsbrustrongulliYou have recently graduated in May 2021 or will be graduating in 2022 with a Bachelors Masters or PhD in Computer Science or related fieldliliKnowledge of algorithms data structures and systems architecture liliYou care about product ownership and solving problems for our customersliliYoure passionate about being in a product focused environment where everyone cares deeply about customer impactbrliulstrongEven if you dont meet all of the requirements listed here we still encourage you to apply Skills can be used in lots of different ways and your life and professional experience may be relevant beyond what a list of requirements will capturebrbrstrongemstrongRippling is an equal opportunity employerstrongem",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T00:20:54.000Z"
+  },
+  "company": {
+    "name": "Rippling",
+    "link": "https://www.linkedin.com/company/rippling"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

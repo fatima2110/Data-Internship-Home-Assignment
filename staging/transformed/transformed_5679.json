@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead Site Reliability Engineer (Remote till Covid)",
+    "industry": "",
+    "description": "pstronguJob DescriptionustrongppAn experienced at least 15 years SRE Lead to work on a critical project for one of our biggest clients in the banking domain The Individual should be passionate about technology experienced in developing and managing cutting edge technology applicationsppstrongTechnical SkillsstrongppnbspnbspnbspnbspnbspnbspnbspConduct assessments model reliability for transaction flowsppnbspnbspnbspnbspnbspnbspnbspDesign Architecture for high availability  reliabilityppnbspnbspnbspnbspnbspnbspnbspTroubleshooting availability issuesppnbspnbspnbspnbspnbspnbspnbspSkills pulliTechnical Architecture Performance Engineering  Reliability Engineering SMElili15 years overall experienceliliLateralPeer leadership skillsliliExperience in production management performance engineeringliliExperience with implementing monitoring using AppDynamics  DataDog  Prometheusliullibrli",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-23T13:58:33.000Z"
+  },
+  "company": {
+    "name": "KTek Resourcing",
+    "link": "https://www.linkedin.com/company/ktekresourcing.com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 180,
+    "seniority_level": "Lead"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

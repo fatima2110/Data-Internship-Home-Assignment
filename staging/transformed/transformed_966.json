@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Quality Assurance / Test",
+    "industry": "Electrical/Electronic Manufacturing,Information Technology and Services,Computer Software",
+    "description": "stronguDescriptionbrbrustrongOpen Systems International Inc OSI wwwosiicom is a fastpaced growing high technology company headquartered in Medina Minnesota As a world leader in the Operations Technology OT field OSI develops and supplies stateoftheart energy management optimization and control software solutions to energy utility companies worldwidebrbrstronguIn This Position You Will Have The Following ResponsibilitiesbrbrustrongIn this position you will focus on system verification of software produced by our Development group using manual and automated testing All of this is done using the latest technologies in a fastpaced collaborative environment at our forwardlooking company Specific onthejob training will be providedbrulliUse manual and automated test procedures to identify highimpact problemsliliAssist in the creation and execution of resolution plansliliAuthor execute and maintain test procedures automated test scripts and codeliliDesign develop implement and improve various test methodologies plans and test automationliliReview defect descriptions requirements and designs to incorporate into test plansliliMaintain customer test environments to replicate realworld test scenariosbrliulstronguRequirementsbrbrustrongstrongMinimumbrstrongulliBachelors degree in Computer Science Software Engineering or related technical fieldliliProficient with Linux Windows UNIX environmentsliliSystem Administration experience small system or personal networks is okayliliUnderstanding of manual and automated testing best practicesliliHigh level scripting skills Python Perl Shell scriptingliliUnderstanding of Configuration ManagementliliProficient in a source control system CVS Subversion Git etcliliInnate desires to automate monitor and continually improve everything in sightbrliulstronguPreferredbrustrongulliMasters degree in Computer Science Software Engineering or related technical fieldliliExperience with different database technologies SQL Cassandra MongoDBliliKnowledge of tool building and automationliliCapability to maintain WindowsLinuxUNIX ServersliliExperience in server virtualization especially VMWare and VSphereliliGeneral networking skills Layer 2 amp 3 switches TCPIP SNMP etcbrliulstronguBenefitsbrbrustrongOSI offers a comprehensive benefit package including health dental life and disability insurance 401k matching bonuses profit sharing and a generous amount of paid time off and paid holidays Additional perks include casual dress code flexible work hours free beverages employee events onsite fitness center exciting travel opportunities employee referral bonus programs and monthly birthday and anniversary celebrations Check out our strongLife at OSI strongFacebook page to see morebrbrAs an employee of OSI you will have access to cutting edge technologies in a fun professional positive and dynamic work environment We have excellent opportunities for growth and developmentbrbrDiscover your future Discover OSI",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-23T12:52:13.000Z"
+  },
+  "company": {
+    "name": "Open Systems International",
+    "link": "https://www.linkedin.com/company/open-systems-international"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 65700,
+    "max_value": 129000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Medina",
+    "region": "MN",
+    "postal_code": "55340",
+    "street_address": null,
+    "latitude": 45.01901,
+    "longitude": -93.58608
+  }
+}

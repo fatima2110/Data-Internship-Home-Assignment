@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "pData ScientistppSan Francisco or RemoteppBase Salary 140200KppbrppPreferably San Francisco based however this job can be done primarily remoteppbrppWe are looking for a data scientist that has worked on tech products at scale that wants to join a dynamic and innovative data engineering organization You will be working on some of the most critical features and technology for our company Join us on our mission to give equal access to finance to anyoneppstrongRequirementsstrongpulliWork collaboratively with the data engineering team to understand our data build exploratory predictive models and scale our data science capabilitiesliliStrong probability and statistics background and experience with exploratory data analysisliliAs a founding member of the data science team you will have the opportunity to define your role and direction of our data science teamliliCollaborate with product design and the broader engineering team on data science models machine learning features and platform functionalityliliEvaluate customer use cases from a technical and data science perspectiveliliJoin in system design conversations with partners in product and engineering to build realtime financial insights for our customersliliParticipate in team meetings product strategy and technical roadmaps while being an active and collaborative voice in the discussionliliParticipate in developing leadership skills and finding you perfect fit in the company through our team culture programliulpstrongRequirementsstrongpulliComputer Science degree Mathematics degree or equivalentlili3 years of professional experience as a data scientistliliExpert in statistics and data science and machine learning modelsliulpstrongPlusstrongpulliExperience coding in PythonliliExperience with SQLliliExperience with data science in the field of finance or credit desired but not requiredliulpstrongBenefitsstrongpulliMission driven company focused on giving equal everyone equal access to financeliliWe invest heavily in our team and strive to provide a supportive work cultureliliFlexible work policy from our global offices when open or remoteliliInnovative engineering and product cultureliliInclusion and diversity as a company priorityliliFounderled companyliliInclusive stock option plansliliCompetitive compensation packagesliliComprehensive benefits including healthcare dental and visionliliAdditional benefits include home office reimbursementsliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T16:32:10.000Z"
+  },
+  "company": {
+    "name": "Quantitative Systems",
+    "link": "https://www.linkedin.com/company/quantitative-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

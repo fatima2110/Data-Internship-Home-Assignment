@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "AIML Data ScientistbrSalary 150KbrInterview Mode Video Interviewsbrsusansoftwaregroupinccom brbrRequired Skills SetbrbrYears of Experience3 years of experience in developing and implementing AIClient related projectsbrbrEducation Required PhDbrbrStrong technical skills on machine learningAI with proven track record These technical skills include but not limited to regression techniques neural networks decision trees clustering pattern recognition probability theory stochastic systems Bayesian inference statistical techniques deep learning supervised learning unsupervised learning Reinforcement LearningbrbrStrong technical knowledge on big data technologies AWS AIClient platforms such as SageMakerbrOutstanding track record of successful solutions design in the digital spacebrExperienced in using AIClient platforms technologies techniques eg TensorFlow Apache MXnet Theano Keras CNTK scikitlearn H2O Spark MLlib etcbrProficiency with SQL and NoSQL databasesbrProficiency with scalable data extraction tools eg Cassandra MongoDBbrbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T20:22:34.000Z"
+  },
+  "company": {
+    "name": "Software Group Inc",
+    "link": "https://www.linkedin.com/company/software-group-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

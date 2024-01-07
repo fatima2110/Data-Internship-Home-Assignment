@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Financial Services",
+    "description": "pLongterm contract opportunity in Irving TX for an Innovation Engineer nbspMachine Learning EngineernbspOther potential locations include Tampa FL Washington DC NYC Delaware or Buffalo NYnbspppbrppWill create experiment and put in place rapid prototypes where solution hypothesis generation and testing is done with tangible throwaway proofofconcepts ranging from data models to workflows to integrations of multiple vendor solutions Will be rapidly prototyping new products to test important customer features and demonstrate to key stakeholders Will likely involve a lot of frontendheavy work and data manipulation techniques  even some ML where its needed A lot of what we build will be prototypes and proofofconcepts for internal validation and learningppbrppTechnical Skillspp Rapid prototyping experiencepp Comfort with ML concepts and tools including Pythonpp Comfort with data manipulation and data engineeringpp Basic backend development skills PHP Javapp Experience with APIs REST and micro servicespp Experience with rational databasespp Knowledge of code versioning Comfort with systems mapping and communicating about process and data flowsppAdditional requirementspp Technical degreepp Basic frontend development skills HTML CSS JavaScript Angular Flutter React a plus but not requiredpp Experience with early stage new product developmentpp Excellent communication skillspp Ability to work with minimal supervisionpp Willing to collaborate with teams in diverse locationspp Problem solving skills demonstrated by past positionspp Ability to work under tight deadlines and handle multiple tasks in changing environmentpp Experience working at fintech startups or corporate innovation teams is a plusppnbspppemAbout our clientemppnbspppemOur client stands as one of the worlds most global banks and a trusted brand with over 200 years of continuously evolving financial services Its teams provide unique insights to more than 200 million clients and enable progress all over the worldemppnbspppemWhile growing your career you will work alongside some of the smartest minds in the industry who are excited to share their knowledge and to learn from you From analysts to architects developers to data scientists our clients employees operate as one team where each voice is heard and each perspective is appreciatedemp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T14:14:30.000Z"
+  },
+  "company": {
+    "name": "MATRIX Resources",
+    "link": "https://www.linkedin.com/company/matrix-resources"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas-Fort Worth Metroplex",
+    "region": null,
+    "postal_code": "75049",
+    "street_address": null,
+    "latitude": 32.7513,
+    "longitude": -97.08263
+  }
+}

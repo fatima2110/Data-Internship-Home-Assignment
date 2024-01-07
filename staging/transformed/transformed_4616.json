@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Financial Services",
+    "description": "pWant to help everyday Americans invest and build wealth Financial inequality is increasing and too many people are getting left behind At Stash we are passionate about democratizing wealth creation through education advice and products that help customers achieve greater financial freedomppbrppOur team is looking for a Senior Site Reliability Engineer with a passion for building reliable scalable and performant software to power the Stash experience Weve had tremendous growth in the past two years and have an exciting product roadmap ahead of usppIf youre interested in solving complex problems associated with scaling a popular consumer facing application and working in an open diverse and inclusive environment Stash might be the fit for youppbrppstrongWhat youll dostrongpulliAssist in building a team of high performing Site Reliability EngineersliliPartner with crossfunctional squads in developing the standards of the infrastructurelililifecycleliliWork with Automation Engineers in testing failures and recoveriesliliWork with DevOps Engineers in developing playbooks for various outage and escalationliliscenariosliliDefine and own the rollout of SLO budgets with the squadsliliIntroduce a chaos testing mentality and weekly firedrillsliliStandardize SLAs and work with Squads to implement and maintain themliliCreate a culture of confidence in the system to deploy anytime anywhereliulpbrppstrongWhat were looking forstrongpulli8 years of professional experience as a Site Reliability EngineerliliAn experienced engineer who is looking to build a culture of testing automation andlilimonitoring on a greenfield projectlilinbspGreat communicator who is able to collaborate with a lack of egoliliCreative problem solver with a passion for testing debugging and qualityliliDatadriven decision maker willing to take risks fail fast and iterate quicklyliliPassionate advocate of the key objectives of SRE  SLOs SLIs and SLAslilinbspLearningfocused student of modern technology stacks and patternsliulpbrppstrongGold StarsnbspstrongpulliExperience building an application at scaleliliExperience with asyncronous microservice systemsliliExperience with eventbased architecturesliliExperience building the SRE culture of a new systemliulpbrppAt Stash it is our mission to help everyday Americans invest and build wealth That includes people of all racesnbspgenders and abilities so it is important to us to acknowledge and address the issues of inequality in financial services head onnbspppbrppDiversity and inclusion are essential to living our values promoting innovation and building the best products Our success is directly related to our employees and we believe that our team should reflect the diversity of the customers that we servenbspAs an Equal Opportunity Employer Stash is committed to building an inclusive environment for people of all backgroundsppbrppIf you require any reasonable accommodations to make your application process more accessible please reach out to recruitingStashcomnbspppbrppstrongInvest in YourselfnbspstrongpulliEquity amp Stash Accounts Invest Retire Custodial BanknbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspliliFlexible PTOnbspliliLearning amp Development FundnbspliliWork from Home StipendsliliParental Leave Primary amp SecondaryliulpbrppstrongRecognitionstrongpulliBuiltIns Best Places to Work 2019 2020 2021nbspliliForbes Fintech 50 2019 2020 2021liliBest Digital Bank Finovate Awards 2020liliTearsheet Challenge Awards Best Banking Card Product  StockBack Card 2020liliLendIt Fintech Innovator of the Year 2019 amp 2020liulpbrppstrongNo recruiters pleasestrongppemThis position may be performed remotely anywhere within the United States except the State of Coloradoemp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T18:56:16.000Z"
+  },
+  "company": {
+    "name": "Stash",
+    "link": "https://www.linkedin.com/company/stashfinancial"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

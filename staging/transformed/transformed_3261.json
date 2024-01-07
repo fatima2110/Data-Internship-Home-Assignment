@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brHave you ever wanted to work on something that really matters  Is it important to you to help others live longer more fulfilling lives  The Health Strategic Initiatives team is focused on just that  enabling individuals to live a healthier happier life through personalized and compelling products  We are an experienced team of engineers data scientists doctors designers PMs and business leaders  We work in a collaborative and dynamic environment where we are constantly pushing ourselves to redefine the industry and create delightful user experiencesbrbrbrData is central to the success of our team  We work in a tight feedback loop where data insights drive feature development and design as well as defining future strategy and products  As a data engineer you contribution will be foundational to all we achievebrbr brstrongKey Qualificationsbrstrong brDeveloping ETL and debugging using Spark framework PySparkSpark Scala Spark SQL Spark UIbrbrImplementing data transformation using PythonbrbrExperience with Unixbased command line interface and Bash scriptsbrbrExperience with workflow scheduling  orchestration such as Airflow or OoziebrbrDatabase development experience with Relational or MPPdistributed systems experience w PostgresbrbrData visualization experience using Python or similar technologiesbrbrExperience with query APIs using JSON ProtocolBuffers or XMLbrbr brstrongDescriptionbrstrong brOne of your main areas of contribution will be in the area of analytics tools and services to support analyticsbrbrImplement and maintain endtoend data pipelines with structural understanding of data productsbrbrDeveloping tools to support analytics needs and facilitate analysis and insightsbrbrCreate intermediate tables from raw data to support adhoc analyses and reportingbrbrDevelop and maintain data QA frameworkbrbr brstrongEducation amp Experiencebrstrong brA background in computer science mathematics or similar quantitative field with a minimum of 3 years professional experience Masters preferredbrbr brRole Number 200275704brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T08:01:58.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 122000,
+    "max_value": 220000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

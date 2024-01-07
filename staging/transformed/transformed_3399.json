@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "brHi brbrWe are have an opportunity for the below job We will request you to revert back with your resume brbrPosition Data ScientistbrLocation Plano TX Currently Remote  Will be Onsite until the further announcementbrDuration Long TermbrJob DescriptionbrbrDuties to Performbr\tBuild proofofconcept models using a prototype infrastructurebr\tBring proofofconcept models into production using prototype infrastructurebr\tCommunicate shortcomings or improvements to multilanguage API for database interactionbr\tBuild proofofconcept feature engineering batch and streaming jobs br\tCreate and present Powerpoint decks describing work to both technical and nontechnical audiencesbr\tAssist in design and brainstorming sessions for prototype capabilitiesbrbrRequired Skill  Experiencebr\tExpert in Azure Cloud Machine Learning Event HubStreaming Analytics HDI DB Azure ML Azure Log Analytics Databricksbr\tStrong statistics and machine learning fundamentalsbr\tDemonstrated experience putting models into realtime production br\tExperience with Python required R Scala and Java nice to havebr\tExperience with Spark DataFrame and SQL APIs required  Spark streamingstructured streaming are nice to havebr\tExperience with Azure Cloudbr\tExperience with DatabricksSpark Delta Lake MLFlowbr\tExperience with H2O Driverless AIbr\tExperience with KafkaAzure Event Hubbr\tStrong Team Playerbr\tStrong problemsolving skillsbr\tStrong communication skills and the ability to describe shortcomings in system designbr\tA strong desire and ability to learn new tools and technologiesbr\tAirflow experience is nice to havebrbrTechnical Environmentbr\tAzurebr\tSQL  Mongo DBbr\tPython  Pysparkbr\tKafka  EventHubbr\tLinux and Shell Scriptingbr\tPossibly R Scala and Javabr\tDatabricksbr\tAzure data production and consumption tools Event Hub Azure Functions Streaming AnalyticsbrbrRegardsbrSuganya brbrWhats app 91 9043392040 br",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-13T13:59:23.000Z"
+  },
+  "company": {
+    "name": "To be disclosed",
+    "link": "https://www.linkedin.com/company/to-be-disclosed"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Plano",
+    "region": "TX",
+    "postal_code": "75093",
+    "street_address": null,
+    "latitude": 33.019695,
+    "longitude": -96.697586
+  }
+}

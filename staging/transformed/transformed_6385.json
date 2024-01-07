@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "strongemHelp shape the next generation of ecommerce for the next generation of consumerbrbremstrongPlatform Operations Site Reliability EngineerbrbrStockX is looking for Site Reliability Engineers to help us build and scale our platform from a data driven perspective Youd join as a foundational member of our Platform Operations SRE team and have the opportunity to directly influence the roadmap and technology choices as we rapidly scale our team and infrastructure Youll be responsible for shaping and developing initiatives like our monitoring amp alerting telemetry amp tracing infrastructure and incident responsebrbrstronguWhat You Will Be DoingbrbrustrongPartnering with your teammates tobrulliStandardize the operational processes that drive the StockX platformliliDefine our incident response process and implement standardized tooling to support itliliRun incident response efforts incident commander and communication roles as well conducting blameless postincident reviewsliliCraft reliable methods to monitor critical vendors that integrate with the StockX platformliliFoster a data driven culture that promotes quality and process improvement across the platform and with stakeholdersbrliulstronguPartnering With Product And Engineering Teams TobrustrongulliDevelop operational readiness requirements for StockX services and cloud infrastructureliliMeasure and optimize platform performance by implementing SLISLOSLA across all of StockXs servicesliliHelp define how availability is measured across the StockX platformliliProvide a holistic view of our platform health through service levels and business metricsbrliulstronguPartnering With Information Security TobrustrongulliMonitor the platform for security eventsalerts related to potential or active threatsliliMaintain awareness of the global threat landscape by partnering with StockX Threat Intelligence teamliliDevelop cyber security playbooks for various incident response scenariosbrliulstronguWhat Were Looking Forbrustrongulli5 years experience building and maintaining production systems with a focus on Devops or Site Reliability EngineeringliliExperience withliullicloud native infrastructure 1 for AWS or Kubernetesliliinfrastructure as code tooling 1 for Terraformlilimaintaining monitoring and alerting systems 1 DatadogliulliComfortable triaging events amp alerts conducting threat assessments and determining next steps all based on internal controls and SOPsliliAbility to program with one or more highlevel programming or scripting languages such as Python Ruby JavaScript bashliliA pragmatic problemsolver who can drive technical solutions that focus on our customers and businessliliA collaborative teammate that is comfortable in a fast paced environmentliliSomeone comfortable working across teams such as Engineering Product Design IT and Supply Chain OperationsliliA willingness to learn on the job and take on tasks as neededliliExcellent communication skillsliliAbility to work independently and communicate over the chat or video chat softwarebrliulstronguAbout UsbrbrustrongOur global platform offers unprecedented access to current culture while our datadriven bidask model provides buyers with the realtime visibility to know theyre getting a fair price And unlike other ecommerce sites StockX handchecks every purchase 20000 daily trades at one of our regional authentication centersbrbrStockXs special formula has rocketed the company to a multibillion dollar valuation with 10M lifetime trades on the platformememmore than half of those coming in the last year And were just getting startedbrbremWe are an equal opportunity employer and value diversity at our company We do not discriminate on the basis of race religion color national origin gender sexual orientation age marital status veteran status or disability status This job description is intended to convey information essential to understanding the scope of the job and the general nature and level of work performed by job holders within this job However this job description is not intended to be an exhaustive list of qualifications skills efforts duties responsibilities or working conditions associated with the position StockX reserves the right to amend this job description at any timeem",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-26T00:00:00.000Z"
+  },
+  "company": {
+    "name": "StockX",
+    "link": "https://www.linkedin.com/company/stockx"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Detroit",
+    "region": "MI",
+    "postal_code": "48242",
+    "street_address": null,
+    "latitude": 42.33294,
+    "longitude": -83.04784
+  }
+}

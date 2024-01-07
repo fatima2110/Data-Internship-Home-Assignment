@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Quality Assurance Engineer / Software Developer in Test (SDET) - Karate",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "strongpureIntegrationstrong is seeking a strongQuality Assurance Engineer  Software Developer in Test SDET  KaratebrbrstrongstronguCore Responsibilitiesbrbrustrongul liAutomate test cases in Cypress frameworkli liAttend daily scrumli liGive status everyday about the progress of in progress work and blocker if anyli liWrite test cases for featureli liWork on the automation framework which is based on JavaScriptli brulstronguLocationustrong Philadelphia PA currently remote but will be onsite in JulybrbrstrongWork Authorizationstrong We DO NOT sponsor H1B Visas nor do we enter into C2C partnerships strongEAD GC USCIT OnlybrbrstrongstronguRequirementsbrbrustrongul liBachelors Degree in Computer Science Information Systems or similar Or equivalent work experienceli li5 years of overall QA automated testing experienceli liQA API Backend Testing utlizing Karateli liQA testing strongJAVAJavascript and Seleniumstrong in Requiredli li5 years of Windows software QA and testing experience in an agile environment using the scrum frameworkli liExperience in Agile Jira Confluence Splunkli liExperience with API testing li Familiarity with media planning and buying workflows andor software systemsli liAbility to function well within their team working with POs BAs developers and other team membersli liStrong organization skills and the ability to work on multiple concurrent projects with a high standard of qualityli liExcellent analytical and troubleshooting abilitiesli liStrong oral and written communication skillsli liThe ability to quickly shift priorities and adapt to changeli brbrAt pureIntegration we believe Digital Transformation is less about tools and platforms and more about developing the people who use them supported by innovative business strategy and expert integration By engaging our clients as expert consultants in operational process design we synthesize and harmonize strategy process and evolving technologies to catapult the modern enterprise well into the 21st centurybrbrIn over 15 years of Digital Transformation consulting and professional services pureIntegration has successfully designed integrated and deployed winning solutions at scale which have resulted in measurable performance increases Most importantly we have done it while maintaining 97 client satisfaction for the past 15 years With a rich heritage in Communications Media and Entertainment our diverse and expanding portfolio includes Fortune 500 enterprises spanning Utilities Manufacturing Insurance CPG Healthcare Logistics and other select verticalsbrbrstrongempureIntegration is an Equal Opportunity Employer EOE qualified applicants are considered for employment without regard to age race color religion sex national origin sexual orientation disability or veteran statusemstrongliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-19T05:34:59.000Z"
+  },
+  "company": {
+    "name": "pureIntegration",
+    "link": "https://www.linkedin.com/company/pureintegration"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 63600,
+    "max_value": 114000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Philadelphia",
+    "region": "PA",
+    "postal_code": "08051",
+    "street_address": null,
+    "latitude": 39.95106,
+    "longitude": -75.16562
+  }
+}

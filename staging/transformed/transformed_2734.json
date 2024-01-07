@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "stronguDescriptionbrbrustrongPossible 3 Month CTH  No Fees  Do Not RePost  ConfidentialbrSubmit candidates under their legal name and use only Client templatebrbrRole Site Reliability EngineerbrWork location Richardson Texas RemotebrStart date Immediate availabilitybrBackground check MANDA TORYbrRequest ID 10135876brbrPursuit ProjectbrbrstronguBasic Qualificationsbrbrustrong4 years of experience with creating CICD pipelines for Application DeploymentsbrbrMust have implemented DevOps practicestools in areas such as Continuous Integration Release automation Metrics Tracking on the Azure PlatformbrbrStrong experience with Gitlab Bitbucket Server Artifactory JenkinsbrbrStrong experience working with Database Technologies MongoDB PostgresSQL Azure CosmosDBbrbrExperience with Cloud Environments such as Azure or AWS  Specifically deploying Java SpringBoot NodeJS Applications on CloudbrbrApplication troubleshooting experience with Linux Operating SystemsbrbrKnowledge about BlueGreen Canary DeploymentsbrbrPreferred Qualifications Good to havebrbrCreated application performance dashboards on Azure using Application Insights and automated alertsbrbrAbility to write Terraform scripts to build complete App services for large complex applicationsbrbrExperience with Secrets management using Azure Key Vault HashiCorp VaultbrbrConfiguration Management Ansible Chef experience is a plusbrbrstronguResumes Will Be Rejected For The Following Reasonsbrustrongulli Different formatlili Missing details in comments sectionlili Missing text box in the headerlili Photo ID included containing personal information other than legal name and photobrliulMaria Andrea GomezbrExternal Resource Manager ERM  SubCo Staffing CenterbrClient North America  Guatemala",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T11:45:39.000Z"
+  },
+  "company": {
+    "name": "Lorven Technologies Inc",
+    "link": "https://www.linkedin.com/company/lorventech"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Richardson",
+    "region": "TX",
+    "postal_code": "75080",
+    "street_address": null,
+    "latitude": 32.960762,
+    "longitude": -96.73352
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Front End Cloud Software Developer",
+    "industry": "Information Technology and Services",
+    "description": "pstrongCandidate RequirementsstrongpulliMust be physically located in the United StatesliliMust be a US Citizen or legally eligible to work in the US without requiring sponsorshipliliMust be fluent in written and verbal EnglishliliMinimum of 3 years of SFCC Commerce Cloud experienceliulpbrppstrongResponsibilities  You willstrongpulliProduce excellent code while collaborating with internal development resources at the clientliliPartner with other Red Vanners for QA Project Management and troubleshooting development issuesliliParticipate in standup meetings conference calls track your time and work through tickets assigned to you within a Jira instance Lots of ticketsliliWork remotely with the distributed team at Red Van as well as client resources being available during core business hoursliliAct with urgency and professionalism when interfacing with client resources Dont worry our Project Managers step in to handle the primary communication and resolve conflicts with clientsliliLearn from some of the best on how to develop within the enterprise level ecommerce platform Salesforce B2C Commerce CloudliulpbrppbrppstrongSkills and Experience needed for successstrongpulli35 years minimum of experience with developing software and technical implementations of customer projectsliliExperience building web applications especially in the Nodejs environmentliliExperience with objectoriented languages and concepts including development work using NET Javascript or other similar languagesliliHandson professional experience in designing documenting and developing webbased and standalone software applicationsliliStrong understanding of Front end and Back end web developmentliliSome experience evaluating and implementing cloudbased solutionsliliExcellent communication skills and a demonstrated ability to work independentlyliliPossess analytical problemsolving teamwork and communication skills as well as creativity and attention to detail familiarity with database management development environment program testing and other related softwareliliAppreciation for web standards and accessibility eg WCAG Standards screenreader support semantic HTMLliliExcitement to play a critical and evolving role in driving technical initiatives to enhance enduser and developer experiencesliliExperienced working with designers to create and maintain style guides amp CSS standards across different applicationsliulpbrppbrppstrongCompensationstrongpulli90000  120000 annuallyliulpbrppstrongPerks and BenefitsstrongpulliWork fully remote within the USliliComprehensive benefits and health coverageliliAnnual bonusliliPaid vacation sick leave and time off to volunteerliliPaid leave for new parentsliliWe invest in your future by contributing 3 of your salary to a 401K even if you dontliliRecurring stipend to upgrade your home office and equipmentliulpp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:14:09.000Z"
+  },
+  "company": {
+    "name": "Red Van Workshop",
+    "link": "https://www.linkedin.com/company/red-van-workshop"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "pstrongSoftware Engineer Full Stack  Pareto Portfolio CompanystrongppbrppstrongWhat youll dostrongpulliFull stack webmobile application development with a variety of coding languagesliliWork closely with Product Manager to define feature specifications and build products leveraging frameworks such as React amp React NativeliliCreate engaging UIs using performant and modern ReactliulpbrppstrongRequired skillsstrongpulliBachelors in computer science or equivalentliliYou produce readable high quality codeliliHighly technical with strong handson coding skillsliliFluent in at least one backend web frameworkliliExperience with React or a similar frameworkliliComfortable with SQLliliYou prize reliability simplicity and robustness in building out systemsliliYou communicate clearly and listen wellliliYou are a selfstarter and comfortable taking on a variety of rolesliliHave a startup mentality team player selfmotivated highintegrity pragmatic resourceful can execute under pressureliulpbrppstrongPreferred QualificationsstrongpulliMasters in computer science or equivalentliliPrior knowledge of Graphql Redis Elasticsearch and React NativeliliPrior experience with distributed systems and highthroughput servicesliliKnowledge of AWS or similar cloud servicesliulpbrppstrongLocationstrongpulliSan Francisconbspliulpbrp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T17:48:41.000Z"
+  },
+  "company": {
+    "name": "Pareto Holdings",
+    "link": "https://www.linkedin.com/company/paretoholdings"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

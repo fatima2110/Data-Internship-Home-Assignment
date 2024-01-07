@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Remote)",
+    "industry": "Outsourcing/Offshoring",
+    "description": "pstrongJob Title Software Engineer strongppstrongnbspstrongppstrongLocation strongAlpharetta GAppstrongnbspstrongppstrongJob DescriptionstrongppstrongProject InformationstrongpulliContractor will be working on a platform that contain 26 productsliliContractor will be working on a team of 1520 developers with sub teams of 3liliApply the principles of computer science and mathematical analysis to the design development testing and evaluation of the software and systems that make computers work Designs develops and tests operating systemslevel software compilers and network distribution software for medical industrial military communications aerospace business scientific and general computing applicationsliulpstrongnbspstrongppstrongEducationExperiencestrongpulliBachelors degree in computer science software engineering or relevant field requiredlili810 years experience requiredliliLarge scale Integration experience a plusliulpnbspppstrongResponsibility levelstrongppnbspnbspnbspnbspnbspnbspnbspnbspExercises independent judgment with minimal direction from supervisorppstrongnbspstrongppstrongSkillsstrongpulliThis is a Spring Java developer on an enterprise Web Application liliRequired Spring Tomcat MySQL JSP Spring MVC JavaScript HTML CSS jQuery React Angular AJAX Soap web service JEE Design PatternsliliCapable of learning and working on a complex system quicklyliliVerbal and written communication skills problem solving skills customer service and interpersonal skills RequiredliliStrong ability to work independently and manage ones time RequiredliliStrong mentoring skills necessary to provide support and constructive performance feedback RequiredliliStrong knowledge of the full software development lifecycle from businesssystems analysis through requirements gathering and functional specification authoring to development testing and delivery RequiredliliStrong ability to troubleshoot issues and make system changes as needed to resolve issueliulpstrongnbspstrongppstrongMajor Job Duties and ResponsibilitiesstrongppstrongnbspstrongppstrongnbspstrongpulliWrite Application code with highest quality secure and unit tested All code must follow the coding and security standardsliliCoordinate with others within the team and organization for the betterment of the products we are tasked with deliveringliliThis includes being aware of development efforts in other components that might impact applicationliliClearly express your ideas and solutions to team members other departments and managersliliDevelop standards and guidelines to guide the use and acquisition of software and to protect vulnerable informationliliTraining and guiding junior developerliliSolving production issuesliulpp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-14T17:05:28.000Z"
+  },
+  "company": {
+    "name": "StaffChase",
+    "link": "https://www.linkedin.com/company/staffchase"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Alpharetta",
+    "region": "GA",
+    "postal_code": "30022",
+    "street_address": null,
+    "latitude": 34.075615,
+    "longitude": -84.29455
+  }
+}

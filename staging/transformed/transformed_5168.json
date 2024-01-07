@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Site Reliability Engineer ",
+    "industry": "Information Technology and Services",
+    "description": "pThe Oracle Health Sciences Global Business Unit is looking for key software engineers who will play a critical role as part ofnbspa site reliability engineering team supporting cloud offerings enabling pharmaceutical companies around the worldnbspppbrppAs a site reliability engineer you will work with product development teams Oracle cloud providers support and other functional groups to ensure our cloud offerings continue to be resilient and meet our customer expectations around SLAsnbspThis key role will include leveraging skills around production issue analysis and triage scripting for the purpose ofnbspautomation monitoring and log analysis root cause analysis for production issues and cloud architecture designnbspnbspppbrpulliAbility to script in python is key skillsetnbspliliFamiliar with cloud production architectures and solutionsliliLeverage scriptingprogramming to solve problems automate tasks etcliliCreates and contribute to complex knowledge management articles and looks up existing knowledge management articles when neededliliApplies and maintains quality standards for custom written automation scripts and toolsliliParticipates innbspevaluationnbspof tools and review of new processes around service levelnbspimplementnbspmonitoringnbspmeasurementnbspliliDesign scalable robust secure systems using Oracle cloud architectureliliSystems monitoring and logging experience with tools such as ELK Thousand Eyes GrafananbspliliBuild automation using industry tools like Jenkins Chef Ansible Hudson etcnbspliliEnsure a high degree of availability across all of Oracle HSGBU service offeringsliliIdentify bottlenecks and problems throughout the infrastructure that are impacting HSGBU service offeringsliliSee projectstechnical initiatives and architecturaltechnical service improvements through to completion collaborating across various functional teamsliliBuild automation reduce repetitive mundane tasks via scriptingprogramming associated with production service deploymentsnbspliliDevelop custom tools as necessary to support HSGBU service offeringsnbspliliDocument system design procedures and work arounds as needednbspliliHelp maintain applications and services once they are live by measuring and monitoring availability latency and overall system health based on service level objectives and service level indicators liliParticipate in support driven incident response and postmortems learning from outages and identifying fixes to outages small or largeliliPartner and lead internal product teams in solving complex business needs associated with cloud offeringsnbspliliEnsure offering SLA obligations are met monitored and measured updating and modifying monitoring andnbspmeasurement approach when neededliliInvolved in resolution of customer opened ticketsnbspincludingnbspdiagnosis and recommended short term and long term solutionsnbspliliApplies and maintains quality standards for custom written automation scripts and toolsliliWorks effectively in a mixed environment and uses best practices and knowledge of internal or external business issues to improve products or servicesliliBasic understanding of java is desirable liliNeed at minimum 4 years dev ops experience with a major cloud provider AWS Azure Google Cloud etcliliBasic understanding of operating system administration UnixwindowsliulpbrppbrppAnalyze design develop troubleshoot and debug software programs for commercial or end user applications Writes code completes programming and performs testing and debugging of applications ppbrppAs a member of the software engineering division you will analyze and integrate external customer specifications Specify design and implement modest changes to existing software architecture Build new products and development tools Build and execute unit tests and unit test plans Review integration and regression test plans created by QA Communicate with QA and porting engineering to discuss major changes to functionality ppbrppWork is nonroutine and very complex involving the application of advanced technicalbusiness skills in area of specialization Leading contributor individually and as a team member providing direction and mentoring to others BS or MS degree or equivalent experience relevant to functional area 7 years of software engineering or related experience ppbrppIf you are a Colorado resident Please Contact usnbsp or Email us at oraclesalaryinquiriesusoraclecom to receive compensation and benefits information for this role Please include this Job ID 117076 in the subject line of the emailppbrppnbspp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T16:12:59.000Z"
+  },
+  "company": {
+    "name": "Oracle",
+    "link": "https://www.linkedin.com/company/oracle"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": "Principal"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

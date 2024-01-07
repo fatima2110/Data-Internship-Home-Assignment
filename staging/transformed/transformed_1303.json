@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "pWere hiring for a fast growing Series A startup who have spunoff from a toptier US University Their leading AI product is transforming the lives of patients and physicians by reimagining medical workflows with voice and machine learningppbrppTheir product prepares medical charts by listening to patient encounters saving up to 3 hours a day for doctors Theyre looking for a Senior NLP engineer to improve current machine learning models working with the largest datasets of physicianpatient encounters ppbrppWhy not join a team of toptier university alumni working with stateoftheart machine learning whilst revolutionizing healthcare ppbrppYou willpulliTake ownership of the architecture of machine learning modelsliliBuild iterate and deploy models liliWork alongside leadership to define roadmaps representing ML model architectureliliImprove efficiency of the humanintheloop component liliWork on a variety of NLP problemsliulpbrppYou havepulliMasters or above in Computer Science or related field  liliExperience deploying machine learning models into production liliAn interest in healthcareliliExperience working with natural language processing liliExpertise with Python and deep learning frameworksliliThe ability to work in a fast paced environment liulpbrppemBig Cloud is acting as a vendor to this position which is a direct hireemp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T12:43:25.000Z"
+  },
+  "company": {
+    "name": "Big Cloud",
+    "link": "https://uk.linkedin.com/company/big-cloud"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

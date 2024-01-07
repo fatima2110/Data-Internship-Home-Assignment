@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Financial Services",
+    "description": "pstrongSite ReliabilitynbspEngineernbspstrongnbspppbrppstrongPositionnbspSummarynbspstrongppSite Reliability Engineering SRE is what you get when you treat operations as if it is a software problem Our mission is to protect and provide for the software and systems behind Clearents services with an everwatchful eye on their availability latency performance and capacitynbspAs an SRE you will use your experiencenbspin running productiongrade softwarenbsptonbspbuild automationnbspthatnbspallownbspour systems to run smoothly with minimal interventionnbspppbrppstrongEssential Duties and ResponsibilitiesnbspstrongpulliAutomate pipelines to production andnbspmake it safe secure and repeatablenbspso that development teams can selfservicenbspliliConfigure and maintainnbspRanchernbspclustersnbspcontaining hundreds of docker microservicesnbsponprem and in AzurenbspliliConstruct and maintain infrastructureascodenbspusing terraform puppet and ansiblenbspliliSolve problems relating to mission critical services and build automation to prevent problem recurrence with the goal of automating response to all nonexceptional service conditionsnbspliliInfluence and create new designs architectures standards and methods for largescale distributed systemsnbspliliBuild worldclass alerting monitoring and capacity managementnbspsystems for the management ofnbspournbspplatforms healthnbspliliParticipate in oncall rotations as needednbspliliOther duties asnbspassigned by managementnbspliulpbrppstrongQualificationsnbspstrongppnbspnbspnbspnbspnbspnbspnbsp5nbspyearsnbspexperience in a software development andor operations rolenbspppnbspnbspnbspnbspnbspnbspnbspIntermediate experience with Azure DevOps pipelinesnbspppnbspnbspnbspnbspnbspnbspnbspProfessional experiencenbspin dockernbspppnbspnbspnbspnbspnbspnbspnbspIntermediate experience with scripting powershell bash python preferrednbspppnbspnbspnbspnbspnbspnbspnbspAbility to troubleshoot running applications in a systematic mannernbspppnbspnbspnbspnbspnbspnbspnbspComfortable working with applications onprem and in AzurenbspppnbspnbspnbspnbspnbspnbspnbspWorking proficiencynbspwithnbspGitnbspppnbspnbspnbspnbspnbspnbspnbspComfortable withnbspScrumbasednbspdevelopment lifecyclenbspppnbspnbspnbspnbspnbspnbspnbspExcellent analytical and problemsolving skillsnbspppnbspnbspnbspnbspnbspnbspnbspStrongnbspandnbspclear written and verbal communication skillsnbspppnbspnbspnbspnbspnbspnbspnbspAbility tonbsptranslatenbspcomplex ideas into diagramsnbspuser stories and ultimately working softwarenbspppbrppstrongCompetenciesnbspstrongppnbspnbspnbspnbspnbspnbspnbspstrongForward Thinkingstrong  Anticipates how individuals and groups will react to situations and information and plans accordinglynbspAnticipatesnbspthe consequences of situations and plans accordingly Notices trends in the industry or marketplace and develops plans to prepare for opportunities or problems Anticipates possible problems and develops contingencynbspplans in advancenbspppnbspnbspnbspnbspnbspnbspnbspstrongDrives Performancestrong  Develops challenging but achievable goals Maintains commitment to goals in the face of obstacles and frustrations Finds or creates ways to measure performance against goalsnbspHasnbspa strong sense of urgency about solving problems and getting worknbspdonenbspCreates momentum and drives behavior change when necessarynbspppnbspnbspnbspnbspnbspnbspnbspstrongAdaptabilitystrong  Adapts to new ideas and initiatives across a wide variety of issues or situations Adapts interpersonal style to highly diverse individuals and groups in a range of situations Supports major changes that challenge traditional ways of operating Anticipates change in order to adaptnbspownnbspplans and prioritiesnbspppnbspnbspnbspnbspnbspnbspnbspstrongFosters Teamworkstrong  Assumes additional responsibilities to facilitate the achievement of team goals Seeks input from other team members on matters that affect them Shares all relevant information with othersnbspppnbspnbspnbspnbspnbspnbspnbspstrongOpen  Transparent Communicationstrong  Recalls others main points taking them into account in own communication Checksnbspownnbspunderstanding of others communication eg paraphrases asks questions Elicits comments or feedback on what has been said Maintains continuous open and consistent communication with othersnbspppnbspnbspnbspnbspnbspnbspnbspstrongTechnical Expertise strong With guidance completes common tasks which present limited difficulties Reads standard documents to extract key information Assists team in carrying out complex tasksnbspppnbspp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T18:45:58.000Z"
+  },
+  "company": {
+    "name": "Clearent",
+    "link": "https://www.linkedin.com/company/clearent"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater St. Louis",
+    "region": null,
+    "postal_code": "63101",
+    "street_address": null,
+    "latitude": 38.62262,
+    "longitude": -90.192986
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Software Engineer",
+    "industry": "Computer &amp; Network Security,Computer Software",
+    "description": "Its fun to work in a company where people truly BELIEVE in what theyre doingbrbremWere committed to bringing passion and customer focus to the businessbrbremstrongThe Role brbrstrongWe are looking for a seasoned professional to lead design amp develop our flagship spam detection products You get to work with some of the largest threat intelligence data in the cyber security and craft peta byte scale solutions to help protect some of the most targeted people especially in fortune 1000 companies Youll build hybrid systems that take the best of rules based and machine learning based approaches in real real time and process billions of messages every day A few seconds could make all the difference between a security breach and a blocked message In succeeding with Proofpoint you help make the internet a safer place for everyonebrbrstrongYour daytoday brstrongulliYou have solid understanding of algorithms amp data structures along with their runtime complexitiesliliYou are confident in building and troubleshooting highly performant and multithreaded applications at scaleliliYou understand the complexities and tradeoffs for building systems with 9999 and 99999 availabilityliliComfortable working with cloud platforms like AWS or GCP especially in a hybrid PrivatePublic cloud modelliliGood working knowledge of design and stability patternsliliProvide technical leadership and up level to other members on the teamliliDemonstrate technical leadership and mentor Junior engineer as neededliliPartner with senior management on technical strategy and roadmapliliWork closely with data scientists to integrate machine learning models in productionbrliulstronguWhat You Bring To The TeambrustrongulliBachelors Degree or higher in a quantitative discipline or other relevant fieldlili10 experience in working with large scale distributed systemsliliExperience with one or more of popular programming languages GoCJavaPython is requiredliliHas intellectual curiosity and stays abreast with current technologiesliliHigh accountability and a track record of delivering game changing products with qualityliliDeep customer focus Always start the with customer and work backwardsliliUnderstand lean software development practices and embrace data informed decisionsliliChallenges status quo and looks for continuous improvement in systems and processesbrliulemIf you like wild growth and working with happy enthusiastic overachievers youll enjoy your career with usbrbrem",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:03:09.000Z"
+  },
+  "company": {
+    "name": "Proofpoint",
+    "link": "https://www.linkedin.com/company/proofpoint"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Carson City",
+    "region": "NV",
+    "postal_code": "89721",
+    "street_address": null,
+    "latitude": 39.16458,
+    "longitude": -119.76692
+  }
+}

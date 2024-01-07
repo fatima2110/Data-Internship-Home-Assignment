@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Strategy Data Scientist",
+    "industry": "Banking,Financial Services,Investment Banking",
+    "description": "pJefferies is seeking a Data Scientist to join the Data Strategy team within Equity ResearchppstronguResponsibilities Will IncludeustrongpulliWork closely with Head of Data Strategy in creation of fundamental models design of data tools coordination with global sector team evaluation of external alternative data vendors and adhoc research projectsliliInteract with key data partners to communicate business cases company drivers and other KPIs relevant to fundamental stock evaluationliliQuery transform combine and expand datasets to assist teams in knowledge extractionliliInterface with data vendors internal research teams internal sales and trading personnel and external institutional investorsliliConceive and executing on differentiated research projects across sectors and data types liulpstronguKey Qualificationsustrongpulli4 years of experience within consulting data research data science or similar rolesliliAdvanced STEM degree such as data science computer science engineering or statistics preferredliliPrior experience in a strategic quantitative or risk role is desirableliliDeep knowledge of data science programming languages is required such as R Python SQL ScalaliliKnowledge of cloud computing environments is helpfulliliKnowledge of fundamental financial modeling is not a must but helpfulliliKeen interest in the data economy within financial servicesliliMotivated intelligent curious hardworking team playerliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:21:41.000Z"
+  },
+  "company": {
+    "name": "Jefferies",
+    "link": "https://www.linkedin.com/company/jefferies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

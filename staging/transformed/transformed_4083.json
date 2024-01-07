@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr Software Engineer - .Net",
+    "industry": "Financial Services,Retail",
+    "description": "stronguWhat Youll DobrbrustrongstrongBuild the possibilitiesbrbrstrongWere growing our technology team and are searching for a Senior Software Engineer to help us modernize our software architecture When you join us youll use your technical expertise to design develop and maintain software components and products that support HampR Block business applications and transform our technology Youll serve as the lead role for daytoday functional tasks in the team developer support and maintaining the development environment Ready to innovate and solve problems in new ways Join usbrbrstronguWhat Youll Do As a Senior Software EngineerbrbrustrongulliUse tools languages coding standards and best practices to develop new product features and maintain year over year product functionality and enhancementsliliCreate and execute unit tests and addresses defectsliliWork closely with the QA UX and other related teams to ensure consistent understanding of requirements and approachliliAssist in planning and implementation of a strategic direction for the productliliIdentify product design features to support scalability usability and better performanceliliAssist and drive technical design and code reviews for all new enhancements and maintenance work delivered by the development teamliliUnderstand complex business and functional requirements and produce technical specifications and product requirementsliliYoull also mentor and coach other team members on the latest technological advances within the current technology used and establish consistent best practicesbrliulstronguWhat Youll Bring To The TeambrbrustrongEducationbrbrulliBachelors degree in a related field or the equivalent through a combination of education and related work experienceliulSkillsbrbrulli5 years NETNET Core lili5 years APIs  REST  SOAPGraph QL  10  Years lili5 years SQL  Hibernate  JPA  10 years lili2 years Visual Studio Visual Code  Xunit lili2 years Microservices  Entity Framework  Dapper brliulstrongIt would be even better if you also hadbrbrstrongulliMentoring expliliAzure Cloud Auto Provisioning ExperienceliliTerraform ExperienceliliAzure Data FactoryliliSQL Schema DesignData ModelingliliAzure FunctionsCloud Lambda Experience brliulstronguAbout HampR BlockbrbrustrongWere here to live our purposeto provide help and inspire confidence in our clients and communities everywhere We take our work personally because we know what it represents Families and homes Livelihoods and livesbrbrWeve been true to that purpose since brothers Henry and Richard Bloch founded our company in 1955 Since then weve grown to approximately 12000 tax offices throughout the United States and around the world When you join our team youll add to the momentum of a forwardthinking companyone that defined an industry and is now leading its transformationbrbrstrongSponsored Jobbrbrstronghrbjob",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:22:29.000Z"
+  },
+  "company": {
+    "name": "H&amp;R Block",
+    "link": "https://www.linkedin.com/company/h&amp;r-block"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Kansas City",
+    "region": "MO",
+    "postal_code": "64113",
+    "street_address": null,
+    "latitude": 39.099792,
+    "longitude": -94.57856
+  }
+}

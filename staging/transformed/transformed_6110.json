@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr Site Reliability Engineer, Observability",
+    "industry": "Computer Software,Internet,Information Technology and Services",
+    "description": "strongWHAT IS BOXbrbrstrongBox is the market leader for Cloud Content Management Our mission is to power how the world works together Box is partnering with enterprise organizations to accelerate their digital transformation by creating a single platform for secure content management collaboration and workflow We have an amazing opportunity to further establish ourselves as leaders in the space and we need strong advocates to help us achieve that goalbrbrBy joining Box you will have the unique opportunity to help capture a majority of this developing market and define what content management looks like for the digital enterprise Today Box powers over 98000 businesses including 70 of the Fortune 500 who trust Box to manage their content in the cloudbrbrstrongWHY BOX NEEDS YOU brbrstrongThe Observability Platforms team provides an endtoend experience enabling Box engineers by leveraging frameworks tools APIs and visualizations to better understand the behavior of features services and infrastructure they own and maintain The team also helps educate product infrastructure and systems teams on how to appropriately monitor features and services they own provide visualizations for monitoring distributed systems give guidance for reducing operational overhead and supports the delivery of unmatched availability to our customersbrbrWe need a Sr SRE with the experience of having designed operated and implemented Observability frameworks at a very large scale and well versed in the operation of scaled architectures You should have deep operational knowledge of distributed systems and how to avoid limitations through innovative designbrbrstrongWHY BOX NEEDS YOU brbrstrongThe main focus of the Observability Team is to build frameworks and systems that can manage the performance of Box systems while scaling to billions of events per second Additionally we are responsible to standardize observability across engineering teams drive designs for high performing services and foster great observability practices We build scale and operate lowlatency highthroughput data systems that power high resiliency of Box Systems You will help us execute on this vision and ensure that Box continues to ship scalable services that can hold against the highperformance expectation from our customersbrbrWe are looking for big thinkers and innovators who have experience working with scalable distributed systems and have a passion for high performance and reliability We are a small team with big ambitions that values impact and is not afraid of huge gnarly problems If this excites you come join usbrbrstronguWhat Youll DobrustrongulliYoure going to have the unique opportunity to build improve and support our Observability o11y platform You will get to work with cuttingedge technologies that are defining the future of Boxs cloud platforms You will have visibility and impact across all of Engineering liliProvide o11y products like ELK Splunk Sensu Prometheus AppDynamics Dynatrace etc to engineering teams for centralized logging APM tooling monitoring and alerting and distributed tracing liliYoull collaborate with other engineers on the team to foster solid engineering principles and represent our engineering values liliAs a senior member of the team youll use both technical and relational skills to lead large scale projects to completion liliManage maintain and scale the infrastructure responsible for telemetry frameworks used throughout Boxs infrastructure cloud services and products to capture transport store and analyze the telemetry data Scale the observability infrastructure to support petabytes of logs and billions of metric data points daily liliYoull collaborate influence and drive for improvement across scrum teams liliYoull provide additional support amp perform various pocs on new projects frameworks for Observability liliDefine and educate platform consumers on observability best practices from a SRE perspective liliParticipate in deep technical design discussions within your team across partner teams and ensure that were building the right systemsbrliulstronguWho You ArebrustrongulliYou take an SREcentric approach to everything you buildmanage ensuring reliability availability and security liliYou act like an owner and strive to do work youre proud of both technically and in your team interactions liliYou are a selfstarter and a strong supporter of self service and automation within O11y Observability liliDeep knowledge of OS system fundamentals linux amp core internet technologies including TCPIP DNS NAT SDN liliProven production service troubleshooting skills that span applications systems and network within a primarily Linux environment liliSolid understanding of infrastructure automation tools Puppet Ansible or the like liliExperience in using industry standard DevOps CICD frameworks JenkinsSpinnaker or the like liliSolid experience in building automations frameworks preferably with Python and Go liliExperience in running containerized services in PrivatePublic Cloud GCP AWS liliExperience in building managing metrics and data driven observability platforms and peripherals liliExperience in managing O11y Observability is a plus liliYou have a fair understanding of technologies like Elasticsearch Apache Storm or other DAG technologies and streaming technologies like Kafka pubsub or Kinesis liliYou have built distributed highthroughput and lowlatency systems with a strong focus on availability resilience and durability brliulstronguBenefitsbrustrongulliVisit this webpage to check out all of our exciting healthcare benefits https joincollectivehealthcomboxliliFor all other benefits please check out Box Benefits  Perks brliulstrongEQUAL OPPORTUNITYbrbrstrongWe are an equal opportunity employer and value diversity at our company We do not discriminate on the basis of race religion color national origin gender sexual orientation age marital status veteran status or disability statusbrbrFor details on how we protect your information when you apply please see our Personnel Privacy Notice",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Box",
+    "link": "https://www.linkedin.com/company/box"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redwood City",
+    "region": "CA",
+    "postal_code": "94064",
+    "street_address": null,
+    "latitude": 37.4805,
+    "longitude": -122.21528
+  }
+}

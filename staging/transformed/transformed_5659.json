@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "pstrongJob title  SREstrongppstrongLocation  NYCstrongppstrongFull Time Position strongppstrongnbspstrongppstrongRequired Qualificationsstrongppnbspnbspnbspnbspnbspnbspnbspnbspnbsp45 years of work experience year work experience in a DevOps or Site Reliability Engineer roleppnbspnbspnbspnbspnbspnbspnbspnbspnbspGood working knowledge in productionapplication supportppnbspnbspnbspnbspnbspnbspnbspnbspnbspGood with OOP concepts and Python programmingscriptingppnbspnbspnbspnbspnbspnbspnbspnbspnbspStrong Computer Science fundamentals in Data Structures Algorithms Complexity Analysis ObjectOriented Design and Designing Large Scale DataIntensive Applicationsppnbspnbspnbspnbspnbspnbspnbspnbspnbsp4 years industry experience in Expert Knowledge in Linux Python ShellnbspJavaScript MongoDB Elasticsearch RedisppnbspnbspnbspnbspnbspnbspnbspnbspnbspComfortable multitasking managing multiple stakeholders and working as part of a teamppnbspppstrongPreferred QualificationsstrongppnbspnbspnbspnbspnbspnbspnbspnbspnbspExperience in ELK Stack Elasticsearch Logstash Kibana or Prometheus  GrafanappnbspnbspnbspnbspnbspnbspnbspnbspnbspExperience with continuous deploymentdelivery practicesppnbspnbspnbspnbspnbspnbspnbspnbspnbspAWS Certifications such as Solution Architect DevOps EngineerppnbspnbspnbspnbspnbspnbspnbspnbspnbspExperience with Container technologies like Docker KubernetesppnbspnbspnbspnbspnbspnbspnbspnbspnbspExperience with cloud computing systemsppnbspnbspnbspnbspnbspnbspnbspnbspnbspNetworking including TCP HTTP DNS SSL certificatesppnbspnbspnbspnbspnbspnbspnbspnbspnbspKnowledge of SlangSecDB is a plusnbspp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T19:53:50.000Z"
+  },
+  "company": {
+    "name": "Zentek  Infosoft ",
+    "link": "https://www.linkedin.com/company/zentekinfosoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

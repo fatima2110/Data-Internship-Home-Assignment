@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (TS/SCI)",
+    "industry": "Defense &amp; Space",
+    "description": "stronguBasic QualificationsbrbrustrongBachelors degree in software engineering or a related technical field is required or equivalent experience plus a minimum of 10 years of relevant experience or Masters degree plus a minimum of 8 years of relevant experience agile experience preferredbrbrstronguClearance RequirementsbrbrustrongAs a Principal Software Engineer you willbrulliProvide leadership to cross functional software development teams liliLead small technical proposals and contributes to medium sized proposalsliliFrequently responsible to lead collaboration activities with senior management and leadership within the companyliliPerform software requirements analysis participate in research design develop and test software and tools to include development of new work products or enhancing existing applicationsliliPerform technical planning verification and validation of others work cost and risk analysis and supportability and effectiveness analyses for total systemsliliApply the appropriate standards processes procedures and tools throughout the system development life cycle to support the generation of technical engineering productsliliResearch and analyze data such as customer design proposals market trends state of technology and industry specifications and manuals to determine feasibility of design or applicationliliSupport and develop our technical culture by being engaged intellectually curious friendly motivated to solve complex problems and inspired to deliver superior usercentered designliliParticipate in internal reviews of software components and systemsbrliulstronguProgramming SkillsbrustrongulliStrong fundamentals in data structures and algorithmsliliSolid object oriented programming and software design skillsliliProficient in one of the following Java C C or JavaScript using object oriented techniquesliliWeb Services knowledge such as HTML CSS JavaScript React and ReduxbrliulCandidates should have demonstrated strengths and experience in the following areasbrulliStrong leadership skills suitable for recruiting leading and managing teams of engineers to solve challenging problemsliliUser Interface developmentliliComputer science theory eg data structures algorithms computational complexityliliAppreciation for usercentric designliliFull use and understanding of software engineering concepts principles and theoriesliliEffective communication and attention to detailliliDeep exposure to UnixLinux systems as well as WindowsbrliulstronguOther Beneficial Common Programming PatternsparadigmsbrustrongulliSeasoned experienced professional having a wide range of professional experienceliliExperience with version control systemsliliExperience leading software teams using Agile methodologiesliliDetailed and fully proficient knowledge of technology trends and champions new ideas and product and process improvementsliliConcurrent programming and building multithreaded systemsliliMemory and CPU profilingliliData modeling and writing efficient data access methodsliliExperience building largescale missioncritical applicationsliliExperience with distributed systemsliliDirectmanipulation user interfacesbrliulstronguPreferred Degree Types And ExperiencebrbrustrongBachelors degree in software engineering or a related technical field is required or equivalent experience plus a minimum of 8 years of relevant experience or Masters degree plus a minimum of 6 years of relevant experiencebrbrDepartment of Defense Top SecretSCI security clearance is required at time of hire Applicants selected will be subject to a US Government security investigation and must meet eligibility requirements for access to classified information Due to the nature of work performed within our facilities US citizenship is required",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T01:47:37.000Z"
+  },
+  "company": {
+    "name": "Resiliency LLC",
+    "link": "https://www.linkedin.com/company/resiliencyllc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fairfax",
+    "region": "VA",
+    "postal_code": "22003",
+    "street_address": null,
+    "latitude": 38.847122,
+    "longitude": -77.30631
+  }
+}

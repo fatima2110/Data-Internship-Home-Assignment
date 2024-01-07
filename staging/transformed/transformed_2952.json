@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "pnbspppstrongResponsibilitiesstrongppbrpulliBuild and enhance media mix models to connect the impact of marketing drivers and business shortterm and longterm outcomesliliDevelop optimization and simulation algorithms to guide the marketing investment and allocation recommendations to stakeholdersliliScale current Python modeling algorithm through parallel processing or other efficiency enhancementliliDesign and execute AB tests and other experimentsliliExplain complex modeling approaches in simple terms and develop compelling narratives that connect modeling results with business problemsliliPartner with crossfunctional team to streamline data science solutionsliulpbrppstrongMinimum QualificationsstrongppbrpulliPhD degree in Statistics Engineering Operations Research Computer Science Economics Mathematics Physics or related fieldliliIndustry experience in building market mix and multitouch attribution modelslili8 years of experience in MMM measurement AB testing marketing strategy amp analyticsliliExperience with advertising measurement andor digital marketing analyticsliliExperience with advertising technology platforms Ad servers DSPs DMPsliliProficient coding skills PythonSQL and database knowledgeliliExtensive experience with predictive modeling algorithmsliliStrong project management skillsliliCommunicate technical material to a range of audiences and to tell a story that provides insight into the businessliliYou have a passion for working in a fastpaced agile environmentliliA collaborative mindset and a sense of curiosityliulpp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-05T23:00:25.000Z"
+  },
+  "company": {
+    "name": "Sigmaways Inc",
+    "link": "https://www.linkedin.com/company/sigmaways"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Bruno",
+    "region": "CA",
+    "postal_code": "94067",
+    "street_address": null,
+    "latitude": 37.627277,
+    "longitude": -122.416145
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "pPolco is looking to add an insightful creative Software Engineer who wants to improve cities and communities by building great civic engagement software Were looking for a tenacious problem solver who loves a challenge and is excited by the pace of a startupnbspppbrppstrongWho we arestrongppPolco is dedicated to transforming how local governments representatives and community organizations interact with the communities they serve Were all about civic engagement and creatively bringing new and innovative technologies to the front lines of democracy Our team comes from every walk of life and all corners of the political spectrum but were all problem solvers at heart Polco is designed to bring people closer together regardless of who they are where they come from or how they think We appreciate and celebrate these differences among our team too After all were building something that everyone needs to love so a broad range of diverse perspectives is important We dont look for people with perfect resumes or who fit the mold We look for people who can make our team betterppbrppstrongThe JobstrongppAs a developer at Polco youll jump right into the role learning our stack and collaborating with other teams to deliver value to our usersnbspWere looking for someone to quickly become an instrumental member not only of the development team but of the whole Polco teamnbspYoull change commit and deploy code within days of starting with guidancenbspYoull work with the product marketing and sales teams to understand requirements and business valuenbspDevelopers at Polco are generalists and we often work both independently and in small teams so youll get to experience a wide variety of technologies and approachesppbrppstrongRequirementsstrongppbrppstrongTechnical strongpulliBe familiar with several programming languages and have indepth experience with at least oneliliWrite clean logical highquality code and adopt testdriven development and Agile practicesliliHave a degree in Computer Science Software Engineering a related field or professional industry experienceliliHave an understanding of software developmentnbspfundamentalsliliHave experience with core web technologies HTML CSS JavascriptliliThe candidate must reside in the US to be considered for this role liulpbrppstrongBonus points forstrongpulliTypescriptliliSinglepage application frameworks like ReactliliGraphQL and ApolloliliPostgreSQLliliAutomated testingliliMobilefirst or responsive designliliData engineering and analyticsliliHeroku or other cloud infrastructure servicesliulpbrppstrongNext stepsstrongpulliThe next step would be to complete a projectbased assessment on the Hatchways platform liulpbrppstrongWhy work with usstrongpulliWere on an awesomenbspstack httpsstackshareiopolcopolcoliliThe excitement of being in on the ground floor of a new startupliliCompetitive compensation and stock optionsliliBenefits package including dental medical vision coverageliliFlexible work hours remote working and paid time offliliRemotefriendly work environmentliulpbrp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T13:49:54.000Z"
+  },
+  "company": {
+    "name": "Polco",
+    "link": "https://www.linkedin.com/company/polco"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Wisconsin",
+    "region": "United States",
+    "postal_code": "54943",
+    "street_address": null,
+    "latitude": 44.639957,
+    "longitude": -89.73298
+  }
+}

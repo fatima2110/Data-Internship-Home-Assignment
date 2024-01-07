@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Scientist - Research Lead",
+    "industry": "Computer Software,Internet,Hospital &amp; Health Care",
+    "description": "strongWho is MindstrongbrbrstrongMindstrong is a humancentered technology company focused on optimizing the consumer experience for receiving and providing bestinclass mental healthcare across the illness and demographic spectrum We are actively deploying a new learning behavioral health system which relies on rapid innovations in low burden measurement science and coordinated care delivery focused on helping individuals living with a serious mental illness SMI live their fullest lives Our services are offered to people with an SMI through active partnerships with several nationwide health insurance payersbrbrWere setting out to radically simplify mental healthcare for those living with a serious mental illness Join us on this important journeybrbrstrongWhat is the strongstrongSenior Data Scientist  Research Leadstrongstrong rolebrbrstrongWere looking for a Data Scientist Research Lead to join our growing team of people passionate about changing mental healthcare In this role you will work cross functionally to help define and execute our data science research strategy partnering with engineers product managers data analysts and the clinicians who directly deliver care to our Mindstrong members You will lead projects leveraging our extensive amount of longitudinal data unlocking personalized digital signatures of disease trajectories and patient disposition Some of the problems you will work on include predicting and measuring mental health outcomes optimizing care plans and member interactions better data representations and similarity measures for members and personalized intervention strategies Our team works across the company to help drive decisionmaking and your work will have a direct impact on our membersbrbrstrongWhat youll be doing brbrstrongul liAdvancing the disciplines of anomaly detection similaritydistance measures and online representation learning from longitudinal data within the healthcare spaceli liOptimize and integrate feedback loops to personalize symptom manifestations in serious mental illnessli liBecome an expert in building healthcare applications that integrate humancomputer interaction patterns passive mobile sensor data and active member feedback impacting the lives of millions of people dailyli liWork with a highperformance engineering team to deploy these applications within a scalable and distributed infrastructure li brulstrongWho you are brbrstrongul liYou feel good about your work knowing that what you do will affect the lives of millions of people around the world li liAn amazing developer technical challenges of all types excite you li liEntrepreneurial and eager to thrive in a startup environment li liStrong communicator oral and written li brulstrongYour background and skills brbrstrongul liPhD strongly preferred or MS with equivalent experience in statistics computer science or related mathematical disciplines with an emphasis on both theoretical analysis and algorithmic implementation li liStrong research background and demonstrated publication history through various channels eg peerreviewed journals conference proceedings white papers online media etcli liMinimum 5 years of experience developing both statistical and machine learning models with at least 3 years in the industry li liEndtoend project experience using machine learning or deep learning to solve complex realworld problems This includes but not limited to feature engineering dimensionality reduction algorithm development crossvalidation neural network architecture designli liTrack record of delivering concrete implementations on tight schedules li liExperience using PythonR TensorFlow amp Keras PyTorch Spark SQL NoSQL Mongoli liExperience with AWS stack S3 Redshift a strong plusli brulstrongCompetitive Benefits brbrstrongul liRemote work While we have offices in the Bay Area and would love to see you in person were a flexible first company  work where you do your best workli liA robust healthcare package including Medical Dental and Vision plans plus moreli liWellness programs designed to help you stay financially emotionally and physically healthy li liSavings through a company sponsored 401k planli liWe take selfcare personally we offer 11 paid holidays  Flexible PTO so you can create balance between work and playli liFlexible schedules  were all over the US so we can flex schedules easily with core hours to ensure solid collaboration time and flex beyond thatli brbrbrulemMindstrong is proud to be an Equal Employment Opportunity employer that celebrates diversity We are committed to providing equal employment opportunities to all employees and applicants All individuals seeking employment at Mindstrong are considered without regard to race color religion national origin age sex marital status ancestry physical or mental disability veteran status gender identity sexual orientation or any other characteristic protected by federal state or local laws This policy applies to all terms and conditions of employment Mindstrong also strives for a safe and robust workplace and prohibits harassment of any kind If you have a disability or special need that requires accommodation for interviewing please let us know by emailing ememcontactrecruitingmindstronghealthcomem",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-24T08:31:33.000Z"
+  },
+  "company": {
+    "name": "Mindstrong ",
+    "link": "https://www.linkedin.com/company/mindstrong"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

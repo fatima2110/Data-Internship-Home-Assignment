@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer II",
+    "industry": "Financial Services,Information Technology and Services,Internet",
+    "description": "strongOur PurposebrbrstrongWe work to connect and power an inclusive digital economy that benefits everyone everywhere by making transactions safe simple smart and accessible Using secure data and networks partnerships and passion our innovations and solutions help individuals financial institutions governments and businesses realize their greatest potential Our decency quotient or DQ drives our culture and everything we do inside and outside of our company We cultivate a culture of inclusion for all employees that respects their individual strengths views and experiences We believe that our differences enable us to be a better team  one that makes better decisions drives innovation and delivers better business resultsbrbrstrongJob TitlebrbrstrongSoftware Development Engineer IIbrulli Engineer Software EngineeringbrliulstronguOverviewbrbrustrongThe Cyber and Security Services team develops new capabilities for Mastercards fraud prevention platform We protect cardholders  card issuers and aim to eradicate credit card fraud Our industryleading platform processes billions of transactions per month with execution times literally 10X faster than you can blink To enable us to uphold the high standard of these fraud and security applications we are looking for outofthebox thinkers to play a critical role in the upkeep and continual health of these productsbrbrThe Software Engineer role will ensure these products continue to meet the high expectations from our customers by notably improving existing functionality updating stale or outdated functions proactively adding scalability while continuing to add enhanced value to these productsbrbrROLEbrulli Work with a team of talented developers to develop high performance high volume Java fraud management applicationslili Deliver solutions by providing direct development of software solutionslili Work closely with technical leads to define features and user storieslili Assist with support issues by troubleshooting incidents and problem ticketslili Possess the aptitude to quickly learn and contribute to our complex platformlili Provide technical expertise to ensure effective delivery of software capabilitieslili Contribute to the planning and development of software solutionslili Perform code reviews of coworkers deliverables to ensure best practicesbrliulstronguAll About Youbrustrongulli Considerate polite funloving collaborativelili Strong organizational and communication skills both verbal and writtenlili Proven experience with Linux and Java development JDK 17 or greater design patterns threading unit testing debugginglili Understanding of agile software development processes ideally a knowledge of SAFelili Competent with one or more of the following JBoss Tomcat shell scripting JSON multithreading Maven Oracle PLSQLlili Proven experience with Eclipse or IntelliJ and ability to compile deploy and execute code artifactsbrliulDue to COVID19 most of our employees are working from home Weve implemented a virtual hiring process and continue to interview candidates by phone or video and are onboarding new hires remotely We value the safety of each member of our community because we know were all in this togetherbrbremMastercard is an inclusive Equal Employment Opportunity employer that considers applicants without regard to gender gender identity sexual orientation race ethnicity disabled or veteran status or any other characteristic protected by law brbrememIf you require accommodations or assistance to complete the online application process please contact ememreasonableaccommodationmastercardcomemem and identify the type of accommodation or assistance you are requesting Do not include any medical or health information in this email The Reasonable Accommodations team will respond to your email promptlyem",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:23:10.000Z"
+  },
+  "company": {
+    "name": "Mastercard",
+    "link": "https://www.linkedin.com/company/mastercard"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 77900,
+    "max_value": 116000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

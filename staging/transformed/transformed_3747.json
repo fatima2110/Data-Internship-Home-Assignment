@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "strongJob DescriptionbrbrstrongstrongSoftware Engineer in Philadelphia PA 19103brbrstrongstrongInterview LogisticsstrongVideo InterviewsbrbrstrongRequired Skills SetbrbrstrongstrongYears of Experiencestrong7brbrstrongEducation RequiredstrongBachelors Degree or Equivalent Work Experiencebrulli7 years of experienceliliPython w no Front End OR React amp PythonliliProficiency in AWS cloud serviceliliExperience working in an Agile environmentbrliulstrongProject DescriptionbrbrstrongstrongAdditional Preferred SkillsbrbrstrongYou will own and be responsible for developing key components of our overall system that enables our customers to bring new insights to their own businesses Youll use the best tools for the job whether modern and revolutionary or time tested and proven to deliver elegant scalable solutions that meet business and technical needsbrbrWhat you will dobrulliWork with a team of developers to execute strategies implement solutions and produce peer reviewed quality softwareliliDevelop user facing interfaces into the data ecosystemliliAdd new features into our productsliliBuild serverless pipelines to handle API requestsliliImprove the software development process and contribute code reviewliliOwn the deployment of software and setting up monitoringbrliulstrongBusiness ProblembrbrstrongWe are building a platform that will scale to support an evergrowing array of data providers and innovative products You must be able to think big while still delivering on nearterm requirementsbrbrOur company challengesbrulliEmpowering clients with highly rewarding data discovery and licensing toolsliliIngesting and managing billions of healthcare records from a wide variety of partnersliliStandardizing on common data models across data typesliliOrchestrating an industryleading HIPAA privacy layerliliInnovating our proprietary deidentification and data science algorithmsliliBuilding a culture that supports rapid iteration and new possibilitiesbrliulThe infrastructure and culture we are building will provide an environment that cultivates innovation We want to move fast knowing we can fix anything we break along the way If a new need arises we want to turn around a solution quickly We want to solve our challenges in ways that create even more possibilities Were creating a platform that lets us Client what else we might dobrbrstrongPhysical Environment And Working Conditionsbrbrstrongconsultant will be able to work remotelybrbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T21:18:24.000Z"
+  },
+  "company": {
+    "name": "Turnberry Solutions",
+    "link": "https://www.linkedin.com/company/turnberry-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Philadelphia",
+    "region": "PA",
+    "postal_code": "08051",
+    "street_address": null,
+    "latitude": 39.95106,
+    "longitude": -75.16562
+  }
+}

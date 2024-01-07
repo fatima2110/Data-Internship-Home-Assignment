@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Oil &amp; Energy,Financial Services",
+    "description": "strongLocal Unit amp Position Descriptionstrong brbrSite Reliability Engineering SRE is the discipline that incorporates aspects of software engineering and applies them to infrastructure and operations problems The main goals are to create deploy and manage scalable and highly reliable software systems SRE ensures that all services  both our internally critical and our externally visible systems  have reliability and uptime appropriate to users needs while keeping a watchful eye on capacity and performancebrbrWe are looking for a Site Reliability Engineer to help us grow our oil and gas pipeline software business The successful candidate will work in an agile team environment on cloudbased enterprise applications deployed to both internal and external clients The ideal site reliability engineer candidate is either a software engineer with a good administration background or a highly skilled system administrator with knowledge of coding and automationbrbrThis position will be located in our Mechanicsburg PA or Katy TX Houston TX area office Possibility for remote in other locations excluding ColoradobrbrstrongTasks may includestrong brulliDeployment of software to multiple operating environments installation and configuration of demoproductiontraining environmentsliliDaytoday administration of multiple operating environments including joint responsibility for our production environmentsliliTroubleshoot issues that arise in webbased operating environments document defects in Azure DevOps and work with colleagues to resolve issuesliliSupport DevOps efforts daily interacting with Development and Operations team membersliliSupport development of processes and procedures for deployment operations and maintenanceliliSupport web operations workflow automation using configuration management and continuous deployment frameworksliliApply service delivery best practicesliliConduct postmortems investigate analyze and document unplanned downtime eventsliliAutomate existing manual processesliliWork with a global team spread across tech hubs in multiple geographies and time zonesliliTroubleshoot stabilize and resolve incidents when they occurliliPerform incident analysis to gather findings and identify followup actions that lead to more reliable productsbrliulstrongRequirementsstrong brbrstrong Position Qualifications strong brulliSystems engineering or DevOps experienceliliExperience with site reliability engineering specifically with Azure or AWS cloudliliExperience writing code to automate daytoday tasksliliExperience developing and maintaining continuous deployment pipelines eg ADOliliExperience in service engineering lifecycle and live site operation at internet scaleliliExperience in configuration deployment and maintenance of Cloudbased platformsliliExcellent knowledge of a scripting language like PythonliliExperience working on cloudbased infrastructure eg AzureliliExperience in automating releases continuous integrationdelivery systems and relevant toolsliliSolid foundation in both software and systems engineering liliKnowledge of standard production practices including change managementliliComfort with frequent incremental code deploymentliliFamiliarity with monitoring and metric collection systemsliliAzure DevOps experienceliliExcellent troubleshooting skillsliliA strong desire to current on technical trends in order to suggest innovative tools and approaches to interesting problemliliStrong written and verbal English communication skillsliliWe conduct a preemployment background check and drug screenbrliulstrongPreferred Skillsstrong brulliExperience with container and container orchestration technology eg Docker Kubernetes strongly preferredliliExperience securing cloudweb applications strongly desiredliliVersion Control Systems experience GIT preferredliliBachelors degree or higher in related field preferredbrliulImmigrationrelated benefits for example visa sponsorship are not available for this position brbrstrongOpportunities Beyond Businessstrong brbrOur mission is to safeguard life property and the environment By joining us you will work towards our meaningful vision to make a global impact for a safe and sustainable future DNV offers a congenial working environment competitive salaries and an exceptional benefits packagebrbrDNV is an Equal Opportunity Employer and gives consideration for employment to qualified applicants without regard to race color religion age sex national origin disability or protected veteran status For more information about your rights under the law seebrbrhttpwww1eeocgovemployersuploadeeocselfprintposterpdfbrbrPlease visit our website at wwwdnvcombrbrstrongCompany amp Business Area Descriptionstrong brbrDNV is a worldleading provider of digital solutions for managing risk and improving safety and asset performance for ships pipelines processing plants offshore structures electric grids smart cities and morebrbrOur open industry platform Veracity cyber security and software solutions support businesscritical activities across many industries including maritime energy and healthcarebrbrstrong Equal Opportunity Statement strong brbrDNV is an Equal Opportunity Employer and gives consideration for employment to qualified applicants without regard to gender religion race national or ethnic origin cultural background social group disability sexual orientation gender identity marital status age or political opinion Diversity is fundamental to our culture and we invite you to be part of this diversity",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-01T14:59:33.000Z"
+  },
+  "company": {
+    "name": "DNV",
+    "link": "https://no.linkedin.com/company/dnv"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Katy",
+    "region": "TX",
+    "postal_code": "77492",
+    "street_address": null,
+    "latitude": 29.794857,
+    "longitude": -95.81653
+  }
+}

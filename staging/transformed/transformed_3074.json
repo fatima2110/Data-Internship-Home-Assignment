@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "VP-Site Reliability Engineer (SRE)",
+    "industry": "Banking,Financial Services,Investment Banking",
+    "description": "Job Id 21332225brbrThe deployment automation team at Citi manages a platform that orchestrates releases across a very large number of enterprise applications This is a mature platform running without major issues and supporting modern deployment strategies like canary bluegreen containers microservices public cloud alongside some more traditional distributed systems and databasesbrbrAs we expand our continuous delivery product portfolio we are looking for a SRE handson engineer with experience running platforms as scale leveraging industry observability and automation platforms Someone who brings fresh ideas demonstrates a unique and informed viewpoint and enjoys collaborating with a crossfunctional team to develop realworld solutions and positive user experiences at every interactionbrbrResponsibilitiesbrulliConfigure and tune the observability platforms we use to streamline alerting and proactive issue identificationliliAutomate manual activities as new features are added to the platformliliEnsure the platform functional test suite remains complete and runs quicklyliliExpand performance and load testing capability to better simulate real production useliliPerform root cause analysis owning actionable followupsliliMeasure and optimize system performance setting proper metrics and SLAsSLOsliliMange risk and control activities across the platform and teambrliulEssential Skillsbrulli3 SRE and operational role running a large enterprise platformlili5 years working with Linuxlili5 years scripting in PythonShellBashKshlili3 years of software development experience Java on LinuxliliExtensive experience working with and customizing automation scripts  Ansible is currently usedliliPrior experiences with DevOps CICD tools like Git and JenkinsliliExperience analyzing data to drive decisionsliliCompetent with API web services and microservices developmentliliStrong communication skills both written and oralliliStrong architecture and designliliStrong analytical algorithmic and problemsolving skillsliliExcellent teamwork and proactive attitudeliliBSMS degree in Computer Science or related technical fieldbrliulDesired SkillsbrulliExperience with Docker Kubernetes OpenshiftliliExperience with SqlNoSql databases like Oracle MongoDBliliJava Spring Framework development experienceliliExperience in Config Management tooling eg Ansible Chef Puppet or SaltStackliliExperience writing automation testsliliAbility to quickly learn new concepts and softwarebrliulbrbrstrongJob Family Group brbrstrongTechnologybrbrbrbrstrongJob FamilybrbrstrongSystems amp EngineeringbrbrbrbrstrongTime TypebrbrstrongbrbrCiti is an equal opportunity and affirmative action employerbrbrQualified applicants will receive consideration without regard to their race color religion sex sexual orientation gender identity national origin disability or status as a protected veteranbrbrCitigroup Inc and its subsidiaries Citi invite all qualified interested applicants to apply for career opportunities If you are a person with a disability and need a reasonable accommodation to use our search tools andor apply for a career opportunity review strongAccessibility at CitistrongbrbrView the strongEEO is the Lawstrong poster View the strongEEO is the Law SupplementstrongbrbrView the strongEEO Policy StatementstrongbrbrView the strongPay Transparency Postingbrbrstrong",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Citi",
+    "link": "https://www.linkedin.com/company/citi"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irving",
+    "region": "TX",
+    "postal_code": "75063",
+    "street_address": null,
+    "latitude": 32.813877,
+    "longitude": -96.949936
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Modeling Scientist.",
+    "industry": "Hospital &amp; Health Care,Medical Devices,Pharmaceuticals",
+    "description": "Janssen Biotherapeutics JBIO in Janssen Research amp Development LLC a division of Johnson amp Johnsons Family of Companies is recruiting a strongData Modeling Scientist strongto focus on applying data science to support our locations in Spring House and Malvern PAbrbrAt the Janssen Pharmaceutical Companies of Johnson amp Johnson we are working to create a world without disease Transforming lives by finding new and better ways to prevent intercept treat and cure disease inspires us We bring together the best minds and pursue the most promising science We are Janssen We collaborate with the world for the health of everyone in it Learn more at wwwjanssencom and follow us JanssenGlobal Janssen Research amp Development LLC is part of the Janssen Pharmaceutical CompaniesbrbrJanssen Research amp Development LLC discovers and develops creative large molecule solutions to address meaningful unmet medical needs in oncology immunology neuroscience infectious diseases and vaccines gene therapy and cardiovascular and metabolic diseases You can be part of a premier organization living our credo and helping patients every daybrbrThe applicant should have a strong technical background engineering biology or chemistry and experience in pharmaceutical research and development The candidate should have a strong understanding of the theory and use of modeling to make decisions from model output and ability to train and support project teams Skills include but not limited to use of predictive models AIML MVA Bayesian statistics Digital Twins They should have a proven record of working independently and leading focused teams to address sophisticated technical issues working at the intersection of drug development and data science The candidate should have knowledge and experience working in a GxP environment The individual should have strong oral and written communication skills and be proficient in making presentations to senior management and at company meetings The candidate should also understand SDLC Software Development Life Cycle and use of agile software development toolsbrbrstrongPrimary Responsibilitiesbrstrongul liBuild novel models algorithms and user interface to enable scalable solutions delivering knowledge and optimized decisionmaking in RampDli liWorking with scientists and engineers to define user requirements for data blocks and build data pipelines to assemble clean coordinate integrate visualize and interpret data needs for modelingli liCollaborate with data engineers and IT architects to build a modeling infrastructure that addresses Biotherapeutics scientific questionsli liAdvise and influence project teams on data driven decision making including design of experiments demonstrating historical knowledgeli liDevelop inprocess predictive modeling capabilities while ensuring standards for data and model quality statistically appropriate decisions optimizing data to decisionli brbrulstrongRequiredbrbrstrongstrongQualificationsbrstrongul liBS with 7 years of experience or MS 4 years of experience or PhD with 01 years of experience in Core science field Bioinformatics Engineering or related fieldli ulul liProficient with one or more programming language such as net Java Perl C Matlab Julia or Python is requiredli liSkilled at wrangling and transforming high dimensional big datali liProficiency with statistics algorithm design andor machine learning modelsli liCurrent on knowledge of emerging trends in data science and drug developmentli liCreative thinking ability to generate new insights and concepts to drive data science in Biotherapeuticsli liStrong collaboration and communication skillsli brbrulstrongPreferredbrstrongul liExperiences in Amazon Web Services AWS andor fullstack development ClouderaHadoop and use of git bitbucket and Jirali liKnowledge of Biologic Process Molecular Biology Biochemistry Chemistryli liWorking knowledge of SDLC as it relates to model verification and validationli liApplied PAT and or inline applications Chemometrics Raman spectroscopyli liWorking knowledge or experience with GxP and knowledge managementli liAbility to influence data driven culture adapting positive changeli brbrulJohnson amp Johnson is an Affirmative Action and Equal Opportunity Employer All qualified applicants will receive consideration for employment without regard to race color religion sex sexual orientation gender identity age national origin or protected veteran status and will not be discriminated against on the basis of disabilitybrbrstrongPrimary LocationbrstrongUnited StatesPennsylvaniaSpring HouseWelsh amp McKean RoadsbrstrongOther LocationsbrstrongNorth AmericaUnited StatesPennsylvaniaMalvernbrstrongOrganizationbrstrongJanssen Research amp Development LLC 6084brstrongJob FunctionbrstrongRampDbrstrongRequisition IDbrstrong2105917846Wbrbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-28T17:33:14.000Z"
+  },
+  "company": {
+    "name": "Johnson &amp; Johnson",
+    "link": "https://www.linkedin.com/company/johnson-&amp;-johnson"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Malvern",
+    "region": "PA",
+    "postal_code": "19355",
+    "street_address": null,
+    "latitude": 40.033436,
+    "longitude": -75.51271
+  }
+}

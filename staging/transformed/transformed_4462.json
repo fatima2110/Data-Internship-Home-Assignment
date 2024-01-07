@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Roku &amp; Web",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "stronguDescriptionbrbrustrongstrong  Who are webrbrstrongWe are Accedo and have more than ten years of experience helping hundreds of TV platform operators broadcasters media companies and consumer electronics manufacturers across the globe to design deliver and manage the next generation video user experience across a vast range of connected devices Accedo delivers rich media apps on multiple platforms ranging from Smart TVs gaming consoles and media devices to smart phones and tablets Our customers include over 350 of the worlds leading video service providers such as Netflix Spotify HBO NBC Universal SBS Seven West Media Channel 9 ABC Telstra Fox Sports among many othersbrbrstronguWhat We Are Looking ForbrbrustrongAccedo is looking for talented Software Engineers to join the Australia team in Sydney The primary responsibility will be the development of Roku applications but also the opportunity to work on other Smart TV platforms and Web using JavaScriptbrbrYou will play a key role in designing building and maintaining largescale high availability frontend applications and integrating with the related platform infrastructure eg API services build pipelines automated testing etc Ensuring development best practices are followed Clean Code Clean Architecture code reviewsbrbrActively communicate with the project managers team members and clientsbrbrAt Accedo you will be part of a diverse and multidisciplined development team gaining exposure to cutting edge technologies and the opportunity to work with some of the largest global media brands in the industry Working in a highly collaborative environment you will help transform requirements and designs into high performing feature rich applications on a wide variety of web based platforms and devicesbrbrstronguSkills And ExperiencebrustrongulliSoftware development experience using Rokus BrightScript with its UI Framework SceneGraphliliExperience in Web andor CTV development using JavaScript and related frameworks and libraries is highly desirable eg React Gatsby NextJS ExpressliliGood understanding of development methodologies testing practices and tools and knowing when to apply each method to achieve the desired outcomesliliExperience and knowledge of Design and Architectural patterns and knows when to apply themliliStrong communication skills and knows when to ask for help and bounce ideas and solutions off peersbrliulstronguWhat We OfferbrustrongulliEntrepreneurial spirit You will work in a dynamic and innovative organisation alongside the smartest and most dedicated people in the industry liliMulticultural offices You will be part of a truly inclusive and diverse environment with employees from all over the world We are proud of being an equal opportunity employerliliLearning opportunities You will benefit from a wide range of learning and transfer knowledge fromto your colleagues worldwideliliFriendly environment You will collaborate tightly with colleagues and make many friends beyond the professional context brliulOther then that we offer competitive salary and benefits flexible work from home opportunities and access to the latest developments in the OTT industrybrbrstrongEligibilitybrbrstrongOnly those candidates who are an Australian  New Zealand Citizen Australian Permanent Resident or have a working visa for Australia valid for at least the next 2 years will be considered for this role Accedo will not not offer any VISA support  Sponsorship for this rolebrbrstronguRequirementsbrustrongulliuDegree in Computer Science Software Engineering IT or related disciplineli3  5 years professional experience developing software applications 2 in Roku developmentliliExperience integrating open source or 3rd party APIs and Libraries highly desirableliliGood working knowledge of JavaScript Frameworks React Angular Express Gatsby NextJSliliGood knowledge of performance and memory optimisations proficient usage of the tools available in SDKs and excellent debugging skillsliliProficient with source code management GitBitbucketGitHubliliExposure to Agile Continuous Integration Test Driven Development is a plusliliMust have excellent problem solving skills and love technical challengesliliInterest in learning new platforms and new technologiesliliExperience in Video and media based development projects is highly desirable DRM OVPs Advertising AnalyticsliliAWS experience is highly desirableliliGood command of Englishliuliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:13:19.000Z"
+  },
+  "company": {
+    "name": "Accedo.tv",
+    "link": "https://se.linkedin.com/company/accedo-tv"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "AU",
+    "locality": "Sydney",
+    "region": "NS",
+    "postal_code": "2046",
+    "street_address": null,
+    "latitude": -33.872765,
+    "longitude": 151.20534
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Python Engineer - Geospatial Software",
+    "industry": "Computer Software",
+    "description": "strongTitlestrong Python EngineerbrstrongLocationstrong Temporary Full Remote  Denver CObrstrongSalarystrong 130000  140000yearbrstrongRequirementsstrong Python SQL SaaSbrbrBased out of Mountain View CA this position will be remote until we open an office in Denver at which time it will be partially remote We have been in business for 7 years We are a rapidly growing company specializing in machine learning and our technology helps increase the understanding of our earth and the built environments We have seen a 16 growth in headcount over the last 6 months and have focused most of this growth on our engineering department We have a variety of different systems ranging from clientfacing web apps to our highly scalable fast deeplearning pipelinebrbrIf you are a Python Engineer with 3 years of experience please read onbrbrWhat You Will Be Doingbrulli Build and implement applications and frameworks for our clientslili Integrate with other teams to create solutions for problems that the customer defineslili Create new features based on customer feedback while also predicting necessary enhancements based on user datalili Practice strong TDD methodologieslili Participate in full lifecycle developmentlili Introduce new technologies that will help improve our products overall functionalitylili You will work with data science machine learning and AI teams to improve our overall software and grow your own skills in these areasbrliulWhat You Need for this Positionbrulli Pythonlili SQLlili JavaScriptlili SaaSbrliulNice to Have Experiencebrulli Machine Learninglili Artificial Intelligencelili AWSbrliulWhats In It for YoubrbrCompetitive Base Salary  130K  140KbrHealth Dental Vision and Life InsurancebrPTObr401K with matchingbrBonusbrbrstronguSo If You Are a PythonEngineer With Experiencebrustrongulli Apply directly to this job opening herebrliulOrbrulli Email directly for more information to SteveNashcybercoderscombrliulstronguEmail Your Resume In Word TobrbrustrongLooking forward to receiving your resume through our website and going over the position with you Clicking apply is the best way to apply but you may alsobrbrMeaghanCurranCyberCoderscombrulliPlease do NOT change the email subject line in any way You must keep the JobID linkedin  SN11636303  in the email subject line for your application to be consideredbrliulMeaghan Curran  Sr Executive Recruiter  CyberCodersbrbrApplicants must be authorized to work in the USbrbrstrongCyberCoders Inc is proud to be an Equal Opportunity EmployerbrbrstrongAll qualified applicants will receive consideration for employment without regard to race color religion sex national origin disability protected veteran status or any other characteristic protected by lawbrbrstrongYour Right to Workstrong  In compliance with federal law all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T06:59:48.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Denver",
+    "region": "CO",
+    "postal_code": "80247",
+    "street_address": null,
+    "latitude": 39.738453,
+    "longitude": -104.984856
+  }
+}

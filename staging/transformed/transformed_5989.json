@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "pstrongSUMMARYstrongnbspApex Systems has an immediate opening for a Machine Learning Engineernbspfor a client in the financial services industry The position is a contracttohire offering a competitive compensation package The successful candidate must come from a machine learning environment and have Java development experienceppbrppThis is a great opportunity to get your foot in the door with a large IT company to grow with internallyppbrppstronguMust be USC or Green Card No C2CustrongppbrppstrongROLEstrong Machine Learning EngineerppstrongTERM strongLong term contract to hireppstrongLOCATIONnbspstrongRemote company in Rockville MDppbrppstrongQUALIFICATIONSstrongppbrpulliBachelorsMasters degree in Computer Science or related fieldnbspliliCore Java lili4 years Machine Learning experienceliliAWS Core ServicesliliExperience with web based technologies specifically HTMLliul",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-24T02:04:59.000Z"
+  },
+  "company": {
+    "name": "Apex Systems",
+    "link": "https://www.linkedin.com/company/apex-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Rockville",
+    "region": "MD",
+    "postal_code": "20850",
+    "street_address": null,
+    "latitude": 39.08418,
+    "longitude": -77.1529
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "pstrongTurnt Gamingnbspstrongis a technology company that is changing how the world plays games Combining blockchain based gaming with live entertainment we believe the combination of gaming and live interaction is the next entertainment revolution ppnbspppAs a company we are looking for dreamers who think big We want people passionate about blockchain and how it can affect gaming We want people who are ambitious and want to build something meaningful and cutting edgenbspppbrppThe ideal candidates favorite words are learning data scale and agility You will leverage your strong collaboration skills and ability to extract valuable insights from highly complex data sets to ask the right questions and find the right answersnbspppnbspppstrongResponsibilitiesstrongpulliAnalyze raw data assessing quality cleansing structuring for downstream processingliliSpearhead the creation of game economy leveling systems game mechanics and blockchain tokenomicsliliDesign accurate and scalable prediction algorithmsliliBuild machine learningAI based data feeds for live prediction platformsliliCollaborate with engineering team to bring  prototypes to productionliliSetup up reporting tools and structure forliliGenerate actionable insights for business improvementsliulpbrppstrongQualificationsstrongpulliBachelors degree or equivalent experience in quantative field Statistics Mathematics Computer Science Engineering etcliliAt least 5 years of experience in quantitative analytics or data modelingliliDeep understanding of predictive modeling machinelearning clustering and classification techniques and algorithmsliliUnderstanding of decision tree modeling and game theory liliFluency in a programming language Python CC Java SQLliliFamiliarity with Big Data frameworks and visualization toolsliliExperience with game economy or block chain economics preferredliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T06:25:30.000Z"
+  },
+  "company": {
+    "name": "Turnt Gaming ",
+    "link": "https://www.linkedin.com/company/turnt-gaming"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Seattle Area",
+    "region": null,
+    "postal_code": "98109",
+    "street_address": null,
+    "latitude": 47.591396,
+    "longitude": -122.33279
+  }
+}

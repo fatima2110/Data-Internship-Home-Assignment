@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "stronguDescriptionbrbrustrongstronguJob DescriptionbrbrustrongCome put your software engineering skills into action The Leidos Defense Group has openings for a talented Staff Software Engineer to join our Software Factory in Omaha NE The responsibilities for this position include all aspects of the software development lifecycle including scope and work estimation architecture and design coding and automated testing within an Agile and Continuous Integration and Continuous Delivery model In this role you will join a dynamic team that is singularly focused on providing world class solutions to our customers in an exciting collaborative and inclusive atmosphere You will be challenged and provided a tremendous opportunity for growth in a customerfacing fastpaced and fun environmentbrbrAs a leader in the Software Factory you will architect design build and enhance highly available and scalable systems used by customers worldwide You will direct major deliverables of projects through all aspects of the software development lifecycle including scope and work estimation architecture and design coding and unit testing Additionally you will determine and recommend the best designs based on customer business objectives timelines and other resource constraintsbrbrstronguPrimary ResponsibilitiesbrustrongulliHelp build manage and mentor multidisciplined teams executing Agile and DevSecOps processes using bestofbreed toolsliliCultivate a culture of innovation and promote collaboration across teams and projectsliliDesign develop test deploy maintain and continuously improve our software deliverablesliliManage project priorities deadlines and deliverablesbrbrliulstronguBasic QualificationsbrustrongulliBachelors Degree in Software Engineering Computer Science or related field and 812 years of software engineering experience or a Masters with 610 years of experienceliliHandson expertise with JavaC and object oriented programmingliliStrong proficiency with basic web technologies including HTML CSS REST JSON and JavaScriptliliDemonstrated proficiency with web application technologies and deployment environments including Docker Kafka and KubernetesliliExperience architecting developing and delivering complex software systems into productionliliStrong understanding of modern software design patterns and coding standardsliliExperience leading multidisciplined technical project teams and setting the technical directionliliWorking knowledge of Agile development and continuous integration and continuous delivery methodologies and toolsliliExperience with a version control system eg GitliliExperience with an issueproblem tracking system eg JiraliliProficiency with multiple operating systems Mac OSX Windows Linux etcliliInterest and ability to learn new programming languages tools frameworks and techniquesliliMust be able to obtain a DoD Secret Security ClearancebrbrliulstronguPreferred QualificationsbrustrongulliMasters degree in Software Engineering Computer Science or a related fieldliliHandson experience with Agile management tools such as Jira Bitbucket GitLab ConfluenceliliHandson experience with continuous integration and delivery tools such as Jenkins SonarQube JUnit Cucumber Selenium JMeterliliActive DoD security clearancebrbrliulstronguExternal Referral BonusbrbrustrongEligiblebrbrustrongExternal Referral Bonus brstrongu2000brbrstronguPotential For TeleworkbrbrustrongNobrbrstronguClearance Level RequiredbrbrustrongNonebrbrstronguTravelbrbrustrongYes 10 of the time",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:18:57.000Z"
+  },
+  "company": {
+    "name": "Leidos",
+    "link": "https://www.linkedin.com/company/leidos"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellevue",
+    "region": "NE",
+    "postal_code": "68147",
+    "street_address": null,
+    "latitude": 41.15106,
+    "longitude": -95.90025
+  }
+}

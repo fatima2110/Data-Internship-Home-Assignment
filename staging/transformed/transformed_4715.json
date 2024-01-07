@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sales Consultant",
+    "industry": "",
+    "description": "pstrongJob DescriptionstrongppSales ConsultantppUpscale Luxury Retailer looking for parttime portrait sales consultant located in Greenwich CTppA wellestablished Portrait Artist looking for a dynamic person to consummate the sale of art pieces Sales to take place either in our studio Candidate must be well versed in home design and decoratingppApplicant mustppnbspnbspnbspnbspnbspnbspnbspComfortable dealing with the affluentppnbspnbspnbspnbspnbspnbspnbsp5 years of sales experienceppnbspnbspnbspnbspnbspnbspnbspProfessional appearanceppnbspnbspnbspnbspnbspnbspnbspStrong communications skillsppnbspnbspnbspnbspnbspnbspnbspHave reliable transportationppnbspnbspnbspnbspnbspnbspnbspDetailed orientedppnbspnbspnbspnbspnbspnbspnbspBe able to work Wedensday thru SaturdaysppppbrppAll clients are provided No Solicitation requirednbspstrongSalary plus commissions and paid benefits Total yearly compensation between 100000125000strongppDO NOT CALL THE STUDIOppstrongMUST SUBMIT COVER LETTER AND RESUME FOR CONSIDERATIONstrongppStudio website wwwkramerportraitscomp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:26:55.000Z"
+  },
+  "company": {
+    "name": "Kramer Portraits",
+    "link": "https://www.linkedin.com/company/kramer-portraits"
+  },
+  "education": {
+    "required_credential": "associate degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greenwich",
+    "region": "CT",
+    "postal_code": "06807",
+    "street_address": null,
+    "latitude": 41.026527,
+    "longitude": -73.62855
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Pharmaceuticals,Medical Devices",
+    "description": "pstrongLocation South San Francisco CAstrongppstrongDuration 6 Months ContractstrongppbrppYou will join the department of AIClient within Research Biology You will collaborate with scientists working on different areas of machine learning and the life sciencesppYou will closely collaborate with machine learning scientists computational chemists and bioinformaticians across departments in the organizationppYou will develop and deploy deep learning methods for representation learning of small molecules and prediction of chemical propertiesppThe work will also involve software development infrastructure and hardware optimizations data pipelining and innovations to implement robust AI solutions for real world use casesppbrppDemonstrated experience with deep learning frameworks and models PyTorch is preferredppProficient in PythonppDemonstrated experience in software development GPU acceleration model optimization and scaling for multiple server nodesppExcellent communication and collaboration skillsppbrppstrongMSc or PhD degree in a quantitative field eg Computer Science Computational Chemistry Machine Learning Statistics Mathematics Physics strongppstrongIndustry experience as data scientist or ML engineer in a healthcare company strongppstrongExperience in deep learning for graphbased andor sequencebased data strongppstrongExperience in deep learning for small moleculesstrongp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-13T15:16:42.000Z"
+  },
+  "company": {
+    "name": "Tech Observer",
+    "link": "https://www.linkedin.com/company/tech-observer"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "California",
+    "region": "United States",
+    "postal_code": "93266",
+    "street_address": null,
+    "latitude": 37.254673,
+    "longitude": -119.61728
+  }
+}

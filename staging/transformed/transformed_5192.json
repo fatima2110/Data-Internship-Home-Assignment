@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "Position Site Reliability EngineerbrLocation RemotebrJob Type 12 MonthsbrbrJob Responsibilitiesbr\tWork in a crossfunctional team to design and implement the next generation of CICDbr\tplatform as a service inhouse productbr\tLeverage Kubernetes operators Tekton and Spinnaker pipelines to automate thebr\tdeployment and administration of applications across multiple environments onprembr\tand in the cloudbr\tDefine workflows and processes to meet InfrastructureasCode objectivesbr\tActively facilitate continuous improvementbr\tMonitor various systems capacity and health indicators and trendsbr\tProvide 24x7 tier3 troubleshooting and breakfix support for production servicesbr\tDesign and build RESTful microservices enabling the application of rolebased accessbr\tcontrol network policies and service registrationbrbrRequired Qualificationsbr\t25 years of relevant work experiencebr\tStrong software engineering skills preferably working in multiple programmingbr\tlanguages Java Go Pythonbr\tProficiency in cloudnative technologies and architectures Docker Kubernetesbr\tOpenShiftbr\tProficiency in revision control and DevOps best practices Gitbr\tExpert Linux experience Red Hat CentOSbrbrPreferred Qualificationsbr\tExperience with public or private cloud services AWS Azure Google Cloudbr\tOpenStackbr\tFamiliarity with continuous integrationdeployment tools and platforms Spinnakerbr\tDrone Jenkins Ansiblebr\tFamiliarity with Application Performance Monitoring APM or tracingbr\tContributions to opensource projectsbrbrRegardsbrJusteenbrTechnical RecruiterbrVDart IncbrEmail Justeendvdartinccombr",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-20T17:59:58.000Z"
+  },
+  "company": {
+    "name": "VDart",
+    "link": "https://www.linkedin.com/company/vdart"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

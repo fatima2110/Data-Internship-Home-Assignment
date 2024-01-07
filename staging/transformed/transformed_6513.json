@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Biotechnology",
+    "description": "pAs an ML Engineer you will assist with the development of the model training and evaluation infrastructure You will work closely with data scientists to experiment on model architecture and take them into production Youll build maintain and improve data processing pipelines that process billions of data points and petabytes of data Youll work in an interdisciplinary team composed of data scientists bioinformaticians biologists and software engineers to help solve hard problems which improve biological research and ultimately health outcomes across all of biologyppbrppMinimum QualificationspulliThis is an onsite position  not remote Work from home as appropriateliliBachelors in computer science data science or equivalentliliExpertise in working with at least one deep learning framework such as PyTorch TensorFlow CaffeliliStrong analytical and problemsolving skillsliliAbility to understand and execute the companys mission and valuesliliMaintain a high degree of ethical standard and trustworthinessliliStrong technical written and oral communication skillsliulpbrppPreferred Qualificationspulli2 years software development experienceliliProficient in PythonliliExperienced in cloud providers such as GCP or AWSliliExperienced in working with ETL pipelinesliliA track record for delivering Machine Learning projects for a productliliExcellent written and verbal communication skillsliliStrong and proactive communication natural curiosity Ambition to apply skills to a wide variety of fieldsliliBe able and open to pick up new skills work with 3rd party technologies and devicesliulpbrppThis role is NOT remote  Work from home Flexp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-24T22:11:58.000Z"
+  },
+  "company": {
+    "name": "Harnham",
+    "link": "https://uk.linkedin.com/company/harnham"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

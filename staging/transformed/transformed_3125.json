@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "pData Scientist ppbrppJob DescriptionppSummarypp Responsible for overseeing the collection storage and interpretation of data forppbusinessespp Sift through data points to create organized categories comparing data points to currentppcompany processes and writing reports outlining business predictions or proposalsppDuties and Responsibilitiespp Use data to help businesses make decisions by collecting data through means such asppanalyzing business results or by setting up and managing new studiespp Transferring data into a new format to make it more appropriate for analysispp Creating new experimental frameworks to collect datapp Building tools to automate data collectionpp Searching through large data sets for usable informationpp Creating reports and presentations for business usespp Correlating similar data to find actionable results data Scientist skills and qualificationsppRequired Skillspp Exceptional technical writing skillspp Ability to communicate complex data in a simple actionable waypp Ability to visualize data in the most effective way possible for a given project or studypp Analytical and problemsolving skillspp Experience with machine learning and AIpp Familiarity with data management toolspp Ability to work independently and with team members from different backgroundspp Excellent attention to detailpp Data Scientist education and training requirementsppEducationpp Major Computer Science Mathematics Statistics or Engineeringpp Bachelors degree with 7 yearspp Masters degree with 5 years preferredppbrppbrppThe ideal candidates favorite words are learning data scale and agility You will leverage your strong collaboration skills and ability to extract valuable insights from highly complex data sets to ask the right questions and find the right answersnbspppnbspppstrongResponsibilitiesstrongpulliAnalyze raw data assessing quality cleansing structuring for downstream processingliliDesign accurate and scalable prediction algorithmsliliCollaborate with engineering team to bring analytical prototypes to productionliliGenerate actionable insights for business improvementsliulpbrppstrongQualificationsstrongpulliBachelors degree or equivalent experience in quantative field Statistics Mathematics Computer Science Engineering etcliliAt least 10 years of experience in quantitative analytics or data modelingliliDeep understanding of predictive modeling machinelearning clustering and classification techniques and algorithmsliliFluency in a programming language Python CC Java SQLliliFamiliarity with Big Data frameworks and visualization tools Cassandra Hadoop Spark Tableauliul",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-10T21:21:24.000Z"
+  },
+  "company": {
+    "name": "Paramount Software Solutions, Inc",
+    "link": "https://www.linkedin.com/company/paramount-software-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

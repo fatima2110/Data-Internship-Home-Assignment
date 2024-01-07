@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Build Systems Engineer",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brApple is looking for a talented detail oriented and results oriented software engineer to develop a build infrastructure for our nextgeneration products In this position you will have the opportunity to work with a group of top notch software engineers from related but different backgrounds to make a product truly innovative To be successful in this role the candidate must be handson proactive excellent at problem solving and have a strong desire to learnbrbrbrThis build engineer candidate takes pride in creating and managing a build and test infrastructure as well as automated build tools using continuous integration practices This engineer needs to closely work with crossfunctional teams to identify the issues design and implement the proper solution and work with the engineering teams to properly test and deploy the changes Critical thinking writing solid and clean code planning documenting and communicating within the team and crossfunctionally is critical to the success of the rolebrbr brstrongKey Qualificationsbrstrong br5years of SW development and build infrastructure experiencebrbrExcellent software development process skillsbrbrPrevious experience working on a project that has a build and release process integrating at least 25 componentsbrbrExperience with Jenkins or similar toolsbrbrBreath of knowledge on a variety of techniques and tools in the areas of build test deploy and releasebrbrHave created and managed software package dependencies such as deb dmgbrbrFamiliar with artifact management solutions artifactory aptly package mirrorsbrbrDemonstrated experience with project level build tools such as bazel CMake Make buck ninja for large scale softwarebrbrExperience in building C based projectsbrbrDeep understanding of build dependencies at various levels header dependencies linking dependencies tools dependencies package dependenciesbrbrAbility to script in python bashbrbrFamiliarity with macOS and Linux development and debugging toolsbrbrExperience with embedded systems software a plusbrbrExperience with LLVM andor Xcode is a plusbrbrExcellent teamwork and communication skillsbrbrStrong verbal and written communication skillsbrbrAbility to manage multiple tasks and selfprioritizebrbrDetail orientedbrbr brstrongDescriptionbrstrong brAs a build engineer you will be responsible for developing a multilanguage build infrastructure for a unified set of OS kernels frameworks applications and internet services Analyzing build and test cycle time robustness and optimizing software builds Developing tools to enable developer efficiency for build test and release tasks Apple is seeking a software engineer with a strong technical and programming background enthusiastic about build and test infrastructures The successful candidate for this role is a teamoriented professional with excellent communication skills comfortable in a fastpaced environmentbrbr brstrongEducation amp Experiencebrstrong brBSMSEE in Computer Science or related fieldbrbr brstrongAdditional Requirementsbrstrong br  Coding experience in a C based language a plus C C ObjectiveCbrbr  Familiarity with container ecosystem cluster schedulers Kubernetes docker service registries secrets management is a plusbrbr  Familiar with Virtualization Technologies vmware KVM is a plusbrbr brRole Number 200239222brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:45:14.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 115000,
+    "max_value": 181000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

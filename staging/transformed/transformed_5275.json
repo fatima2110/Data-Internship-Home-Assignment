@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "CPU Research Scientist",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brDo you have an uncommon desire to seek out and solve exceedingly difficult challenges rather than the easy ones Do you believe that a worldclass team with relentless drive can surpass even their own high expectationsbrbrWe do But we also realize this job isnt for everyone What we do isnt easy but you dont take the easy path We are seeking a highly motivated innovative and confident individuals to join the CPU Architecture and Performance Team we are a group that is driving advanced exploration for next generation iPhone iPad and Mac CPU architecturesbrbr brstrongKey Qualificationsbrstrong br Experience and knowledge of CPU architecture and microarchitecture concepts expertise in one or multiple CPU focused areasbrbr Ability to identify performance bottlenecks in workloads craft ideas to solve them and implement those ideas in the performance simulatorbrbr Proficient in CC and a scripting language such as Perl or Pythonbrbr Knowledge and experience with common industry performance benchmarks andbrbrworkloadsbrbr brstrongDescriptionbrstrong brThe CPU Platform Architecture team is responsible for setting direction for Apple CPUs towards high performance futuristic microarchitecture ideas We want to push the boundaries of CPU performance to enhance user experience on Apple products through advanced CPU performance featuresbrbrIn this role you willbrbr Solve performance problems involving branch prediction datacode prefetching cache hierarchy or other CPU areasbrbr Build the right tools suited for performance bottleneck analysis so that you can parse through the noise and focus on the real problembrbr Apply state of the art AIML techniques to solve CPU performance issues as necessarybrbr Conduct continuous research into one or more CPU areas and provide guidance to Apple CPU design team on features that should be implemented in future CPUsbrbr Present analysisfindings to CPU architecture and design teamsbrbr Provide recommendations and influence the roadmap for future Apple CPUs used in iPhone iPad and Mac systemsbrbr brstrongEducation amp Experiencebrstrong brPhD in Computer Science or Computer Engineering with focus on Computer Architecturebrbr brRole Number 200264797brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:31:04.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": null
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 114000,
+    "max_value": 151000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

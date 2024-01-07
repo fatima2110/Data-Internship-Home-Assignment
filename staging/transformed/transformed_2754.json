@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps Engineer",
+    "industry": "",
+    "description": "Role Infra DevOps engineerbrLocation Morrisville NC remote till covidbrMode ContractbrbrDetailed Job descriptionbr\tMinimum 5 years as an Infrastructure DevOps or automation engineerbr\tProficient in server side scriptingbr\tKnowledge of DevOps capabilities such as Continuous Integration and Delivery CICD Automated Testing etcbr\tKnowledge on Terraform is must preferably in Azurebr\tGood exposure on Micro services architecture and their deployment in cloud world Especially Azure Terraformbr\tShould have worked on setting up  troubleshooting Kubernetes Clusters in Production ready environmentbr\tHelp teams in migration from monolithic application to Micro services using containerization solutions Docker Kubernetesbr\tWorked on onboarding Micro services MiddlewareUI components using DevOps technique  look for improvementsbr\tPrior experience in automating CICD process platform services using open source toolsbrbrjerrinsmartitframecom",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-05T17:31:11.000Z"
+  },
+  "company": {
+    "name": "Smart IT Frame LLC",
+    "link": "https://www.linkedin.com/company/smart-it-frame-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mooresville",
+    "region": "NC",
+    "postal_code": "28117",
+    "street_address": null,
+    "latitude": 35.582565,
+    "longitude": -80.81278
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Software Engineer / Senior - Lead",
+    "industry": "Staffing and Recruiting",
+    "description": "An ecommerce tech company in Chicago is looking to bring on a hybrid Software amp Machine Learning Engineer to work on a variety of computer vision and NLP projects The role is looking for someone who is very comfortable in Python programming and building out Machine Learning models from scratch as well as someone who can help deploy their models into productionbrbrThis role needs someone who not only has used Machine learning but also someone who comes from a strong computer engineering background to be able to work closely with the software developers on the full life cycle of the data projectsbrbrThis is a true hybrid role between engineering and Machine LearningDeep Learning so if youre looking to take on the next step in your career make sure to apply todaybrbrstronguRequired Skills amp Experiencebrustrongul li4 years professional experience in building web applications backend infrastructure data pipelines and or machine learning modelsli liExperience with Python Scala Java or Go programmingli liBuilding data pipelines in PySpark or Spark and scheduling with Airflowli liPyData tools like Pandas Numpy SkLearn SciPy etcli liDeep Learning tools such as PyTorch or Tensorflowli liStrong understanding and experience in engineeringli liBachelors Degree in CS or similarli liCloud Technologies such as GCP or AWSli brbrulstronguDesired Skills amp Experiencebrustrongul liML Ops tools such as ML flow and Kubeflow and distributed model trainingli liKafka Kinesis or similarli liExperience as a Software or Data Engineer prior to Machine Learningli liExperience deploying your own modelsli brbrulThe Offerbrul liCompetitive Salary Up to 120190Kyear DOEli brbrulstronguYou Will Receive The Following Benefitsbrustrongul liCompetitive Medical amp Health Benefits packageli liEducational Reimbursementli liCollaborative inclusive cultureli li401k with matchli liAnnual bonusli liUnlimited and encouraged PTOli liFree snacks and beveragesli liFlexible work scheduleli liStock optionsli brbrulApplicants must be currently authorized to work in the United States on a fulltime basis now and in the future This position does not offer sponsorship No C2C or 3rd parties pleasebrbrstrongPosted Bystrong Sydney Weaver",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-27T20:19:20.000Z"
+  },
+  "company": {
+    "name": "Motion Recruitment",
+    "link": "https://www.linkedin.com/company/motion-recruitment-partners"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

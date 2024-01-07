@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Data",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "Point is a technology and design company that transforms everyday spending into a delightful and rewarding experience Were rethinking the payment experience with an emphasis on transparency delight and personalizationbrbrWith the best benefits of both debit and credit Point Card earns you points on every purchase redeemable for instant cashback Point App works side by side with Point Card to create an elegant easytouse experiencebrbrWe recently closed our 465 million Series B funding round To learn more see TechCrunchs coverage herebrbrBacked by top investors like Peter Thiel Valar Ventures and Y Combinator were wellfunded and ready to make a positive impact on peoples daily livesbrbrWere looking for a strongSoftware Engineer Data Platformstrong to join our specialized team We have the vision and resources and need your talent and skillsbrbrstronguWho Were Looking ForbrbrustrongPoint is looking for strongSoftware Engineers Data Platformstrong to join our focused growing and passionate team We want engineers who orient around solving customer problems who understand the tradeoffs between different technical approaches and who believe that a reliable data platform is composed of individually testable componentsbrbrstronguWhat Well Build TogetherbrbrustrongAs the first strongSoftware Engineerstrong on the Data Platform team at Point youll help to architect and build Points data platform and systems managing ingestion processing and storage building scalable pipelines and developing frameworks amp tools to make data easily amp efficiently available to downstream teams and systemsbrbrThis platform will be used by Points data consumers to inform new consumerfacing features help to refine the core card product and power evolutionary new ways for consumers to paybrbrstronguRequirementsbrustrongulli3 years developing production data platforms amp systems using cloudbased data platform technologies like Spark Presto Flink Kafka and AirflowdbtliliKnowledge of data lake structures relational databases and SQLliliGood logging monitoring amp alerting habits and a belief that data observability is essential to a high performing systemliliGood collaboration skills amp the ability to work well with product design or other crossfunctional teamsbrbrliulstrongBonus PointsbrstrongulliFintech or cryptocurrency experience especially at a venturebacked startupliliExperience with AWSs data tooling amp infrastructure EMR Glue S3 etcliliExperience with eventstream architecturesliliFamiliarity with feature store architecturesbrbrliulstrongPoint PerksbrstrongulliJoin a fastgrowing brand that is building thoughtful spending productsliliCompetitive salary stock options and 401KliliFull health benefits medical dental and vision insuranceliliUnlimited vacation policy paid company holidays and WFH flexible We shut down the office at the end of the year for a winter holidayliliFree Point Card membership  10000 100 monthly pointsliliMonthly stipends on your Point Card to use for lunch commuting and other essentialsliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T07:22:21.000Z"
+  },
+  "company": {
+    "name": "Point Card",
+    "link": "https://www.linkedin.com/company/getpoint"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

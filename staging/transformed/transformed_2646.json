@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "Charlotte North CarolinabrstrongSkills  strongAIMLPyathonCFA Level IbrbrstronguDescriptionbrbrustrongstrongMUST HAVESbrbrstrong4 years of experience as a Data Scientist working with Machine Learning ML or Artificial Intelligence AIbrbr13 years in working in Risk having a risk BackgroundbrbrPython ExperiencebrbrFinancial institution experiencebrbrQuantitative skill setbrbrCFA or FRM certification is requiredbrbrExcellent communicationbrbrstrongDAYTODAY brbrstrongThe Data Scientist will be responsible in assessing AI Artificial Intelligence solutions implemented across the bank built internally or externally to identify any risks which may have unintended consequences Thereby assisting Client to follow principles of Responsible AI FairnessEqualityJustice Privacy Transparency etcbrbrCritically assess and challenge models on conceptual soundness assumptions and limitations data developmental evidence in support of modeling choices performance implementation and documentationbrbrUnderstand the core methodology in AI solutions and the context in which it will be deployed so as to find risksgapsbrbrDevelop efficient methodologies to detect and to quantify risksgaps in AI solutionsbrbrSuggest alternative approaches or controls to mitigate risksgaps identifiedbrbrDevelop and implement testing plans and testing code in order to challenge models through empirical analyses and to verify model implementationbrbrCreate metrics to quantify risksgaps specific to each AI solution and define thresholds after consulting with all stakeholdersbrbrMonitor metrics for breach of thresholdsbrbrLook for unexpected risks  unintended consequences of an AI solution over its life cyclebrbrAssist in evaluating AI Solutions during Tollgate Risk Assessment amp PermittoOperate processbrbrWrite technical reports for distribution and presentation to model developers senior management and auditbrbrstronguRequirementsbrbrustrongPhDMastersBachelors degree in a quantitative field such as Mathematics Physics Finance Engineering or Statisticsbrbr4 years of professional experience as a Data Scientist or related rolesbrbrHandson experience with Statistical ModelingMachine LearningDeep Learning techniques is mustbrbrShould be wellversed in programming languages of RPythonSAS and be familiar with Deep Learning Frameworks like TensorflowPytorchbrbrSound knowledge of financial instruments and financial riskoperational risk management principles is mustbrbrAbility to understand and implement techniques discussed in AI research papers academic and technicalbrbrCandidates must have any of financial certifications like CFA FRM at least level 1part 1 should have been cleared",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Collabera Inc.",
+    "link": "https://www.linkedin.com/company/collabera"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Charlotte",
+    "region": "NC",
+    "postal_code": "28241",
+    "street_address": null,
+    "latitude": 35.223785,
+    "longitude": -80.84114
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "",
+    "description": "pstrongSummarystrong ppbr pp This position requires common knowledge and an understanding of basic techniques and concepts of programming in at least one programming language The focus is on learning and gaining on the job experiencenbspbr ppbr ppstrongGeneral Characteristicsstrong ppstrongbrstrong Acquires basic knowledge and develops skills in a specific practice areabr Applies standard techniques and procedures to perform assigned tasks as part ofbra broader assignmentbr Requires guidance and oversight on details of workbr Familiar with the principals of the Agile Manifesto Ideally has some knowledgebrof the SCRUM Agile methodologybr Active participant in Agile ceremonies daily standup retrospective etcbr Displays ability to follow directions and understand procedural guidelinesbr Possesses an analytical mind and the desire to investigate problem  br ppbr ppstrongTechnical Responsibilitiesstrong ppstrongbrstrong Performs basic design tasksbr Performs coding testing and administration assignmentsbr Familiarity with Java understanding of object oriented concepts syntax etc br Familiarity with an integrated design environment IDE and tools required to brwrite softwarebr Familiarity with Linux or Unix operating systembr Working knowledge of computer networking with protocols such as TCP UDP brand SCTPbr Familiarity with other languages such as javascript python CC HTML CSS bretcbrbr ppstrongManagerial Responsibilitiesstrong ppbr Coordinates with technical andor administrative staffbr Focus is on learningbr ppbr ppstrongDirection Receivedstrong ppstrongbrstrong Close supervision and guidance is required for many aspects of workbr ppbr ppstrongCommunication Skillsstrong ppbr pp Possesses basic oral and written communication skills br Interacts professionally with other staffbr Actively seeks help from manager peers and other members of the teambr ppbr ppstrongExperiencestrong ppbr 01 Years bachelors degree in computer science or a related fieldp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-12T20:25:59.000Z"
+  },
+  "company": {
+    "name": "NetNumber",
+    "link": "https://www.linkedin.com/company/netnumber"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 65200,
+    "max_value": 136000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Massachusetts",
+    "region": "United States",
+    "postal_code": "01721",
+    "street_address": null,
+    "latitude": 42.172356,
+    "longitude": -71.605
+  }
+}

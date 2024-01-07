@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Financial Services",
+    "description": "pIf youre looking for the DNA of a startup with the financial stability of a larger corporation then youll love BorrowWorksppbrppWhy Join usppOur success is driven by the collective talent expertise and enthusiasm of each unique employee working toward a common goal of delivering a superior customer experience Yet in spite of having one mission we encourage individual contributions ideas and challenges to ensure were always on the cutting edge of FinTech solutions that our clients wont find anywhere elseppHonored by thenbspFort Worth Chamber of Commerce as a Small Business of the Yearnbspit shows that others recognize our past accomplishments and exponential growth potential Everyone at BorrowWorks is excited to be a part of this surging success  and wed love to have you join usppbrppstrongPositionstrongppBorrowWorks is looking to grow our Strategy team by adding a strongData Scientist strongThe Data Scientist will collect relevant data to model and report utilizing statistical techniques and machine learning such as logistic regression random forest and gradient boosting ppbrppstrongResponsibilitiesstrongpulliConduct data analysis to optimize the underwriting policies in how model scores business and credit bureau rules work together to produce desired financial performanceliliPrepare model development documentation and update policy documentationliliPrepare ongoing model performance monitoring reports and provide recommendations when performance deterioratesliliSupport data vendor evaluation in preparing raw data and analyzing appended bureau data in predicting credit and fraud riskliliPerform other adhoc analysis as it relates to modeling and policyliulpbrppstrongQualificationsstrongpulliBachelors degree in a quantitative subject Mathematics Economics Statistics preferredlili13 years experience preferred or relevant internship or course experience in the analytical or financial services field both are highly preferredliliStrong technical aptitudelili Familiarity with SAS ETL processes SQL Python and RliliUnderstanding of business needsrequirements liliAbility to effectively communicate with both internal departments and external vendorsclients liliAbility to selfmotivate and manage multiple analytical projects simultaneouslyliulpbrppstrongBenefitsstrongppBorrowWorks offers a full benefits package includingppMedical insurance options including an HSA planppTelemedicinepp401k with company matchingppSurgical and Imaging assistanceppEmployer paid Life InsuranceppVision InsuranceppDental Insurance OptionsppShort and Long Term Disability OptionsppCritical Illness and Accident OptionsppEmployee Assistance ProgramppHealth and Wellness ProgramppOnsite gymppParental leaveppPTO policyp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-12T18:33:26.000Z"
+  },
+  "company": {
+    "name": "BorrowWorks",
+    "link": "https://www.linkedin.com/company/borrowworks"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas-Fort Worth Metroplex",
+    "region": null,
+    "postal_code": "75049",
+    "street_address": null,
+    "latitude": 32.7513,
+    "longitude": -97.08263
+  }
+}

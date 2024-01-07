@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Embedded Software Engineer",
+    "industry": "Semiconductors",
+    "description": "pstrongJob DescriptionstrongppstrongMinimum Qualificationsstrongpp Bachelors degree in Engineering Information Systems Computer Science or related fieldpp 1 years experience with Programming Language such as C C Java Python etcppbrppstrongPreferred QualificationsstrongppIndustry experience in the followingpp Software development and System Architecture on Arm based RTOS platformspp Android or other High level OS for Mobile Compute IoT or Automotive products  eg Android Linux Windows etcpp Software version control systems such as GIT Perforce etc for large scale software developmentpp C C programming and debug experiencepp Software development for embedded platformpp One or more of the following Modem protocols EVDOWCDMALTE5G system architecturepp RTOS software developmentpp Scripting language such as Perl or Pythonpp Multimedia Audio Video Camera software developmentdebugintegrationpp Understanding of ARM processor family and software development on ARM processorspp Understanding of Bluetooth  Wifi  80211 family drivers and protocolpp Embedded system debugging skills Jtag basedpp Familiarity with modem log analysis eg WCDMA LTE 4g 5g etcp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-25T17:31:53.000Z"
+  },
+  "company": {
+    "name": "ManpowerGroup",
+    "link": "https://www.linkedin.com/company/manpowergroup"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

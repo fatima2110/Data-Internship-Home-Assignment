@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Applied Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Coinbase has built the worlds leading compliant cryptocurrency platform serving over 30 million accounts in more than 100 countries With multiple successful products and our vocal advocacy for blockchain technology we have played a major part in mainstream awareness and adoption of cryptocurrency We are proud to offer an entire suite of products that are helping build the cryptoeconomy and increase economic freedom around the worldbrbrThere are a few things we look for across all hires we make at Coinbase regardless of role or team First we look for signals that a candidate will thrive in a culture like ours where we default to trust embrace feedback disrupt ourselves and expect sustained high performance because we play as a championship team Second we expect all employees to commit to our missionfocused approach to our work Finally we seek people with the desire and capacity to build and share expertise in the frontier technologies of crypto and blockchain in whatever way is most relevant to their rolebrbrAs an applied learning engineer youll be building the critical infrastructure for the open financial system  tapping into a variety of large data sources such as the blockchain  to provide millions of people access to crypto while detecting and preventing bad actors Youll not only have the chance to drive significant impact from protecting Coinbase youll also leverage machine learning to make our product delightful by adding intelligence to news notifications risk and much morebrbrstronguWhat Youll Be Doing ie Job DutiesbrustrongulliBuild Machine Learning powered engines and pipelines to power notifications content feeds and other recommendation systems liliBuild and launch excellent productionalized lowmaintenance modelsliliExplore and leverage state of the art machine learning techniques for a variety of problems at the intersection of Machine Learning and Crypto liliSetup AB experiments and iterate until impact is landedbrliulstronguWhat We Look For In You ie Job Requirementsbrustrongulli4 yrs of industry experience as an applied machine learning engineerliliExperience building backend systems at scale with a focus on data processingmachine learninganalyticsliliExperience with at least one ML model Logistic Regression Gradient Boosting trees Deep learning etc liliExperience in one or more of the following data mining information retrieval advanced statistics or natural language processing computer visionliliExhibit our core cultural values add positive energy communicate clearly be curious and be a builderbrliulstronguNice To HavesbrustrongulliBS MS PhD degree in Computer Science Machine Learning Data Mining Statistics or related technical fieldliliKnowledge of Apache Airflow Spark Flink KafkaKinesis Snowflake Hadoop HiveliliExperience with PythonliliExperience with model interpretability responsible AIliliExperience with data analysis and visualizationbrliulstronguWhat To SendbrbrustrongA resume that describes your experience with large scale applied machine learningbrbremCoinbase is committed to diversity in its workforce and is proud to be an equal opportunity employer and to review all of our job postings to minimize biased language Coinbase does not make hiring or employment decisions on the basis of race color religion creed gender national origin age disability veteran status marital status pregnancy sex gender expression or identity sexual orientation citizenship or any other basis protected by applicable local state or federal law Coinbase will also consider for employment qualified applicants with arrest and conviction records in a manner consistent with San Franciscos Fair Chance Ordinance and similar local lawsbrbremID G1874brbrCommitment to Equal OpportunitybrbrCoinbase is committed to diversity in its workforce and is proud to be an Equal Opportunity Employer All qualified applicants will receive consideration for employment without regard to race color religion creed gender national origin age disability veteran status sex gender expression or identity sexual orientation or any other basis protected by applicable law Coinbase will also consider for employment qualified applicants with criminal histories in a manner consistent with applicable federal state and local law For US applicants you may view Pay Transparency Employee Rights and Equal Employment Opportunity is the Law notices by clicking on their corresponding links Additionally Coinbase participates in the EVerify program in certain locations as required by lawbrbrCoinbase is also committed to providing reasonable accommodations to individuals with disabilities If you need a reasonable accommodation because of a disability for any part of the employment process please send an email to accommodations coinbasecom and let us know the nature of your request and your contact information For quick access to screen reading technology compatible with this site click here to download a free compatible screen reader free step by step tutorial can be found here Please contact accommodations coinbasecom for additional information or to request accommodationsbrbrGlobal Data Privacy Notice for Job Candidates and ApplicantsbrbrDepending on your location the General Data Protection Regulation GDPR and California Consumer Privacy Act CCPA may regulate the way we manage the data of job applicants Our full notice outlining how data will be processed as part of the application procedure for applicable locations is available here IrelandEU United Kingdom and California By submitting your application you are agreeing to our use and processing of your data as required",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T15:53:22.000Z"
+  },
+  "company": {
+    "name": "Coinbase",
+    "link": "https://www.linkedin.com/company/coinbase"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

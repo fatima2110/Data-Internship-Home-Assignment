@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Software Developer (.NET)",
+    "industry": "Consumer Goods",
+    "description": "Headquartered in Arizona we are a leading irrigation product development company that caters to residential and commercial customers all over the world Currently we are looking to expand our team in San Diego CA and are looking for a strong Sr Software Engineer with experience in NET C ASPNET MVC WinForms and Web DevelopmentbrbrWhat You Will Be DoingbrulliThe Senior Software Engineer will be responsible for the design and implementation of a multiuser Webbased software productliliDesign of software for central control of networked irrigation systems in geographically diverse areasliliDesign and development of advanced irrigation control algorithms and methodsliliDevelopment of virtualized cloud systems for centralizing control of multiple irrigation sites located around the worldliliDevelopment of both cloudbased systems and customer hosted systems using Windows IISliliDevelopment of NET business objects to fulfill product requirements and Unit Tests to validate the business logicliliWork with the Quality Assurance group to identify and fix defectsbrliulWhat You Need for this PositionbrbrstronguMustHave SkillsbrustrongulliBSCS BSEE or equivalent from an accredited universityliliProficient with C NET ASPNET MVC and Windows Formslili5 years of software engineering experience including experience with Web development Windows user interface implementation service development and Internet communication technologiesliliDemonstrated ontime delivery of commercial software systemsliliStable work historybrliulstronguNicetohavesbrustrongulliAngular 2liliWCF SOA and SQL ServerliliExperience with PerforceliliNUnit or other Unit Testing experienceliliCloud Development experienceliliExperience with writing Windows code for communication interfaces with embedded firmware systemsbrliulWhats In It for YoubrulliCompetitive Salary DOEliliBonusliliExcellent benefits packagelili 401K w matchliliPTOliliPaid HolidaysbrliulSo if you are a Sr Software Engineer with NETC expertise please apply todaybrbrstronguEmail Your Resume In Word TobrbrustrongLooking forward to receiving your resume through our website and going over the position with you Clicking apply is the best way to apply but you may alsobrbrAshleyUpchurchCyberCoderscombrulliPlease do NOT change the email subject line in any way You must keep the JobID linkedin  RH11602634  in the email subject line for your application to be consideredbrliulAshley Upchurch  Lead Recruiter  CyberCodersbrbrApplicants must be authorized to work in the USbrbrstrongCyberCoders Inc is proud to be an Equal Opportunity EmployerbrbrstrongAll qualified applicants will receive consideration for employment without regard to race color religion sex national origin disability protected veteran status or any other characteristic protected by lawbrbrstrongYour Right to Workstrong  In compliance with federal law all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:18:31.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Sr."
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

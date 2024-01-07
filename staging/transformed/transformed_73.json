@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software,Automotive",
+    "description": "pSoftware Engineer  GPU Compute Fulltime Parttime ContracttoHireppbrppstrongQualificationsstrongpulliStrong knowledge of C and experience in large code basesliliStrong knowledge of CUDA as applied to recent GPU microarchitectures eg Volta TuringliliBS in computer science or related fieldliliStrong knowledge of 3D geometry and linear algebraliliExperiencing debugging and optimizing GPU kernels using tools like nvprof and the Visual ProfilerliliComfortable in Linux development environmentsliul",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-09T20:01:50.000Z"
+  },
+  "company": {
+    "name": "Stealth",
+    "link": "https://www.linkedin.com/company/stealthstartup"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

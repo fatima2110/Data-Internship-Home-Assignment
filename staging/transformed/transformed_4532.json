@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "pstrongAbout OutletstrongppOutlet provides the best cash accounts in America with a 6 APY  over 100x what traditional banks are paying This is made possible through the use of blockchain and all the advances the tech brings with it We are a high growth startup looking to change how banking is done and are looking for a team of badass techies to help us do itppWe are hiringnbspemployee 1nbspto help us take Outlet to the next level We are looking for a full stack React software engineer Since youll be employee 1 youll be a founding employee Youll be contributing ideas owning the development of new features analyzing data and putting out fires Youll also be influential in laying out the framework future engineers will follow As employee 1 youll need to be self sufficient and be able to work under pressure You understand lean methodologies and understand that we need to build quality features as quickly as possibleppAll in all youll be working along side the founders from Ideation to feature development to help Outlet reach its full potentialppbrppstrongTech StackstrongppOur Stack is all JS and Typescript based and consists of the followingpulliReact NativeliliReactliliNodeliulpbrppstrongWhat we are looking forstrongpulli4 years full stack experience building JS applications specifically using React or React NativeliliExperience implementing testsliliExperience working with AWS Lamda Functions or similar cloud function libraryliliSelfdrive to improve the product beyond specified requirementsliulpbrppstrongBonus PointsstrongpulliHave experience implementing End to End tests on React NativeliliExperience with Microsoft App CenterliliFamiliar with the Ethereum development ecosystemliliIf you are ready to change banking wed love to hear from you At Outlet we are looking for people who are want to play a role in shaping the future of financeliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T19:23:25.000Z"
+  },
+  "company": {
+    "name": "Outlet.Finance",
+    "link": "https://www.linkedin.com/company/outlet-finance"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Brooklyn",
+    "region": "NY",
+    "postal_code": "11239",
+    "street_address": null,
+    "latitude": 40.692528,
+    "longitude": -73.991
+  }
+}

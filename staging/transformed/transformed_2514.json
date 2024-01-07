@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "pLakarya is Hiring for one our ClientsppstrongPosition Data Scientist Data AnalyststrongppstrongLocation Highpoint NCstrongppstrongJob type Long term ContractstrongppstrongJob DescriptionstrongpulliManage administration and supervise the development of logistics policies and programs to ensure they meet the changing conditions in program requirementsliliPrepare and present membership changes to large audience including senior staff using PowerPointliliDevelop reports using IBM Cognos as part of the migration of a particular customerliliCodedMaintain a SAS program including embed SQL written by consultants for use in manual claim forecastingliliAnalyze the existing BO universe and provide the guidelines to migrate and implementation effect of CognosliliDevelop dashboards and trend reports that keep track of utilization volume cost and quality performanceliliServe as project officerteam leader provide direction and guidance to contractors and support to DoD personnelliliInvolve in development for highly complicate reports scorecards and dashboards for a specific business needs and performance improvementliliDevelop routine SAS macros to create tables graphs and listings for inclusion in reports and maintain existing onesliliDevise new improve procedure by use of VBA to create campus tables that saves time and ensures accuracyliulpJob Types Fulltime Contractp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T14:50:10.000Z"
+  },
+  "company": {
+    "name": "Lakarya",
+    "link": "https://www.linkedin.com/company/lakarya"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greensboro--Winston-Salem--High Point Area",
+    "region": null,
+    "postal_code": "27401",
+    "street_address": null,
+    "latitude": 36.076633,
+    "longitude": -79.79478
+  }
+}

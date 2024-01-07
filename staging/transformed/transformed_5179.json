@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "stronguWho We ArebrbrustrongHi were SambaSafety and we offer the industrys most comprehensive driver monitoring software Our technology helps everyone from large corporations to small companies ensure only the safest individuals are driving on behalf of their business These companies trust SambaSafety to keep their employees safe on the roads helping protect their brand greater community and bottom line Simply put we save lives and are on a mission to reduce crashes on American roadways 20 percent by 2025brbrWeve built an inclusive supportive and exceptional culture where every employee is empowered in their role Dont take our word for it weve been recognized as a Top Workplace by The Denver Post and Built In Colorado And our employees rate SambaSafety topnotch with a rock solid 47star rating on GlassdoorbrbrstronguWhat Youll DobrustrongulliInvestigate and contribute to solving various issues in production environmentsliliDrive infrastructure as code adoptionliliDeployment of software releasesliliProactively analyze and contribute improvements to support deployment processesliliProvide collaboration as a conduit between various technical and nontechnical teamsliliWork with the development teams to improve system qualityliliBuild effective monitoring alerts and metrics for production servicesliliProvide configuration management for production applicationsliliParticipate in an oncall rotationbrliulstronguWhat Youll NeedbrustrongulliAbility to listen to team feedback and prioritize efforts within the shift or escalate to managers for suggestionsliliExcellent collaboration skillsliliAbility to think strategically and act tacticallyliliWorks with a sense of urgency in high pressure environment and demonstrates the ability to effectively respond to issues during emergency situationsliliDemonstrates the ability to adapt quickly to changing priorities circumstances and directionliliProfessional experience with cloud environments AWS certification preferredliliStrong knowledge and experience working in LinuxUnix environmentliliExperience with centralized logging solutions Splunk Elk etcliliKnowledge of active monitoring Datadog Dynatrace etcliliUnderstanding of security best practicesliliExperience with CICD tools Jenkins CircleCI etcliliExperience with a modern programming language python Java etcliliExperience with SQL and NoSQL databasesliliUnderstanding of gitliliKnowledge of networking principles such as firewalls load balancing routing and switchingliliKnowledge of horizontal and vertical scaling best practicesbrliulstronguBenefits And PerksbrustrongulliUnlimited Paid Time Off and Paid Volunteer Dayslili401k match and generous Healthcare Benefits including a fully employer paid family medical planliliWellness ampTuition ReimbursementliliZoom Happy HoursliliFlexible Work From Home schedule amp a Monthly Internet stipendliliLots of Samba swagliliSamba Virtual Events including our famous Samba SprintbrliulOur team of talented and committed safety professionals is exceptional At SambaSafety we strive to foster an inclusive culture that supports encourages and celebrates a wide array of diversity We are committed to create a space where all employees can show up as their authentic selves every day and we work to advance employee equality diversity and inclusionbrbrSambaSafety provides equal employment opportunities to all employees and applicants for employment without regard to race color religion sex national origin age disability gender identity and expression or geneticsbrbrCome join us to find out for yourself what all the excitement is about",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T10:07:35.000Z"
+  },
+  "company": {
+    "name": "SambaSafety",
+    "link": "https://www.linkedin.com/company/sambasafety"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Denver",
+    "region": "CO",
+    "postal_code": "80247",
+    "street_address": null,
+    "latitude": 39.738453,
+    "longitude": -104.984856
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Retail,Financial Services",
+    "description": "stronguDescriptionbrbrustrongESSENTIAL JOB DUTIES AND RESPONSIBILITIESbrbrulli Provide their expertise to a team of Data Scientist Machine Learning Engineer and Data Engineers to augment existing services and develop new capabilities at GameStoplili Contribute to one or more ongoing projects and initiativeslili Leverage clustering network NLP and other analytical tools to better understand the relationships between customers and productslili Develop statistical and machine learning models to improve customer facing eCommerce serviceslili Contribute to the entire lifecycle of a project to ensure it technologically soundlili Supporting andor aiding the development of analytical dashboard and reporting tools and processesbrbrbrliulMINIMUM QUALIFICATIONS JOB SKILLS ABILITIESbrbrulli Accredited bachelors degree in computer science mathematics or similar field equivalent work experience may be considered as a substitution Masters degree preferredlili 2 years of experience as a Data Scientist Machine Learning Engineer or similar rolelili Experienced in querying and working with SQL and NoSQL databaseslili Experience developing and evaluating machinedeep learning modelslili Proficient in PythonR programming languagelili Experience with cloud service providers like AWS and GCPbrbrliulstronguPreferred Qualifications Job Skills Abilitiesbrbrustrongulli 1 years of experience working with retail data on analytical projectslili Experience developing cloudbased data services on cloud service providers like AWS and GCPlili Ability to work with big data in the form of systems like Hadoop and BigQueryliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T22:37:36.000Z"
+  },
+  "company": {
+    "name": "GameStop",
+    "link": "https://www.linkedin.com/company/gamestop"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 58000,
+    "max_value": 121000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Grapevine",
+    "region": "TX",
+    "postal_code": "76051",
+    "street_address": null,
+    "latitude": 32.93656,
+    "longitude": -97.0867
+  }
+}

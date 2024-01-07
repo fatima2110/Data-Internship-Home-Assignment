@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "",
+    "description": "pstrongMachine Learning Engineer  Aliso Viejo CAstrongppstrongAWM Smart Shelf strongis reinventing retail and looking for smart talented people to work on building exciting applications The initial focus of this position is working on AWM Frictionless which is a cashierlessshopping solution for shoppers to be able to grab what they want from a store and simply walk outppbrppOur solution uses realtime computer vision and deep learning to determine what shoppers take Were looking for a Machine Learning Engineer to run with the selection training and evaluation of our item and action recognition modelsppbrppIf your ML background is not in image processing but something like NLP or finance you may still be a great fit Were looking for nimble practical problem solvers and we value a diversity of perspectivesppbrppWe tinker experiment and hack on many different approaches and love people who arent afraid to jump around A successful Machine Learning Engineer will rapidly iterate  failing fast to identify the most promising paths forwardppbrppIf this sounds like fun wed love to hear from youppbrppstrongTHE JOBstrongpulliImplement machine learning models for item classification and action recognitionliliAbility to evaluate model performance and monitor the training processliliAdapt existing models to better handle problems specific to our domainliliIntegrate models into our production pipeline for realtime processingliliTest cuttingedge models on our custom datasetsliulpbrppstrongWHO YOU AREstrongpulliSomeone who executes  a focus on action and results  can selfmanage to timelines and deliverliliPractical coding knowledge Python preferred to quickly iterate on training and testing modelsliliUnderstanding of CNNs and the tradeoffs of different architecturesliliKnowledge of best practices in machine learningliulpbrppstrongNICE TO HAVEstrong but not mandatorypulliExperience with video dataliliExperience with distributive training in the cloudliliExperience with sequence modelingliliRelevant education in an undergraduate or graduate programliulpbrppstrongWHAT WE OFFERstrongpulliA dynamic environment where you can make an impact using the latest technologiesliliPaid vacation and sick timeliliHealth benefitsliliOpportunity for growthlili401k planliliPotential for employee stock option plan participationliulpbrppstrongPLEASE APPLY TO BE CONSIDEREDstrongp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T18:52:16.000Z"
+  },
+  "company": {
+    "name": "AWM Smart Shelf",
+    "link": "https://www.linkedin.com/company/awm-smart-shelf"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Aliso Viejo",
+    "region": "CA",
+    "postal_code": "92656",
+    "street_address": null,
+    "latitude": 33.569595,
+    "longitude": -117.72637
+  }
+}

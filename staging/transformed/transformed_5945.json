@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "We are looking for a Data Scientist to analyze large amounts of raw information to find patterns that will help improve our company We will rely on you to build data products to extract valuable business insights In this role you should be highly analytical with a knack for analysis math and statistics Critical thinking and problemsolving skills are essential for interpreting data We also want to see a passion for machinelearning and research Your goal will be to help our company analyze trends to make better decisionsbrbrstronguResponsibilitiesbrustrongulliIdentify valuable data sources and automate collection processesliliUndertake preprocessing of structured and unstructured dataliliAnalyze large amounts of information to discover trends and patternsliliBuild predictive models and machinelearning algorithmsliliCombine models through ensemble modelingliliPresent information using data visualization techniquesliliPropose solutions and strategies to business challengesliliCollaborate with engineering and product development teamsbrliulstronguRequirementsbrustrongulliProven experience as a Data Scientist or Data AnalystliliExperience in data miningliliUnderstanding of machinelearning and operations researchliliKnowledge of R SQL and Python familiarity with Scala Java or C is an assetliliExperience using business intelligence tools eg Tableau and data frameworks eg HadoopliliAnalytical mind and business acumenliliStrong math skills eg statistics algebraliliProblemsolving aptitudeliliExcellent communication and presentation skillsliliBScBA in Computer Science Engineering or relevant field graduate degree in Data Science or other quantitative field is preferredbrliulustrongBenefitsbrstronguulliHealth Care Plan Medical Dental amp VisionliliPaid Time Off Vacation Sick amp Public HolidaysliliTraining amp DevelopmentliliFree Food amp SnacksliliAn amazing company that is GROWING QUICKLYliliYou get to work with a funinteresting group of peopleliliReal transparency into the rest of the companyliliComplete ownership and accountability over the role and function arealiul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T15:42:35.000Z"
+  },
+  "company": {
+    "name": "WALTLabs.io",
+    "link": "https://www.linkedin.com/company/waltlabs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 86500,
+    "max_value": 144000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Spring",
+    "region": "TX",
+    "postal_code": "77387",
+    "street_address": null,
+    "latitude": 30.079731,
+    "longitude": -95.41769
+  }
+}

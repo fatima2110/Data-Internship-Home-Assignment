@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Site Reliability Engineer",
+    "industry": "Computer Software",
+    "description": "pstrongOur Amazing TeamSparkpoststrongppSparkPost is the industrys most trusted email optimization platform SparkPost helps senders reliably reach the inbox with powerful solutions to help them plan execute and optimize their email programs The SparkPost platform is powered by the industrys largest data network a team of email experts to help brands elevate every aspect of their email program and a security and compliance posture to support even the most regulated industries SparkPost is the worlds largest sender delivering 40 of all commercial email  45 trillion sent annually  and also boasts the worlds largest data footprint to help enterpriselevel brands make datadriven decisions to improve their email performance The worlds most sophisticated senders including The New York Times Zillow Adobe and Bookingcom trust SparkPost to elevate their emailppnbspppnbspppstrongWhat Youll Do in This Role to Add ValuestrongppAt Sparkpost we value Site Reliability Engineering methodologies and concepts SREs play a critical role at Sparkpost and are largely responsible for designing building and maintaining the solutions fornbsp infrastructure and application deployment management with an emphasis in scalability fault tolerance performance and monitoringppbrppstrongResponsibilitiesstrongpulliBuild and maintain tooling to automate and continuously improve the provisioning of infrastructure in AWS with emphasis on scalability reliability resiliency zero downtime and ability to rollbacknbspliliDesign and develop tools scripts and frameworks to enable selfservice capabilitiesnbspliliDesign and develop automation workflows performing unit tests and conducting reviews to make sure your work and work of others is elegantly coded and tuned effectively with emphasis in platform performance and resiliencynbspliliDesign and implement monitoring and alerting that are actionable and backed with detailed documentation on how to take action on alertsnbspliliAbility to effectively coordinate with Architecture SREs and engineering teams to propose and develop solutionsnbspliliWork closely with software development and testing teams assuring that software is reliable and scalablenbspliliExcellent system and network troubleshooting skills with LinuxUnixnbspliliParticipate in 24x7 Oncall rotation to support customersnbspliulpnbspppstrongRequired SkillsQualificationsstrongpulliStrong knowledge of Test Driven DevelopmentnbspliliComfortable with Architecture Modelling plus for familiarity with the C4 Model of Architecture Diagramslili1 years of experience working under a scrum modelnbsplili4 years of experience working with public cloud infrastructure  either AWS Azure or Google Cloud Platformnbsplili4 years of experience implementing and operating production workloads in public cloud provider preferably with AWS using automated provisioningnbsplili2 years of experience with Gitnbsplilinbsp3 years of experience building with infrastructureascode and configuration management tools CloudFormation Terraform Chef Puppet or Ansiblenbsplilinbsp4 years of experience in software development or scripting including deep knowledge of at least one of the following languages Bash Java Ruby or Typescriptnbsplilinbsp3 years of experience in application monitoring and log analytics tools Datadog New Relic SplunkELK with a solid understanding of how to implement effective automated application monitoring for mission critical applicationsnbsplili2 years of experience in leading mediumtolarge scale deployments of applications hosted on AWS which includes automating every aspect of delivering those applicationsnbsplili2 years of experience in a public facing hightraffic production Web or Email Operations environmentnbspliliIndepth understanding of SMTP HTTP TCP REST APIs and related protocolsnbspliliExperience with ApacheNGINX Load Balancers DNS NTP Virtual Machines and OpenVPNnbspliliStrong understanding of modern virtualized server hardware ability to identify resource issues related to utilization of CPUs memory disk IO and network IOnbsplili2 years of experience with SQL and NoSQL databasesnbsplili2 years of experience implementing monitoringalerting systems in an automated fashion using services such as Circonus Datadog New Relic Nagios etcnbspliliStrong analytical and problemsolving skills including the ability to quickly identify trends and patterns and ability to identify root causes of problems and candidate solutionslilinbspAbility to work collaboratively across multiple teams in multiple locations participate in code reviewsliliProven track record of selfmotivated expansion of technical knowledgenbspliulpnbspppstrongDesired SkillsExperiencestrongpulliCertification in AWS either Devops Sysops or SAliliExperience with either Javascript C or LUAliliExperience with BGP Internet Routing and AWS network stack would be a plusliulpnbspppemSparkpost provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race color religion age sex national origin disability status genetics protected veteran status sexual orientation gender identity or expression or any other characteristic protected by federal state or local lawsemppnbspppemThis policy applies to all terms and conditions of employment including recruiting hiring placement promotion termination layoff recall transfer leaves of absence compensation and trainingemppp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T00:28:07.000Z"
+  },
+  "company": {
+    "name": "SparkPost",
+    "link": "https://www.linkedin.com/company/sparkpost"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": "Sr."
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

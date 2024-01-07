@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "stronguAbout The RolebrbrustrongAs the Software Engineer you will design and develop new web services to provide data analysis live datavideo feeds data editing and command and control for clients access control systems This project will enable administrators of Brivo access control systems to monitor and interact with all aspects of their specific security control systembrbrIn this role you will also be expected tobrulliWork with your team to build scalable microservices and REST APIsliliMaintain quality of product and test coverage including automated testsliliIn conjunction with other team members help improve development and quality strategies to streamline the checkin testing and overall productivity for coding and building the applicationliliCollaborate with peers in your Agile team to complete code reviews sprint planning and backlog groomingliliWork in DevOps culture and foster product ownershipliliAs part of best development practices the SW Engineer will ensure full unit test coverage of code they write and implementliliFocus on performance and writing clean maintainable codebrbrliulstronguAbout YouustrongulliBachelors degree in Computer Science or closely related IT field preferredliliAt least 3 years experience of fullstack NET developmentliliStrong foundation in web applications and services and modern software architectureliliExperience with the followingliulliREST API development and RESTful Web development with JavaScriptliliSetting up and managing CI builds on Azure and Azure DevOps ServicesliliFrontend technologies and frameworks such as JavaScript Nodejs and ReactliliWriting SQL queries and interacting with databasesliliModern authorization mechanisms such as JSON Web TokenliliAWS technologies Kubernetes and Docker a plusbrliululstronguAbout UsbrbrustrongBrivo is the global leader in mobile cloudbased access control for commercial real estate multifamily residential and large distributed enterprises Our comprehensive product ecosystem and open API provide businesses with powerful digital tools to increase security automation elevate employee and tenant experience and improve the safety of all people and assets in the built environment Having created the category over twenty years ago our building access platform is now the digital foundation for the largest collection of customer facilities in the world trusted by more than 25 million users occupying over 300M square feet of secured space in 42 countriesbrbrOur dedication to simply better security means providing the best technology and support to property owners managers and tenants as they look for more from buildings where they live work and play Our comprehensive product suite includes access control smart readers touchless mobile credentials visitor management occupancy monitoring health and safety features and integrated video surveillance smart locks and intercoms Valued for its simple installation highreliability backbone and rich API partner network Brivo also has the longest track record of cybersecurity audits and privacy protections in the industrybrbrBrivo is privately held and headquartered in Bethesda Maryland Learn more atbrbremBrivo is an Equal OpportunityAffirmative Action EmployerbrbremPowered by JazzHRbrbrVAgPjuOTgZ",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T07:08:13.000Z"
+  },
+  "company": {
+    "name": "Brivo",
+    "link": "https://www.linkedin.com/company/brivo-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 62200,
+    "max_value": 133000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bethesda",
+    "region": "MD",
+    "postal_code": "20894",
+    "street_address": null,
+    "latitude": 38.984856,
+    "longitude": -77.09269
+  }
+}

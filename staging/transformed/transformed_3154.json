@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Games,Computer Software,Entertainment",
+    "description": "strongstrongstrongWhat makes us PsyonixbrstrongstrongstrongAt the core of Epic and Psyonixs success are talented passionate people Psyonix prides itself on creating a collaborative welcoming and creative environment Whether its building awardwinning games or crafting engine technology that enables others to make visually stunning interactive experiences were always innovatingbrbrBeing Epic means being a part of a team that continually strives to do right by our community and users Were constantly innovating to raise the bar of engine and game developmentbrbrstronguWhat You Will DobrbrustrongWe are looking for a qualified and passionate Data Scientist to join us on the Analytics team You will lead indepth analyses into our raw player behavior data surface actionable insights and opportunities to the organization and work with the team to transform your findings into processes and systems supporting our fundamental goal of making Rocket League betterbrstrongstrong In this role you will brstrongstrongulli Utilize gameplay data to derive player motivation and behavior and deliver actionable insights lili Perform indepth analyses across a multitude of data sets types and sources lili Develop maintain and optimize advanced dataflows and automated processes and assist in their deployment into our infrastructure lili Propose workable initiatives to Analytics Marketing and Development teams that positively drive KPIs while protecting our playerfirst values lili Liaise and collaborate with other team members and departments on initiatives from inception to execution liulstrongstrong What were looking for brstrongstrongulli 4 years of experience with writing and maintaining SQL objects preferably MySQL lili 4 years of experience interacting with large and complex data sets lili Advanced understanding and application of various analysis methods lili Demonstrated experience in architecting new data flows along with the reporting presentation and visualization of resulting data lili Professional experience with object oriented programming lili A passion for diving into data to extract trends signals and insights lili Experience simultaneously addressing multiple project and stakeholder needs lili Strong written and verbal communication skills lili A veteran Rocket League player that understands community desires and tolerances lili Knowledge of the game industrys inner workings lili Familiarity with Go  C  R  Python  PHP  Linux lili Working knowledge of Cloud Computing AWS Google Cloud Azure and associated infrastructure lili Experience creating and working with ML models lili Experience with Tableau or similar data visualization software liulstrongstrongstrongEpic Job  Epic Benefits  Epic LifebrstrongstrongstrongOur intent is to cover all things that are medically necessary and improve the quality of life We pay for 100 of the premiums for both you and your dependents We offer coverage for Medical Dental Vision HRA Long Term Disability ADampD and Life Insurance 401kbrbrAll Epic employees enjoy drinks snacks and lunches every day free of charge  and we offer plenty of annual celebrations for employees and family members to show the love we have for our people Additionally each year we celebrate the Epic family with companywide paid breaks generous paid time off and recognize individuals for 7 years of employment with a paid sabbatical  we think our people are pretty awesomebrstrongstrongstrongLike what you hear Come be a part of something EpicbrstrongstrongstrongEpic Games deeply values diverse teams and an inclusive work culture and we are proud to be an Equal Opportunity employer Learn more about our Equal Employment Opportunity EEO Policy here brbrEpic Games deeply values diverse teams and an inclusive work culture and we are proud to be an Equal Opportunity employer Learn more about our Equal Employment Opportunity EEO Policy here ",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-09T16:10:48.000Z"
+  },
+  "company": {
+    "name": "Epic Games",
+    "link": "https://www.linkedin.com/company/epic-games"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "stronguCompany DescriptionbrbrustrongstrongAbout us but well be briefbrbrstrongWe are thrilled to share thatstrong FORTUNE has named Experian one of the 100 Best Companies to Work For strongIn addition for the last five years weve been name in the top strong100 Worlds Most Innovative Companies by Forbes MagazinebrbrstrongExperian Consumer Services  Careers That Define Whats the Next Big Data Thing for ConsumersbrbrWhat could be more exciting  personally and professionally  than being part of a disruptive business Consider taking your career to the next level by joining the Leader that continues to disrupt the competition As the disruptor and market leader we pride ourselves on building new markets leading the pack through continuous evolution and innovation Its a position Experian Consumer Services has enjoyed for more than a decade and were always looking for the talent that can help expand that leadbrbrWhen youre the leader its always urgent important and marketchanging We think that defines the true disruptive business Join us and create some chaos for the competitionbrbrstronguJob DescriptionbrbrustrongstrongWhat youll be doingbrstrongulliPartner with various departments eg Product Engineering etc to frame problems both mathematically and within the business contextliliPartner with Product and Engineering teams to bring models to production and support their ongoing operation and troubleshootingliliDebug maintain tune and improve model behavior and performance with live dataliliOversee and facilitate the training of a range of Machine Learning modelsliliEvaluate the quality of the trained models using existing and new measuresliliReport on the current and historical state of our models performance along with issues and progressliliIncident resolution Low accuracy troubleshooting miscategorization issue analysisliliMaintenance and improvement of the existing model development pipelineliliProduce adhoc analysisinvestigations on the modelling pipelineliliDocument parts of the modelingtesting processliliSupport development enhancement and maintenance of training datasetsbrliulstronguQualificationsbrbrustrongstrongWhat your background looks likebrstrongulliAt least 1 year on the job experience with Text Analytics and NLP natural language processing techniques and sparse dataliliAdvanced degree in economics statistics physics math or another quantitative fieldliliStrong business acumen with ability to clearly articulate research goals and results to technical and business audiencesliliStrong grasp of probability statistical inference optimization algorithms linear algebra and calculusliliUnderstanding of how and when to apply different Machine Learning algorithmsliliAbility to write productionlevel code in Python or other languages as well as proficiency with SQLliliStrong grasp of Pandas NumPy SciPy and ScikitLearn Python packages as well as other analytics packages in Python or SparkliliDemonstrable analytical and problemsolving abilities coupled with an enquiring mind and the ability to learn quicklyliliExperience or familiarity designing and running both simulated and live experiments AB and multivariate tests to drive KPI improvemenliliExperience or familiarity building supervised and unsupervised models using statistical or machine learning approachesliliAbility to creatively problemsolve and to thrive in a highly collaborative multidisciplinary environmentliliMeasure and optimize products and business processes to identify opportunities assess risk potentials and explain trends to drive audience and revenue growthliliHolistic and end to end approach to data including querying aggregation deep analysis visualization and models communicate and present findingsactionable insights to audiences at varying levels of technical sophisticationliliAssist in data requirements gathering and data validations to improve data platformsliliFlexible and adaptable to learn and understand new technologiesliliEfficiently manage hisher own project queue and develop streamlined workflowsbrliulstronguAdditional Preferred ExperiencebrustrongulliPrior professional experience in the financial industryliliPhD in economics statistics physics math or another quantitative fieldliliAbility to initiate and drive projects from ideation to implementationliliPrior professional experience building deeplearning models and familiarity with the popular frameworks TensorFlow or PyTorch is a huge bonusliliExperience with deep learning and other advanced modeling approaches to extract and automate insights from dataliliUnderstanding of current trends in machine learning interpretability and transparencybrliulemExperian is proud to be an Equal Opportunity and Affirmative Action employer Our goal is to create a thriving inclusive and diverse team where people love their work and love working together We believe that diversity equity and inclusion is essential to our purpose of creating a better tomorrow We value the uniqueness of every individual and want you to bring your whole authentic self to work For us this is emstrongemThe Power of YOUemstrongem and it ensures that we live what we believebrbremstronguAdditional InformationbrbrustrongAll your information will be kept confidential according to EEO guidelinesbrbremExperian is proud to be an Equal Opportunity and Affirmative Action employer Our goal is to create a thriving inclusive and diverse team where people love their work and love working together We believe that diversity equity and inclusion is essential to our purpose of creating a better tomorrow We value the uniqueness of every individual and want you to bring your whole authentic self to work For us this is The Power of YOU and it ensures that we live what we believeem",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T11:57:51.000Z"
+  },
+  "company": {
+    "name": "Experian",
+    "link": "https://www.linkedin.com/company/experian"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Costa Mesa",
+    "region": "CA",
+    "postal_code": "92626",
+    "street_address": null,
+    "latitude": 33.663857,
+    "longitude": -117.90476
+  }
+}

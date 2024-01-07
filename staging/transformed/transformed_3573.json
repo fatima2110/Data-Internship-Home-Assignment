@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Computer Software,Computer &amp; Network Security",
+    "description": "pstrongSenior Site Reliability Engineer  Austin TX or RemotestrongppbrppLawrence Harvey is partnering with a cloudbased SaaS leader in the Mobile Infrastructure space that is actively looking for a Senior Site Reliability Engineer to join their talented Infrastructure Engineering teamppbrppIn this role you will be responsible for managing building supporting and maintaining their internal cloud infrastructure by automating infrastructure as code IaC In addition you will have the chance to work crossfunctionally with other engineering teams including the security and cloud engineering teamsppbrppSkills RequiredpulliLinux engineering backgroundliliPrevious Infrastructure  Site Reliability Engineering experienceliliAbility to code using either Python or JavaliliCloud Experience AWS or AzureliliContainer andor orchestration platforms including Docker and KubernetesliliConfiguration management and automation tools including Puppet and TerraformliulpbrppIf this position is of interest please email me at dwhitelawrenceharveycomp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T13:17:05.000Z"
+  },
+  "company": {
+    "name": "Lawrence Harvey",
+    "link": "https://uk.linkedin.com/company/lawrence-harvey"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "Texas Metropolitan Area",
+    "postal_code": "78723",
+    "street_address": null,
+    "latitude": 30.276316,
+    "longitude": -97.70931
+  }
+}

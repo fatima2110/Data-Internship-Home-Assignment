@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Embedded Software Engineer - C /C++ / Linux",
+    "industry": "Computer Software",
+    "description": "We are a disruptive medical device startup that is revolutionizing the way that the world thinks about diagnostics We value our relaxed and fun company culture and were looking for someone who isnt solely money motivated but instead sees the true potential of a stable VCfunded 50M company that has been in business for 10 yearsbrbrWhats In It for Youbrulli Competitive pay with incentive opportunitieslili Medical Insurance Cost is 99 covered for employeeslili Dental Vision Cost is 100 covered for employeeslili Performance Bonus 2  10lili Opportunity to work in a relaxedflexible work environmentbrliulWhat You Need for this Positionbrulli Experience as a Senior Embedded Software Engineerlili Embedded system development experiencelili Strong C and C skillslili Linux programminglili Proficient with version control systems preferably Gitlili Experience in the medical device industry or interest in itlili Experience with Python Preferredlili Knowledge of ISO13485 and IEC62304 Pluslili Working knowledge of BitbakeYocto ecosystem Pluslili Experience working in a lab with oscilloscopes DMMs power supplies and logic analyzers PlusbrliulWhat You Will Be Doingbrulli Use C and C programming languages to develop high quality easily maintainable production codelili Improve existing devices interfaces both internal and externallili Explore and experiment with new methodologies for existing features and interfaceslili Assist in the development of software architecture and highlevel design choiceslili Assist in the selection of technical standards tools and platformslili Execute unit and integration tests and generate unit and integration test reportslili Lead define and improve software development methodologies processes procedures and toolslili Work closely with hardware and hardware engineers bringing up boards interpreting data sheets and schematics and developing device driverslili Participate in code reviews across languages and job functionslili Gather requirements and write specification documentslili Develop custom applications to support biology and device RampD projectsbrliulSo if you have the experience above please apply today or email me directly at edwinocampocybercoderscombrbrstronguEmail Your Resume In Word TobrbrustrongLooking forward to receiving your resume through our website and going over the position with you Clicking apply is the best way to apply but you may alsobrbrEdwinOcampoCyberCoderscombrulliPlease do NOT change the email subject line in any way You must keep the JobID linkedin  EO11633875  in the email subject line for your application to be consideredbrliulEdwin Ocampo  Recruiting Manager  CyberCodersbrbrApplicants must be authorized to work in the USbrbrstrongCyberCoders Inc is proud to be an Equal Opportunity EmployerbrbrstrongAll qualified applicants will receive consideration for employment without regard to race color religion sex national origin disability protected veteran status or any other characteristic protected by lawbrbrstrongYour Right to Workstrong  In compliance with federal law all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:01:02.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irvine",
+    "region": "CA",
+    "postal_code": "92717",
+    "street_address": null,
+    "latitude": 33.68591,
+    "longitude": -117.82472
+  }
+}

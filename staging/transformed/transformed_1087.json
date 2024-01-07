@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Application Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Construction,Mechanical or Industrial Engineering",
+    "description": "stronguJob SummarybrbrustrongClient located just west of Chicago is looking for an Applications engineer in the automation industry This individual will have experience with automated systems primarily in the Material Handling field This individual will be the technical liaison between sales and the customer Salary will be based on experiencebrul liBachelors in EngineeringliliExperience designing automated systemsliliExperienced in Microsoft productsbrliullocation Melrose Park Illinoisbrjob type Permanentbrsalary 70000  100000 per yearbrwork hours 8am to 4pmbreducation BachelorsbrbrstronguResponsibilitiesbrustrongul liDevelop Automated Systems used in the material handling industryliliCreate proposal documents that fully describe and define the solutionliliCompile review and process incoming information and specifications for new projectsliliAssist Sales Engineers and our customers by answering technical questions related to our productsliliReview and integrate internal documentsbrbrliulstronguQualificationsbrustrongul liExperience level liliEducation BachelorsbrbrliulstronguSkillsbrustrongulliElectrical EngineeringliliElectrical EngineeringliliControlsliliManufacturingliliRoboticsliliPLCliliElectrical EngineeringliliMechanical Engineeringlilimaterial handling 1 year of experience is requiredbrbrliulEqual Opportunity Employer Race Color Religion Sex Sexual Orientation Gender Identity National Origin Age Genetic Information Disability Protected Veteran Status or any other legally protected group statusbrbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T06:12:42.000Z"
+  },
+  "company": {
+    "name": "Randstad USA",
+    "link": "https://www.linkedin.com/company/randstadusa"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Melrose Park",
+    "region": "IL",
+    "postal_code": "60164",
+    "street_address": null,
+    "latitude": 41.89343,
+    "longitude": -87.85661
+  }
+}

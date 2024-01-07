@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Oil &amp; Energy",
+    "description": "strongMissionbrbrstrongThe Data Scientist is responsible for conducting undirected research and tackle openended data problems and questions Drawing on an advanced degree in a quantitative field such as computer science physics statistics or applied mathematics the Data Scientist demonstrates the knowledge to invent new algorithms to solve data problemsbrbrstronguResponsibilitiesbrustrongul li Research and assess nextgeneration technologies for machinery diagnostics and prognostics and datadriven modeling and optimization of complex systems Demonstrate advanced working knowledge and experience with machine learning algorithms and populationbased metaheuristic optimization methodsli li Generate innovative ideas establish new research directions and shape and execute on technical projectsli li Maintain stateoftheart knowledge and contribute to technical discussions and reviews as an expert in related areas of responsibilityli li Apply theoretical knowledge to solve industrial problemsli li Apply engineering knowledge in developing datadriven algorithms for anomaly detection failure prediction and optimizationli li Collaborate with field and product engineers to identify key health monitoring parameters of a systemli li Process large multivariate data sets collected from equipment operations manufacturing tests and diagnostic routinesli li Communicate ideas plans and results effectively via oral and written reportsli brbrulstronguExperience amp Exposuresbrustrongul li Data Science and Analyticsli li Algorithmic Developmentli brulstrongDisclaimerbrbrstrongSchlumberger is an equal employment opportunity employer Qualified applicants are considered without regard to race color religion sex sexual orientation gender identity national origin age disability status as a protected veteran or other characteristics protected by law Schlumberger is a VEVRAA Federal Contractorpriority referral Protected Veterans requestedbrSchlumberger",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T05:07:26.000Z"
+  },
+  "company": {
+    "name": "Schlumberger",
+    "link": "https://www.linkedin.com/company/schlumberger"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81800,
+    "max_value": 127000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Houston",
+    "region": "TX",
+    "postal_code": "77208",
+    "street_address": null,
+    "latitude": 29.760803,
+    "longitude": -95.36951
+  }
+}

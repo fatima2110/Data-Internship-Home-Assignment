@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Software Engineer",
+    "industry": "",
+    "description": "pBrilliant Solutions is currently seeking a motivated and customer oriented Software Engineer to join our team in Springfield VirginiappbrppThe engineer will work on a team that provides research technical guidance testing documenting and delivering unique solutions to meet the clients mission You will have the opportunity to use your critical thinking skills to come up with intuitive designs and visualizationsppbrppemExperiencenbspMinimum 2 years ofnbspknowledge and hands onemnbspppemPositions Availablenbsp1emnbspppemDesired CertificationnbspDoD 85701 IAT Level IIemnbspppnbspppResponsibilitiesnbsppulliMust havenbspSoftware Development hands on experiencenbspliliAssist senior developer in the integration of existing software into new or modified systems or operating environmentsnbspliliIncludes assistance onnbspapplication development code review andnbspanalysisnbspsecurity assessments of various COTSnbspandnbspGOTSnbspapplicationsnbspliliImplement automation tasks for server workloads such as writing backend processes ANSIBLE playbooks BASH or PYTHON scriptsnbspliliOpportunity to tackle complex infrastructure security and development problem setsnbspliliDeveloping and automating repeatable tasksnbspliliMaintain system security and execute common practicesprocedures monitor usage statistics and logs monitors and remediesnbspattemptnbspto penetrate or corrupt server filesnbspliliMaintain baseline configurations and performs modification of configuration settings and automation solutionsnbspliulpbrppQualificationsnbsppulliAssist senior engineers in the design implementation and administration of platform toolsnbspnbspliliFamiliarity with software products with tools such as Ansible Terraform etcnbspliliExperience with container configurations and services especially DockernbspliliExperience in collaborative software development using version control systemsnbspliliAt least two years of professional experience in languages suchnbspPython Rust andornbspGo Knowledge of web languages such as JavaScript are a plus but not requirednbspliliAbility tonbspwrite wellwritten code following best practices and design patternsnbspliliFamiliar with Continuous Integration  Continuous Deployment CICD methodologies and products such as GitLab Pipelines Jenkins Travis CI CirclenbspGithubnbspActions etcnbspliliExperiencednbspwith GITnbsprepositoriesnbspwith hands on withnbsptagging releasing andnbspbuild processesnbspother repositories withnbspsimilar codenbspsetupnbspliliTechnical understanding of cybersecurity attack techniques and associated mitigationsnbspliliExperience in UNIXLINUX Server administration a plusnbspliliExperience withnbspCloudnbspStorage and Virtualization solutions a plusnbspliliExperience in setup and maintenance of cloud infrastructure a plusnbspliliAndroidmobile development knowledge is a plusliulpbrppCore CompetenciesnbsppulliAbility to review work of others and detect errors or needed modificationsnbspliliAbility to work under direction of senior developersengineersnbspliliAbility tonbspdetermine and develop approach to solutionsnbspquicklynbspliliAbility to make recommendations to purchase hardware software and systemapplicationnbspcomponentsnbspliliStrong communicationnbspskillsnbspshows tact effective listening skills and follow throughnbspliliInnovation andnbspLearningnbspinnovative technologiesnbspliulpnbspppemTravelnbspand alternate hoursemnbsppulliOccasional travel to customernbspsites innbspsupport of troubleshooting testing and deployment activitiesnbspliliAbility to work after hours and weekends as needednbspoutagesupgradesnbspliulpbrppIf you are ready to join our energetic team apply below The job requires a active TSSCI clearancep",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T22:49:58.000Z"
+  },
+  "company": {
+    "name": "Brilliant Solutions Inc",
+    "link": "https://www.linkedin.com/company/brilliant-solutions-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington DC-Baltimore Area",
+    "region": null,
+    "postal_code": "21201",
+    "street_address": null,
+    "latitude": 38.873062,
+    "longitude": -77.007385
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Ad Platform",
+    "industry": "Internet",
+    "description": "stronguAbout UsbrbrustrongLaunched in 2011 Twitch is a global community that comes together each day to create multiplayer entertainment unique live unpredictable experiences created by the interactions of millions We bring the joy of coop to everything from casual gaming to worldclass esports to anime marathons music and art streams Twitch also hosts TwitchCon where we bring everyone together to celebrate learn and grow their personal interests and passions Were always live at Twitch Stay up to date on all things Twitch on LinkedIn  Twitter and on our Blog brbrstronguAbout The RolebrbrustrongTwitch enables content creators to livestream content to their communities across the globe Advertising is a core part of Twitchs business model and spans across many product areas We take pride in our mission to help creators earn a living by entertaining and educating their viewers On the Advertising team youll work with a passionate and customer obsessed team We are a growing team of product and engineering professionals based in the Twitch HQ at downtown SFbrbrTwitch is looking for backend and full stack engineers with the curiosity and creativity to develop user experiences services and APIs that grow the advertising and promotion business These systems give creators opportunities to make money the data they need to do this wellbrbrThe ideal contributor has experience building and delivering highquality production UXs and web services in a distributed systems environmentbrbrAs the leader in this space Twitch has a unique opportunity to invent what advertising as a product means in a livestreaming context Our products include creative realtime experiences specific to Twitch If youre excited about having an outsize impact in an area thats ripe for innovation come work with usbrbrstronguYou Willbrustrongulli Develop deliver and operate new product services and features on native AWS infrastructureliliScale and improve existing APIs and services used to power the Twitch advertising platformliliImprove engineering processes and tools to increase team effectivenessliliContribute to overall team and organization technical strategy and architecture designliliWork across teams and organizations to deliver value to our creators viewers and advertisersliul strongstrongYou Havebrstrongstrongulli 4 years of experience developing distributed services andor highvolume data processing workflowsliliProficient coder in one or more of the following Go Java PythonliliExperience developing and operating highvolume lowlatency distributed services andor highvolume data processing workflowsliliBachelors degree or above in Computer Science or related fieldliul strongstrongBonus PointsbrstrongstrongulliExperience refining technical strategy and mentoring engineersliliExperience or familiarity with the AWS ecosystem of services EC2 RDS Dynamo Lambda and CloudWatchliliExperience or familiarity with Data pipelines Kinesis Airflow Redshift or SparkliliExperience or familiarity with experience building GraphQL APIsliliExperience or familiarity with Docker Kubernetes and the container ecosystemliul strongstrongPerksbrstrongstrongulliMedical Dental Vision amp Disability Insurancelili 401k liliMaternity and Parental Leave liliFlexible PTOlili Commuter Benefits liliAmazon Employee DiscountliliMonthly Contribution and Discounts for Wellness Related Activities amp Programs eg gym memberships offsite massagesliliBreakfast Lunch amp Dinner Served DailyliliFree Snacks and BeveragesbrliulPursuant to the San Francisco Fair Chance Ordinance we will consider for employment qualified applicants with arrest and conviction recordsbrbrWe are an equal opportunity employer and value diversity at Twitch We do not discriminate on the basis of race religion color national origin gender sexual orientation age marital status veteran status or disability status",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:06:52.000Z"
+  },
+  "company": {
+    "name": "Twitch",
+    "link": "https://www.linkedin.com/company/twitch-tv"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 116000,
+    "max_value": 175000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

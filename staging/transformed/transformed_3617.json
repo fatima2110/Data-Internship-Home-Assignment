@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "stronguDescriptionbrbrustrongDo you have experience working with or building information retrieval search or question answering systems Are you passionate about functional and operational performance Do you want a chance to use cuttingedge tools technologies and work in close collaboration with machine learning scientist to deliver value to millions of customersbrbrAmazon is looking for a Machine Learning Engineer for initiatives within Alexa Web Info which is part of our ongoing Alexa Information efforts focused on reinventing information extraction and retrieval for a voiceforward multimodal futurebrbrYou will have an opportunity to directly impact the customer experience design architecture and implementation of products that will be used every day by people you know Were looking for someone passionate about innovating on behalf of customers who demonstrates strong product ownership and is willing to think in new ways to solve difficult problemsbrbrJob responsibilitiesbrulli Collaborate closely with applied scientists on machine learning operations tasks ranging from ML data management to training and deployment of ML models This work will be primarily based on Python and a distributed computing framework eg Sparklili Develop data collections labeling pipelines and evaluation pipelines Research and develop machine learning models for text training resourceslili Design and build textbased storage and indexing systems in a large distributed computing environment and ensure these systems are scalable faulttolerant low cost and easy to manageuse etcbrliulAmazon is committed to a diverse and inclusive workplace Amazon is an equal opportunity employer and does not discriminate on the basis of race national origin gender gender identity sexual orientation protected veteran status disability age or other legally protected status For individuals with disabilities who would like to request an accommodation please visit httpswwwamazonjobsendisabilityusbrbrbrstronguBasic Qualificationsbrustrongulli 1 years of experience contributing to the architecture and design architecture design patterns reliability and scaling of new and current systemslili 2 years of noninternship professional software development experiencelili Programming experience with at least one modern language such as Java C or C including objectoriented designlili 2 years of noninternship professional software development experiencelili Programming experience with at least one modern language such as Java C or C including objectoriented designlili 1 years of experience contributing to the architecture and design architecture design patterns reliability and scaling of new and current systemslili Experience in ML as listed in preferred qualificationsbrbrliulstronguPreferred QualificationsbrbrustrongAn ideal candidate will have experience or have demonstrated expertise in some of the followingbrulli MS or PhD in Computer Science or equivalent experience in MLlili ML data management collect store manage data creating training datasets data labeling feature engineering data partitioning sampling and slicing building and training machine learning infrastructure model deployment inference constraints model compression server and client side ML employment evaluation ML infrastructure monitoring and maintenance familiarity with architectural choices for ML systemslili Prior experience with using or maintaining a NoSQL database eg MongoDB is a pluslili Prior programming experience and expertise in Python and basic ML libraries such as numpy scipy and a distributed computing framework eg Spark is a pluslili Experience managing and running Mturk experimentslili Adept at handling ambiguous or undefined problemslili Prior experience working in collaboration with MLdata scientistsbrbrliulstrongCompanystrong  Amazoncom Services LLCbrbrJob ID A1673578",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T09:39:25.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

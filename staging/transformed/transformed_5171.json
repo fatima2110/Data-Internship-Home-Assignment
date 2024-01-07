@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "pstrongNo C2CstrongppstrongMust be a US Citizen or Green Card HolderstrongppbrppAs an SRE you will work with leading edge technologies both onpremise and in the cloud Automation and superior software qualityperformance and resiliency will be your mindset You will be an expert resource in software and operational highperformance design patterns and support different development architecture and operational teams from start to finish to create scalable and resilient highly available solutions for multiple locationsppstrong strongppstrong Responsibilitiesstrong pulliSupport development architecture and operational teams for performancecapacity related issues associated with complex multitier distributed platforms during the SDLC and postproduction liliSupportcoordinate new BuildRun initiatives prior to production and assure product readiness including infrastructure recommendations softwarescript development loadchaos testing optimization SLO definition capacity planning and observationalerting liliSupport SelfService performance testing helping teams overcome test scenario design challenges liliReview source code and identify bottlenecks Identify opportunities to improve performance and scale liliPerform new POCs for newer technologies and architectural patterns to help teams make informed decisions liliDefine new SLOs for services and applications Perform workload analysishelp teams define testing scenarios to meet nonfunctional SLA requirements defined by the businessliliWork to reduceminimize ongoing runtime costs through efficient throttlingqueuingpoolingautoscaling across application and infrastructure tiers liliProactively identify anomalies and opportunities in platforms in production to achieve greater performancescale and recommend to impacted teams for future planningliliDefine performance quality gates and support canary development CICD scenarios around performance for teamsliliSupport Performance Analytics Testing and Observation infrastructure as neededliliIntroduce and evaluate new technologies and tools for performance measurement observation profiling debugging simulation etcliulpbrppstrong Required Skills and QualificationsstrongpulliExperience supportingtroubleshooting large scale multitier distributed onpremise and cloud applicationsliliExperience architecting developing and setting up new infrastructure solutions for hybrid incloudonpremise applicationsliliExperience in Capacity Planning or Performance Engineering and leveraging predictive analytics to determine needed scaling patterns for platformsliliExperience programming in languages such as Java NodeJS Go Python Ruby Bash Perl and JavaScript liliExperience in Web Development andor Web Service creation liliDemonstrable crossfunctional knowledge with systems storage networking security and databasesliliExperience with Linux commands and OS related performance utilitiesliliExperience using observation tools such as Splunk or DynatraceliulpstrongPreferred QualificationsstrongpulliExperienced Architect in GCP Kubernetes and Google AppEngineliliExperience leveraging messaging frameworks such as Kafka or PubSub solutionsliliExperience with LRUMRU caching schemes and solutions leveraging MemCached or Redis for achieving scaleperformanceliliExperience developing basic SpringBoot services and using the Spring FrameworkliliExperience or familiarity in web development creating web sites using modern single page MVC frameworksliliExperienced in performance tracingprofiling using Google Developer ToolsliliExperience with Jetty TomcatF5 Load Balancers Apache Web Servers and Adobe Experience ManagerliliExpertise in Adobe Experience Manager optimizationliliExperience with SQL and database scalingreplication schemesliliFamiliar with tools used for front end analysis such as Lighthouse Page Speed Metrics WebpageTest GTMetrix and browser developer tools liliExperience using MongoDBAtlas and PostgresliliExperience with AngularJS React and VueliliExperience tuningoptimizing runtime environments for Java JVMs Nodejs and Python for the best performanceliliExperience with DevOpsQuality gating concepts Canary deployments and automation associated with CICD deploymentsliliExperience in Enterprise Architecture integration patterns and domain model driven design addressing proper separation of concerns for an applicationmicroservices and core web services liliExperience working in operations andor performance engineeringtestingliliExperience using observation tools StackDriver Dynatrace Splunk Quantum Metrics and Akamai solutions Experience using cloud profiling tools and JVM tools like JProfilerJava Flight Recorder liliExperience in Testing methodologies and metrics using tools like JMeter NeoLoad LoadRunner or otherliliSystematic problemsolving approach coupled with strong communication skills and a sense of ownership and driveliliExperience with CICD methodologies and having AgileDevOps mindsetliliA passion for automation with a desire to eliminate toil whenever possibleliliA proactive approach to spotting problems areas for improvement and performance bottlenecksliliExperience using GIT and industry build toolsliulpp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T21:12:16.000Z"
+  },
+  "company": {
+    "name": "neteffects",
+    "link": "https://www.linkedin.com/company/neteffects"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater St. Louis",
+    "region": null,
+    "postal_code": "63101",
+    "street_address": null,
+    "latitude": 38.62262,
+    "longitude": -90.192986
+  }
+}

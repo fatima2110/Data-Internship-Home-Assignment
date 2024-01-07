@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Financial Services,Health, Wellness and Fitness,Hospital &amp; Health Care",
+    "description": "stronguDescriptionbrbrustrongPerforms advanced data design and analysis using the Electronic Medical Record EMR to create new knowledge useful to KP and outside organizations Extracts and cleans large volumes of healthcare data across dozens of sources Applies expert statistical methodologies to clinical outcomes Partners effectively with physicians other clinicians software engineers and business managers to communicate findings using data visualization techniquesbrbrstronguEssential ResponsibilitiesbrustrongulliWorks with physicians epidemiologists statisticians business managers and software engineers to formulate and scope questions and translate knowledge into care transformationliliDevelops algorithms and predictive models to solve critical health service problemsliliInfluences a general audience to understand the quality completeness and appropriate use of dataliliProvides advice about choice of statistical approaches perform statistical analysisliliDevelops tools and libraries to create efficiencies for future workliliDevelops systematic approaches to assure data validityliliIdentifies new sources of data within the electronic medical record that will improve information about target diseases and clinical processesliliEstablishes links across existing data sources process large volumes of data needed for complex researchoperational studiesliliTrains Data Consultants and other data workersliliKaiser Permanente conducts compensation reviews of positions on a routine basis At any time Kaiser Permanente reserves the right to reevaluate and change job descriptions or to change such positions from salaried to hourly pay status Such changes are generally implemented only after notice is given to affected employeesbrliulstronguSecondary FunctionsbrustrongulliPosition is for one year Continuation is contingent upon contractgrant fundingbrliulstronguExperiencebrbrustrongstrongBasic QualificationsbrstrongulliMinimum eight 8 years of experience with multivariate data analysis commonly used in epidemiology eg logistic regression linear regression cluster analysis Cox proportional hazard analysis GEE and hierarchical modelsliliMinimum eight 8 years of experience writing and executing complex queries to extractprocess data eg SQL including linking tables and variables from very large datasetsliliMinimum eight 8 years of programming experience to build and validate machine language and statistical algorithms and to perform statistical analysis eg R Python SASbrliuluEducationbruulliMasters degree required in a quantitative health field epidemiology mathstatistics bioinformatics or computer sciencebrliuluLicense Certification RegistrationbruulliNAbrliulstronguAdditional RequirementsbrustrongulliDemonstrated understanding of data systems and architectureliliExperience using data science AI and machinelearning platforms to build and deploy supervised and unsupervised modelsliliDemonstrated ability to create and execute solutions to complex data science problemsliliDemonstrated ability to lead project efforts communicate effectively with team members and guide decision makingliliAdvanced knowledge of data visualization tool principles theories and conceptsbrliulstronguPreferred QualificationsbrustrongulliExperience working with electronic medical record to conduct health research and analyticsliliExperience using novel open source software for analytic and nonanalytic processingliliExperience with health record standards including HL7 and other interchange and coding standards highly desirableliliAdvanced training in biostatistics andor statistics degree or continuing educationliliDemonstrated scholarly activities to advance the field eg teaching presentations at conferences lead or coauthorship of scientific manuscriptsliliDemonstrated understanding of clinical workflowsliliDemonstrated proficiency with Natural Language ProcessingliliWell versed in open source libraries and methodologies for creating data workflows composed of most appropriate technologies including command line tools containerized tools microservices etcliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Kaiser Permanente",
+    "link": "https://www.linkedin.com/company/kaiser-permanente"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 91500,
+    "max_value": 134000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Oakland",
+    "region": "CA",
+    "postal_code": "94612",
+    "street_address": null,
+    "latitude": 37.80483,
+    "longitude": -122.27248
+  }
+}

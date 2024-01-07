@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Mathematician/Data Scientist",
+    "industry": "Information Technology and Services,Banking,Financial Services",
+    "description": "pstrongMathematicianData ScientiststrongppstrongLarge Banking ClientstrongppstrongCorporate Investment Banking Operations strongppstrong12 month contract to hire potential strongppstrongnbspstrongppAre you inquisitive Do you love math Apex Systems is seeking Data Scientists to assist our clients model developers with model development enhancement breach remediation performance testing and documentation The ideal candidate will have a background in a quantitative or technical field and have experience in datadriven prediction and decision making machine learning data analysis and working with large data sets   ppbrppstrongJob Duties strongpp Lead or assist the model developer with Machine Learning and AI modeling engagement from understanding the business objective through data sourcing and analysis to model development and implementationpp  Identify model breach and develop action plans to remediate the breachpp  Develop model ongoing monitoring plan to proactively monitor model performancepp  Management relationship with key stakeholders including technology team line of business and model risk management teampp  Become a subject matter expert and trusted advisor to your business partners and help them understand the strengths and shortcomings of our models   ppbrppstrongRequired Skillsets and Education   strongpulliMS degree in Statistics Mathematics Operations Research Engineering Computer Science or Economics   lili3 years of quantitative or mathematical modeling related experience   liliHandson experience with Machine Learning and Artificial Intelligence applied to large datasets   A major plus  but not requiredliliExpertise in at least one of the following Python SAS Java   nbsp  liulpbrppstrong Preferred Skillsets and Educationstrong   pulliPhD in a quantitative discipline   lili5 years of quantitative model development experience in banks   liliHandson experience with Machine Learning Deep Learning Natural Language Processing and Optical Character Recognition OCR models  lili Demonstrated ability to set clear goals plan ahead and deliver against tight timelines   nbsp liulpnbspp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-19T17:07:07.000Z"
+  },
+  "company": {
+    "name": "Apex Systems",
+    "link": "https://www.linkedin.com/company/apex-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Charlotte",
+    "region": "NC",
+    "postal_code": "28241",
+    "street_address": null,
+    "latitude": 35.223785,
+    "longitude": -80.84114
+  }
+}

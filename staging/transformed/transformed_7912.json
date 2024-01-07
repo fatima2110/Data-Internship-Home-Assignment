@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer - Culver City",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brAt Apple great ideas have a way of becoming great products services and customer experiences very quickly If you are an ambitious highenergy individual who is not afraid of challenges were looking for youbrbrbrApple is seeking an expert Machine Learning Engineer or Applied Scientist to join a team passionate about building ML models for the media space covering services such as Apple Arcade Apple Music and Apple TVbrbrbrThis role will involve working with Internetscale data across numerous product and touch points and buildingimplementing products to drive business and marketing strategybrbrbrThe teams culture is centered around rapid iteration with open feedback and debate along the way We encourage independent decisionmaking and taking calculated risks AMP Data Science collaborates with partners across product design engineering and business teams our mission is to drive innovation at Apple through deep quantitative researchbrbr brstrongKey Qualificationsbrstrong br3 years of experience in a Machine Learning Engineer or Applied Scientist role preferably for an internet technology companybrbrbrFamiliarity with broad range of Machine Learning techniques and relevant statistical packages to engineer Machine Learning solutions endtoendbrbrbrStrong proOiciency with SQLbased languages Python Spark and additional largescale data  Hadoopecosystem tools Working proficiency with GitbrbrbrExperience in contributing to production code bases Ability to rapidly prototype algorithmic ideas in notebook environments and translate them into production codebrbrbrCurious business attitude with an ability to condense complex concepts and models into clear and concise takeaways that drive actionbrbrbrExcellent communication social and presentation skills with meticulous attention to detailbrbr brstrongDescriptionbrstrong brCollaborate with Apple Media Products stakeholders and partners to design Machine Learning models that help us better understand and serve our customers primarily focusing on the App Store and extending to additional Services such as Apple Arcade Apple Music and Apple TVbrbrbrEngineer endtoend Machine Learning products which provide Apple with a granular understanding of customer preferences and user value drivers including scalable solutions for customer acquisition and targetingbrbrbrSupport engineering business and marketing teams at Apple in optimizing all customer touch points by detecting usage patterns with datadriven  machinelearned methods and translating them into actionable solutionsbrbrbrDive deep into largescale data sources to uncover opportunities for Machine Learning automation predictive methods and quantitative modeling across the App Store and other Apple servicesbrbrbrPartner with other Apple organizations on data engineering data governance evangelizing Machine Learning and democratizing databrbrbrIncrease internal adoption of ML and AI productsbrbrbrYour creative problem solving skills will be utilized daily This position is based in Culver Citybrbr brstrongEducation amp Experiencebrstrong brMinimum of a Bachelors degree in Computer Science Statistics Mathematics Engineering or related field Ideally Masters or PhD in related fieldbrbr brRole Number 200289181brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-16T05:13:15.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Culver City",
+    "region": "CA",
+    "postal_code": "90232",
+    "street_address": null,
+    "latitude": 34.0225,
+    "longitude": -118.39429
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "pAt Habitat Energy we bring together exceptionally talented and passionate people in the domains of energy trading data science software engineering and an indepth understanding of flexible energy assets Our aim is to maximise the value of largescale flexible energy assets eg battery storage so they are attractive investments are deployed at scale and enable the energy transitionnbspppbrppWe are looking for smart motivated people to join our team who share our belief that we can outperform the energy sector dinosaurs have a positive impact on the planet and have fun doing it togetherppbrppWe have a vacancy for anbspstrongData Scientiststrongnbspto be one of the founding members of our new team in Austin TexasnbspppbrppYou will be responsible forppbrpulliDeveloping and building Habitat Energys US market forecasts building on our existing market forecasting capabilities using machine learning and statistical methodsliliDesigning building and developing the decision making algorithms which will support the optimisation of our US merchant storage portfolioliliCreating systematic trading algorithms for transacting power in the USliulpbrppWere looking for someone who is a great fit for our company We want people who take accountability build trust and are innovative We encourage you to apply even if you may not meet every requirement in this postingnbspWe value diversity and our environment is supportive challenging and focused on the consistent delivery of high quality meaningful worknbspnbspppbrppRequirementsppbrpulliIndependent entrepreneurial approach to workliliA passion for algorithmic decisionmaking and a desire to apply that within the energy sectorliliAn undergraduate degree in Computer Science Machine Learning or related technical fieldliliYou have experience with Python and its wider numerical ecosystem Pandas SciKitlearn Numpy etcliliYou have at least 3 years of workeducational experience building and delivering production solutions in Machine Learning Data Science andor Convex OptimizationliulpbrppExtra credit if you can demonstrateppbrpulliMS or PhD degree in Computer Science Machine Learning or related technical fieldliliTime series forecasting and mixed integer linear programmingliliExperience in energy markets or battery systems modellingliliRelational andor nonrelational databases eg SQL including timeseries databasesliliVersion control code Git including dev test and production environmentsliliAWS continuous integration monitoring and alertingliulpbrppIn return well give you a competitive salary flexible working arrangements and a lot of personal development opportunitiesp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T16:21:16.000Z"
+  },
+  "company": {
+    "name": "Habitat Energy",
+    "link": "https://uk.linkedin.com/company/habitat_energy"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

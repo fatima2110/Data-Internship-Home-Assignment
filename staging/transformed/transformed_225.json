@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "Information Technology and Services,Computer Software,Hospital &amp; Health Care",
+    "description": "OM1 is on a mission to improve health outcomes by unlocking the power of data We are a healthcare data and technology company focused on improving real world clinical data and outcomes accelerating medical research and personalizing healthcare Our interdisciplinary team uses expertise in medicine software Big Data machine learning public health and mathematics to transform records from a diverse set of sources into enriched research grade data This data allows us to generate unique insights in a variety of disease areasbrbrAs a Data Engineer youll build out and enhance bigdata pipelines code dataoriented product features and analyze our complex data assets The ideal candidate is a smart creative and curious analytical thinker who demonstrates strong software engineering skills and an excellent aptitude for data analysis This is a key role within our Engineering team with responsibility for driving our high standardsbrbrstronguResponsibilitiesbrustrongul liBuild automate and improve bigdata pipelinesli liCode test and deliver dataoriented product featuresli liIntegrate new data sources into our data assetli liModel enhance and enrich database schemas and underlying datali liCraft scalable backend software and tools using modern software engineering practicesli liAnalyze and interpret data flows attributes and qualityli brbrulstronguRequirementsbrustrongul liStrong programming skills preferably Python Scala Java or similarli liExcellent SQL skillsli liSolid understanding of software engineering principlesli liComfort working in an AgileScrum environment with continuous deliveryli liA strong desire to advance healthcare and improve patient outcomesli liExcellent attention to detailli ulNICE TO HAVEbrul liFamiliarity with cloudbased platforms such as AWS Databricks andor Snowflake DBli liData processing experience with Python Scala Spark andor Airflowli liAutomated unit and integration testing experienceli liExperience with CICD tools such as Jenkinsli liBackground in medical records and health insurance claimsli liExperience working on systems with strong security and privacy requirementsli brbrulOM1 is an equal employment opportunity employer and considers qualified applicants without regard to gender sexual orientation gender identity religion race veteran or disability status At OM1 ensuring that people feel respected valued and included is essential to our success We are committed to working together to provide a work environment that embraces the principles of diversity equity and inclusionbrbrstrongDirect applicants only  No agenciesstrong",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-08T11:31:14.000Z"
+  },
+  "company": {
+    "name": "OM1, Inc.",
+    "link": "https://www.linkedin.com/company/om1-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 82700,
+    "max_value": 180300,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

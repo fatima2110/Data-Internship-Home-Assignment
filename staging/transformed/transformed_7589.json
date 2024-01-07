@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "ServiceNow Developer",
+    "industry": "Information Technology and Services",
+    "description": "pstrongThis is a 100 remote opportunity  Open to full time or contractingstrongppbrppAs a Technical Consultant you will work to develop design and own technical solutions on the ServiceNow platform You will provide administration application development maintenance and technical support by using good practice web programming techniques to configure robust solutions to the client utilizing the ServiceNow platformnbspppnbspppnbspLocation Remote  must be based in the USppnbspTravel Requirements 25 or lessppnbspEmployment Status FulltimeppbrppstrongResponsibilitiesstrongppstrongnbspstrong Comfortable with Javascript and ServiceNow Javascript APIsppnbsp Comfortable with configuration and customization of solutions in one 1 or more of the following specializationsppnbsp ServiceNow Mainline Applications ITSM ITBM CSM HR ITOM etcppnbsp Service Portal HTML CSS AngularJS SASS Bootstrapppnbsp ServiceNow Application Development Scoped Applicationsppnbsp 3rd Party Integrations Development REST SOAP MID Servers etcppnbsp Writecreate custom business rules client scripts script includes UI policies ACLs data policies UI scriptsppnbsp Work independently with customers on implementations and remote servicesppnbsp Can troubleshoot basic configurationscript issuesppnbsp Attend requirements review and validation sessions as requiredppnbsp Participate in scrum ceremoniesppnbsp Deliver measurable positive results within the client and teams timeline resulting in positive feedback from clientsppnbsp Build on current platform knowledge by learning new modules and broadening skillsetppnbsp Remain innovative creative selfdirecteda great leader and team player with a record of accomplishment in managing multiple complex tasksppnbsp Utilize strong communication presentation and writing skillsppnbsp Maintain current certifications keep up to date on all Delta releasesppstrongQualificationsstrongppnbsp Strong working knowledge of one 1 or more of the following specializationsppnbsp ServiceNow Mainline Applications ITSM ITBM CSM HR ITOM etcppnbsp Service Portal HTML CSS AngularJS SASS Bootstrapppnbsp ServiceNow Application Development Scoped Applicationsppnbsp 3rd Party Integrations Development REST SOAP MID Servers etcppnbsp ServiceNow Certified System Administrator is requiredppnbsp ServiceNow CIS certification is preferredppnbsp Consulting experience strongly preferredppnbsp BABS Degree education preferredppbrppnbspp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:39:45.000Z"
+  },
+  "company": {
+    "name": "KORE1",
+    "link": "https://www.linkedin.com/company/kore1-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cincinnati Metropolitan Area",
+    "region": null,
+    "postal_code": "45220",
+    "street_address": null,
+    "latitude": 39.097866,
+    "longitude": -84.508
+  }
+}

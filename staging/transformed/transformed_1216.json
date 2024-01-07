@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Data Center Engineer/Linux",
+    "industry": "Staffing and Recruiting",
+    "description": "A SaaS company in Center City Philadelphia is looking to bring on a Junior Datacenter Engineer to join the team of about six other Engineers This environment is primarily a Linux CentOSDebian shop so you should have experience troubleshooting hardware managing Servers upgrades scripting with Bash SAN platforms Virtualization and morebrbrThis position is perfect for someone looking to grow into more of a Linux Engineer or Cloud Engineer This company offers a ton of growth training ability to work on new technology excellent work life balance and full benefitsbrbrstronguRequired Skills amp Experiencebrustrongul liAt least 1 year in ITli liProduction experience with Linux Servers and Hardwareli liVirtualization including VMware and any Cloud platforms such as GCP AWS or Azureli liSAN  EMC NetApp etcli liExcellent troubleshooting skillsli liScripting Bash and Pythonli brulWhat You Will Be DoingbrbrTech Breakdownbrul li100 Datacenterli brulDaily Responsibilitiesbrul li100 Hands onli brulThe Offerbrul liCompetitive Salary Up to 80Kyear DOEli brbrulstronguYou Will Receive The Following Benefitsbrustrongul liFull Medical Dental and Visionli liMatching 401kli liExcellent PTOli liGrowthtrainingli brulApplicants must be currently authorized to work in the United States on a fulltime basis now and in the futurebrbrWe are excited to officially release our 2020 Tech Salary Guide This resource features localized tech salaries for 12 different cities Youll find the data to guide your job search here Download Motion Recruitments 2020 Salary Guide today httpshubslyH0nmhDT0brbrstrongPosted Bystrong Shawna Dunleavybrbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T01:08:19.000Z"
+  },
+  "company": {
+    "name": "Motion Recruitment",
+    "link": "https://www.linkedin.com/company/motion-recruitment-partners"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Philadelphia",
+    "region": "PA",
+    "postal_code": "08051",
+    "street_address": null,
+    "latitude": 39.95106,
+    "longitude": -75.16562
+  }
+}

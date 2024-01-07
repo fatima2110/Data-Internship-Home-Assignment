@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": " Data Engineer - Machine Learning",
+    "industry": "Management Consulting",
+    "description": "pio173 is partnered with multiple Management Consulting firms to scale up their Data Engineering teams supporting Machine Learning for advanced analytics solutions Our clients primary focus is on endtoend development of analytics solutions and their deployment at scaleppbrppQualified candidates will have experience in Machine Learning OperationsData Engineering building endtoend data Pipelines for ML consumption Experience outside ML Data Engineering is a plus but you MUST have experience on ML projectsppbrppstrongRequired Experiencestrongpp25 years experience in MLOperationsML Data Engineering developing endtoend data pipelines for machine learning solutionsppExperience in distributed computing specifically putting PySpark code into productionppbrppstrongCore Required SkillsstrongppPython programing AdvancedppSQL AdvancedppPySpark intermediate to AdvancedppbrppstrongExpectationsstrongppThis role will require approximately 4050 travel to meet with client teamsppMust be located in a location commutable to one of our clients major hubs Boston Atlanta Chicago New York CityppbrppWe will not consider C2C candidates for this role only directhire candidatesppbrppio173com acts as an employment agency for permanent recruitment By applying for this job you accept the Terms ampConditions Privacy Policy and Disclaimers which can be found at io173comp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T17:41:37.000Z"
+  },
+  "company": {
+    "name": "io173",
+    "link": "https://uk.linkedin.com/company/io173"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

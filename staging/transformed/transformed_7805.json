@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Internet",
+    "description": "pHi there Thanks for your curiositystrong nbspstrongppWe are looking for a Data Scientist II to join our MLfocused DS team This role does not do dashboards and short term analyses but rather focuses on researching and applying the best machine learning models to the problems our products face today You will report to the Head of DS  Machine Learning and be part of an evergrowing strongemskilledemstrong and strongemdiverseemstrong team of peer Data Scientists and EngineersppbrppstrongWho we arenbspstrongppbrppRetailers all over Latin America spend billions of dollars each year to send thousands of workers to complete tasks like delivering ecommerce orders stocking shelves and building displays Our tech provides these retailers with the manpower for all the above via a smart gig platform To date over 4000000 jobsstrong strongwith billions of data pointsstrong stronghave been completed by Zubaleros in Mexico Colombia and Costa RicanbspppWe are backed by top VCs in San Francisco Mexico City and Boston This is a rare opportunity to build in the Latin America market with a wellfunded tech startup with exponential growthppbrppstrongWhat You Will DostrongppbrpulliBuild statistical optimization and machine learning models to balance a marketplace of Zubaleros endusers and clientsliliPartner with DSAnalytics Product and Engineering teams to deliver solutions that are appropriately scoped implemented and scaledliliContribute to the team spirit of always learning teaching one another and growingliliMake solutions that directly impact the tens of thousands of Zubaleros that use our app to make money everydayliulpbrppstrongSkills RequiredstrongppbrpulliBachelors or higher in Computer Science Engineering Mathematics or a related fieldlili2 years of experience in modeling and deploying machine learning solutions in PythonliliDemonstrated knowledge of the following domains classification regression clustering reinforcement learning computer vision time series modeling including some knowledge of the concepts of taking projects to scale in the cloudliliAbility to communicate in business and technical settings We need to be able to build models and explain to others how and why they workliliYou have an interest in the LatinAmerican MarketliliThe role can be remote but working hours are generally in the Americas time zonesliliYou speak English required and Spanish preferred but not requiredliulpp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T05:16:38.000Z"
+  },
+  "company": {
+    "name": "Zubale",
+    "link": "https://mx.linkedin.com/company/zubale"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

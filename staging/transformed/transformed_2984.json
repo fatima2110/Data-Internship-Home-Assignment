@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - 100% Remote",
+    "industry": "Information Technology and Services",
+    "description": "pOur client is looking for a Site Reliability Engineer to help build and support the ultimate voicebased conversational AIppbrppstrongTitle strong Site Reliability EngineerppstrongLocation strong 100  RemoteppstrongDuration strong FulltimeppbrppstrongResponsibilities strongpulliBe part of oncall rotation to respond to urgent bugs or production outagesliliProactively identify and fix infrastructure bottlenecksliliChoosing tooling for and understanding of CI  CDliliGCP knowledgeliliKubernetes In a production environmentliliDockerliliKnowledge of working in an Agile environmentliliInfrastructure As CodeliliDevelop integrate and support features in the core server stackliliDevelop and support data pipeline and infrastructureliulpbrppstrongDesirable Skills IncludestrongpulliMicroservices ArchitectureliliGoliliPythonliliML OpsliliShould be able to apply different tenants configuration through code as well as toolsliulpbrppstrongExperience strongpullistrong35 years of experience in working with infrastructure as codestronglilistrongAt least 1 year in Python or GolanstronggliliComfortable developing maintaining DevOps pipelinesliliStrong experience working with cloud services  AWS or GCP preferredliliExposure to NLPAIML is a huge plusliulpbrppstrongIf interested please email me your resume at rahulavestacscomstrongp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T21:26:41.000Z"
+  },
+  "company": {
+    "name": "Avesta Computer Services",
+    "link": "https://www.linkedin.com/company/avesta-computer-services"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

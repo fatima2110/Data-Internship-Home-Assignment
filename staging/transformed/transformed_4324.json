@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability/DevOps Engineer (KTD)",
+    "industry": "Food &amp; Beverages,Retail,Financial Services",
+    "description": "strongCompany Namestrong Kroger General OfficebrbrstrongPosition Typestrong EmployeebrbrstrongFLSA Status strong87brbrstronguPosition SummarybrbrustrongSpecialize in developing scalable methods for building deploying and supporting cloud on prem and store focused enterprise services and systems Work closely with Software Engineers to deploy and operate solutions automate and streamline processes build and maintain tools for deployment monitoring of platform and troubleshoot and resolve issues in development test and production environments Demonstrate the companys core values of respect honesty integrity diversity inclusion and safetybrbrstronguEssential Job FunctionsbrustrongulliDesign and build infrastructure and systems that provide high levels of scalability reliability and performance for Krogers stack while balancing security maintainability reliability and operational excellenceliliWork with the engineering team to continuously implement and improve reliable and speedy build environments for DEV amp QA provide timely build status updates automate as much as possible to improve efficiency and qualityliliPromote innovation outsideofthebox thinking teamwork and selforganizationliliEnsure traceability observability and retrievability of system behaviorliliBuild logging monitoring and alerting systems to identify bottlenecks and assist with debugging analysis and optimization in cloud onprem and store environmentsliliExperiment with and recommend new technologies that simplify or improve Krogers stackliliCraft solid and clearly explained designs playbooks and documentation for consumption by teammates and the larger engineering organizationliliParticipate in an offhours oncall rotation and perform periodic offhours work during maintenance windowsliliMust be able to perform the essential job functions of this position with or without reasonable accommodationbrliulstronguMinimum Position Qualificationsbrustrongulli Bachelors Degree in Computer Science or equivalent related experience 8 years and strong theoretical fundamentals data structures algorithms lockfree data structures multithreaded architectures etclili4 years of experience in the cloud SREDevOpsInfrastructure or any related fieldsliliAny understanding of SSH VPN TCPIP DNS HTTPS network routing and subnetsliliAny experience with alwayson and highvolume web server stack AzureGCP PaaS and AzureGoogle networking provisioning native Managed Apps amp CICD pipelinesliliProven knowledge of technology to support omnichannel experiencesliliProven knowledge of serviceoriented architectureCloudliliFluent in Shell Scripting with experience implementing automation and monitoring using shell scripting and other related toolsliliKnowledge of Linux architecture security administration performance monitoringtuning troubleshooting and production operationsbrliulstronguDesired Previous ExperienceEducationbrustrongulliAny experience in designingworking in high volume eCommerce applicationsliliAny experience configuring and managing cloud infrastructure AWS GCP AzureliliAny experience with technologies such as Kafka RabbitMQ SQS Ansible Terraform Docker and Kubernetes Jenkins Spinnaker Azure DevOps TeamCitylili1 year of experience managing System Observability experience ELK PagerDuty Datadog New Relic Azure Monitor Grafana etcbrliulstrongEducation Levelstrong NonebrbrstrongRequired Travelstrong Up to 25brbrstrongRequired CertificationsLicensesstrong NonebrbrstrongPosition Typestrong FullTimebrbrstrongRegionsstrong General Office Cincinnati Any MidAtlantic Midwest Mountain South WestbrbrStates Ohio Alabama Alaska American Samoa Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Federated States of Micronesia Florida Georgia Guam Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Marshall Islands Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Northern Mariana Islands Oklahoma Oregon Palau Pennsylvania Puerto Rico Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virgin Islands Virginia Washington West Virginia Wisconsin WyomingbrbrstronguKeywordsbrbrustrongstrongstrong strongJobs at Foods Co strong strongstrongAt Foods Co our people make us who we are They are more than just our associates theyre part of the communities we serve We offer a variety of exciting opportunities in every area of our operation Whether you want to create a fast fun and friendly shopping experience for customers in our stores or you want to be part of our innovative corporate team at our headquarters in Los Angeles Foods Co is always looking for outstanding associates Our associates enjoy competitive pay and excellent benefits along with a positive work environment built on mutual respect and professionalism If you are interested in building and advancing your career with Foods Co we invite you to complete an online application todaybrbrstrongCompany Overview strong Kroger Family of Companies employs nearly half a million associates who serve over 11 million customers daily through a seamless shopping experience under a variety of u banner names u  At The Kroger Co we are Fresh for Everyone and dedicated to our Purpose To Feed the Human Spirit We are committed to creating ZeroHungerZeroWaste communities by 2025 Careers with The Kroger Co and our family of companies offer competitive wages flexible schedules benefits and room for advancementbrbrPosting Notes OH  Cincinnati  1014 Vine Street  45202  Kroger General Office  mfield2  Kroger TechnologyDigital  Employee  Exempt  FullTime  None",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T21:53:10.000Z"
+  },
+  "company": {
+    "name": "Kroger",
+    "link": "https://www.linkedin.com/company/kroger"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cincinnati",
+    "region": "OH",
+    "postal_code": "45241",
+    "street_address": null,
+    "latitude": 39.1037,
+    "longitude": -84.51361
+  }
+}

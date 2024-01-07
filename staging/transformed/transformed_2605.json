@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "pstrongPosition SummarystrongppstrongnbspstrongppJibJab is looking for a Full Stack Software Engineer to help build our future They are relied upon to improve our existing products that millions of customers already love but also look to the future to explore new ways to make our customers laugh feel loved or just lol This is a unique role that will help lead the effort to take many concepts and features to production with a small team of designers and engineersnbspppbrppstrongExperience withstrongppbrpulliRuby on Rails andor Node amp ExpressjsliliReactjs or similar frontend javascript frameworkliliTypescript amp JavascriptliliSQL preferably PostgresliliGood programming principles using SOLID and similar paradigmsliliDebugging efficiently and effectivelyliliEffectively communicate and collaborate with engineering teammates and product managersliliAbility to implement user story requirements and commit to story point estimatesliliDiagnosing production issues using logs and reports from customersliliBackend and Frontend Page Performance analysis using modern approaches and toolsliulpbrppstrongBonusstrongpulliServerless and Micro Service architecture knowledgeliliCaching strategies and working with different types of caches such as Redis and CloudfrontliliWorking with queues such as SQSliulpbrppstrongQualificationsnbspstrongpulliInnovative thinker and a collaborative team playerlili03 years of experienceliulpbrppstrongAbout the CompanystrongnbspppbrppJibJab is a leading digital greeting card and social expression company We are one of the oldest startups with our roots dating back to 1999 and have been deemed the original dot com cockroach We live at the intersection of art and technology and have a mission of making billions of people happynbspppbrppWe live our strongcore valuesstrong so if these resonate with you we may be a good fitnbspppbrpullistrongTransparency strongWe are all on the same team and succeed by sharing what we know both good and badlilistrongTrust strongWe earn trust by delivering on our commitments We assume people have the best intentions in both their actions and their decisions and we advocate for their success by offering supportlilistrongJoy strongWe deliver joy to our users and we derive joy from work We aim to make billions of people happylilistrongIntention strongWe know why we do something what we hope to achieve and what we will learn from itlilistrongInclusionstrong We build diverse teams with a wide range of cultures backgrounds and experiences Diverse perspectives push our company forward and these differences lead to better more informed decisionslilistrongHealthy Debate strongWe engage in respectful enlightening debates and we listen to all opinions When a decision is made we fully commit and focus on the path forwardlilistrongQuality strongQuality is our competitive advantage We prioritize quality over quantity What we do we do wellliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T22:30:31.000Z"
+  },
+  "company": {
+    "name": "JibJab",
+    "link": "https://www.linkedin.com/company/jibjabllc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "no requirements",
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Wisconsin",
+    "region": "United States",
+    "postal_code": "54943",
+    "street_address": null,
+    "latitude": 44.639957,
+    "longitude": -89.73298
+  }
+}

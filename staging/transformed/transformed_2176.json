@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Network and Data Center Engineer",
+    "industry": "Computer Software",
+    "description": "pRole is with a discrete techdriven research firm Some of the worlds sharpest technologists and resarchers work hereppbrppstrongPosition SummarystrongppbrpulliDesign configure and deploy enterprise network infrastructures which will support some of the most advanced tech research in the worldliliProvide Network and Infrastructure Architectural resources to research and technology teams Ability to translate the requirements into an IPbased delivery platformliliResearch design and implement network security best practices using a combination of technologies such as VPNsencryption firewalls secure proxies IDSIPS and secure network design methodology Ensure those practices are adhered to by providing leadership and rigor to all projects and infrastructure whether they be new or ongoing operationsliliProvide tier 3 supportliliBe an integral team leader and engineeringtechnical resource on enterprisewide infrastructure projects Provide expertlevel knowledge and a broad understanding and ownership of the network and its production and transmission technologies and applicationsliulpbrppstrongDuties and ResponsibilitiesstrongppbrpulliDesign and implement complex network architectures to provide highly available network servicesliliProvide security controls and architectures to secure these services internally and for those services that are externally availableliliDesign and configuration of routersswitches firewalls VPNs application load balancers secure proxies quality of service designs and multicast audio over IP networksliliTest architectures in development and execute deployments working with technical program managers and operationsliliProvide team and project leadership  direct engineering collaborate with other teams and provide leadership and mentoringliliProduce high quality documentation for all network designs products data flows and servicesliliProvide final escalation support and guidance to all levels of support escalations teams and EngineersliulpbrppstrongMinimum QualificationsstrongppbrpulliBS in related field or equivalent experiencelili10 yearsexperience in the planning design implementation and technical support of multivendor multiplatform enterprise networkslili2 yearsexperience providing layered security through the use of firewalls VPNs encryption IDSIPS and secure proxieslili2 yearsexperience with multicast  dense sparse and source specificliliDemonstrated knowledge of LAN and WAN networks from layer 2 uplili2 yearsexperience implementing quality of service technologies and diagnosing network performance issuesliliDemonstrated knowledge of virtualization architectures and network attached storage is preferredliliExperience at leading teams of engineerstechnical staffliliAbility to communicate highly technical information in a clear concise and effective mannerliliAbility to be a key leader and demonstrate executive level leadership skills for the Corporations successliliPythonliulpbrppstrongRequirements and General SkillsstrongppbrpulliGood public speaking and presentation skillsliliInterpersonal skills and ability to interact and work with staff at all levelsliliExcellent written and verbal communication skillsliliAbility to work independently and in a team environmentliliAbility to pay attention to details and be organizedliliAbility to project professionalism over the phone and in personliliAbility to handle multiple tasks in a fastpaced environmentliliCommitment to internal client and customer service principlesliliWillingness to take initiative and to follow through on projectsliliCreative writing abilityliliExcellent time management skills with the ability to prioritize and multitask and work under shifting deadlines in a fastpaced environmentliliMust have legal right to work in the USliulpbrppstrongTechnical SkillsstrongpulliExpert knowledge of the following protocols and technologies IP routing protocols eBGP iBGP MPBGP OSPF router redundancy protocols including HSRPVRRPMLAG Ethernet protocols including spanning tree rapid spanning tree 8021W access control network address translation quality of service and policybased routing Layer3 LeafandSpine VXLAN and EVPN datacenter networkingliliExpert knowledge with firewallsACLencryptionVPN technology  Cisco ASA and associated protocols IPSECGRE and secure proxy functionsliliExtensive experience with IP Multicast  dense mode sparse mode RPsBSRs and source specific multicastliliApplication and load balancing products and technologies F5 knowledge is requiredliliExtensive experience in a multivendor network architectureliliExperience with Linux and Windows especially their networking stacks up to Layer 4liul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:47:42.000Z"
+  },
+  "company": {
+    "name": "Quantitative Systems",
+    "link": "https://www.linkedin.com/company/quantitative-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Newport Beach",
+    "region": "CA",
+    "postal_code": "92661",
+    "street_address": null,
+    "latitude": 33.60877,
+    "longitude": -117.87336
+  }
+}

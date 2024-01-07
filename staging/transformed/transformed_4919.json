@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Scientist, Forecasting",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "stronguOur OpportunitybrbrustrongChewys Supply Chain Team is seeking astrong Senior Data Scientist strongto join the growing Supply Chain Forecasting Analytics team in Dania Beach FL Combining a background in Supply Chain with a deep understanding of analytics and data science you will be a part of a team responsible for strategic forecasting and research initiatives centered around our demand forecasting operations and planning This includes retrieving data from different resources and implementing forecasting models to produce accurate predictions and root causing the forecast misses The Supply Chain team operates in a fastpaced environment where every day brings new challenges and new opportunities You will be responsible for designing and implementing solutions and technologies which will handle the growing business needs and play a key role in redefining what it means to be a worldclass ecommerce organizationbrbrstronguWhat Youll DobrustrongulliPartner with demand planning operations and supply planning to provide best inclass forecast to support mission critical cross functional planning and execution of functional areas including but not limited to Supply Chain Marketing and MerchandisingliliAssess interpret and analyze the data in development of thorough accurate and supportable forecasting models and reportingliliLeverage statistical models and machine learning tools to scientifically quantify macro changes from marketing merchandising and pricing to answer key growth challenges related to promotional planning user segmentation and network planningliliDevelop data driven insightful endtoend software solutions using machine learning and optimization methods to answer questions with a focus on rootcausingliliEnable Chewy management to make informed datadriven decisions by providing business analyses and building advanced data science modelsliliIdentify opportunities and potential business problems to create solutions that allow repeatable fully automated analysis actionable recommendations and product of the solutionliliDocument technical details of your workliliDrive to Win as a Team  constantly pursing exceptional results that help us win in the stakeholders liliRespect for Teammates  encouraging diverse identities backgrounds talent and perspectives liliCollaboration  working with all team members and across teams to integrate perspectives and encourage contributionsliliAdaptability  quickly applying feedback and circumstances to team prioritiesbrliulstronguWhat Youll NeedbrustrongulliAn advanced degree MS or PhD in Industrial Engineering Operations Research Statistics Applied Mathematics or equivalent quantitative fields such as Engineering Computer Science with a background in both time series and machine learning professional experiencelili5 years experience in industry at data scientist rolesliliExperience building productionquality data science models including Classification Clustering Regression and time series techniques and advanced Machine Learning modelsliliSolid understanding and experience in database technologies and SQL masteryliliMastery in Python and environments such as JupyterPyCharmAnacondaliliProficiency in data visualization tools andor packagesliliExcellent grasp of advanced statistical concepts and methodsliliAbility to understand and apply advanced mathematicsliliMust have handson experience with time series analysisliliFamiliarity with the endtoend data science pipeline and workflowliliDemonstrated analytical and problemsolving skillsliliAbility to own and deliver projectsliliAbility to see the big picture and the demonstration of strong business intuitionliliAbility to translate complex data sets and research into simple business recommendationsliliAbility to compile information into unified reportsliliAbility to manage multiple projectsliliAbility to use version control and collaborative programming tools Git Confluence etcliliAbility to effectively operate both independently and as part of a teamliliExcellent verbal and written communication skillsbrliulstrongBonusbrstrongulliExperience in objectoriented programming with PythonliliExperience in R PySpark Spark Scala Java PyTorch TensorFlow DockerliliExperience with data visualization tools Tableau or similarliliExperience in Advanced Excel VBA MacrosliliExperience with Amazon Web Services tools such as Redshift Snowflake SageMaker or other similar platformsliliExperience and application of optimization techniques such as linear programming or metaheuristicsliliExperience with AB test design implementation and evaluationliliExperience with deeplearning technologiesliliExperience with own cross and competitor product elasticity analysisliliExperience working in Agile Development model with incrementally changing requirementsliliSelfmotivated with strong problemsolving and selflearning skillsliliFlexible with respect to changes in work direction as the project developsliliStrong advocate of a culture of process and data quality in all development teamliliEcom Retail or startup experience is a plusbrliulChewy is committed to equal opportunity We value and embrace diversity and inclusion of all Team MembersbrbrIf you have a disability under the Americans with Disabilities Act or similar law or you require a religious accommodation and you wish to discuss potential accommodations related to applying for employment at Chewy please contact uHRChewycomubrbrTo access Chewys Privacy Policy which contains information regarding information collected from job applicants and how we use it please click here httpswwwchewycomappcontentprivacy",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:31:02.000Z"
+  },
+  "company": {
+    "name": "Chewy",
+    "link": "https://www.linkedin.com/company/chewy-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dania",
+    "region": "FL",
+    "postal_code": "33004",
+    "street_address": null,
+    "latitude": 26.055845,
+    "longitude": -80.14377
+  }
+}

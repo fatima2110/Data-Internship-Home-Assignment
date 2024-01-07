@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "AI/ML - Sr Data Engineer, Siri Data",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brWould you like to play a critical part in the next revolution of humancomputer interaction Would you like to contribute to the advancement of a product that is globally redefining how humans use voice to relate to technologybrbrbrThe Siri Data organization seeks to improve Siri by using data as the voice of our customers Within Siri Data the mission of Siri data engineering is to build the scalable amp high quality data sets that curate the data required to give our customers their voicebrbrbrWere looking for exceptional data engineers who are passionate about our product and values who love working with data at scale and who are committed to that hard work necessary to continuously improve As a part of this group you will work with petabytes of data daily using diverse technologies like Spark Flink Kafka Hadoop and others You will be expected to effectively partner with upstream engineering teams and downstream analytical amp product consumersbrbr brstrongKey Qualificationsbrstrong brYou have excellent written and verbal communication skillsbrbrYou are tenacious relentless amp determinedbrbrYou are curious always learning new technologies rapidly synthesizing new information and understanding the why before the whatbrbrYou are selfdirected and capable of operating amid ambiguitybrbrYou are poised and display excellent judgment in prioritizing across difficult tradeoffsbrbrYou are pragmatic not letting the perfect be the enemy of the goodbrbrYou are humble continually growing in selfawareness and possessing a growth mindsetbrbr brstrongDescriptionbrstrong brWHAT WILL FILL YOUR DAYSbrbr  Moving between understanding the open amp unanswered questions about Siri to defining new metrics and filters to specifying new logging necessary with the highlevel goal of using data to improve Siribrbrbr  Designing creating and maintaining data pipelines that populate a petabyte scale data warehousebrbrbr  Working with data infrastructure teams providing input to improve our platformbrbrbr  Working with data producing teams to specify requirements and to transparently provide rapid feedbackbrbrbr  Partnering with your teammates across Siri data to answer questions to provide support and to innovate in taking our data warehouse to the next levelbrbr brstrongEducation amp Experiencebrstrong br  Surprise us Many will have an MS or BS in CS Engineering Math Statistics or a related field OR equivalent practical experience in data engineeringbrbrbr  4 years of industry experience working with distributed data technologies eg Hadoop MapReduce Spark Flink Kafka etc for building efficient amp largescale data pipelinesbrbrbr  Software Engineering proficiency in at least one highlevel programming language Java Scala Python or equivalentbrbrbr  Experience required in building batch data processing pipelines curating data for data science consumersbrbrbr  Experience strongly preferred building streamprocessing applications using Apache Flink SparkStreaming Apache Storm Kafka Streams or othersbrbr brRole Number 200275107brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T03:11:31.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

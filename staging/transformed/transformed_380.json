@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer In Test",
+    "industry": "",
+    "description": "The location for this job isbrAustin TX Remote until CovidbrbrInterview roundsbrHackerrank and 2 Rounds of Interviewbrbr brNeed strong Testng Selenium Java Coding experience and AppiumbrbrbrMust havebrbrbr       Bachelors or Masters in CS or related degreesbrbrbr       Minimum of 6 years with Master or 8 years with Bachelors of hand on experience in software development in test automation concurrent coding skills in Javabrbrbr       Test automation experience using open source technologies andor inhouse frameworks  MUSTbrbrbr       Experience in API testing SOAP and MicroServicesbrbrbr       Experience in UI and Mobile Testingbrbrbr       Experience with test frameworks like Junit TestNGbrbrbr       Familiarity with BDD andor Cucumberbrbrbr       Experience in Continuous Integration and Continuous Deploymentbrbrbr       Experience with code versioning tools Git SVNbrbrbr       Excellent knowledge SQL and ability to write complex queries to validatebrbrbr       Following ScrumAgile development methodologybrbrbr       Strong application debugging skillsbrbrbr       Experience with Jira or similar Agile process toolsbrbrbr       Experience with using defect management and test management toolsbrbrbr       Ability to thrive in a fastpaced environment where resourcefulness determination and strong problemsolving skills are necessary for successbrbrbr       Positive attitude and the ability to complete assigned objectives with minimal supervisionbrbrbr       Excellent communications skills both written and verbal brbrbr brbrbrNicetohavebrbrbr       Javascript and NodeJS serverside experience is preferredbrbrbr       Experience with shell scriptingbrbrbr       Experience with Security Testing andor ADA testingbrbrbr",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-14T17:01:00.000Z"
+  },
+  "company": {
+    "name": "Collabupp Corporation",
+    "link": "https://www.linkedin.com/company/collabupp-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

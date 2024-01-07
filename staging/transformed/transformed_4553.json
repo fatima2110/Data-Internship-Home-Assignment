@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "What Youll Do As A Software EngineerbrulliUsing our entire technology stack and to develop new features and applications for the Zenput platform including web and mobile UIs commenting and messaging webhooks and APIs as well as expand capabilities in our mobile applicationsliliContribute to and influence design and development decisionsliliWork in an agile environment quickly and incrementally delivering value to our customers using tools from the SCRUM toolbox and using tight feedback loops with customers product and qualityliliMaximize our velocity and minimize risk by using TDDCI and other DevOps best practicesliliUse Jira Slack and Zoom to communicate with your team and leadershipbrliulWhat Were Looking ForbrulliGreat communicator and outstanding team player Bias towards overcommunicating and asking questionsliliDesire to be part of a team be a part of culture and contribute and seeks best outcome for the team rather than being rightliliCurious and intentional about selfdevelopmentliliEnglish language proficiency at the B2  Upper Intermediate level or greaterliliCSCISSystems MentalityliliAdoption of CI DevOps principles and a focus on qualityliliA deep understanding about request life cycles system architecture and user behaviorliliStrong understanding of software design fundamentals and algorithmsliliExperience with AgileScrum methodologies and associated tools amp principlesliliMySQLPostgresRDBMS experience Just using ORMs doesnt countliliAbility to design and implement the right technical solution for the right problem at the right time ie you dont overengineer but you do thoroughly consider the constraintsliliSomeone fun interesting and likes to build and hack Not just softwarelili2  years of programming in Python Javascript Java or ObjectiveC or other OOO language for the webbrliulNice To HavesbrulliSpecific experience with our tech React Django Javascript Python NoSQL Mobile Development AWSliliExperience working remotelyliliExperience with DevOpsliliExperience working with hardware mobile devices embedded hardwareliliExpertise in and experience with developing enterprise products and web products at scaleliliExperience with distributed systems complex user interfaces or other challenging engineering problemsliliOpen source contributionsliliYouve helped make your work environment fun and its important to youliliYouve built great relationships with coworkers in the past and want to keep doing itliliYou care similarly about building great software and building great relationships with other peopleliliYoure interested in the technical problems we are solvingliliYoure interested in the types of business problems we are solvingbrliulWhat Youll GetbrulliMedical  Dental  401K benefitsliliUnlimited PTOliliOwnership through stock optionsliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T05:21:16.000Z"
+  },
+  "company": {
+    "name": "Zenput",
+    "link": "https://www.linkedin.com/company/zenput"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

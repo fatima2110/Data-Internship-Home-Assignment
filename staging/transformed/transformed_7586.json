@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Web Developer",
+    "industry": "Information Technology and Services",
+    "description": "pTitle Web Developerpp Location New York Metro Area NYpp pp Additional Notespp  Backfill positionpp  Contract may extend up to 24 monthspp pp Must Haves Minimum 5 years of experiencepp  JavaScript  5 years mandatorypp  Web Framework  React strongly preferredpp  Typescriptpp  Strong communicationp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-05T17:37:43.000Z"
+  },
+  "company": {
+    "name": "Euclid Innovations",
+    "link": "https://www.linkedin.com/company/euclid-innovations-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

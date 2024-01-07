@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Database Site Reliability Engineer (SRE)",
+    "industry": "Computer Software,Computer Hardware",
+    "description": "pstrongJunior Database Site Reliability Engineer SREstrongppbrppstrongPower the PossibilitiesstrongppThe CDK Global technology team is looking for collaborative innovators who are passionate about making their mark on emerging enterprise software products Were building and developing cloud technology for the automotive retail industry that will change the landscape for automotive dealers original equipment manufacturers OEMs and the customers they serveppbrppstrongBe Part of Something BiggerstrongppEach year more than three percent of the US gross domestic product GDP is attributed to the auto industry which flows through our customer the auto dealer Its time you joined an evolving marketplace where research and development investment is measured in the tens of billions Its time you were a part of something biggerppbrppWere expanding our workforce  engineers architects developers and more  onboarding early adopters who can optimize pivot and keep pace with everevolving development roadmaps and applicationsppbrppstrongJoin Our TeamstrongppGrowth potential flexibility and material impact on the success and quality of a nextgen enterprise software product make CDK an excellent choice for those who thrive in challenging fastpaced engineering environments The possibilities for impact are endless We have exceptional opportunities to evolve our industry by driving change through new technologyppbrppIf youre ready for highimpact youre ready for CDKppbrppstrongAbout the RolenbspstrongpulliThis is an Infrastructure Operations Engineer position for SQL Server database technology Infrastructure Engineer IE is responsible for Operations primarily consist of implementation configuration maintenance and performance of critical SQL Server RDBMS systems to ensure the availability and consistent performance of databases The environment is dynamic and changes can be driven by technology advancements Organizational objectives to improve efficiency and service levels via automation enhancing business agility or effectively managing strategic mergers acquisitions and spin offsliliPrimary Technology SQL Server Secondary Technology Oracle or Postgres along with some experience and knowledge on cloud technologiesliulpnbspppstrongDescriptionstrongpulliThis role is responsible for the implementation configuration maintenance and performance of critical SQL Server RDBMS systemsliliAssist in documenting database strategies runbooks and processesliliMonitor the performance of production systems and utilize appropriate tools to identify tuning requirementsliliParticipate in 24 x 7 page outcall out support on a rotating basis for production database support issuesliliHaving experience in other RDBMS technology is much useful with this roleliliInstall and configure standalone SQL Servers and Always on clusters for Test Dev Staging and Production environmentliliShould have practical experience on MS SQL Server 20082012201420162017 versionsliliTroubleshoot various problems that arise during SQL service packs installations and fix the issuesliliPlan and implement major upgrades ensuring system integrity and monitoringliliExtensive handson experience in Database migrations from lower to higher versions inliliDatabase Backup amp RecoveryliliEvaluate and deploy security patches as necessaryliliReview and deploy the scripts into the productionliliOwn database maintenance plans including rebuildingreorganizing indexes integrity checks and othersliliExperience with Enterprise environment change control procedureliliWork with developers to improve database performance slow running queries  processingliliEnsure high levels of performance availability sustainability and securityliliEnvironments Setup High Availability as part Disaster Recovery Strategy for the DatabasesliliGood practical experience on Clustering Always On Database Mirroring Log Shipping and ReplicationliliImplement and maintain database securityliliDefine and enforce database security best practices including both user access and data at restliliCreate and configure a single and multinode SQL Server failover cluster instanceliliAdd or Remove Nodes in a SQL Server Failover ClusterliliAnalyze solve and prepare RCA for production outagesliliDebug and troubleshoot database system failures and provide solutions quicklyliliTroubleshoot SQL Server service outages as they occur including afterhours and weekendsliulpnbspppstrongSkills RequiredstrongpulliBachelor degree in Computer Science Information Systems Engineering or equivalent education experiencelili6 years of MS SQL server experience in designing implementing and administrating database system on multiple MS SQL Server versions from SQL 2005 to SQL 2019liliThorough knowledge of SQL Server installation configurations troubleshooting and performance tuning skills requiredliliExperience implementing and managing Windows clustering and AlwaysOn Failover Cluster Instances FCI AlwaysOn Availability Groups Mirroring Log shippingliliThorough knowledge of Windows 2012 2016 and preferable 2019liliAbility to diagnose problems and triageresolve issues across various tiers application network database server or storage tiersliliMust have strong experience with TSQL Powershell scriptingliliAbility to implement automation to reduce manual administrative tasks through use of jobs or other technologiesliliExperience in database upgrademigrate patching backup recovery of large databasesliulpnbspppnbspppCDK Global knows you have passions outside of worknbspYou have family friends sporting events and lots of things going onnbspThats why we offer a comprehensive benefits package to not only take care of you but your family as wellnbspAll of our benefits are effective the first day of employment including 401K matching paid time off to reenergize donate your time to volunteer in your community and tuition reimbursement to name a fewppAt CDK we pride ourselves on having a diverse workforce We value and celebrate the uniqueness of individuals and the different perspectivesnbspthey provide We offer equal opportunity employment regardless of race color religion gender gender identity or expression sexual orientation national origin genetics disability status age marital status or protected veteran statusnbspnbspp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T16:06:05.000Z"
+  },
+  "company": {
+    "name": "CDK Global",
+    "link": "https://www.linkedin.com/company/cdknorthamerica"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

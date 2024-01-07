@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer in Test(SDET)",
+    "industry": "Information Technology and Services",
+    "description": "ulli4 years of experience with functional testinglili2 years of experience testing complex B2B or consumer facing applicationslili2 years of experience testing backend REST services lili1 years of experience building robust test automation suiteslili1 years of experience in Selenium or other GUI automation tools lili2 years working experience under Agile methodologyliliExperience building CICD pipelines using Jenkins or similar toolsliliKnowledgeable in best practices for functional test strategy liliAble to take the initiative and drive changeliliStrong leadership identityliliExcellent verbal and written communicationliliGreat team collaboration skillsliliExperience with AWS technologiesliulpp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-17T23:20:10.000Z"
+  },
+  "company": {
+    "name": "DISYS",
+    "link": "https://www.linkedin.com/company/disys"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Oregon",
+    "region": "United States",
+    "postal_code": "97350",
+    "street_address": null,
+    "latitude": 43.938683,
+    "longitude": -120.558105
+  }
+}

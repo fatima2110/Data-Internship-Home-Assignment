@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Data Scientist, Wallet, Payments, &amp; Commerce - Austin",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brApple is a place where extraordinary people meet to do their best work Together we craft products and experiences people once couldnt have envisioned  and now cant imagine living without If youre excited by the idea of making a real impact and joining a team where we pride ourselves in being one of the most diverse and expansive companies in the world a career with Apple might be your dream jobbrbrbrThe Wallets Payments and Commerce WPC team at Apple is looking for a fullstack senior Data Scientist who is passionate about crafting and implementing data solutions that have a direct and measurable impact on Apple customers You will employ predictive modeling and statistical analysis to build endtoend solutions for improving the adoption of Apple wallet alternative payment methods and core commerce platform You will be a thought partner to the business understand strategic goals and then use your skills and subject matter expertise to surface measurable insights that drive business decisions and customer benefits You will collaborate with partners across product design engineering and business teams to drive your recommendations into action Our culture is about getting things done iteratively and rapidly with open feedback and debate along the way We believe Data Science is a team sport but we strive for independent decisionmaking and taking smart risksbrbr brstrongKey Qualificationsbrstrong br5 years of professional experience in data science machine learning or product analyticsbrbrWorking knowledge of relational databases including SQL and largescale distributed systems such as Hadoop brbrAbility to implement data science pipelines and applications in a general programming language such as Python Scala or JavabrbrPractical experience with and theoretical understanding of ML algorithms for classification regression clustering and anomaly detectionbrbrAbility to extract significant business insights from data and identify the stories behind the patternsbrbrCommunication skills for communicating complex quantitative analyses to senior business executivesbrbr brstrongDescriptionbrstrong brTake deep dives in largescale data to identify key insights that will shape future product strategy brbrbrCollaborate with crossfunctional teams to identify new growth opportunities develop data requirements establish product critical metrics and evangelize data productsbrbrbrDesign deploy and evaluate experiments that help define opportunities for higher adoption improved business performance and better customer experiencebrbrbrConduct hypothesisdriven exploratory analyses select appropriate ML algorithms and build complex optimization engines to deliver impactful data solutionsbrbrbrResearch new technologies and methods across data science and data engineering to improve the technical capabilities of the teambrbrbrCommunicate insights to senior management by distilling complex analysis and concepts into concise businessfocused takeawaysbrbr brstrongEducation amp Experiencebrstrong brMinimum of bachelors degree preferably in engineering economics statistics computer science or related quantitative field Advanced degree in Applied Econometrics Statistics Data Mining Machine Learning Analytics Mathematics Operations Research Industrial Engineering or related field preferredbrbr brRole Number 200270962brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T03:16:03.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Sr."
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

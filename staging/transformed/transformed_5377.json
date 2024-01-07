@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software,Consumer Services,Information Technology and Services",
+    "description": "At Uber we ignite opportunity by setting the world in motion We take on big problems to help drivers riders delivery partners and eaters get moving in more than 10000 cities around the worldbrbrWe welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently If you have the curiosity passion and collaborative spirit work with us and lets move the world forward togetherbrbrstronguWhat The Candidate Will Need  Bonus PointsbrbrustrongWhat the Candidate Will DobrulliDesign deliver and maintain systems that enable thousands of engineers and managers to improve the reliability of their services apps and processesliliCollaborate with product managers data science and other stakeholders to gather requirementsliliPartner with fellow engineers to architect develop and scale observability tooling while keeping operational issues in mindliliMentor and support your fellow teammatesliliDrive ongoing efficiency and reliability improvements that improve the quality of the systemsliliWrite clear documentation so that other engineers can partner to contribute and deliverbrliulstronguBasic QualificationsbrustrongulliBachelors degree or equivalent in Computer Science Engineering Mathematics or related field OR 1year fulltime Software Engineering work experience WHICH INCLUDES 1year total technical software engineering experience in one or more of the following areasliliProgramming language eg C C Java Python or GoliliNote the 1year total of specialized software engineering experience may have been gained through education and fulltime work experience additional training coursework research or similar OR some combination of these The year of specialized experience is not necessarily in addition to the years of Education amp fulltime work experience indicatedbrliulWhat the Candidate Will DobrulliScalability engineeringliliDistributed systemsbrliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-22T22:04:34.000Z"
+  },
+  "company": {
+    "name": "Uber",
+    "link": "https://www.linkedin.com/company/uber-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 113000,
+    "max_value": 160000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

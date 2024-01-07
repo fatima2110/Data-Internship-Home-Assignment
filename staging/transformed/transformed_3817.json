@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "100% REMOTE Site Reliability Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "A risk management software company is looking for a 100 remote Site Reliability Engineer and is offering up to 65hour contracttohire This engineer is someone experienced with either Terraform Cloudformation or Ansible and skilled with at least one scripting language Powershell Bash Python etc Someone who be comfortable joining a major Azure cloud migration project and looking to expand their DevOps skill set including handson KubernetesAKS builds will fit in perfectly herebrbrstronguRequired Skills amp Experiencebrustrongulli3 years of experienceliliProficient with at least one major public cloud Azure AWS or GCPliliInfrastructureasCode Terraform or CloudformationliliConfiguration Management Ansible preferredliliScripting Bash Powershell Python etcliliLinux or Windows server supporttroubleshootingbrliulstronguDesired Skills amp ExperiencebrustrongulliUnderstanding of containerizationorchestration Docker Kubernetes etcliliAzure or AWS certificationsliliBlueGreen deployment methodologiesliliMonitoring Grafana Nagios PrometheusliliOnprem to Cloud MigrationsbrliulWhat You Will Be DoingbrbrTech Breakdownbrulli70 onpremiselili30 AzureliliTerraformliliAKSbrliulDaily Responsibilitiesbrulli90 Hands Onlili10 Management DutiesbrliulThe OfferbrulliCompetitive compensation Up to 65hour contracttohirebrliulstronguYou Will Receive The Following BenefitsbrustrongulliMedical Insurance amp Health Savings Account HSAlili401kliliPaid Sick Time LeaveliliPretax Commuter BenefitbrliulApplicants must be currently authorized to work in the United States on a fulltime basis now and in the futurebrbrstrongPosted Bystrong Gavin Malloy",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-14T01:51:47.000Z"
+  },
+  "company": {
+    "name": "Motion Recruitment",
+    "link": "https://www.linkedin.com/company/motion-recruitment-partners"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

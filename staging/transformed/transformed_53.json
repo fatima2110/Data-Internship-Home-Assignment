@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - Embedded",
+    "industry": "Defense &amp; Space",
+    "description": "If you are a Senior Software Engineer with embedded experience please read onbrbrTop Reasons to Work with UsbrbrFor nearly 50 years we have served an integral role in supporting the advancement of the aerospace and defense industriesbrWe are a pioneer and world leader in highreliability data communications and control technologybrTo be frank we are one of the most exciting promising Aerospace and Defense companies in North AmericabrbrWhat You Will Be Doingbrulli Product Specifications Implement innovative approaches and develop clearly written design specifications that ensure our products are designed to succeed in the market relative to their technical performance feature set cost and time to market goalslili Architecture Facilitate the design of complex products by leading and coordinating engineering teams of varied technical disciplines through clearly documented architectural level design documents Lead the decision and tradeoff process for issues that cross hardwaresoftware or other technical discipline boundarieslili Design and Develop Perform original and innovative software design and distill largescale designs into architectural elements that facilitate the division of design work to teams of two or more engineerslili Planning Develop plans schedules and identify resources required to develop products from market requirement through product release Identify risk areas and develop contingency plans to eliminate or mitigate risk that could result in schedule delays or failure to meet specification or design plan requirementslili Leadership Provide technical leadership role within the Engineering department to solve difficult technical challenges or problems or to bring new technical capability to our engineering departmentlili Innovation Conceive methods for achieving product requirements and specifications using appropriate software architecture and design techniques Anticipate possible difficulties and develop alternate methodslili Optimization Develop creative approaches that favorably optimize complex design trade offs for various elements of a design such as product cost performance feature set timetomarket and technical risklili Maintenance Provide support for maintaining existing products by investigating and resolving defect reports creating documentation and creating and releasing new versions of software packageslili Continuous Improvement Take the initiative to research develop propose evaluate andor implement new methods processes techniques tools components or technology that improve quality timeliness andor performance of our products or the efficiency or cost effectiveness of our engineering work Modify existing SOPs or create new SOPs to implement new processesbrliulWhat You Need for this Positionbrulli Bachelors Degree in Computer ScienceComputer EngineeringElectrical Engineering or other related technical fieldlili Masters degree in Computer ScienceComputer Engineering is highly desirablelili 10 years of professional experience in Software Engineering development methodologies reusability modularity and maintainabilitylili Advanced knowledge of software configuration management SCMlili 5 years of experience in design and development of embedded software in CClili 3 years of software design and development experience with RTOS eg VxWorks GHS INTEGRITYlili 5 years of experience in developing applications and drivers in Linux and Windowslili Strong skills and experience in troubleshooting softwarehardware issues using debuggers oscilloscope analyzers DMM reading schematics and drawings etclili 3 experience softwarehardware design experience in High Speed Networking including IEEE 8021Q Ethernet switching TCPIP protocols and VLANs is highly desirablelili Experience in communication protocols PCI PCI Express USB JTAG SPI I2C RS232422485 CANlili Experience with MILSTD1553 Fibre Channel and ARINC429 is highly desirablelili Experience with DO178C is highly desirablelili Technical leadership experience is a pluslili Experience with SoC and MPSoC is a pluslili Experience or working knowledge of hardware is a plusbrliulSo if you are a Senior Software Enginner with experience please apply todaybrbrstronguEmail Your Resume In Word TobrbrustrongLooking forward to receiving your resume through our website and going over the position with you Clicking apply is the best way to apply but you may alsobrbrJacksonHufferdCyberCoderscombrulliPlease do NOT change the email subject line in any way You must keep the JobID linkedin  JH91627512  in the email subject line for your application to be consideredbrliulJackson Hufferd  Sr Executive Recruiter  CyberCodersbrbrApplicants must be authorized to work in the USbrbrstrongCyberCoders Inc is proud to be an Equal Opportunity EmployerbrbrstrongAll qualified applicants will receive consideration for employment without regard to race color religion sex national origin disability protected veteran status or any other characteristic protected by lawbrbrstrongYour Right to Workstrong  In compliance with federal law all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T17:41:34.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bohemia",
+    "region": "NY",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 40.77008,
+    "longitude": -73.10391
+  }
+}

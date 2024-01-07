@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "pstrongCompany OverviewstrongppbrppOur founding team has extensive experience in building researching and selling machine learning products and came together in search of a product that could leverage these skills for positive impact Now weve set out to build software that works to address the generation defining issue of economic inequality in the face of climate changenbsp We are running head first at the 150B coverage gap that faces the insurance industry as increasingly frequent and severe weather events challenge the status quoppbrppThe problems we wrestle with every day are ppbrpulliRethinking the first principles of state of the art predictive and optimization mechanismsliliDoing so in a multicloud infrastructure environment with significant security constraintsliliEnabling a lightweight lowlatency and consumable UX despite the complexitynbspliulpbrppThe team is looking for talented driven and above all caring individuals to join us in that journeynbspnbspnbspppbrppstrongRequirementsstrongppbrpulliDemonstrated interest in engineering for impactlili2 years of handson industry experience in full stack  data engineeringliliEvent backbone and job pool platforms Kafka etcliliWillingness to get hands dirty across a broad variety of internal and client softwarelili2 years of experience with React Python Django  Flask and NodejsliliDemonstrated ability to pick up new technologies quickly and learn on the flyliulpbrppstrongNiceToHavesstrongpulliUndergraduate or Graduate work in a related fieldliliExperience with ML or optimizationliulpbrp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T22:56:02.000Z"
+  },
+  "company": {
+    "name": "Federato",
+    "link": "https://www.linkedin.com/company/federato"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

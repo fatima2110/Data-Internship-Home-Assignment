@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "SPG iOS Software Engineer - UI Application",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brAs a Software Engineer within Apples Special Projects Group SPG you will be part of a team creating new and innovative experiences for human interaction with autonomous technology You will be prototyping and developing apps and frameworks on Apple internal iOS platforms to build cuttingedge UX and UIbrbrbrWe work in a fast paced startuplike environment and you will be part of every stage of development working multifunctionally with user interface designers mechanical electrical and controls engineers from concept phase to deploymentbrbrbrWe are looking for an ondevice fullstack engineer who is passionate about software quality and user experiencebrbr brstrongKey Qualificationsbrstrong brProficient in Swift andor ObjectiveC brbrFamiliarity with common iOS frameworksbrbrHandson experience shipping high quality iOS applications with highly responsive interactive UIbrbrStrong understanding of software architecture algorithms data structures objectoriented programming and design with keen eye to best practices and design patternsbrbrEffective communicator excellent interpersonal skills and ability to work well with all levels of engineers and people in other fieldsbrbr3 years experience with software engineering design problem solving and debuggingbrbrMotivated selfstarter and great teammate who thrives working in a dynamic environment and learning new technologiesbrbr brstrongDescriptionbrstrong brThis position requires a proactive engineer with strong technical and interpersonal skills to handle responsibilities includingbrbrbr  Design architect and implement new apps and frameworks primarily in SwiftObjectiveCbrbr  Understand product requirements engage with team members and customers to define solutions and estimate the scope of work requiredbrbr  Deliver solutions that can keep up with a rapidly evolving productbrbr  Develop software that works in safetycritical environments and build test and verification pipelines that ensure reliability and resiliencybrbr  Write comprehensive unit tests and work closely with software integration teams for the software you deliverbrbr  Shell and Python scripting eg for test tools developmentbrbr  Participate in architecture and code reviews and hiring interviewsbrbr brstrongEducation amp Experiencebrstrong brBS in Computer Science or equivalent experiencebrbr brstrongAdditional Requirementsbrstrong brWhile the following skills arent required knowledge of one or more of these areas would be valuablebrbrbr  Knowledge amp experience with Cbrbr  Knowledge of 3D rendering or experience building 3D apps using SceneKit Metal or Open GLbrbr brRole Number 200228692brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:41:23.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

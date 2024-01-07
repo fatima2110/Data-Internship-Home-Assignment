@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer, Proactive Intelligence",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brHave you ever scheduled a virtual meeting and received a suggestion to call into it at the right moment Have you connected your Bluetooth headphones and received a suggestion to listen to your favorite podcast brbrbrWe add intelligence across the iOS platform build stateoftheart privacy preserving ondevice personalized models and need your help You will work on features that accelerate and delight millions of Apple usersbrbr brstrongKey Qualificationsbrstrong brExcellent skills in PythonbrbrAbility and passion to deliver extraordinary results with a lot of initiativebrbrExperience building high quality models for classification regression and rankingbrbrExperience with recommender systems or models for personalizationbrbrExperience with shipping production softwarebrbrExperience with machine learning on resourceconstrained embedded devices is a plusbrbrPassion for quality and privacybrbrUnderstanding of software developmentbrbr brstrongDescriptionbrstrong brYou will bring your expertise and a real passion for extraordinary products into our growing team that operates like a startup within Apple We are the team responsible for making iOS users more efficient by predicting and accelerating the user experience while respecting privacy We collaborate with many different teams at Apple to create groundbreaking technology brbrbrYou enjoy creating elegant and compelling solutions applying innovative technology in the service of humancentered design You will build prototypes and have a say in what features we build You will touch various parts of our codebase from researching and experimenting with new ideas to implementing and optimizing models to run on resourceconstrained devices You will have an opportunity to learn from others and grow brbrbrTo succeed you are a strong problem solver with proven agility to work across multiple codebases teams and organizations You will be working in the Proactive Intelligence team at Apple Your valuable work will impact the lives of millions of Apple users worldwidebrbr brstrongEducation amp Experiencebrstrong brMS in Computer Science or equivalent practical experiencebrbr brstrongAdditional Requirementsbrstrong brExperience with machine learning on resourceconstrained embedded devices is a plusbrbr brRole Number 200277157brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-26T06:49:04.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 135000,
+    "max_value": 213000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

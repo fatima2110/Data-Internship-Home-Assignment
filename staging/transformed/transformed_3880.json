@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brAt Apple great ideas quickly have a way of becoming great products services and customer experiences Bring passion and dedication to your job and theres no telling what you could accomplish herebrbrbrDo you want to be part of a team that builds cutting edge software service a team that is continually innovating and is proud of making a difference If so bring your passion and talent and come join us to be part of something big and amazingbrbrbrWere a diverse collection of thinkers and doers continually reimagining our products systems and practices to help people do what they love in new ways brbrbrThis is a deeply reciprocal place where everything we build is the result of people in different roles and teams working together to make each others ideas stronger That same real passion for innovation that goes into our products also applies to our practices strengthening our dedication to leave the world better than we found it brbrbrApples ISampT team looking for a machine learning expert to help us extract the value from our data Responsibilities include data collection cleaning preprocessing to training models and deploying them to Productionbrbr brstrongKey Qualificationsbrstrong brProficiency with Python and basic libraries for machine learning such as scikitlearn and pandasbrbrExpertise in visualizing and manipulating big datasetsbrbrFamiliarity with LinuxbrbrFamiliarity with a deep learning framework such as TensorFlow or KerasbrbrNice to have a knowledge in database technologiesbrbrEffective communication skillsbrbrAbility to learn and apply new technologies through selflearningbrbr brstrongDescriptionbrstrong brAs an ML Engineer we look forward to your understanding business objectives and developing models that help to achieve them along with metrics to track their progressbrbrbr  Analyzing the ML algorithms that could be used to solve a given problem and ranking them by their success probabilitybrbrbr  Exploring and visualizing data to gain an understanding of it then identifying differences in data distribution that could affect performance when deploying the model in the real worldbrbrbr  Verifying data quality andor ensuring it via data cleaningbrbrbr  Defining validation strategiesbrbrbr  Defining the preprocessing or feature engineering to be done on a given datasetbrbrbr  Training models and tuning their hyperparametersbrbrbr  Analyzing the errors of the model and designing strategies to overcome thembrbrbr  Deploying models to productionbrbr brstrongEducation amp Experiencebrstrong brBachelors degree in Computer Science or equivalent with 5 years plus of relevant experiencebrbr brRole Number 200249152brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-15T16:34:12.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "IN",
+    "locality": "Hyderabad",
+    "region": null,
+    "postal_code": "500065",
+    "street_address": null,
+    "latitude": 17.36172,
+    "longitude": 78.47517
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Electrical Test Engineer",
+    "industry": "Information Technology and Services,Defense &amp; Space,Computer Software",
+    "description": "Maxar is currently seeking an Electrical Test Engineer to join our Assembly Integration and Test department in Palo Alto CA In this role you will be responsible for all electrical testing of a given spacecraft from Communication Panel and Bus Module Integration through Launch Base activities This includes test planning development data analysis and initial troubleshooting efforts as requiredbrbrstronguResponsibilitiesbrbrustrongAnalyze and evaluate electrical circuits and interfaces using engineering knowledgebrbrLead an electrical test team for 3 shift 7 days a week operationsbrbrPerform long term planning future test phases and new program developmentbrbrCollaborate with Spacecraft Manager Mechanical Vehicle Engineer and Communication Vehicle EngineerbrbrSupport any shift required during the course of the spacecraft build processbrbrTravel offsite for certain test phases and launch base supportbrbrCommunicate with peers using proper verbal and written skillsbrbrWrite review andor consult on electrical test proceduresbrbrUse electrical testing equipment oscilloscopes multimeters power supplies ectbrbrDocument all nonconformances and test anomalies following Assembly Integration and Test AIT policiesbrbrTroubleshoot test scriptsbrbrEnsure testing is in compliance with the test requirements document TRDbrbrUse Omega 3 data handling architecture and electrical power subsystem EPS architecturebrbrLead complex electrical spacecraft level troubleshooting efforts with support of systems engineeringbrbrstronguMinimum RequirementsbrbrustrongMust be a US citizen or permanent residentbrbrBachelors degree in engineering or a related field Four years of additional experience may be substituted for a degreebrbr2 years of relevant experiencebrbrstronguPreferred Qualificationsbrbrustrong5 years of relevant experiencebrbrFamiliarity with satellite design and testing obtained through educational training andor onthejob experience in a related fieldbrbrFamiliarity with satellite command and telemetry databases and wirelistsbrbrProgram management experiencebrbrHighly skilled with Microsoft OfficebrbrStrong collaboration and communication skills",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:50:33.000Z"
+  },
+  "company": {
+    "name": "Maxar Technologies",
+    "link": "https://www.linkedin.com/company/maxar-technologies-ltd"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

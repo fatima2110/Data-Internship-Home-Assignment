@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine learning Data Engineer",
+    "industry": "Information Technology and Services",
+    "description": "pstrongMachine LearningnbspData EngineerstrongnbspppLongTerm ContractppCincinnati OhioppnbspppYou will havenbspthe opportunity to work on challengingnbspMachine Learningnbspand AInbspprojects with the goal to improve the everyday life ofnbspclientsnbspmembersnbspnbspYou willnbspcollaborate with data scientist analyst business and IT teams tonbspdesignnbspimplement and deploynbspMachine Learning and AInbspservices using PythonnbspPySparknbspAzure servicesnbspDatabricks Terraformnbspand other opensource softwarenbspnbspDevelop plans designs codenbspandnbspdocumentationnbspandnbsptonbspperformnbspcode reviewsnbsptesting andnbspdebuggingnbspnbspYou will embrace and enforce best practices in our data science community withnbspautomatednbsprepeatable data pipelinesnbspppSome examples of how we add capabilities tonbspMachine Learning PlatformnbspincludenbspppCreating templates for data scientists embracing leadingedge modeling techniquesnbspppEstablishing a Feature Store with tens of thousands of features available to use in predictive modelsnbspppDefining monitoring auditing data lineage and dependency tracking for data pipelines to improve qualitynbspppIntegrating ethical AI bias monitoring and drift analysis into modelling processingnbspppStandardizing the definitions of clinical financial and actuarial features for use across the businessnbspppstrongTools usednbspstrongnbspppPython PySparknbspAzure Databricksnbsppp Azure Data FactoryAzure DevOpsAzure Kubernetes ServicenbspCosmosDB AppInsights KafkaPulsarnbspppTerraformnbspppOpensource ML software likenbspSciKitnbspLearnnbspSparkMLnbspTensorFlownbspHorovodnbspPetastormnbspppnbspppstrongJob DescriptionstrongnbspppBuild and deploynbspML modelsnbspon Azure using best practices in security and Azure servicesnbspppUnderstand best practices for effective predictive models including cluster management and algorithms and evangelize with Humana Data ScientistsnbspppThrivenbspin a fastpaced agile environment closely interacting with businessnbspanalystsnbspsoftware engineers machine learning scientists data engineers and data scientistsnbspppPut together production templates review and test ML code and deploy it tonbspProductionnbspppnbspppstrongRole RequirementsstrongnbspppBS in Computer Science or related fieldnbsppp3 years of experience working on cloud platformsnbsp Azurenbsppreferrednbspnbsppp5 years of experience withnbspMachine Learningnbspand AInbsppp5 years of software development experience withnbspsignificantnbspPython experiencenbspppSolid knowledge of data structures and algorithmsnbspppExperience in production environments ideally enterprise levelnbspDirectly responsible for creating productionnbspjobsnbspppAbilitynbspto learn new technologies and comprehendnbspunfamiliarnbspdata domains and business processesnbspquicklynbspppnbspppstrongRole DesirablesstrongnbspppOpensource contributions and portfolio of shipped code at GitHubnbspppExperience with Azure particularly Azure Data Factory ADF Spark Git and other software engineering toolsnbspppExperience working with data scientists to streamline code implement reliable production processes to score models andor building scalable efficient processes to derive newnbspdatanbspppFamiliar withnbsphealthcare applications terminologies and datanbspppPassion projects with MLAINLP for examplenbspKaggle competitions and HackathonsnbspppnbspppstrongRolenbspBonusstrongnbspppWorking multiple tools together on the Azure platform Databricks ADF AppInsights and other monitoringlogging tools to deploy to productionnbspnbspppExperience in an enterprise production environment where they have hardened refactored or otherwise improved upon the training code from DatanbspScientistsnbspp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-26T17:16:51.000Z"
+  },
+  "company": {
+    "name": "MAPSYS Inc.",
+    "link": "https://www.linkedin.com/company/mapsys"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cincinnati Metropolitan Area",
+    "region": null,
+    "postal_code": "45220",
+    "street_address": null,
+    "latitude": 39.097866,
+    "longitude": -84.508
+  }
+}

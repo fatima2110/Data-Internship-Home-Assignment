@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer",
+    "industry": "Computer Software,Human Resources,Information Technology and Services",
+    "description": "brstrongDo what you love Love what you do brbrstrong At Workday we help the worlds largest organizations adapt to whats next by bringing finance HR and planning into a single enterprise cloud We work hard and were serious about what we do But we like to have fun too We put people first celebrate diversity drive innovation and do good in the communities where we live and work brbrstrongJob DescriptionbrbrstrongstrongAbout the Team amp the role brbrstrong Will be part of the Prism Public APIs amp Configurable Security team at Workdays Prism Analytics brulli The opportunity here is to work with a team that is leading the way in building an interactive fully integrated big data analytics platform that provide our customers ways to create a data warehouse on the cloud and perform rich analysis and visualizations on their data lili Building scalable and robust Internal and External facing APIs that will support enablement of Data Orchestration lili Implementing and maintaining Prism Configurable Security which controlled by Workdays configurable security model where it flexibly enables different data access levels for different data consumers within the system lili Responsibility for migration of Prism Objects between customer tenants lili You will be working on building a cuttingedge Data Orchestration Engine which will enable datadriven processes from endtoend including preparing data making decisions based on that data and taking actions based on those decisions brbrliulstrongAbout You brstrongulliAn exceptionally strong individual contributor that can tackle hard technical problems with optimism and positivitylili You can design and lead substantial features with a strong focus on nonfunctional requirements scalability performance monitoring maintenance security usability and quality etc   lili The challenge of architecting and building a robust platform geared for Big Data processing excites you lili You take initiativeownership to drive projects to completion and overcome roadblocks with positivity and creativity   lili You are able to juggle priorities and make the right tradeoffs in feature content and timely delivery of features while ensuring customer success and technology leadership for the company lili Worked in agile teams lili Either backend or fullstack developer with 5 years of experience with Web application development and SaaS Software as a Service brbrliulstrong You have strong experience with brstrongulliOO design and Java developmentliliAPI development security and performanceliliExperience with A PI tools like Postman SOAP UI JMeter Swagger etc liliSaaS security infrastructure WSSecurity Configurable Data Security Identity and Access Management IAMliliLargescale distributed and highly concurrent systemsliliMetadatadriven definitional development experienceliliWeb servers databases SQL REST JSON XML and persistence frameworks like Hibernatelili Technology agnostic is ok with you and you are always willing to learn new technologies to solve business problems lili MS in Computer Science or related field and 3 years relevant software development experience or BS in Computer Science or related field and 5 years relevant software development experience brbrliulstrongBonus Skills  brstrongulli Workday Configurable Security brbrliulstrongSan Francisco Fair Chance OrdinancebrbrstrongPursuant to the San Francisco Fair Chance Ordinance Workday will consider for employment qualified applicants with arrest and conviction recordsbrbr Workday is an Equal Opportunity Employer including individuals with disabilities and protected veterans",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:03:22.000Z"
+  },
+  "company": {
+    "name": "Workday",
+    "link": "https://www.linkedin.com/company/workday"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 105000,
+    "max_value": 150000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

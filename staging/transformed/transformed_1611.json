@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "pCALA makes it easy to design produce and deliver your own fullycustom fashion products  and were hiring a fullstack engineer to join our team We have some incredible customers but were still a small crew youll help define our engineering team culture technology choices and roadmap and be a key part of the next phase of our growthppbrppstrongResponsibilitiesstrongpulliContribute across the whole stack web iOS backend services and more Our tech stack is mostly TypeScript nodejs React  React Native and PostgreSQL but we try to use the best tools to solve each problemliliWork closely with your team to solve problems plan solutions and bring them to life anything from 3D rendering to analytics engines Youll have deep product ownership and be an important stakeholder as we plan new featuresliliHelp us build the processes and tools we need to take things to the next levelliulpbrppstrongRequirementsstrongpulli4 years professional software development experienceliliStrong knowledge of JavaScript and web technologyliliExperience writing unit amp integration testsliulpbrppstrongNice to havestrongpulliExperience building performant native iOS appsliliExperience with TypeScript Flow or a stronglytyped languageliliExperience with React or another componentdriven frameworkliliExperience building distributed scalable systemsliliWere a distributed team but we do have an office in NYC that youre able to work from if youre in the arealiul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-26T20:16:37.000Z"
+  },
+  "company": {
+    "name": "CALA",
+    "link": "https://www.linkedin.com/company/this-is-cala-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

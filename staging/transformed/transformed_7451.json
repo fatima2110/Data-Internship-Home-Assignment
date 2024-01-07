@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "Construction",
+    "description": "emThere is a reason that Clark is a leader in the construction industry Simply put its our people You can play a critical role in the future of our cities and communities with a career at Clark Construction From monuments and museums to stadiums hospitals universities highways hotels and more Clark has shaped Americas skyline for over a century Our work leaves a lasting legacy the same goes for our people We owe our success to the leadership talent and drive of our employees With a wide range of opportunities from management to finance to engineering and more explore the many ways to grow your career and build your own legacy at Clark ememCome be a part of our team today brbremThe Data Engineer DE will collect aggregate store and reconcile data in support of critical business processes and decisionmaking The DE will help design and build data pipelines data streams data service APIs data generators and other enduser insight toolsbrbrstronguThe Bulk Of The Data Engineers Work Would Be In Building Managing And Optimizing Data Pipelines And Then Moving These Data Pipelines Effectively Into Production For Key Data And Analytics ConsumersbrbrustrongstrongemBuild data pipelinesemstrong Managed data pipelines consist of a series of stages through which data flows for example from data sources or endpoints of acquisition to integration to consumption for specific use cases These data pipelines have to be created maintained and optimized as workloads move from development to production for specific use cases Architecting creating and maintaining data pipelines will be the primary responsibility of the data engineerbrbrstrongemDrive Automation through effective metadata managementemstrong The data engineer will be responsible for using innovative and modern tools techniques and architectures to partially or completely automate the mostcommon repeatable and tedious data preparation and ingestion tasks in order to minimize manual and errorprone processes and improve productivitybrbrThe ideal candidate will have strong problem solving skills that can contribute to best practices and modern approaches to data delivery This requires strong communication skills with business and technology partners for creating winwin solutions The ideal candidate will be a quick learner of new technologies identifying best development and deployment practices and implementing them The ideal candidate is able to work independently in an agile environment with minimal guidance meeting deadlines and work objectivesbrbru Daytoday the DE will bruulliTranslate business requirements to technical solutions using strong business insightliliAnalyze current business practices processes and procedures identifying planning and implementing data discovery and orchestration servicesliliDesign and Build Cloud based Modern Data Pipelines and Data Streams using Talend Realtime Big Data Integration platformliliDevelop and maintain Data warehouse schematics layouts architectures and relationalnonrelational databases for data access and Advanced AnalyticsliliImplement effective metrics and monitoring processes documenting processes and checklistsbrliulstronguRequired QualificationsbrustrongulliExperience in developing scalable and reliable data solutions to move data across systems from multiple sources using Talend Data IntegrationliliProven experience in Extract transform and summarize information from large data sets using Talend Data IntegrationliliExperience in business processing mapping of data and analytics solutionsliliAbility to conduct data profiling cataloging and mapping for technical design and construction of technical data flowsliliExperience using data preparation tools and perform data wrangling cleanse profile dedupe manipulate and analyze large datasets Structured and Unstructured data  XMLs JSONs PDFsliliKnowledge of structured data such as entities classes hierarchies relationships and metadataliliBuilding data models with the flexibility to change when business requirements change and ensuring data quality and consistencyliliStrong understanding of relational databases like Oracle SQLServerliliExposure to data lakes in hybrid cloud environmentsliliExposure to cloud services web services and APIs Ideally AWS services such as VPC IAM EMR RDS and Glue Web services and APliliExperience in both deployment architecture and developing scripts for automated system deployment in AWSbrliulstronguEducationbrustrongulliBachelors Degree in Information Technology or businessrelated field lili23 years of relevant handson experience in Talend Data IntegrationliliCloud Certification preferred AWS or AzureliliPrefer Talend CertificationbrliulstronguEqual Opportunity EmployerbrbrustrongClark Construction Group LLC subsidiaries and affiliates is an Equal Opportunity Employer committed to diversity and inclusion in the workplace All qualified applicants will receive consideration for employment without regard to sex race color age national origin religion physical and mental disability genetic information marital status sexual orientation gender identityassignment citizenship pregnancy or maternity protected veteran status or any other status prohibited by applicable national federal state or local law Clark Construction promotes a drugfree workplacebrbrApplicants have rights under Federal Employment Laws Family and Medical Leave Act FMLA Equal Employment Opportunity EEO and Employee Polygraph Protection Act EPPAbrbrFor more information on Equal Opportunity you may visit this linkbrbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T05:13:18.000Z"
+  },
+  "company": {
+    "name": "Clark Construction Group",
+    "link": "https://www.linkedin.com/company/clarkconstructiongroup"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bethesda",
+    "region": "MD",
+    "postal_code": "20813",
+    "street_address": null,
+    "latitude": 38.984856,
+    "longitude": -77.09269
+  }
+}

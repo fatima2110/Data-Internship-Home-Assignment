@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "pstrongDescriptionstrongppbrppOur client is seeking a Site Reliability Engineer to join one of the fastestgrowing and most innovative startups in Atlanta Youll work collaboratively with software engineering to deploy and operate our systems help automate and streamline our operations and processes build and maintain tools for deployment monitoring and operations and troubleshoot and resolve issues in our dev test and production environmentsThis job can stuff your resume with the latest buzzwords like big data machine learning agile development and cookie pool but thats the least important thing about it This job is hard and though you may not know it yet its your dream jobppbrppstrongTop Skills Requirednbspstrongpulli1 years ofnbspAWS Administration AWS Certified Cloud Practitioner preferredlili1 years of codingnbspand scripting we use Ruby and most of its key frameworkslili1 year ofnbspLinux AdministrationliliDatabase experience MongoDB PostgreSQL MySQL RedisliliExperience with ticketing systems such as Jira or ZenDeskliliExperience scaling a system clustering memory leak bottleneck identification etcliliStrong interpersonal and collaboration skillsliliAbility to articulate defend and evolve an idealilistrongNice to HavestrongBuilddeployment process management we use GitHubliliFacebook Twitter Pinterest Instagram or other 3rd Party API experienceliliExperience with largescale email deliverability including SPF DKIM and DMARCliliOpen source contributionsliulpbrppstrongCulturestrongpulliCasual startup environment that promotes personal and professional growthliulpbrppstrongBenefitsstrongpulliBonus potentialliliMedicalDentalVision plansliliPaid parkingMARTA pass or ability to be 100 remoteliliInvestors and cofounders with a proven trackrecord of successliliCasual startup environment that promotes personal and professional growthlilistrongLocation strong100 remote or ability to go into Atlanta officeliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T14:41:50.000Z"
+  },
+  "company": {
+    "name": "Elev8 Hire Solutions",
+    "link": "https://www.linkedin.com/company/elev8hire"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

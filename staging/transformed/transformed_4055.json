@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer, Backend",
+    "industry": "Investment Management",
+    "description": "Vise is an investment management platform built for financial advisors Founded in 2016 Vise gives advisors the tools and technology they need to grow their business and help clients achieve their goals By empowering advisors Vise advances its mission of creating financial freedom for everyone Vise is backed by Sequoia Capital Founders Fund Bond Capital and Ribbit Capital and recently completed a Series C funding roundbrbrAs a Senior Software Engineer Backend you will leverage existing knowledge about modern frontend framework technologies combined with microservices and database technologies to build a powerful backend You will have ownership of sizable portions of our software stack and shape the architecture and structure of the productbrbrOur HQ office is located in One World Trade in NYC which is now open for anyone who chooses to go in We will continue to be remoteoptional until September 30 2021 We will monitor Covid19 trends to ensure the safety of our employees strongThis role can be based in San Francisco CA or New York NYbrbrstrongstronguWhat You Will OwnbrustrongulliDesign and implement backend servers and APIs to interact with the frontend systemliliDesign and implement the data layer for the system including data storage batch processing data streaming etcliliPartner with quantitative engineers to conduct data analysis as well as design and implement ML algorithms to better portfolio creation and managementliliDesign and implement user flows and front end featuresliliAbility to demonstrate examples of experiences tied to our Engineering Values Trustworthiness Inclusivity and Strive for ExcellencebrbrliulstronguWhat You Will Bring On Day 1brustrongulli5 years of software development experience outside of education and internshipsliliExperience with Python TypeScript or Node and some experience with React or Redux frameworksliliExperience with databases Postgresql MySQL or Redis amp data processing frameworks Spark HadoopliliFoundation in data structures algorithms and software design with strong analytical and debugging skillsliliEffective interpersonal communication and collaboration skills with great problem solving abilitiesbrbrliulstrongThese would be great to have but were sure you can learn this on the job herebrstrongulliPrevious industry work experience with streaming frameworks Kafka Samza Flink is a bonus liliFinancial background or previous work with financial databrbrliulstrongOur stackstrong Python Postgres Express TypeScript Node React Redux and AWSbrbrVise celebrates and embraces diversity and is committed to building a team that represents a variety of experiences backgrounds and skills We do not discriminate on the basis of race color religion marital status age gender identity gender expression sexual orientation nondisqualifying physical or mental disability national origin veteran status or other applicable legally protected characteristics",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:19:24.000Z"
+  },
+  "company": {
+    "name": "Vise",
+    "link": "https://www.linkedin.com/company/viseinc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

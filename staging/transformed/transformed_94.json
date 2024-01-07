@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Testing Engineer",
+    "industry": "Information Technology and Services,Computer Software,Information Services",
+    "description": "pSmarsh is the leader in communications compliance archiving and analytics We provide compliance across the broadest set of communications channels with insights on whats being captured Smarsh customers manage over 500 million daily conversations across 80 channels and growing Customers include the top 10 US top 8 European top 5 Canadian and top 3 Asian banks The Smarsh advantage is customers stay ahead of compliance and uncover patterns and relationships hidden within their datappbrppAt Smarsh weve been helping our customers manage new forms of communication since 1998 We work closely with regulators including the SEC FINRA IIROC PRAnbspFCA and with our customers to ensure they understand capabilities of todays technology and our platform meets their most stringent requirements Our products include Connected Capture Connected Archive Web Archive amp Business SolutionsppbrppWe recently acquired Digital Reasoning the global leader in natural language processing NLP artificial intelligence AI and machine learning ML The addition of Digital Reasonings capabilities and expertise will further enable Smarsh customers to spot risks before they happen maximize the scalability of supervision teams and uncover strategic insights from large volumes of data in realtimeppbrppThe Product Test Engineering team works closely with Product Dev Engineering and Product Management to ensure product performancenbspqualitynbspand customer satisfaction Developsnbsprevisesand maintains Test code and test processesmethodologies to qualify software towards functional scale and performance criteria Applies customer feedback to drive product improvement through the development process Gather product requirements from the Product Management team and turn them into working software that satisfy market needs which customers use to solve their specificproblemsppbrppstrongEssential FunctionsstrongppReasonable accommodations may be made to enable individuals with disabilities to perform the essential functionsppbrppstrongEssential Functions belowstrongpulliContinue to learn Become a tactical member of the team Design and implement quality solutions independentlyliliCollaborate with Product Owners and the rest of the engineering team to define test mechanisms and their implementationsliliInvestigate and fix bugs independentlyliliCreate and sustain test environments and setups independentlyliliParticipate in all Agile ceremonies and meetingsliliTrack work in ticketing system JIRAliliParticipate in Pull Request reviews Provide and receive feedback to continuously improveliliAsk clarifying questionsliliEstablish oneself as the Point of Contact for your area of expertiseknowledgeliliOther duties as assignedliulpstrongnbspstrongppstrongnbspstrongppstrongEducation and ExperiencestrongpulliBachelors Degree or higher in Computer Science or related field or equivalent experiencelili8 years direct experience in software test engineering role in an Agile software development environmentlili5 years direct experience developing automated tests in Java or Groovy egnbspSelenium or Geblili3 years of experience in one or more of Java Python Java Script Groovy with JIRAliulpbrppbrppstrongAdditional Eligibility QualificationsstrongppUnderneath the hood of our cognitive computing platform Conduct Surveillance is a lot of Linuxynbspgoodness so the more comfortable you are with things likenbspworking in anbspcommand line environment the more effective youll be able to be in this roleppbrpulliTesting toolsframeworks Spock Appium JUnit Xray for JIRAliliCross browserdevice testing Sauce LabsnbspBrowserstacknbspZaleniumliliTesting RESTful APIsliliLanguages Groovy JavanbspJavascript ScalaliliUI Integration Load and Performance Testing with tools such as Protractor JMeterliliGatlingliliCI servers BambooliliDistributed version control systems GitliliElasticsearchliliAmazon Web ServicesliliGoogle Web ServicesliliAdvanced programming skills in relevant languagesliliStrong analytical and problemsolving skillsliliStrong communication and collaboration skillsliliGood understanding and experience in modern software programmingengineeringliulpnbspppstrongWhy SmarshstrongppReady to join a thriving tech company thats redefining digital archiving and business intelligenceppSmarsh is the leading comprehensive archiving platform Recognized as one of todays fastest growing companies in the US Smarsh delivers innovative cloudbased solutions that help organizations manage and enforce flexible and secure records retention and compliance strategies for electronicnbspcommunications including social media and enterprise social networks Yammer Chatter Facebook LinkedIn and moreppOur motto is People First Inspire Confidence Embrace the Impossible We hire lifelong learners who have a passion for their discipline and a track record of excellence To learn more about us visitnbspstronguwwwsmarshcomcareersustrongp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:19:55.000Z"
+  },
+  "company": {
+    "name": "Smarsh",
+    "link": "https://www.linkedin.com/company/smarsh"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Franklin",
+    "region": "TN",
+    "postal_code": "37064",
+    "street_address": null,
+    "latitude": 35.923653,
+    "longitude": -86.86783
+  }
+}

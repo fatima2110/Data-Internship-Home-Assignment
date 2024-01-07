@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist - Remote ",
+    "industry": "",
+    "description": "pDo you get excited about solving complex problems in data science Would you like to develop solutions for working with giant realworld clinical data to radically improve healthcarenbspppbrppWe need creative and versatile data scientists to join our team Were looking for selfmotivated individuals with experience working with clinical datasets who want to positively impact the lives of millions of patients around the worldnbspppbrppDroice engineers are thought leaders in data science applying it to vast repositories of realworld clinical data including EHR and clinical text datasets Our products leverage our unique proprietary technology to power critical decisions for patient carenbspppbrppstrongHow youll contributenbspstrongpulliLead and execute data science projects amp research studies from conception to completion using large realworld clinical data datasets eg EMR claims disease registries etc including design protocol development implementation and collaboration with other functionsnbspliliApply advanced statistical and machine learning methods including various classification and clustering algorithms to develop clinically relevant insightsliliApply novel analytical or computationalmachine learning techniques and data science expertise to integrate and analyze large complex dataliliConduct and guide observational data analyses including data management and data science amp statistical analysesliliWork with a multidisciplinary team of business analysts data scientists clinicians and engineers to develop novel data sciencedriven solutionsliliPresent results project summaries and analytical techniques to customers stakeholders and internal audiencesliliContribute to presentations reports and publicationsliliProvide scientific oversight and mentorupskill more junior members of the teamliliAssist the department leadership in the hiring process of new talentliulpbrppstrongWhat were looking fornbspstrongpulli5 years of experience in data science or ML work in research organizationsacademia or industry eg tech pharmaliliMSc PhD or similar qualification in a quantitative data science discipline eg math statisticsbiostatistics biomedical informatics machine learning engineering computer science physics etcliliGood oral and written communication skills demonstrated by a track record of publications in major scientific journals and presentations in national or international conferencesliliAbility to create and implement a researchstatistical analysis plan independentlyliliTrack record of developing and executing clinical data scienceML or RWE studiesliliAbility to understand clinical use cases and pull the necessary data from various sources to provide key insightsliliStrong quantitative background with deep understanding in several of the following domains math statistics machine learning deep learning signal processing data science computer science andor algorithmsliliStrong programming skills in at least one analytical programming language Python R ability to comprehend and contribute to large codebases and collaborate with other data scientists and software engineersliliFamiliar with large healthcare databases such as EMRs claims registries etcliliExcellent organizational skills including strong personal initiative attention to detail the ability to learn and work independently and as part of a team prioritize multiple tasks and goals to ensure timely deliveryliliAble to challenge conventional thinking speak out think independently generate original ideas and stand up for themliulpbrppstrongBonus points if you havenbspstrongpulliExperience in leadership roles or demonstrated leadership capabilitiesliliExperience building data pipelines using big datadistributed computing technologies eg SparknbspliliExperience or familiarity with natural language processing systems and approachesnbspliliStartup experienceliliKnowledge of healthcare IT hospital workflows patient data infrastructurenbspliulpbrppstrongAbout DroicestrongnbspppDroice Labs is a deeptechnology company based in New York City committed to matching patients to the interventions that work best for them To accomplish that we apply cuttingedge artificial intelligence to healthcare data to develop bestinclass products that help various healthcare stakeholders to treat patients efficiently develop therapies and manage patient populationsppbrppDroice offers a challenging fastpaced environment with a focus on learning and realworld problemsolving in the healthcare sector Digital health data in the form of realworld patient data and clinical text is one of the richest sources of information in patient care Our engineers use the latest advances in machine learning natural language processing data science and data engineering with deep clinical and biomedical expertise to build the tools that allow health systems life sciences and payors to positionfor the first time in historylongterm patient wellbeing at the center of their strategic objectivesppInterested in applyingnbspppnbspppstrongCurious to know morenbspstrongppVisit us at wwwdroicelabscom ppbrp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T12:09:24.000Z"
+  },
+  "company": {
+    "name": "Droice Labs",
+    "link": "https://www.linkedin.com/company/droice-labs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

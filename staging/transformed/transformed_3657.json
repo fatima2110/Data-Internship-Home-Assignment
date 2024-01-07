@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "",
+    "description": "pstrongTitle ML EngineerstrongppstrongLocation Anywhere in US but willing to work Pacific hoursstrongppstrongDuration 6 months ContractstrongppstrongExperience  8 yearsstrongppstrongAny Visa Except CPTOPT H1TThis is not an internshipstrongppbrppstrongResponsibilitystrongpp Work closely with Machine Learning Engineers and strongData Scientistsstrong to understand refine and prioritize requirementspp Design and build our model serving service with simple powerful APIs to capture our usersclients needspp Build our core ML model lifecycle management system to provide an strongMLawarestrong release and deployment experiencepp Improve machine learning data quality by using amp building tools to automatically detect issuespp Create intelligent MLaware realtime monitoring amp observability systemspp Work closely with partner teams to integrate with other ML tools to create a seamless endtoend experiencepp Leverage open source technologies like strongKubeflow Kubernetes Spark Docker Airflow Tensorflow and PyTorchstrongppstrongnbspstrongppstrongQualificationstrongppWe are looking for engineers withpp 9 years of industry experience or a PhD 7 years industry experience in applied machine learningpp Strong coding skills instrong PythonJavaScala or equivalentstrongpp Experience with distributed data processing tools like strongHive Spark Airflow and popular ML frameworks like Tensor flow or Pytorch is preferredstrongpp Solid understanding of engineering best practices and complexities of models in productionpp Experience developing and productionizing machine learning models is a pluspp Experience with Docker Kubernetes Spark is a pluspp Experience with distributed data processing tools stronglike Hive Spark Airflow is a plusstrongpp Industry experience building endtoend Machine Learning Infrastructure a big plusppbrppstrongPlease reach out to farheenexatechinccomstrongp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-16T17:59:43.000Z"
+  },
+  "company": {
+    "name": "ExaTech Inc",
+    "link": "https://www.linkedin.com/company/exatech-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 108,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

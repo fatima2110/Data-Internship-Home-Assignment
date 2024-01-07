@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Snapsheet Transactions",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "stronguAbout SnapsheetbrbrustrongSnapsheet is an industryleading technology company building products that make insurance simple for everyone We create platforms that drive efficiencies using data and technology to enable the easiest fastest and most accurate claims processing in the industrybrbrWhat you will be working onbrbrAt Snapsheet we are always looking for ways to use software to solve challenging problems that businesses face Snapsheet Transactions was born out of this and is an innovative payments solution that combines our expertise in insurance workflows with cuttingedge technology and payment options As a member of the Snapsheet Transactions Team you will build the next generation of insurance payments to be used by businesses around the worldbrbrWhat you will dobrulliWrite code in a fastpaced qualitydriven environmentliliCollaborate with other engineers product management and design to identify and solve challenging problemsliliPlay an influential role in growing Snapsheet to be the industry leader in technologybrliulstronguQualificationsustrongulliBS in Computer ScienceComputer Engineering or equivalent experience building web applicationsliliExcellent written and oral communication skillsliliDeep understanding of commonly used data structures and algorithmsliliExperience in backend frontend or fullstack developmentliulliBackendliulliExperience working with APIsliliExperience with relational databasesliulliFrontendliulliExperience with React and Redux or a similar frontend frameworkliliKnowledge of design patterns used for developing frontend applicationsbrliulululTechnologies we useulliInfrastructureliulliMySQL S3 Redis Elasticsearch RabbitMQ Lambda Docker CloudFrontliulliFrameworksliulliRails ReactbrliululPerksbrulliCompetitive SalaryliliOpen Hack Days every other FridayliliHealth Dental Vision 401K with 50 MatchingliliUnlimited PTOliliFresh Fruit Cereal and CoffeeliliFriday Happy HoursliliSummer Picnic Holiday Party and MoreliliSports LeaguesliliRooftop Gym and Events at the Chicago OfficebrliulSnapsheet is an equal opportunity employerbrbrstrongSnapsheet is an equal opportunity employerstrong",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-08T19:40:34.000Z"
+  },
+  "company": {
+    "name": "Snapsheet Inc",
+    "link": "https://www.linkedin.com/company/snapsheetinc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 74600,
+    "max_value": 162600,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

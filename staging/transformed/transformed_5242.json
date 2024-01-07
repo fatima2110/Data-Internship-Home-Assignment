@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Network Access",
+    "industry": "Financial Services,Information Technology and Services,Internet",
+    "description": "strongOur PurposebrbrstrongWe work to connect and power an inclusive digital economy that benefits everyone everywhere by making transactions safe simple smart and accessible Using secure data and networks partnerships and passion our innovations and solutions help individuals financial institutions governments and businesses realize their greatest potential Our decency quotient or DQ drives our culture and everything we do inside and outside of our company We cultivate a culture of inclusion for all employees that respects their individual strengths views and experiences We believe that our differences enable us to be a better team  one that makes better decisions drives innovation and delivers better business resultsbrbrstrongJob TitlebrbrstrongSoftware Engineer  Network AccessbrbrMastercard is a global technology company in the payments industry Our mission is to connect and power an inclusive digital economy that benefits everyone everywhere by making transactions safe simple smart and accessible Using secure data and networks partnerships and passion our innovations and solutions help individuals financial institutions governments and businesses realize their greatest potential Our decency quotient or DQ drives our culture and everything we do inside and outside of our company With connections across more than 210 countries and territories we are building a sustainable world that unlocks priceless possibilities for allbrbrNetwork Access is the core provider of network connectivity and edge computing capabilities for payments and non payment transactions Whether at a customer site within Mastercards own data center or in the public cloud we provide the secure unified single point of entry for all Account to Account Blockchain Card and Data transactionsbrbrWe are currently seeking a passionate amp collaborative software engineer to join our Network Access team As an associate engineer in Network Access you will have the opportunity to develop solutions that directly impactenable millions of global transactions that occur each day You will play a vital role within a rapidly growing organization while working closely with experienced and driven engineers to solve challenging problemsbrbrAre you a collaborator able to engage across your team amp beyondbrbrAre you an innovator who embraces adopts and studies the latest technology to solve challenging business problemsbrbrIf this describes you Mastercard wants to talk to you about joining our SquadbrbrstronguAbout The Rolebrbrustrongbrulli Assist team members in the development of applications components system to system interfaces and complete software solutionslili Significant code development commitment of codereview of pullrequests and daytoday support dutieslili May manage mediumsized projectinitiatives as an experienced individual contributor with specialized knowledge within assigned disciplinebrliulstronguAbout Youbrbrustrongbrulli Experience developing solutions across various languages including Javalili Experience delivering scalable products through a CICD pipeline deploying onprem or in a public cloud infrastructurelili Able to apply software quality practices across across the development lifecyclelili Strong analytical skills required for debugging production issues providing root cause and implementing mitigation planlili Strong communication skills  both verbal and written  and strong relationship collaboration skills and organizational skillslili Ability to multitask across multiple projects interface with external  internal resources and provide technical leadership to junior team memberslili Ability to quickly learn and implement new technologies and perform POC to explore best solution for the problem statementlili Flexibility to work as a member of a matrix based diverse and geographically distributed project teamsbrliulstronguDesirable Skills And Experiencebrbrustrongbrulli Experience working in Agile teamslili Experience with virtualization like Cloud FoundryPCF Kubernetes PKS Docker etclili Experienced in building platforms with Microservice architecture andor RESTful APIslili Experienced in event driven systems Apache Kafka NATS etcliliEngineering experience in high volume low latency transaction processing systems such as payments transaction switching high frequency trading systems or global realtime event streaming systems etclili Experience using cloudnative approaches running on Linux leveraging Spring BootbrliulstronguEducationbrbrustrongBSMS in Computer Science or equivalentbrbrDue to COVID19 most of our employees are working from home Weve implemented a virtual hiring process and continue to interview candidates by phone or video and are onboarding new hires remotely We value the safety of each member of our community because we know were all in this togetherbrbremMastercard is an inclusive Equal Employment Opportunity employer that considers applicants without regard to gender gender identity sexual orientation race ethnicity disabled or veteran status or any other characteristic protected by law brbrememIf you require accommodations or assistance to complete the online application process please contact ememreasonableaccommodationmastercardcomemem and identify the type of accommodation or assistance you are requesting Do not include any medical or health information in this email The Reasonable Accommodations team will respond to your email promptlyem",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:25:41.000Z"
+  },
+  "company": {
+    "name": "Mastercard",
+    "link": "https://www.linkedin.com/company/mastercard"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 69600,
+    "max_value": 90000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "O'Fallon",
+    "region": "MO",
+    "postal_code": "63304",
+    "street_address": null,
+    "latitude": 38.808643,
+    "longitude": -90.69996
+  }
+}

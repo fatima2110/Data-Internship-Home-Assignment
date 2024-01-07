@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Jr Software Engineer",
+    "industry": "",
+    "description": "pKIOSK helps organizations digitally transform by enabling automation with selfservice solutions to improve the customer experience while increasing operational and cost efficiencies With over 27 years of experience and 250000 kiosks deployed KIOSK is a market leader and trusted partner of Top 100 Retailers and Fortune 500 clients delivering proven expertise in design engineering and manufacturing application development integration and comprehensive support services We offer an innovative portfolio of kiosk solutions along with managed services and IoT capabilities to ensure a seamless user experiencenbspSelfservice is a fast paced and exciting industry with high professional growth potentialnbspnbspppbrppThe company offers a full spectrum product portfolio with all solution disciplines in one professional  manufacturing campus We are a high performing and customercentric team KIOSK provides a respectful fun and collaborative work environment with great benefits and work  life balanceppbrppKIOSK is hiring a Jr Software Engineer that will be responsible for analyzing planning developing implementing testing and maintaining various hardware and cloud based IoT projectsppbrppstrongResponsibilitiesstrongpulliPerform full stack software developmentliliParticipate in pull requests and code reviewsnbspliliAbility to work with off shore development teamliliDesign and update software as neededliliTest and maintain software products to ensure strong functionality and optimizationliliWork on production and commercial deployment of systems for enterprise customersliliMaintain and improve the performance of software throughout the entire complete software developmentnbsplife cycleliliRecommend improvements to existing software programs as necessaryliliProvide timely solutions to production issuesnbspliliAbility to accurately estimate effortnbspnbspliliDevelop windows hardware abstraction layer to interface with vendor driverfirmware for components such as card reader bar code scanner printers etcliulpbrppstrongRequired Skillsstrongpulli3 years of experience developing C NET applicationsliliNET core NET Standard NET frameworkliliTypescript modern JavaScript framework such as Angular Reactjs etcliliTest Driven DevelopmentliliGit Gitflow Azure DevOpsliliAWS cloud services preferredliliExperience consuming designing and developing microservices APIs highly preferredliulpbrppstrongDesired SkillsstrongpulliAdaptability  Being open to and actively solicit new ideas and opinionsliliExperience consuming designing and developing microservices APIs highly preferredliulpbrppstrongTravelstrongpullinbspLess than 5 travelliulpbrppstrongPhysicalstrongpullinbspMust be able to sit and stand 8 hourslilinbspMust be able to lift 10 poundsliulpbrppstrongStarting Salary nbspstrongFinal compensation for this role will be determined by various factors such as a candidates relevant work experience skills and certificationsppbrppstrongspan classqlcursorspanBenefitsstrongnbspppKIOSKstrongnbspstrongvalues its employees by supporting them with a full benefits package includingpulliMedical 3 plans to choose fromliliDental company paid for employee only coverageliliVision company paid for employee only coverageliliLife Insurance company paidliliShort and long term disability insurance company paidliliFlexible Spending Accountsnbsplili401k match with immediate vestingliliEmployee Assistance ProgramliliPaid Time Offlili10 Paid Holidays per calendar yearliliAnnual Bonus programliulpbrp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T17:09:48.000Z"
+  },
+  "company": {
+    "name": "KIOSK Information Systems",
+    "link": "https://www.linkedin.com/company/kiosk-information-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Louisville",
+    "region": "CO",
+    "postal_code": "80027",
+    "street_address": null,
+    "latitude": 39.96572,
+    "longitude": -105.15234
+  }
+}

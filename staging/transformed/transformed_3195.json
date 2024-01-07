@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "At Actuate we make the world safer by turning any camera into a smart camerabrbrOur AI software analyzes data from existing security cameras in realtime to detect weapons intruders social distancing masks crowds and where people travel in any environment The system acts as an endtoend security camera management system that enables onboarding and management of cameras as well as instant alerts and analytics that allow organizations to pinpoint problemsbrbrWe leverage cuttingedge computer vision algorithms for object detection on a hyperscale cloud backend and we provide analytics to our customers without collecting any personally identifiable informationbrbrWere looking for an experienced engineer who wants to define our stack from the groundup The role will involve analyzing integration options into customers existing video management systems and architecting hyperscale cloudbased solutions to pull video and process while keeping bandwidth utilization extremely low The ideal candidate will have experience working with both legacy enterprise systems and cuttingedge cloud technology in Python Java andor CbrbrWere a PostSeries A company funded by Tribeca Venture Partners and Scribble VC and were looking for people who want to help grow the business quickly If you want to help build a company from the ground up and develop cuttingedge technology to make the world a safer placewithout invading privacywed love to hear from youbrbrstrongFor more information brbrstrongstrongRequirementsbrstrongulli2 years experience in software engineeringliliBachelors degree in computer science computer engineering or similarliliResident in the NYC metro arealiliUS Citizen or Green Card HolderbrbrliulstrongExperience with the following is a plusbrstrongulliExperience building cloudhosted systems using Python C andor Java in a startup or big tech environmentliliExperience with agile development methodsliliAdvanced degree in computer science or similarbrbrliulstrongLocation strongNew York CitybrbremActuate Aegis Systems Inc is an equal opportunity employer We celebrate diversity and are committed to creating an inclusive environment for all employeesbrbremPowered by JazzHRbrbrovwHgLW7is",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T07:18:49.000Z"
+  },
+  "company": {
+    "name": "Actuate",
+    "link": "https://www.linkedin.com/company/aegissystemsai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

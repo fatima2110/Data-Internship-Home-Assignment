@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer In Test",
+    "industry": "Computer Software",
+    "description": "pstrongJob PurposestrongppSophos is seeking a talented experienced Software Development Engineer in Test to join our Sophos Central team As a member of the Sophos Central Software Development Engineer in Test team you will be working directly with Development UX PM and other functional groups to ensure highest quality software development and releases for the Central product We look forward to welcoming another fantastic member onto our teamppbrppstrongMain DutiesstrongpulliAbility to partner effectively with Development UX PM and other developers to design and implement meeting the spirit of Quality Engineering standardsliliAssist with writing and executing sound test cases against product features and functionalityliliIdentifying and implementing process improvements for Quality Engineering efficiencyliliParticipate in all phases of the SDLC from design to delivery on team projectsliliWrite test automation code to deliver against project timescales quality and requirements in various languages for Sophos Cloud productsliliConduct technical presentations on Test AutomationQuality Engineering specific topicsliliConduct Unit System and Integration testing and fixing errors with guidance if requiredliliDefine Test scenarios and Test cases to ensure quality of the teams deliverablesliliAbility to identify major issues and escalate accordinglyliulpbrppstrongEssential SkillsstrongpulliThorough knowledge of an objectoriented programming language Java C and JavaScriptliliKnowledge of web frameworks such as Angular ReactJS NodeJS and etcliliExpert knowledge of industry standard testing techniques and best practicesliliVery strong Quality Engineering skills in test execution test planning test case design and test result reportingliliExperience executing or writing Test Automation that performs actions such as HTTP RequestsResponses query of remote databases access and execute commands on external systemsVMsliliVery strong verbal and written communication skillsliliVery strong troubleshooting skillsliliGood understanding of Linux or Unix Systems fundamentalsliliGood understanding of Networking fundamentalsliliExposure to Cloud computing AWS experience a plusliliExperience in Agile Scrum SDLC environmentliliKnowledge of Continuous Integration and Continuous Deployment SDLC patternsliliStrong multitasking skills and technical leadership skillsliulpbrppstrongRequirementsstrongpulli5 years of experience in a Test Automation rolelili2 years of experience in a Quality Engineering roleliulpp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-13T14:20:44.000Z"
+  },
+  "company": {
+    "name": "Sophos",
+    "link": "https://uk.linkedin.com/company/sophos"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Burlington",
+    "region": "MA",
+    "postal_code": "01803",
+    "street_address": null,
+    "latitude": 42.504986,
+    "longitude": -71.19583
+  }
+}

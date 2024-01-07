@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Software Development Engineer",
+    "industry": "Information Technology and Services,Computer &amp; Network Security,Computer Software",
+    "description": "stronguJob DescriptionbrbrustrongstrongJob ResponsibilitiesbrstrongulliParticipate in the development of Microservices API and backend servicesliliTake part in the design development and testing of various productsliliSolve problems during development testing and provide technical support for productsliliStudy suitable algorithms and operating mechanismsliliWrite technical documentation for productsbrliulstronguJob RequirementsbrustrongulliBachelors Degree majored in Computer Science or Engineering who can programlili5 years and above working experienceliliHaving experience in using one of these languages C Golang PythonliliShow good habits such as documentation and proficiency in file compilationliliDeveloping on Linux is preferableliliMaster the data structure and algorithm technique be proficient in network programming and be familiar with network protocols such as TCPIP HTTPliliThink clearly work well in a team take the initiative and seek continuous improvementbrliulGDbrbrstronguAbout UsbrbrustrongstrongFortinet NASDAQ FTNT secures the largest enterprise service provider and government organizations around the world Fortinet empowers its customers with intelligent seamless protection across the expanding attack surface and the power to take on everincreasing performance requirements of the borderless network  today and into the future Only the Fortinet Security Fabric architecture can deliver security features without compromise to address the most critical security challenges whether in networked application cloud or mobile environments Fortinet ranks number one in the most security appliances shipped worldwide and more than 450000 customers trust Fortinet to protect their businessesbrbrstrongstrongWe are committed to providing reasonable accommodations for all qualified individuals with disabilities If you require assistance or accommodation due to a disability please contact us at accommadationsfortinetcombrbrstrongstrongFortinet is an equal opportunity employer We value diversity in our company and all qualified applicants will receive consideration for employment without regard to race color religion sex sexual orientation gender identity national origin or any other applicable legally protected characteristics in the location in which the candidate is applyingbrbrstrong",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T04:40:41.000Z"
+  },
+  "company": {
+    "name": "Fortinet",
+    "link": "https://www.linkedin.com/company/fortinet"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Principal"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 108000,
+    "max_value": 189000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

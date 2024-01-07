@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Front-End",
+    "industry": "Computer Software",
+    "description": "pAt Styra we are creating a new category of services designed to help businesses take control of their cloud operations We empower people and software to make reliable authorization decisions in dynamic complex and largescale environments with tools that provide direct realtime visibility and control over applications and infrastructure Styra is the company behind the extremely fastgrowing Open Policy Agent OPA open source project  we deliver industryleading SaaS software built on OPA for cloudnative environmentsppnbspppOur team is seeking an experienced FrontEnd Engineer with a proven track record of designing and delivering worldclass products You will be building new features on top of Styras stateoftheart cloudnative platform working on policy authoring and visualizations using NodejsReactReduxnbspppnbspppstrongWhat You Will DostrongppemIn this role you will work closely with the team toempulliImplement robust frontend solutions large and smallliliContribute to highlevel strategic discussionsliliOrganize large complex data for optimal benefitliliWork from design at various stages to polished elegant implementationsliliManage requirements and prioritiesliliImprove existing solutionsliulpbrppstrongWhat You Bring to the TeamstrongppemGreat candidates often have these qualificationsempulliBSCS MSCS or equivalent experiencelili5 years developing web browserbased applicationsliliA track record for taking features and products from concept to productionliliFluent in Nodejs React Redux ES6 HTML5 CSS3 and crossbrowser developmentliliExcellent communication and presentation skills both written and oral as well as exceptional listening skillsliulpnbspppstrongWhat We OfferstrongppemThese are a few highlights of the benefits and perks of working at StyraempulliCompetitive salary and stock optionsliliFull medical coverage health dental and visionlili401k program with matchliliFlexible vacation policyliliPaid parental leaveliliMonthly health and wellness stipendliliCan work remotely anywhere in the USliulpnbspppemWe at Styra recognize that people come with a wealth of experience and talent beyond just the requirements of a job If your experience is close to what you see listed here please still consider applying Diversity of experience and skills combined with passion is a key to innovation and excellence therefore we encourage people from all backgrounds to apply to positions Please let us know if you require accommodations during the interview processemp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T20:27:06.000Z"
+  },
+  "company": {
+    "name": "Styra",
+    "link": "https://www.linkedin.com/company/styra"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

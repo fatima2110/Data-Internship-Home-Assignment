@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist (100% remote)",
+    "industry": "Financial Services,Hospital &amp; Health Care,Management Consulting",
+    "description": "p100 REMOTE  available for direct hire or contract to hire through us here at Eliassen GroupppbrppWere looking for a highly skilled Natural Language Processing Data Scientist to support our innovative global client This is an excellent opportunity to work with worldclass analytics consultants to help a wide array of partner organizationsppbrppResponsibilities of the Data ScientistpulliDesign develop and implement solutions for NLP use cases leverage problems for AI NLP Computer Vision and SpeechliliCreate augment and maintain stateoftheart scalable NLP solutions in Python bonus points if you can understand JavaNET code to collaborate with development team we arent needing a full stack developer but we strive towards the best architectural design possibleliliInteract with internalexternal stakeholders to perform solution feasibility design and developmentrolloutliulpRequirements of the Data ScientistpulliBachelors degree and at least 3 years of Data ScienceNatural Language Processing NLP experiences with data exploration preprocessing and tuning NLPDeep learningliliAIMachine Learning experience Deep Learning working with various sources like MongoDB domain specific ontologies external databasesliliWork with our other Data Scientists to aid in enterpriselevelexternal analytical computing initiatives Scipy Pandas Numpy NLTK Scrapy Pattern sklearn scikitlearn DjangoFlask to improve Neural Networks Markov models Clustering Random Forests KMeans Gradient Boosting etcliulpJob ID 353283ppp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T20:49:42.000Z"
+  },
+  "company": {
+    "name": "Eliassen Group",
+    "link": "https://www.linkedin.com/company/eliassen-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Durham",
+    "region": "NC",
+    "postal_code": "27717",
+    "street_address": null,
+    "latitude": 35.99695,
+    "longitude": -78.899025
+  }
+}

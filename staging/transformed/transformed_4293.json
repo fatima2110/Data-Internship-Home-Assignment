@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "ulliMasters degree or PhD in Computer ScienceEngineering Machine Learning Mathematics Physics or equivalentlili4 years professional experience in ML and computer visionliliA knack for creativity and ability to formulate problems and solve them independentlyliliOutstanding skills in Machine Learning especially techniques such as Deep Neural Networks Random forest Gradient boosting Hyperparameter optimization techniques etcliliProficient skills in development of AIML applications through stateoftheart frameworks such as Keras TensorFlow and PyTorchliliKnowledge in programming skills in various languages eg Python C or Java with proficiency in PythonliliAn interest to constantly learn communicate interact share information and willingness to help othersliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T20:30:39.000Z"
+  },
+  "company": {
+    "name": "LanceSoft, Inc.",
+    "link": "https://www.linkedin.com/company/lancesoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Clara",
+    "region": "CA",
+    "postal_code": "95050",
+    "street_address": null,
+    "latitude": 37.352394,
+    "longitude": -121.95308
+  }
+}

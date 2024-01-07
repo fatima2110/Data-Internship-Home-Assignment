@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Email Integrations",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Youre a front end developer who knows a really good email when you see one If tags dont scare you wed love to chat Were looking for a team member to help us create personalized dynamic emails Your HTMLCSS virtuosity lets you explore the vast potential of translating static assets from our inhouse Design Studio into dynamic great looking interactive experiences across industriesbrbrstronguResponsibilitiesbrustrongul liCreate dynamic emails that work across email clients devices and browsersli liTranslate static assets from the Design Studio into logical programmaticli liGoLang HTML templatesli liConduct appropriate testing and document findingsli liBecome fluent with our internal frameworkli liWork and communicate well crossfunctionallyli brbrulstronguQualificationsbrustrongul liHTML and CSS expertise JavaScript and jQuery experience a plusli liExperience with Adobe CC Sketch experience is a plusli liA passion for new technologies unconventional thinking and pushing boundaries in email marketingli liGood analytical and problem solving skills when troubleshooting device and browser issues with attention to detailsli liAbility to work autonomously and effectively prioritize and execute tasksli brulWunderkind is proud to be an equal opportunity workplace We are committed to equal employment opportunity regardless of race color ancestry religion sex national origin sexual orientation age citizenship marital status disability gender identity or Veteran statusbrbrstrongJOIN US ON OUR MISSIONbrbrstrongWunderkind formerly BounceX is a leading performance marketing engine that delivers tailored experiences at scale Digital businesses use Wunderkind to remember who users are better than ever before allowing them to deliver highperforming onetoone messages on websites through emails and texts and in ads at a scale thats not otherwise possible Wunderkind drives 12 billion dollars annually in directly attributable revenue for top eCommerce brands like Uniqlo Sonos and HelloFresh often ranking as a top3 revenue channel in their own analytics Wunderkind is maniacally obsessed with ROI and aims to be the infrastructural interface between individuals and brands in a world where consumers choose what they want from whom and whenbrbrHaving raised over 449 million in funding from proven firms like Battery Ventures Cross Creek Advisors and Primary Ventures Wunderkind was named the Fastest Growing Software Company in America by Inc Magazine With headquarters in New York and London Wunderkind has been recognized by Glassdoor and Crains for its exceptional culture and being one of the top places to work in the country The company recently signed both the White House Equal Pay Pledge and the United Nations Womens Empowerment Pledge and continues to set the bar as a pioneer in technology innovation and workplace inclusion initiativesbrbrWhat bonds our community together is our commitment to 5 Core Valuesbrul liCome Hungryli liCarry Each Otherli liDrive Undeniable Performanceli liRespect People Privacy Ideasli liBounce Backli brulCome join us on our missionbrbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T01:43:56.000Z"
+  },
+  "company": {
+    "name": "Wunderkind (Formerly BounceX)",
+    "link": "https://www.linkedin.com/company/wunderkind-formerly-bouncex"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 70800,
+    "max_value": 121000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Indianapolis",
+    "region": "IN",
+    "postal_code": "46203",
+    "street_address": null,
+    "latitude": 39.76845,
+    "longitude": -86.15621
+  }
+}

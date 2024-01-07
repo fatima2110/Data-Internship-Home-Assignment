@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "pSentiLink is building the future of identity verification in the United StatesnbspThe existing ways to determine if somebody is who they claim to be are too clunky ineffective and expensive but we believe strongly that the future will be 10x betternbspppbrppWeve had tremendous traction and are growing extremely quicklynbspAlready our realtime APIs have helped verify hundreds of millions of identities beginning with financial servicesnbspWeve raised over 15M from investors including a16z Nyca partners and Max Levchin and current and former CEOsCROsCCOs of major US financial institutionsnbspWeve earned coverage and awards from CNBC Bloomberg Forbes Business Insider PYMNTS American Banker LendIt and othersnbspAnd weve even been a part of historywe were the first company to go live with thenbspeCBSVnbspand testified before thenbspUnited States House of RepresentativesppbrppAs a Data Scientist at SentiLink you will build our core products models that identify fraudsters You will work with teams across the company to research new types of fraud develop new products and provide analysis to drive sales and marketing This is a fullstack data science role involving model development analysis and writing production code You should be interested in having endtoend ownership and a fastmoving environment where deep domain understanding drives development and unusual insights drive our competitive advantage rather than optimization of new machine learning methodologiesppbrppTechnologies Python 3 PostgreSQL and AWS infrastructure EC2 S3 RDS Redshift etcppbrppbrppstrongResponsibilitiesstrongpulliDevelop and maintain SentiLinks fraud detection models through the full model development lifespan from data acquisition decisions through featurization focusing labeling resources model training experimentation productionalization and monitoringliliResearch new types of fraud and develop new SentiLink products around identity verificationliliWrite productionready code that can be relied on for realtime decision making by our partnersliliDesign perform and present analyses that will inform data acquisition product development risk operations priorities marketing and sales effortsliliWork with engineering risk operations and data acquisitions to access necessary data maintain data quality and support data accessliulpstrongRequirementsstrongpulli2 years relevant work experience and PhD or Masters in a technical field or 2 years additional relevant work experienceliliPeople who generate creative ideas that provide our competitive advantageliliInterest in developing deep domain expertise for productfocused work a background in fraud is not required but willingness to learn isliliAbility to design perform and present thoughtful statistical analysis with businesschanging implicationsliliExperience writing production code and testsliliUnderstanding of different machine learning models and their tradeoffsliliDetail oriented and thoughtful  someone we can rely on to make businesschanging decisionsliliAbility and desire to take initiative and follow projects through to completionliliBonus for familiarity with fintech or adjacent industries identity solutions distributed computing frameworks data engineering AWSliulpp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T19:06:33.000Z"
+  },
+  "company": {
+    "name": "SentiLink",
+    "link": "https://www.linkedin.com/company/sentilink"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

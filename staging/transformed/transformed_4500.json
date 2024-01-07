@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "pstrongGlobalSource ITstrong has a strongDirect Clientstrong in thestrong Chicago IL strongarea that is in the need of some strong strongMachine Learning Engineersstrong for their applications team They are a Microsoftbased shop and are looking to constantly improve upon their development efforts using TensorFlowKeras frameworks This role would look to work with the Data and Applications teams to help create data analysis solutions for customer data as well as best practices models for each area Other technologies would include Net Stack C Python SQL Azure HadoopNoSQL and data modeling These roles can be from Engineer to Architect level of experience They are also open to strong6 Month Contractsstrong or strongContract to Hirestrong options and are remote roles if not local to Chicago ppbrpulliMust have 3 years of experience in Machine Learning Engineers roles to create best practice Data ModelsAnalytic solutionsliliStrong experience with either TensorFlow or Keras frameworks for Machine LearningliliHandson work with Python R or C along with Net Stack applications for developmentliliAbility to work with multiple lines of business and data sets to create best practices or recommend best models for predictionforecasting effortsliulpbrppstrongem If youre interested in this opportunity please send your Updated Resume WORD and Expected Rate Remote to the attached email or jasonzglobalsourceitcom emstrongp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-11T15:30:56.000Z"
+  },
+  "company": {
+    "name": "GlobalSource IT",
+    "link": "https://www.linkedin.com/company/globalsource-it"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

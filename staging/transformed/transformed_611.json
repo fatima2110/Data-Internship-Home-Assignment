@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Financial Information eXchange (FIX) Engineer",
+    "industry": "Capital Markets,Banking,Financial Services",
+    "description": "pOptima is a fastgrowing IT software and services firm based in New Jersey which specializes in providing Financial Process Automation and IT Consulting Services to enterprise customers across North AmericanbspppbrppCurrently we are seeking a strongFIX Engineerstrong to join our client a fortune 500 financial services company on a strongfulltime permanent basisstrong Client is willing to sponsor the right candidateppbrppstrongResponsibilitiesstrongpulliAnalyze data processing problems for electronic data processing systems liliSupport and maintain FIX connections for electronic trading for Equities and rolling program for new client connections liliDirect support of FIX systems and Order Routing InfrastructureliliAnalyze and research new functionalitiesliliProvide management support for FIX infrastructure to identify problems before clients are affected Perform testing of QA environment for clients Liaise with vendors regarding FIX specifications and configurations supported Configure UAT FIX systems and complete tests liliCertify Configure and Support FIX connections to clients for the purpose of Electronic TradingliliTesting with Clients in UAT environment where needed Configure the UAT FIX systems and complete emergency testsliliAnalyze identify issues and coordinate resolution to production issuesliliEscalate issues when required to ensure timely resolution and track to closureliliAbility to handle stressful situations and be able to multitaskliliConsistently demonstrates integrity fairness and professional conductliliAttentive to controls and addresses riskliliLiaise with external Order Management System OMS vendors Network Vendors and Electronic Trading Desk to ensure priorities are defined and issues are tracked liliSupport all DMA and Algorithmic trading flow across multiple asset classesliliWork closely with Business external clientvendor network and dev teamsnbspliliWeekend work will be required on need basis liulpbrppstrongSkills RequiredstrongpulliStrong FIX SQL Unix PythonPerl Scripting Automation experienceliliSQL UNIX and any scripting skillsliliGood knowledge on incident reports and problem managementliliUser training troubleshooting development of support procedures system testing and implementationliliExposure and experience with automation tools like Ayehu liliKnowledge and experience with Python Perlliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T18:33:02.000Z"
+  },
+  "company": {
+    "name": " Optima Global Solutions Inc.",
+    "link": "https://www.linkedin.com/company/optima-global-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

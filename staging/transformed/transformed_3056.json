@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "strongModern HealthbrbrstrongModern Health is a mental health benefits platform for employers We are the first solution to cover the full spectrum of mental wellbeing needs through both evidencebased digital content and professional support from a global network of certified coaches or therapists all in one comprehensive app Whether someone wants to proactively manage stress or treat depression Modern Health guides people to the right care at the right time We empower companies to help emall of emtheir employees be the best version of themselves and believe in meeting people wherever they are in their mental health journeybrbrWe are a femalefounded company backed by investors like Kleiner Perkins Founders Fund John Doerr Y Combinator and Battery Ventures We partner with 220 global companies like Lyft SoFi Pixar Gusto Okta and Udemy that are taking a proactive approach to mental health care for their employees Modern Health has raised more than 170 million in less than two years with a valuation of 117 billion making Modern Health the fastest entirely femalefounded company in the US to reach unicorn status We are looking for driven creative and passionate individuals to join in our missionbrbrIn 2020 we tripled our employee headcount doubled our customer base and grew our revenue 10x As a hypergrowth company we have maintained our peoplefirst culture winning awards including Fortunes Best Workplaces in the Bay Area 2021 and maintaining an employee retention rate of 9997 and an overall Glassdoor rating of 49 out of 5brbrAn inclusive and diverse culture are key components of mental wellbeing in the workplace and that starts with how we build our own team If youre excited about this role wed love to hear from youbrbrThe RolebrbrModern Healths data team is growing rapidly and were looking to bring on a data scientist to help improve our members experience Were looking for someone who can bring handson experience developing production machine learning models to help build the first and second generations of MLpowered products to drive member engagement and outcomes Youll be joining a small data science team and be heavily involved in shaping the teams direction and growthbrbrIn this role youll dive deep into three main areas triage provider matching and content recommendation Youll use our members activity and outcome data to understand whether members are a better fit for therapy 11 coaching or digital programs  selfguided courses Youll work with product teams to collect information for making smart recommendations about which therapists and coaches will be the best fit for members And youll build on our engagement data to build recommender systems for digital content and eventsbrbrThis role will report to the Data Engineering Manager and is not eligible to be performed in Colorado or Hawaii Bay Area preferredem brbremstronguWhat Youll Dobrustrongul liBe a handson contributor building and shipping ML modelsli liPartner with product operations and clinical care teams to understand user journeys and recommend product improvementsli liCollaborate with infrastructure backend and data engineers to scope and design our ML platform  infrastructureli liPartner with engineering leadership to develop a technical vision amp roadmap for how Modern Health will apply ML to our business problemsli liHelp grow the ML teams size and scope defining best practices and operating principlesli liReview other data scientists code and results to develop a culture of feedback and integrityli liFoster a strong datadriven culture across Modern Health from experimental design to rigorous decisionmakingli brbrulstronguWho You Arebrustrongul li2 years of experience building and shipping statistical models in a production settingbrul liYou are comfortable writing Python and using standard libraries like numpy and sklearnli liYouve worked in cloud environments preferably AWSli ul li liYou have exceptional verbal and written communication skills You should be able to explain your approach and the impact of your work to nontechnical stakeholders in a way that is clear to themli liYou have a strong product acumen and and are comfortable interacting with customers directly when neededli liYou have the ability to balance business needs a sense of urgency and shipping high quality and pragmatic solutionsli liYou keep up with the industry trends and identify new tools to use to solve technical problemsli brbrulstronguBonus Points If You Have Experience Inbrustrongul liWorking at a high growth startupli liWorking on SaaS softwareli liWorking in Health Techli liWorking at companies that have a global presence eg infrastructure deployed in multiple geographiesli liWorking on recommendation systemsli brbrulstronguBenefitsbrustrongul li100 coverage for Medical  Dental  Vision li liStipend towards mental health benefitsli li401k plan li liFlexible PTO li liPassionate team dedicated to making a positive impactli liGenerous parental leave policyli liUnlimited career growth opportunityliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T05:17:25.000Z"
+  },
+  "company": {
+    "name": "Modern Health",
+    "link": "https://www.linkedin.com/company/modern-health"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

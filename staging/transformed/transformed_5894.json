@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "HRIS Security &amp; Data Maintenance Analyst",
+    "industry": "Hospital &amp; Health Care",
+    "description": "pstronguABOUT USustrongppAs the leader of rehabilitative care Encompass Health offers both facilitybased and homebased patient care through its national network of rehabilitation hospitals home health agencies and hospice agencies that spans 42 states and Puerto Rico Setting the standard for providing excellent care Encompass Health has earned its place among Modern Healthcares Best Places to Work in Healthcare and the Fortune Worlds Most Admired Companies for 2021ppbrppstronguPOSITION PURPOSEustrongppThenbspstrongHRIS Security amp Data Maintenance Analyststrongnbspplays an integral role in HR Systems security definition and is responsible for defining setting up maintaining and accurately documenting security access for all HR systems The HRIS Security amp Data Maintenance Analyst also oversees application support including table setup and maintenance data integrity and auditing of data Additionally this role will assist with the overall administrative support of existing HR systems including upgrades conversions and problem resolutionppbrppstronguRESPONSIBILITES amp TASKSustrongppSECURITY amp AUDITSpulliDefines and sets up security roles and permissions for HR SystemsliliDefines and maintains dynamic role and permission assignment for auto provisioning and deprovisioningliliCreates and maintains a crosswalk that outlines role permissions and assigned titlesliliCreates queriesreports that extract role definitions and permissions for auditing purposesliliActs as security administrator by processing access requests to HR applications and systemsliliEnsures appropriate approvals are received for any ad hoc requestsliliServes as the SME that partners with various business areas to provide guidance on best practices and current HR security protocolsliliPerforms periodic audits of HR system user securityaccessliliValidates current company structure against employee job movement to maintain continuous access accuracyliliLooks for opportunities to increase efficiencies for common requestsliliSupports employeesend users with HR system access issuesliliAdheres to departments SLA for processing requestsliulpbrppTABLE MAINTENANCE UPLOADS amp DATA INTEGRITY AUDITSpulliResponsible for mass data uploads coordinating with HR contacts to ensure accuracy in the processliliPerforms data structure and integrity audits on employee data mass upload requestsliliSeeks to minimize errors and determine impacts to downstream systemsprocesses as well as impacts to employees due to requested changesmovementliliUpdates system fields and tables associated with business changes and operationsliliMaintains tables and security changes within HR SystemsliliProactively utilizes PeopleSoft Query OBI Reporting or SQL tools to identify data integrity issuesliliDetermines the appropriate approach to ensure employee and company structure data elements are updated correctlyliliConducts data audits to identify potential noncompliance Ie personal data auditsduplicate NID DOB out of guidelinesliliPartners with internal audit to research and analyze potential data discrepanciesliliPartners with ITG to implement automated access audit processesliliParticipates in new projects through testingimplementation as it relates to access and securityliliCompletes mandatory training and courses required by completion dateliliReports questionable situations concerns complaints or harassment immediatelyliliConducts audits of system process completions and reports out to business owners ie Onboarding not completeliliAdministers duplicate processing in ATS and other HR systemsliliEnsures compliance regarding HR information sharing management organization hierarchy determination retrieval accessibility dissemination sharing and quality controlliulpbrppstronguQualificationsustrongppMinimum QualificationspulliBachelors degree preferred Associates degree with 4 years of related experience may be substituted for Bachelors degreeliliFour or more years of experience required in related field ie Human Resources Operations HRIS HR Technology IT etcliliStrong knowledge of Microsoft Word Excel and PowerPoint Advanced Excel skills preferred Strong analytic and diagnostic skills as well as a datadriven and metricsdriven approachliliMinimum 3 years of experience with PeopleSoft version 92 or higher preferredliliExperience with workflow analysis business process analysis finding improvement areas and use of business modeling toolsliliExperience with security and auditing processesliulpbrppMachines Equipment UsedpulliGeneral office equipment such as computerlaptop telephone copyfax machine calculator scanner etcliliMicrosoft Office software to include Outlook Word PowerPoint and ExcelliulpbrppPhysical RequirementspulliVisual acuity speech recognition speech clarityliliAbility to lift lower push pull and retrieve objects weighing a minimum of 15 pounds Reasonable assistance may be requested when lifting pushing andor pulling exceeds these minimum requirementsliulpbrppSkills and AbilitiespulliOral communication written communication fluency in English active listeningliliInformation ordering deductive reasoning social perceptiveness time management critical thinkingliliAbility to coordinate analyze observe make decisions and meet deadlines in a detailoriented mannerliliAbility to work independently without continuous supervisionliliAbility to understand and react quickly to changing prioritiesliliDemonstrated accuracy and thoroughness while meeting customer needs in a timely mannerliulpbrppEnvironmental ConditionspulliIndoor temperature controlled smokefree environmentliliHandicapped accessibleliliMay work under stressful circumstances at timesliulpbrppProficiency or Productivity StandardspulliHas regular reliable and predictable attendance and punctualityliliAdheres to dress code including wearing ID badgeliliAdheres to Standards of Business ConductliliMay be required to work weekdays andor weekends evenings andor night shifts if needed to meet deadlinesliliMay be required to work on religious andor legal holidays on scheduled daysshiftsliliMay be required to perform other duties as assigned by supervisorliliThis position will support cultural diversity by promoting and maintaining an inclusive work environment and culture that is respectful and accepting of diversityliulpp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:45:15.000Z"
+  },
+  "company": {
+    "name": "Encompass Health",
+    "link": "https://www.linkedin.com/company/encompasshealth"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Birmingham",
+    "region": "AL",
+    "postal_code": "35226",
+    "street_address": null,
+    "latitude": 33.522858,
+    "longitude": -86.80771
+  }
+}

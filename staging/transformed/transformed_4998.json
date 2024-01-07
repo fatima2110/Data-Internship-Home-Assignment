@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Embedded Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Computer Networking",
+    "description": "Job Title strongSenior Embedded Software EngineerbrbrstrongLocation strongMountain View CAbrbrstrongDuration strongFull time  Long Term ContractbrbrstrongstronguRequired SkillsbrbrustrongVery experienced with embedded systemsbrulli Being able to design and develop software that works well in resource constrained environments CPU battery networking memory etclili Familiar with work closer to the hardwarebrliulBeing a generalist with firmware and embedded workbrulli Have a wider breath of expertiselili Be ready for ongoing changes and innovationlili No specific single platform eg chipset or specific RTOS is required but the ability to quickly learn and a solid engineering foundationbrliulExperience with RTOSbrbrExcellent software engineering skillsbrulli Not just hacking code together but writing rock solid softwarelili Creating readable maintainable and extensible codelili Understand secure codebrliulExcellent software design skillsbrulli Plan before codinglili Creating good software design documentslili Being able to collaboratively improve designs together with stakeholdersbrliulSolid understanding ofbrulli Multithreadinglili Concurrencylili ReentrancebrliulC programming at very solid levelbrbrstronguPreferred Bonus Skillsbrustrongulli Strong expertise in communication protocolslili Custom protocols on top of TCPIP Bluetooth WiFi or similarlili Designing or extending protocolslili Debugging and testing communicationlili Experience with lossy communication making communication robustlili Experience with test automation for embedded systemslili Experience with code refactoringlili Experience with baremetal embedded systemslili Experience with realtime embedded Linux OSlili Experience with IoT sensorslili C programming at solid levelbrliulstrongYou can also apply via stronghttpjobdinfoidfiLKOEbrbrstronguRecruiter DetailsbrbrustrongstrongPraveen Raobrbrstrong302 2140551brbrpraveenusfalconsmartitcombrbrFind all current job openings at our Career PagebrbrhttpswwwfalconsmartitcomFalconCareerhtmlbrbrFollow us on LinkedIn for Job Opportunitiesbrbrhttpswwwlinkedincomcompanyfalconsmartit",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:42:25.000Z"
+  },
+  "company": {
+    "name": "Falcon Smart IT (FalconSmartIT)",
+    "link": "https://uk.linkedin.com/company/falconsmartit"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dover",
+    "region": "DE",
+    "postal_code": "19901",
+    "street_address": null,
+    "latitude": 39.15883,
+    "longitude": -75.52114
+  }
+}

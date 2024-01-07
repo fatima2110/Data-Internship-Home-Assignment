@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Full Stack Software Engineer - Apple Media Products, Apps",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brThe Apple Media Products Engineering team is one of the most exciting examples of Apples longheld passion for combining art and technology These are the people who power the App Store Apple TV Apple Music Apple Podcasts and Apple Books And they do it on a massive scale meeting Apples high expectations with high performance to deliver a huge variety of entertainment in over 35 languages to more than 150 countriesbrbrbrThese engineers build secure endtoend solutions They develop the custom software used to process all the creative work the tools that providers use to deliver that media all the serverside systems and the APIs for many Apple servicesbrbrbrThanks to Apples unique integration of hardware software and services engineers here partner to get behind a single unified vision That vision always includes a deep commitment to strengthening Apples privacy policy one of Apples core values Although services are a bigger part of Apples business than ever before these teams remain small nimble and crossfunctional offering greater exposure to the array of opportunities herebrbr brstrongKey Qualificationsbrstrong brStrong programming and debugging skills in JavabrbrJavaScriptReact for front end developmentbrbrPython TensorFlowPyTorchKeras for application of ML modelsbrbrKnowledge of Swift or ObjectiveC a bonus but not requiredbrbrExperience in building consumerfacing singlepage applications in JavaScript ES6 HTMLCSSbrbrExperience with developing rich interactive and wellperforming user interfaces using frameworks like ReactbrbrWorking experience with RDBMSampNoSQL technologies like PostgreSQLCassandrabrbrDocker and Kubernetes for internal cloud infrastructurebrbrExcellent writing and interpersonal skillsbrbrbrWe dont expect prior experience with all the technologies involved but you will be encouraged to learn to use them optimallybrbrbrYou will work together with Server ML and client engineers owning all the components of our stack operations and product teams to implement infrastructure and add product features vital for our effortsbrbr brstrongDescriptionbrstrong brWe are looking for a full stack engineer to solve challenging problems for App Store review This role will be responsible for developing software to deploy ML models analyze apps submitted to the App Store and visualize the output Your efforts in the team will help ensure the quality of apps in the store and will benefit millions of customers You will be expected to help integrate models implement software and infrastructure that will run them and process their output Creative engineers will benefit from the chance to convert forward thinking ideas all the way from prototype to final product with the help of a great engineering and infrastructure teambrbrbrDay to day duties but not limited tobrbrDesign implement and evolve web applicationsbrbrBuild a flexible ML service platform that can be easily customized toward different use casesbrbrCollaborate with multifunctional teams of engineers data analytics Machine Learning specialists and products to build new featuresbrbr brstrongEducation amp Experiencebrstrong brBS in Computer Science or equivalent work experiencebrbrMS or PhD in computer vision machine learning computer science a bonusbrbrWe are an equal opportunity employer and value diversity at our company We do not discriminate on the basis of race religion color national origin gender sexual orientation age marital status veteran status or disability statusbrbr brRole Number 200195505brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:34:48.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

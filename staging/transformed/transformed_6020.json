@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, New Grad (Backend, Full-stack, &amp; ML)",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "strongAt Instabasestrong were passionate about building software to advance the state of the art in computing Weve built a fearlessly experimental customerobsessed team who are making discoveries to fundamentally change how people build and consume business applicationsbrbrToday were partnering with the worlds leading companies to transform how they use data and technology If these challenges excite you wed love to hear from youbrbrstrongOur Engineering Teamstrong architects the underlying operating system core services platform infrastructure dev toolkits core algorithms machine learning models packaged enduser apps and app store marketplace Instabase engineers are excited to solve hard problems for complex organizations and are selfstarters from day onebrbrstrongOur Tech Stackstrong is React and Typescript on the frontend Our product and infrastructure is written in Go Python Java and C We operate using the microservices model and leverage Docker and Kubernetes for our deploymentsbrbrstrongWere hiring across all teams and technical areas strongThis includes Frontend ProductFullStack Systems Infrastructure Machine Learning and AIbrbrInterested in learning more Explore the strongInstabasestrong strongproductstrong and read about the strongIntern experience strongherestrongstrong",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T05:12:48.000Z"
+  },
+  "company": {
+    "name": "Instabase",
+    "link": "https://www.linkedin.com/company/instabase"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

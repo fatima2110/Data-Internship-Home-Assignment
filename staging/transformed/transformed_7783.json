@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "stronguDescriptionbrbrustrongAmazon Science gives you insight into the companys approach to customerobsessed scientific innovation Amazon fundamentally believes that scientific innovation is essential to being the most customercentric company in the world Its the companys ability to have an impact at scale that allows us to attract some of the brightest minds in artificial intelligence and related fields Our scientists continue to publish teach and engage with the academic community in addition to utilizing our working backwards method to enrich the way we live and workbrbrPlease visit httpswwwamazonscience for more informationbrbrAmazon has built a reputation for excellence with recent examples of being named the 1 most trusted company for customers To deliver on this reputation for trust the Seller Partner Abuse team is tasked with identifying and preventing abuse for our customers and brand owners worldwidebrbrSeller Partner Abuse is seeking an innovative resultsoriented customercentric data scientist to drive expansion of innovative ML products globally in the Risk space As a Data Scientist you will be responsible for modeling complex problems discovering insights and identifying opportunities through the use of statistical machine learning algorithmic data mining and visualization techniques You will need to collaborate effectively with internal stakeholders and crossfunctional teams to solve problems create operational efficiencies and deliver successfully against high organizational standards The candidate should be able to apply a breadth of tools data sources and analytical techniques to answer a wide range of highimpact business questions and present the insights in concise and effective manner Additionally the candidate should be an effective communicator capable of independently driving issues to resolution and communicating insights to nontechnical audiences This is a high impact role with goals that directly impacts the bottom line of the businessbrbrstronguResponsibilitiesbrustrongulli Use predictive analytics and machine learning techniques to solve complex problems and drive business decisionslili Employ the appropriate algorithms to discover patterns of risks and prevent abuselili Design experiments test hypotheses and build actionable models to optimize SPA policies and operationslili Solve analytical problems and effectively communicate methodologies and results both in writing and verballili Build predict models to forecast risks for product launches and help predict workflow and capacity requirements for SPAlili Draw inferences and conclusions and create dashboards and visualizations of processed data identify trends anomalieslili Work closely with internal stakeholders such as business teams engineering teams and partner teams and align them with respect to your focus areabrliulAmazoncom is an Equal OpportunityAffirmative Action Employer  Minority  Female  Disability  Veteran  Gender Identity  Sexual OrientationbrbrbrstronguBasic Qualificationsbrustrongulli 3 years of experience with data scripting languages eg SQL Python R etc or statisticalmathematical software eg R SAS or Matlablili 2 years working as a Data Scientistlili Masters Degree in any quantitative discipline such as Statistics Mathematics Quantitative Finance computer science or Operational Researhlili 4 years of experience working in Analytics  Business Intelligence environmentlili 4 years professional experience in modeling and statistical analysis of large data setslili Proven experience in working with databases and SQL in a business environmentlili Demonstrated use of analytical packages and query languages such as SAS SPSS and SQLlili Proven experience in design and execution of analytical projectslili Demonstrated experience working in large scale data bases and data warehouseslili Track record of developing and implementing models using programming and scripting Java Python R Ruby CC or MatlabbrliulstronguPreferred Qualificationsbrustrongulli Experienceknowledge of advanced machine learning techniques such as GBM random forest etclili Experience in ecommerce  online companies in fraud  risk control functionslili Coding skills in one of the modern languages Java Python Scala Rlili Experience with visualization technologies such as Tableaulili Experience in statistical techniques such as classification clustering regression statistical inference collaborative filtering and natural language processing experimental design social networking analysis feature engineering etclili Compelling communication and influencing skills and participation in winning the support of management and influence the course of major strategic decisionsbrbrliulstrongCompanystrong  Amazoncom Services LLCbrbrJob ID A1739673",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T12:04:47.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

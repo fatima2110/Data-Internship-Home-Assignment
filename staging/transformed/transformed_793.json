@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Hospital &amp; Health Care",
+    "description": "Abbott is a global healthcare leader that helps people live more fully at all stages of life Our portfolio of lifechanging technologies spans the spectrum of healthcare with leading businesses and products in diagnostics medical devices nutritionals and branded generic medicines Our 109000 colleagues serve people in more than 160 countriesbrbrA healthy heart is essential to good health Thats why were committed to advancing treatments for people with cardiovascular disease As a global leader in Cardiac Rhythm Technologies our breakthrough medical technologies help restore peoples health so they can get back to living their best lives faster We focus on innovative technologies that can improve the way doctors treat people with heart arrhythmias or irregular heartbeatsbrbrOur location instrong uSunnyvale CA or Sylmarustrongstrongu CAustronguu currently has an opportunity for a stronguSoftware Engineer IustrongbrbrContribute to the design and development of software across Android and iOS mobile applications under a disciplined product development process that meets Abbott quality and appropriate regulatory agency requirementsbrbrstronguWhat Youll DobrustrongulliWork on software design coding and unit testing software supporting verification and validation testing and ensuring that all product development conforms to design specifications and coding standards for medical devicesliliExercise judgment in coding following the software requirements designs and conducting investigation activities following defined methodsliliDesign and implement software in current programming languages such as C and Java Demonstrate good understanding of objectoriented programming and put objectoriented programming principles in practiceliliAssist in the preparation of software design requirements and detailed design specifications for implementation of software designs per Abbott design development processliliAssist in the evaluation of selected designs through testing and full documentation of the resultsliliWork on problems of moderate scope where analysis of situations or data requires evaluation of identifiable factorsliliExercise judgment within defined procedures and practices to determine appropriate actionliliComplies with US Food and Drug Administration FDA regulations other regulatory requirements Company policies operating procedures processes and task assignments Maintains positive and cooperative communications and collaboration with all levels of employees customers contractors and vendorsbrliulstronguRequiredbrbrustrongstrongEDUCATION AND EXPERIENCE YOULL BRINGbrstrongulliBachelors degree in an Engineering discipline Computer Science or related engineering field or an equivalent combination of education and work experienceliliMinimum 6 months in software development combination of programmingheavy coursework school projects freelance work and professional experiencebrliulstronguWhat We OfferbrbrustrongAt Abbott you can have a good job that can grow into a great career We offerbrulliTraining and career development with onboarding programs for new employees and tuition assistanceliliFinancial security through competitive compensation incentives and retirement plansliliHealth care and wellbeing programs including medical dental vision wellness and occupational health programsliliPaid time offlili401k retirement savings with a generous company matchliliThe stability of a company with a record of strong financial performance and history of being actively involved in local communitiesbrliulstrongLearn more about our benefits that add real value to your life to help you live fully strongwwwabbottbenefitscombrbrFollow your career aspirations to Abbott for diverse opportunities with a company that provides the growth and strength to build your future Abbott is an Equal Opportunity Employer committed to employee diversitybrbrConnect with us at wwwabbottcom on Facebook at wwwfacebookcomAbbott and on Twitter AbbottNews and AbbottGlobal",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Abbott",
+    "link": "https://www.linkedin.com/company/abbott-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 6,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 70300,
+    "max_value": 136000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

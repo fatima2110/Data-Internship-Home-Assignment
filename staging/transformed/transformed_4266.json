@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "Job Title Software EngineerbrLocation Orlando FLbrDuration 12 MonthsbrbrThe RolebrWe are seeking software engineers in Orlando as part of a core team developing DirectXDirect3D drivers for desktoplaptop systems This team is essential to the success of as a growing company You will be working with the very best in our technology on some of the most exciting projects the industry has to offer including Cloud Gaming Machine Learning Virtual Reality Ray Tracing Direct3D 12 and new game titlesbrbrThe PersonbrGood communication skills and an ability to communicate well with teams around the globebrAbility to work independently and as part of a teambrPassionate about learning good software engineering problem solving and new technologiesbrbrKey ResponsibilitiesbrThe development debugging and performance tuning of graphics software running on Microsoft WindowsbrCollaborating with ASIC design engineers and hardwaresoftware architects OS engineers and peers in related development teamsbrThe ability to debug low level hardware and operating system functionality is desiredbrbrPreferred ExperiencebrExcellent CC programming skillsbrExperience programming and optimizing gamesbrKnowledge of computer hardware architecture and organizationbrExperience with Virtualization technologiesbrExperience with Linux and Windows OSbr3D Graphics API knowledge and experience D3D or Vulkanbr3D graphics driver knowledge and experiencebrWindows development experiencebrOS and performance knowledge and experiencebrExperience with multithreading and concurrent programmingbrFamiliarity with performance analysis toolsbrbrAcademic CredentialsbrBS Degree MS or PhD desiredbr",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-17T16:06:58.000Z"
+  },
+  "company": {
+    "name": "Mindlance",
+    "link": "https://www.linkedin.com/company/mindlance"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Orlando",
+    "region": "FL",
+    "postal_code": "32889",
+    "street_address": null,
+    "latitude": 28.53833,
+    "longitude": -81.378876
+  }
+}

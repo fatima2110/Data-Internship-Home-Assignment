@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Software Engineer for Cloud Native Development",
+    "industry": "Computer Software",
+    "description": "pstrongPrincipal Software Engineer for Cloud Native Development at CRIOstrongppbrppstrongClinical Research IO CRIOstrong aims to transform and streamline the process of clinical trials replacing the traditional paperbased manual workflows with a SAAS solution that improves efficiency and reduces errornbspOur business operates at the intersection of healthcare and lifescience researchnbspOur customers include clinical research sites hospitals biotech and pharmanbspWe have developed an enterprise solution for research investigators and we are embarking on building a platform for biotech and pharma sponsors We provide value to our customers in this highly regulated industry by capturing data that is clean and accurate eliminating expensive human intervention and making research data available in realtimeppbrppWere looking to expand our engineering teamppbrppAs the lead on an agile team and a senior member of the engineering organization youll be working in an exciting environment where youll have the opportunity to work closely with our product delivery teams as we deliver enhancements and build new products in an industry with a mission to improve the quality of human lifenbspYoull be leading a technical team that owns the technical foundations that support our product delivery teamsnbspYour team creates tooling builds out infrastructure assists with performance engineering and keeps our platform secureppbrppstrongAbout UsstrongppbrppWe are a small fastgrowing company with a strong team of developers a loyal customer base and a highly regarded brandnbspOur company culture emphasizes trust teamwork collaboration learning career growth and funnbspIn our streamlined environment nobody is just a developernbspEach of us wears many hats gets to know our customers and business and has opportunities to contribute broadly to the company missionnbspOur people are our most important asset and we build our team carefully to maintain the values of our cultureppbrppstrongAbout YoustrongppbrppYou are an expert in building and delivering cloud native softwarenbspYou are highly competent in DevOps performance engineering security concerns and all aspects of modern cloud developmentnbspYou write well designed and reusable codenbspYou care deeply about your craft and you are eager to provide technical leadership and mentorship to your junior team membersnbspYou arent bound by specific tools and technology and you feel confident picking up whatever skills youll need to get the job donenbspYou are a good communicator and you support your position with facts while maintaining an ability to compromise when necessarynbspYou are committed to best practices and you take personal ownership of the quality of your productnbspYou enjoy collaboration and thrive in a team environment where everyone is working towards a common goalnbspYou enjoy getting to know your team on a personal level and you love finding ways to have fun while doing your jobppbrppstrongResponsibilitiesstrongppbrpulliBe a key contributor as well as a team and technical leaderliliWork on a team that owns the technical foundations that support our product delivery teamsliliDeliver new SAAS products and functionality hosted in the cloudliliProvide strong design and architectural influence to our infrastructure developmentliliWrite code and work on tooling related to CICD and other areasliliContribute to performance tuning and engineering of systems and codeliliMentor junior members of the team on best practices design architecture and developmentliliLead design review sessionsliliStay current with industry trends and bring the best of these into our engineering practicesliulpbrppstrongTechnical Skillsstrongppbrpulli7 years delivering cloudhosted SAAS applicationsliliExtensive experience with Docker and KubernetesliliExtensive experience maintaining a CICD environmentliliUnderstanding of scalability performance and security concerns and strategiesliliComprehensive understanding of computer science conceptsliliProven ability to design extensible and maintainable softwareliulpbrppstrongLeadership Skillsstrongppstrongspan classqlcursorspanstrongpulliAbility to lead while contributing as part of a collaborative agile teamliliExcellent written and verbal communication skillsliliAbility to influence team stakeholders and leadership as neededliliStrong focus on team effectiveness results and customer successliliSelfmotivated and proactive in terms of identifying and resolving problemsliliPassionate about technology and staying current with industry trendsliliNatural tendency towards continuous improvement for self and teamliulpbrppstrongNice to HavestrongppbrpulliExperience with Java web technologies including Spring Boot as well as older MVC frameworksliliExperience with healthcare or life science industriesliliExperience with 21CFR11 HIPAA and GDPR regulatory conformanceliliExperience with open source technologiesliulpbrppstrongLocationsstrongppFully remote employment is an optionppbrppWe also have offices located inpp\tBoston MApp\tSeattle WAppp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:18:19.000Z"
+  },
+  "company": {
+    "name": "Clinical Research IO",
+    "link": "https://www.linkedin.com/company/clinical-research-io"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": "Principal"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

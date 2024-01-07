@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Commercial Real Estate,Computer Software",
+    "description": "Berkadia a joint venture of Berkshire Hathaway and Jefferies Financial Group is a leader in the commercial real estate industry offering a robust suite of services to our multifamily and commercial property clients Powered by deep relationships and industrychanging technology our people sell finance and service commercial real estate providing support for the entire life cycle of our clients assets Our unique ownership structure allows us to put the clients interests first and creates a marketplace that delivers a superior experiencebrbrstrongSoftware EngineerbrbrstrongstrongMEAN  Full Stack brbrstrongstronguPosition SummarybrbrustrongThe Software Engineer will provide technical leadership within team responsible for architecting adapting and implementing software solutions that support enterprisewide business strategies and objectivesbrbrstronguResponsibilitiesbrustrongul liAnalyze requirements and collaborate with the product owners team members and architects to design and implement solutionsli liUse TDD practices to build and test code to validate functionality against requirements and to ensure quality softwareli liDocument designs and code to the right level to accurately estimate complexity and time in an agile fashionli liIterate through incremental software development lifecycle wherein priorities requirements and scope evolve sometimes rapidly over time and often midproject be agileli liDemonstrate selfdevelopment by staying current with new technology and design patternsli liOther duties as assignedli brbrulstronguQualificationsbrustrongul liDevelopment using MEAN OR MERN stack with Reactjs Angular 70 and a Node backend li liAn understanding of developing software both frontends and backend and an understanding of software development practices in an enterprise environmentli liExperience using difference SaaS technologiesstacksmodules and understanding of which are best when implementing RESTful microservices with an emphasis on latest NodeExpress and unit testing using MochaChaili liExperience using different JavaScript frontend frameworkstoolslibraries with an emphasis on latest Angularli liPassionate about developing quality products that exceed users expectationsli liUnderstanding of development best practices including TDD CICDli liExcellent interpersonal verbal and written communication skills as well as strong logical analytical problem solving skills and reporting skillsli liBachelors Degree in Computer Science or equivalent industry experienceli brbrulstronguEmployee Benefitsbrustrongul li18 PTO days  2 floating holidays amp 10 paid holidays per yearli liGenerous tuition reimbursement towards a Masters or Bachelors degreeli li12 weeks of 100 paid paternitymaternity leaveli liMentorship with industry professionalsli brbrulApplicants who require accommodations to participate in the interview process should contact the Talent Acquisition Team to arrange for such accommodations by emailing TalentAcquisitionBerkadiacombrbrBerkadia does not share salary ranges in its job postings Any salaryrelated information you see posted externally has not been provided or verified by Berkadia and may not be accuratebrbrBerkadia is an equal opportunity employer and affords equal opportunity to all applicants and employees for all positions without regard to race color religion gender national origin age disability veteran status or any other status protected under local state or federal lawsbrbrBy applying to this job opportunity you are acknowledging Berkadias Privacy Policy Applicants have rights under Federal Employment Laws Please click the following links for more information EEOC Employee Rights under the FMLA EPPAbrbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T01:51:28.000Z"
+  },
+  "company": {
+    "name": "Berkadia",
+    "link": "https://www.linkedin.com/company/berkadia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 61300,
+    "max_value": 116000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Midvale",
+    "region": "UT",
+    "postal_code": "84047",
+    "street_address": null,
+    "latitude": 40.610794,
+    "longitude": -111.90804
+  }
+}

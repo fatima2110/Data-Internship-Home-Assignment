@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Software Engineer",
+    "industry": "Information Technology and Services,Telecommunications",
+    "description": "stronguAbout NokiabrbrustrongAt Nokia we create technology that helps the world act togetherbrbrAs a trusted partner for critical networks we are committed to innovation and technology leadership across mobile fixed and cloud networks We create value with intellectual property and longterm research led by the awardwinning Nokia Bell LabsbrAdhering to the highest standards of integrity and security we help build the capabilities needed for a more productive sustainable and inclusive worldbrbrWatch our video to discover how we create meaningful interactions to drive human progressbrbrstronguAbout Network InfrastructurebrbrustrongThe mission of the Network Infrastructure NI Business Group is to be the most trusted partner for the worlds most critical network infrastructure NI will respond to the everincreasing demand for networks with higher capacity greater reliability faster speeds and lower costsbrbrstronguAbout Nuage NetworksbrbrustrongAt Nuage Networks we shape the transformation of Enterprise and Telecommunications networks through Software Defined Networking SDNbrbrstronguJob Position DescriptionbrbrustrongThe candidate will be responsible for full life cycle development of features associated with future releases of the Nuage VNS SDWAN solutionbrbrstronguJob Responsibilities amp Competenciesbrustrongulli Contribute to all phases of software development from requirements gathering through implementation and maintainancelili Participate in defining requirements with product managementlili Design and develop complex modules of embedded codelili Troubleshoot and resolve defectslili Support QA validation and customer support teamslili Solid experience in Software Design and Development on Linux BSD or VxWorkslili Solid understanding of Computer Networking conceptslili Solid programming experience in C C Pythonlili Background in Layer 2 or Layer 3 VPN technologies BGP VPLS IPVPN mVPNlili Experience with Virtualized Switching Products such as OpenVswitch or Nexus 1000v and Server Virtualization expertise with KVM Xen or Vmware ESXi is a huge plusbrliulstronguQualifications Education Technical SkillsKnowledgebrustrongulli BS in Computer Science or equivalent with 610 years of experience or MS in Computer Science or equivalent with 48 years of experiencebrliulstronguMinimum Qualificationsbrustrongulli Bachelors degree or equivalent experience Candidates with Bachelors in CS EE will be more relevant Masters degree a plusbrliulImagine creating technology that has the potential to change the world Working with us you will have a positive impact on peoples lives and help to overcome some of the worlds most pressing challenges We act inclusively and respect the uniqueness of peoplebrbrNokia is an equal opportunity employer that is committed to diversity and inclusion At Nokia employment decisions are made regardless of sex gender identity or expression sexual orientation race ethnic origin color creed religion national origin citizenship age marital status physical or mental disability genetic information or ancestry protected Veteran or military status or other characteristics protected by law Nokia culture welcomes people as their true selves Come create technology that helps the world act togetherbrbrstrongJobbrbrstrongSoftware  Applied RampD EngineerbrbrstrongPrimary LocationbrbrstrongNorth AmericasUnited StatesNorth CarolinaRaleighbrbrstrongSchedulebrbrstrongFulltime",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:08:47.000Z"
+  },
+  "company": {
+    "name": "Nokia",
+    "link": "https://fi.linkedin.com/company/nokia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh-Durham-Chapel Hill Area",
+    "region": null,
+    "postal_code": "27603",
+    "street_address": null,
+    "latitude": 35.817448,
+    "longitude": -78.27004
+  }
+}

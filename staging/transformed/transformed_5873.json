@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "",
+    "description": "pstronguSUMMARY ustrongppThe Data Engineer is primarily responsible for organizing processing and storing data from different databases This position will be in charge of reporting and analyzing patterns in datasets and identifying ways to implement and improve internal processes The Data Engineer will manage databases and data pipelines to support infrastructure needs ppnbsp ppstronguESSENTIAL FUNCTIONS AND RESPONSIBILITIESustrong ppnbsp pulliHelp design and build the new CollisionRight data platform from data ingestion through ELT and data visualization and reporting liliCollaborate with business partners to define and develop a common data model that supports the vision and mission of the company liliDevelop and support all aspects of the data orchestration processes from data ingestion through data transformation into the business layer liliBalancing of incoming requests and issues debugging and troubleshooting data issues and communication to users and stakeholders of status liliWork directly with users to define and support their data reporting and business intelligence reporting requirements liliRecommend and select new data and analytics technologies to support user requirements liliWork collaboratively with functional teams that are building and developing reports and dashboards liliWork directly with business users on the definition and standardization of key metrics and measures of CollisionRights operational performance liliDrive the adoption of data governance and data hygiene across the company to drive consistent and clean data in the new data platform liulpstrongunbspustrong ppstronguQUALIFICATIONS ustrongpulliBachelors degree in Computer Science Statistics Information Systems or another quantitative field lili5 years of experience of relative experience liliExperience building and optimizing data pipelines architectures and data sets liliExperience with objectorientedobject function scripting languages Python Java C Scala etc liliStrong expertise in understanding data modeling involving logical and physical data model liliAdvanced working SQL knowledge and experience working with databases liliExcellent written and verbal communication skills liliExceptional customer service skills liliAbility to work in a fastpaced environment liulpbr ppbr ppThis position description is intended to be dynamic and subject to change  Position requirements and essential functions may be altered from time to time based upon the needs of the organization and department This position may be required to execute special projects or other related duties on occasion ppnbsp ppnbsp pbrpbr ppJob Type Fulltimep",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:39:21.000Z"
+  },
+  "company": {
+    "name": "CollisionRight",
+    "link": "https://www.linkedin.com/company/collisionright"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Columbus",
+    "region": "Ohio Metropolitan Area",
+    "postal_code": "43206",
+    "street_address": null,
+    "latitude": 39.978302,
+    "longitude": -82.99313
+  }
+}

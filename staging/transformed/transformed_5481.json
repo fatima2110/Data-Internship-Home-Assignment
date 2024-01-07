@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Front-end Software Engineer, Data Products &amp; Tools",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Come help us build the worlds most reliable ondemand logistics engine for delivery Were bringing on experienced engineers to help us create and maintain a 24x7 no downtime global infrastructure system that powers DoorDashs threesided marketplace of consumers merchants and dashersbrbrAt DoorDash our software engineers work on everything from backend systems to beautiful and thoughtful user interfaces to scaling products that will automate human processes and make deliveries happen as fast as possiblebrbrstronguAbout The TeambrbrustrongOur goal is to enable all of DoorDash to collect compute and utilize timely datadriven insights by providing a reliable flexible and high quality Data Platform Data Platform encompasses Data Products Analytics Engine Data Infrastructure plus Streaming ML and Experimentation Platform teamsbrbrstronguAbout The RolebrbrustrongAs a frontend engineer at DoorDash Data Platform team youll help design and build beautiful intuitive user interfaces for web applications to find data assets standardize and enhance metrics definitions and build a knowledge graph in order to accelerate data driven product innovation and customer value for DoorDashbrbrstronguYour Responsibilities IncludebrustrongulliDelight Data Platform users with the best customer experience through technical and product decisionsliliWrite robust highly tested wellcrafted code that you can be proud ofliliWork on developing releasing and running web applicationsliliMaintaining a positive and supportive work culturebrliulstronguYoure Excited About This Opportunity Because You WillbrustrongulliJoin a growing company and grow right along with usliliGet the chance to work on cuttingedge technologies and use worldclass tooling to get the job doneliliMake a large impact across the company through business deliverables and continuous innovationliliOpportunity to build 0 to 1 solutions focussed on Data democratizationliliHave the ability to shape and improve our engineering culturebrliulstronguWhat Were Looking ForbrustrongulliBS MS or PhD in relevant fields or 4 years of industry experienceliliMastery of the foundations of the web vanilla JS HTML5 CSS3liliUnderstanding of crossbrowser compatibility progressive enhancement and graceful degradation responsive design website performance and accessibilityliliUnderstanding of REST principles and experience working with and implementing backend APIsliliExperience with ReactRedux or similar frameworksliliAble to analyse and improve efficiency scalability and stability of various system resourcesliliExperience with documentation unit and integration testingliliAdaptability resilience and being able to thrive in ambiguity  things change quickly in our fastpaced team and youll need to be able to keep upbrliulstrongNice to havebrstrongulliEngage with or contribute to Big Data related open source projectsliliFamiliar with realtime stream processing challengesliliFamiliar with a cloud based environment such as AWSliliContributions to open source projectsbrliulstrongWhy Youll Love Working at DoorDashbrstrongulliWe are leaders  Leadership is not limited to our management team Its something everyone at DoorDash embraces and embodiesliliWe are doers  We believe the only way to predict the future is to build it Creating solutions that will lead our company and our industry is what we do  on every project every day liliWe are learning  Were not afraid to dig in and uncover the truth even if its scary or inconvenient Everyone here is continually learning on the job no matter if weve been in a role for one year or one minuteliliWe are customerobsessed  Our mission is to grow and empower local economies We are committed to our customers merchants and dashers and believe in connecting people with possibilityliliWe are all DoorDash  The magic of DoorDash is our people together making our inspiring goals attainable and driving us to greater heights liliWe offer great compensation packages and comprehensive health benefitsbrliulstronguAbout DoorDashbrbrustrongDoorDash is a technology company that connects customers with their favorite local and national businesses in over 4000 cities and all 50 states across the United States and Canada Founded in 2013 DoorDash empowers merchants to grow their businesses by offering ondemand delivery datadriven insights and better instore efficiency providing delightful experiences from door to door By building the lastmile delivery infrastructure for local cities DoorDash is bringing communities closer one doorstep at a time Read more on the DoorDash blog or at wwwdoordashcombrbrstrongOur Commitment to Diversity and InclusionbrbrstrongWere committed to growing and empowering a more inclusive community within our company industry and cities Thats why we hire and cultivate diverse teams of the best and brightest from all backgrounds experiences and perspectives We believe that true innovation happens when everyone has room at the table and the tools resources and opportunity to excel",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:19:29.000Z"
+  },
+  "company": {
+    "name": "DoorDash",
+    "link": "https://www.linkedin.com/company/doordash"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 76200,
+    "max_value": 107000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

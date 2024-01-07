@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Front-End Software Engineer",
+    "industry": "Information Technology and Services,Financial Services,Hospital &amp; Health Care",
+    "description": "stronguOverviewbrbrustrongEnvision Healthcare is a multispecialty physician group and practice management company Established in 1953 our organization provides anesthesia emergency medicine hospital medicine radiology primaryurgent care surgical services and womens and childrens health services to hospitals and health systems nationwide Sheridan Healthcare EmCare Reimbursement Technologies and Emergency Medical Associates have recently joined forces to form Envision Physician Services As one organization we now provide a greater scope of service than any other national physician group Our collective experience from hundreds of local customized engagements culture of continuous lean process improvement and team of experts in the business of healthcare enable us to better solve complex problems and consistently give healthcare organizations confidence in our execution Our combined organization serves more than 780 healthcare facilities in 48 states and the District of ColumbiabrbrIf you are looking for a stable fastpaced growing Company in the healthcare industry that is committed to innovation excellence and integrity then this may be a great next step in the advancement of your careerbrbrWe currently have an exciting opportunity available for an experienced strong FrontEnd Software Engineer strong THIS IS A 100 REMOTE WORK OPPORTUNITY for the largest provider of outsourced physician services in the worldbrbrAs a strongFrontEnd Software Engineerstrong you will be working in a fastpaced and growing environment helping to build a platform that will facilitate the reading of 30m radiology studies annually You will be working in a microservice environment hosted in Kubernetes on AWS and using Angular for the front endbrbrstronguResponsibilitiesbrustrongulli Work with a design team to develop the overall look and feel of websites lili Maintain existing and creating new customerfacing Angular applications lili CommunicateDemo features built to various stakeholders lili Assist with testing and validating of features built lili Work closely with architect to develop robust solutions lili Responsible for adhering to Information Security Policies and ensuring Envision is as secure as possible lili Mentor teammates lili Perform other duties as assigned brbrliulstronguQualificationsbrustrongulli Bachelors Degree from fouryear university in Software Engineering Computer Science or related field and 4 or more years of related experience lili 4 years experience designing building and testing enterprise software lili 4 years developing frontend applications with at least 2 years working with Angular 2 lili Thorough knowledge of HTML CSS lili Comfortable using version control and testing frameworks Git Jasmine etc lili Strong communication and collaboration skills lili Desire to work in a collaborative environment brliulIf you are ready to join an exciting progressive company and have a strong work ethic strongjoin our team of expertsstrong We offer a highly competitive salary and a comprehensive benefits packagebrbrEnvision Healthcarestrong uses EVerify to confirm the employment eligibility of all newly hired employees To learn more about EVerify including your rights and responsibilities please visit strong strong wwwdhsgovEVerify strong strong  brbrstrongstrong Envision Healthcare is an Equal Opportunity Employer brbrstrongSalary Range 107K to 132Kbrbrstrong CBstrong",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T21:50:23.000Z"
+  },
+  "company": {
+    "name": "Envision Healthcare",
+    "link": "https://www.linkedin.com/company/envision-healthcare"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 85500,
+    "max_value": 105000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greenwood Village",
+    "region": "CO",
+    "postal_code": "80018",
+    "street_address": null,
+    "latitude": 39.616886,
+    "longitude": -104.95051
+  }
+}

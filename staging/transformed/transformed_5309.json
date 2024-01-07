@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software engineer - Perception",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brApple is looking for software engineers to develop and deploy Perception technologies for autonomous systems You will work on a hardwaresoftware product enabled by the systems you buildbrbr brstrongKey Qualificationsbrstrong brC You write clean welltested code Youre passionate about code efficiency and correctnessbrbrExperience working with production software brbrYou are able to understand and contribute to highquality software for a complex systembrbrExperience implementing numerical algorithms preferably in HPC environmentbrbrProficient understanding of algorithms and data structuresbrbrExcellent communication skills You collaborate optimally with other teams and communicate clearly about your workbrbr brstrongDescriptionbrstrong brWHAT YOULL DObrbr  Take groundbreaking perception models from the lab to a critical systembrbr  Work with machine learning teams to harden models for deploymentbrbr  Implement optimized algorithms that perform within platform constraintsbrbr  Develop and support tools that accelerate development and deploymentbrbr  Ownership for design development deployment and testbrbrWORKING WITH THE TEAM brbr Youll join a fantastic team of hardworking engineers and researchers with deep experience in robotics machine learning and software engineering We hope you are passionate about the values that drive usbrbr  Passion for the mission Were here to make something great We seek whatever work is right for the product and strive for the best possible resultsbrbr  Modesty The right answer is more meaningful than being right We search for solutions as a team and value cleareyed feedbackbrbr  Lean habits You cant grow without limits Time constraints and big goals inspire us to sharpen our focus and learn to make phenomenal decisionsbrbrbrbrOTHER SKILLS WE LIKE TO SEEbrbr  Experience with Python programmingbrbr  Experience with Parallel tbb  OpenMP andor GPGPU programmingbrbr  Strong 3D math and linear algebra skillsbrbr  Familiarity with cloud development eg AWS Spark SQL and databasesbrbr  Familiarity with optimization of neural networks for deploymentbrbr brstrongEducation amp Experiencebrstrong brBachelors or Masters degree in Computer Science or equivalent professional experiencebrbr brRole Number 200169360brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:36:45.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 118000,
+    "max_value": 200000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

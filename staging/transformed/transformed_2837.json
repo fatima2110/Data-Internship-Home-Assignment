@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Management Consulting,Information Technology and Services",
+    "description": "pstrongAbout the Role  strongppLogic2020 is seeking a Machine Learning Engineernbspwho will be part of a team that leads the way in bringing artificial intelligence and machine learning into the very processes and systems that impact how customers are served This is an exciting opportunity to make an impact with by leveraging AI and ML techniques to create production level systems through application of machine learning modelsnbspppbrppstrongCore Responsibilities  strongpulliWork with data scientists to take proofofconcept models and implement them in production systemsliliDesign systems that work at scale and successfully handle customer loadliliDevelop software to help extract data and create features around itliliContribute to the team with software best practicesthis is especially important given the fast pace nature of the workliulpbrppnbspstrongAbout You  strongpulliYoure passionate about finding solutions to deep technical problemsliliYou have knowledge of professional enterprise software development and practices including software lifecycle best coding practices version control architecture testing and deploymentliliYou have experience in prototyping machine learning models on data from multiple data sources with many distinct attributesliliYou have experience in taking proofofconcept machine learning models and figuring out how to deploy them into productionliliYou have familiarity with popular machine learning libraries and frameworks Tensorflow Keras etcliliYou are proficient in Python and comfortable with objectoriented and programming languages particularly JavaliliAdditional exposure to Kubernetes Sagemaker or other relevant technologies is desirednbspnbspliliShould have worked in data modeling applying machine learning algorithms based on the business problemliliMasters degreePhD in computer science or related fieldliulpbrppnbspstrongAbout Logic2020  strongppLogic2020 is one of Seattles fastestgrowing consulting firms We hire remarkable people to create simple efficient solutions for complex problemsppbrppAlthough we make it look like magic our success is due to our approach methodical and structured and the people we hire smart motivated and teamoriented Together these enable us to consistently exceed client expectationsand our reputation is growingppbrppFor the past five years weve placed in the top ten of Seattle Business magazines Best Companies to Work For From engaged leadership and wideranging benefits to career mentorship and diverse internal opportunities we pride ourselves on being one of the best companies to work with and work forppbrppWe hire people that are selfmotivated comfortable conceiving strategies on the fly and enjoy working individually and as part of a team Our work is highenergy and demanding but new hires will quickly feel at home among colleagues as friendly and focused as they are We bring our best to every opportunity driving change in industries across the West Coast Join us and you can tooppbrppWe build an environment where we really operate as one team building up each others careers and capabilities  Adam Cornille Director Advanced Analyticsnbspppp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T21:07:47.000Z"
+  },
+  "company": {
+    "name": "Logic20/20, Inc.",
+    "link": "https://www.linkedin.com/company/logic20-20-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

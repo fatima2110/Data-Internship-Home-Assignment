@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer in Test",
+    "industry": "Computer Software",
+    "description": "stronguJob DescriptionbrustrongulliCloudera is looking for a Software Engineer in Test to join the machine learning platform team and help drive the development of Clouderas nextgeneration machine learning and data science platform Our product accelerates machine learning from exploration to production for customers You will be responsible for helping deliver an enterprise product that meets and exceeds our customers expectations around quality This role requires an empathetic mindset and close collaboration with developers customers supportfield organizations and product managementbrbrWe look for The Startup Spark a desire to think outside the box and around the corner break things put the customer first dive in wherever theres a need eagerness to make an impact as an individual and the willingness to learn new things You must be selfmotivated innovative and proactivebrbrThe role offers significant opportunities for growthbrbrstronguResponsibilitiesbrustrongulli Build and maintain the test infrastructure with an eye towards efficiency reliability and developer productivity lili Drive the quality agenda develop test plans amp test cases write automated tests for new features lili Collaborate with developers to design and implement testing strategies covering functional testing customer workflow automation fault injection scale and performance testing lili Work closely with the development and support teams to triage product issues identify product and test gaps and work towards addressing those gaps lili Collaborate with other teams at Cloudera to build tooling and infrastructure required for test automation brbrliulstronguQualificationsbrustrongulli BSBA MS or PhD equivalent in Computer Science lili Foundation in systems software algorithms and data structures lili Interests in test automation lili Excellent implementation skills  Python lili Knowledge of UNIXLinux or Windows environments and APIs lili Solid understanding of TCPIP Network Programming and Operating Systems lili Strong written and verbal communication skills brliulstrongstrongPlusesbrstrongstrongulli Experience with web services testing Javascript Mocha Selenium lili Experience with cloud technologies AWS GCE Azure lili Experience with microservices development Go GRPC SQL brliulstrongstrong Why Clouderabrstrongstrongulli Great Team  Were a tightknit team of talented engineers that really enjoy working together on challenging problems Cloudera engineering also includes many of the top luminaries in Hadoop and related open source communities We frequently interact with the research community collaborate with engineers at other top companies and host cutting edge researchers for tech talks lili Open Source  We contribute to and deliver an open source platform comprised primarily of Apache Software Foundation projects Most of our developers are either Apache committers or on the road to becoming one lili Innovative work  Cloudera pushes the frontier of big data and distributed computing as our track record shows We test and deploy our code on clusters with hundreds of nodes terabytes of RAM and petabytes of storage We work on highprofile open source projects interacting daily with engineers at other exciting companies speaking at meetups etcliulliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T04:15:48.000Z"
+  },
+  "company": {
+    "name": "Cloudera",
+    "link": "https://www.linkedin.com/company/cloudera"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

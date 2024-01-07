@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer - Air Traffic",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "stronguDescriptionbrbrustrongstronguJob DescriptionbrbrustrongThe ERAM program within the Civil group at Leidos is seeking astrong Software Development Engineerstrong who will be a member of a dynamic team working on the Federal Aviation Administrations EnRoute Automation Modernization ERAM technology ERAM is the heart of the Next Generation Air Transportation System and the pulse of the National Airspace System advancing our transition from a groundbased system of air traffic control to a satellitebased system of air traffic managementbrERAM is vital to the future of air navigation providing the foundational platform required for FAA to enable NextGen solutions via modernization programs such as System Wide Information Management Data Communications and Automatic Dependent Surveillance BroadcastbrERAM will provide benefits for users and the flying public by increasing air traffic flowbrbrstronguSoftware Development Engineer Responsibilities As a Team And Individuallybrustrongulli Modernizing the AT control system by improving the availability and performance of the ERAM systemlili Supporting ERAM as it continues to migrate ERAM from the AIX operating systems to Linux Detailed knowledge of Linux OS and OS concepts desirablelili Optimizing the experience for the flying public Air Traffic Control and the airline industry by improving the collaboration and decisionmaking capabilities of flight controllerslili Developing and maintaining the FAA air traffic control software primarily Ada95C on a UNIXLinux platformlili Maintain support functions utilizing PERL andor PYTHONlili Performing software development as needed for the ERAM systemlili Coordinate Solutions with Systems Engineeringlili Coordinate the development of new capabilities and upgrade to common services provided to the applications via the FlightDeck APIlili Design build and maintain efficient reusable and reliable C code using good OOPOOAD techniques for our systemslili Optimize identify bottlenecks bugs and devise solutions to problems includinglili Maintain code quality revision control and organizationlili Analyze customer issues as well as both identify and implement solutionslili Participate and contribute within a defined software development processbrliulAs a strongSoftware Development Engineerstrong on our diverse and collaborative team you will work alongside our expert Scientists and Engineers contributing to cutting edge technology with global impact on security detection This is not your runofthemill software development  you will be honing your engineering skills with embedded products realtime programming and objectoriented design all with the support of a management team focused on your professional growth and advancementbrThe strongSoftware Development Engineer stronguses knowledge and experience with ObjectOriented C development to perform job functions Individual will be responsible for developing applications for our distributed turnkey systems Working under general supervision in a small team environment your primary responsibility will be to modify develop and troubleshoot multitiered distributed applications and systems The duties and responsibilities may change from time to time without notice and include but are not limited to the duties described belowbrbrstronguQualificationsbrustrongulli Requires Bachelors of Science degree and 4 years of prior relevant experience or Masters with less than 2 years of prior relevant experiencelili Strong Understanding C and OOPOOADlili Strong understanding of data structures algorithms and software design solutionslili Strong understanding of memory management multicore processors and distributed systems designlili Trouble shooting support  effectively respond to users requestslili Excellent communication interpersonal analytical and written skillslili SelfStarter and ability to multitaskbrliulstronguDesired SkillsExperiencebrustrongulli Working knowledge of UIL and Motif GUI development etc Highly Desirablelili Linux Platform development knowledgelili Interfacing with hardware and realtime debugginglili Good working knowledge of SQLlili Working knowledge of Cybersecuritylili Working knowledge of networking solutionslili Graphics Design GUI development X11Motif etc Highly Desirablelili Excellent verbal written and interpersonal communication skillslili Working knowledge of software configuration tools and processes used in support of the FAA ERAM programlili Working experience in FAA ATC programslili Advanced degree preferredbrliultsfaabrbrstronguExternal Referral BonusbrbrustrongIneligiblebrbrustrongExternal Referral Bonus brbrstrongustronguPotential For TeleworkbrbrustrongYes 100brbrstronguClearance Level RequiredbrbrustrongPublic TrustbrbrstronguTravelbrbrustrongNobrbrstronguPay RangebrbrustrongRemote",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:18:57.000Z"
+  },
+  "company": {
+    "name": "Leidos",
+    "link": "https://www.linkedin.com/company/leidos"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Gaithersburg",
+    "region": "MD",
+    "postal_code": "20884",
+    "street_address": null,
+    "latitude": 39.142185,
+    "longitude": -77.193405
+  }
+}

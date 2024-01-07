@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "pOption Pool Exchange is a Crypto Futures Exchange with a cumulative trading volume of 75 billion USD We offer x7000 times leveraged products and have recently issued our own Rich Otter token a tokenized insurance fund for our Crypto Derivative ExchangeppbrppWe are currently in the process of relocating our headquarter to New York City and thus we are looking for software engineers to work at our New York City office This job offer is on a rolling basis and may close at any time whenever we find the right candidates ppbrppnbspppstrongJob descriptionstrongpulliFulltime office in midtown manhattanlili110220K depending on your market rate includes stock options amp bonusliliDesigning highly scalable codes that can handle millions of transactions per secondliliMeticulous research and development on ultralow latency applications liulp       we care about microsecond level latency which is onemillionth of a secondppbrppWe dont micromanage our employees thus you must be highly selfmotivated to be successful at our organizationppbrppstrongQualificationsstrongpulliBachelors degree or higher in Computer Science or related field liulp        graduate degree highly preferredpulliAt least 3 years of commercial application development experienceliliFluency in the following tools GO PostgreSQL Nodejs AWS EC2 S3 RDSliliUS work authorization visa sponsorships will not be generally consideredliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T03:36:13.000Z"
+  },
+  "company": {
+    "name": "OPTION POOL",
+    "link": "https://www.linkedin.com/company/option-pool"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer-Python",
+    "industry": "Financial Services,Information Technology and Services,Information Services",
+    "description": "strongJob DescriptionbrbrstrongThe ECS Analytics team within Fidelitys Enterprise Cyber Security ECS business unit is looking for a Data Engineer to join their team The focus for this role will be to build data solutions such as data processing data pipelines data migration as well as deep knowledge of frameworks such as Hadoop The team is tasked with driving the overall data strategy for ECSbrbrstrongThe TeambrbrstrongThis team is made up of highly motivated and engaged associates currently split across North America and India Bangalore that works in a fastpaced agile environmentbrbrstrongThe Expertise You Have brstrongulliBachelors degree or equivalent experience requiredliliStrong SQL skills and knowledge of one of more RDBMSliliProven experience building data pipelines using variety of tools including but not limited to Informatica Python Shell script Hadoop SqoopPigHiveImpalaliliProficiency working with Python specifically as it relates to data processing At least 2 years of recent working experienceliliExposure andor understanding of AWSSnowflake data lakeliliAbility to work independently to bring tasksstories to completion brbrliulstrongThe Skills You BringbrstrongulliYou are selfdriven and highly motivatedliliYou are a quick learnerliliPassionate about technologyliliYou love working with data and are confident in your SQL skillsliliProven expertise in building data pipelinesliliProficiency in Python in a professional environment for at least one yearliliProven ability to work independently to bring tasksstories to completion brbrliulstrongThe Value You DeliverbrstrongulliDeveloping endtoend solutions using technologies listed aboveliliFinding innovative solutions to old problemsliliBeing an inspiring leaderbrbrliulstrongCertificationsbrbrstrongCompany OverviewbrbrAt Fidelity Investments our customers are at the heart of everything we do As a privately held company with a rich 75year history our mission has remained the same since our founding emto strengthen the financial wellbeing of our clientsem We help people invest and plan for their future We assist companies and nonprofit organizations in delivering benefits to their employees And we provide institutions and independent advisors with investment and technology solutions to help invest their own clients moneybrbrJoin UsbrbrAt Fidelity youll find endless opportunities to build a meaningful career that positively impacts peoples lives including yours You can take advantage of flexible benefits that support you through every stage of your career empowering you to thrive at work and at home And you dont need a finance background to succeed at Fidelitywe offer a range of opportunities for learning and growth so you can build the career youve always imagined We welcome associates from different backgrounds and with different perspectives to help us innovate and make a difference for our customers and our communitiesbrbrWe invite you to strongFind Your Fidelitystrong at fidelitycareerscombrbrFidelity Investments is an equal opportunity employer We believe that the most effective way to attract develop and retain a diverse workforce is to build an enduring culture of inclusion and belongingbrbrFidelity will reasonably accommodate applicants with disabilities who need adjustments to participate in the application or interview process To initiate a request for an accommodation contact the HR Leave of AbsenceAccommodation Team by sending an email to accommodations fmrcom or by calling 8008355099 prompt 2 option 2brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T07:13:27.000Z"
+  },
+  "company": {
+    "name": "Fidelity Investments",
+    "link": "https://www.linkedin.com/company/fidelity-investments"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Westlake",
+    "region": "TX",
+    "postal_code": "76299",
+    "street_address": null,
+    "latitude": 32.99391,
+    "longitude": -97.19771
+  }
+}

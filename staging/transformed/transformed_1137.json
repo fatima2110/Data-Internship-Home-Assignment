@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Analyst",
+    "industry": "Information Technology and Services",
+    "description": "pstrongNeed local to Phoenix AZstrongppstrongNeed USCGC and EAD onlystrongppstrongNo H1 or C2CstrongppbrppstrongResponsibilities include but are not limited tostrongppbrppDesigning reports requiring analysis writing of SQL data mining and presentation to technical and nontechnical audiences in a variety of technical platforms Power BI Tableau Excel etcppPrioritize business and operational needsppExtract import clean transform and validate datappWriting queries using SQL TSQL and MS AccessppExperience with DB2ppIdentify analyze and interpret trends or patterns in complex data setsppCreate standard and adhoc reports including detail summary history snapshots drill down and other reportsppDevelop report specifications test plans prepare test data execute tests supporting documentation and coordinate production implementationppEstablish data connections with various data sourcesppSetup report schedule subscription access process and procedures and delivery methodnbspppPresent data in lists tables charts graphs snapshots crosstab and other formatsppTailor the analysis and reporting methods by the type of data as well as to the intended audienceppReview key indicators to locate and correct problemsppFollow up and track remediation of issuesppWrite and present DeskAids and WorkFlows for both technical and nontechnical audiencesppbrppstrongKnowledge Skills amp Abilitiesstrongppstrongspan classqlcursorspanstrongppKnowledge of Service Level Agreement SLA laws rules security policies privacy data confidentiality managementppKnowledge of Engineering workflow IT lifecycle and system design performance tuning and Business Intelligence tools and featuresppKnowledge of Statistical and business analysis and research and analysis methodologiesppKnowledge of multiple business intelligence software applications SQL SSIS MS Visual Studio Tableau Visual Basic MS Access etc and multidimensional and relational database designppKnowledge of project management concepts principles and practicesppSkilled in dimensional and relational database designppSkilled in analysis design review troubleshooting implementation and integration for applicationsppSkilled in keyboarding and use of Microsoft Office programs such as Excel Word Access and PowerPoint and Google for gmail calendar chatnbspsheets docs slides etcnbspppProblem and negotiation skills to research and resolve issuesppGood time management and organizations skills with attention to detailppSkilled in effective listening oral and written communications skills to communicate technical and nontechnical concepts to a variety of audiencesppAbility to write business and functional requirements and diagram business processes translate into technical solutions and reports query and view objects and present in a meaningful formatppp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-21T02:07:23.000Z"
+  },
+  "company": {
+    "name": "Sharp Decisions",
+    "link": "https://www.linkedin.com/company/sharp-decisions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Phoenix",
+    "region": "AZ",
+    "postal_code": "85009",
+    "street_address": null,
+    "latitude": 33.448204,
+    "longitude": -112.072586
+  }
+}

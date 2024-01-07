@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Consumer Services",
+    "description": "strongAt Quinn were on a mission to redefine productivityby connecting to the tools you use every day automating repetitive tasks and powering your potentialstrong Our greatest excitement comes from imagining a future where your tools work for you and were building the most capable team to make that a realitybrbrWere not taking a traditional approach and were not looking for conventional thinkers Working at Quinn on the early team puts you at the cornerstone of building a world where technology connects and works in harmonyoptimizing the lives of yourself and othersbrbrWere exceptionally proud of the company weve built so far and humbled by the work we have yet to accomplish Our people are Quinns most significant competitive advantage and well continue investing in them as a cornerstone of our culturebrbrKey ResponsibilitiesbrbrAs an early team member you will get a chance to shape both the foundations of our product and team culture We will measure your success by your ability to ship fast learn quickly and contribute to our culture of continuous improvement Additionally you willbrulliStudy and transform data science prototypesliliResearch and implement appropriate ML algorithms and toolsliliDevelop machine learning applications according to requirementsliliPerform statistical analysis and finetuning using test resultsliliTrain and retrain systems when necessaryliliExtend existing ML libraries and frameworksliliKeep abreast of developments in the fieldbrliulstronguAbout Youbrustrongulli Youre productminded You have a sense of excellent user experience and feel for when something is off You love talking to your team and your customers and you build for bothlili Youre a doer You enjoy all aspects of building a product and are comfortable taking a unique approach when necessary You create solutions that will lead our company and our industry  on each project every daylili Youre steadfast You handle chaos ambiguity and complexity in a clear organized way No job is beneath you and you lead from the frontbrliulHow we WorkbrbrstrongWe love the tools we use Heres our gotosbrstrongulli Linear for issue trackinglili GitHub as source controllili Sentry for error reportinglili Slack for internal communicationlili Notion as a knowledge baselili Figma for design collaborationbrliulOur Commitment to Diversity and InclusionbrbrQuinn is proud to celebrate diversity and is committed to building an inclusive workplace regardless of race color religion sex including pregnancy and gender identity national origin political affiliation sexual orientation marital status disability genetic information age membership in an employee organization retaliation parental status military service or other nonmerit factorsbrbrIf you need any accommodations please inform our team upon initial connectionbrbrstronguRequirementsbrbrustrongOur Ideal Candidatebrulli4 years of experience at a highgrowth startup consulting firm or toptier investment banklili3 years of Machine Learning experience including building deploying and maintaining systemsliliStrong work ethic persistence humility and detailorientation ability to plan and execute independentlyliliExcel in startups you come from a diverse background and thrive in a fastpaced startup environmentliliUnderstanding of data structures data modeling and software architectureliliDeep knowledge of maths probability statistics and algorithmsliliAbility to write robust code in Python Java and RliliFamiliarity with machine learning frameworks like Keras or PyTorch and libraries like scikitlearnliliWork authorization in the USliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T15:42:25.000Z"
+  },
+  "company": {
+    "name": "Quinn",
+    "link": "https://www.linkedin.com/company/usequinn"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

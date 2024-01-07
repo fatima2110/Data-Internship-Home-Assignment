@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Internet",
+    "description": "pstrongAbout Pushnamibrbrstrongp  pPushnami is a leading digital marketing software provider based in Austin with a focus on building cuttingedge solutions to deliver unparalleled performance The company offers its clients unparalleled performance through machine learning enabled messaging solutions Pushnami builds technologies on the forefront of the latest online notification technologies The system currently delivers over 800 million unique messages per day and is live on more than 10000 enterprise websites globallybrbrp  pbrbrp  pstrongAbout the Site Reliability Engineer RolebrbrbrstrongpbrpWe are seeking a creative Site Reliability Engineer to ensure Pushnamis platform is stable and secure You will be responsible for the health of our system ensuring that managed assets are performing as expected creating and maintaining automated alerts and enabling selfhealing infrastructurebr br strongResponsibilitiesbr brbrstrongp  ul liEnsure that the infrastructure supporting Pushnamis platform is highly available and scalableli liSupport maintain monitor and manage cloud infrastructureli liCollaborate with the Tech team to support engineering and development efforts and ensure system integrityli liMonitor metrics and develop ways to improve reporting and alertingli brulpRequirementsbrbrppbrbrp  ul liBachelors degree in in computer science or related field or equivalent working experienceli li3 years in an SREDevOps role or related IT or operationsli li3 years operational experience with a public cloud environment AWS preferred li liStrong understanding of security and observability principles and methodologiesli liProficient with Linux system operations and networkingli liProficient in scripting with Python and bashli liExperience working with Kubernetes ECS or other containerization platformsli liFamiliar with automationdeployment principles and technologies Terraform AnsibleSaltPuppet Gitli liFamiliar with Scrum and Agile development methodologiesli liGood interpersonal skills and communication with all levels of managementli brulpBenefitsbrbrpul liFull Medical and Dental PPO Insurance that is 100 paid for by the companyli li401k Retirement Plan  Fully matched up to 6li liPaid parental leave for primary caretakerli liFlexible work schedule that is based on performance rather than timeli liHybrid work modelli liUnlimited paid vacation after one year of employmentli liRelaxed dress code and open office environmentli li100 in Fringe benefits monthly online marketplace where you can purchase the perks you choose  Netflix Hulu AirBnb Royal Caribbean Cruises child care dog walking you name itli liOrange Theory Gym Membershipli liFull stocked break room breakfast taco Tuesday catered lunches Monday  Friday for inoffice employeesli ul            pbrbrbrp  pstrongOur Recruitment Processbrbrstrongp  ul liApplication You are hereli li12Question Aptitude Examli liHiring Manager Interviewli liCompany Leadership Interviewli liOfferli ulbrpbrbrbrpbrpPushnami was built on the principles of positivity and acceptance We strive to build an inclusive work environment that uses our success to make a genuine impact on the community around us No employee or applicant will face discriminationharassment based on race color ancestry national origin age gender marital domestic partner status sexual orientation gender identity disability status or veteran statusbrbrp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T21:50:10.000Z"
+  },
+  "company": {
+    "name": "Pushnami",
+    "link": "https://www.linkedin.com/company/pushnami"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

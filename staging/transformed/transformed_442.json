@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Renewables &amp; Environment",
+    "description": "pAre you an experienced 5 years Machine Learning Engineer looking to join an innovative and dynamic team and the thought of enabling higher adoption of renewable energy and zero emission mobility globally gets you excitednbspnbspppnbspppLocated in Salem MA Titan Advanced Energy Solutions develops and tests industryleading ultrasoundbased battery diagnostics systems for applications in electric vehicles consumer electronics stationary storage and 2nd life market for repurposing of used EV batteriesnbspppnbspppTitans innovative strides have been recognized with numerous awards and funding from top clean energy programs and institutions including Greentown Labs the Massachusetts Clean Energy Center MassCEC and the Department of Energy Growing and poised to continue on their positive momentum this is an exciting time to join the Titan teamppnbspppThe Machine Learning Engineer will work with our multidisciplined fastpace team on a variety of interesting projects We are looking for an independent thinker who is highly selfmotivated driven to achieve goal and teamoriented and passionate about clean technology The ideal candidate will bring a passion for solving important problems with machine learning deep learning approaches in ways that create data driven solutions leading to end products Your bias to action combined with a learning mindset allows you to take calculated risks and unlock opportunities alongnbspthe way You will work with a diverse team on an array of crossdisciplinary projects centered around ultrasound time series signal data you will be responsible for delivering MLbased solutions from problem framing to prototyping to production applicationppA successful candidate fornbspthis role will have solid computer science mathematic fundamentals experience developing machine learning based models deploying and maintaining such models experience with software development and continuous integration continuous deploymentnbspnbspppnbspppstrongDuties andnbspResponsibilitiesnbspstrongnbspppnbspnbspnbspnbspnbspnbspUse machine learning techniques to develop scalable prediction models on time series datappnbspnbspnbspnbspnbspnbspExplore deep learning approaches to develop scalable prediction models on time series datappnbspnbspnbspnbspnbspnbspDevelop production grade pipeline to deploy machine learning modelsppnbspnbspnbspnbspnbspnbspSupport ongoing maintenance updates on models deployedppnbspnbspnbspnbspnbspnbspDesign data infrastructure to gather store and facilitate analysis of large quantity datappnbspnbspnbspnbspnbspnbspDrive engineering best practices across the data team including code reviews testing reproducibilityppnbspnbspnbspnbspnbspnbspGenerate and maintain documentation as requiredppnbspnbspnbspnbspnbspnbspOther duties asnbspassignednbspppnbspppstrongRequired skillsstrongnbspppnbspnbspnbspnbspnbspnbsp3 years industry experience in machine learning deep learning based modelingppnbspnbspnbspnbspnbspnbspBS MS in Computer Science Computer Engineering or equivalent degreeppnbspnbspnbspnbspnbspnbspExpert proficiency with Python and related libraries nbspppnbspnbspnbspnbspnbspnbspIdeally experience with deep learning frameworks such as PyTorch and TensorflowppnbspnbspnbspnbspnbspnbspGit GitHub Actions GitLab CICD PipelinesnbspppnbspnbspnbspnbspnbspnbspExperience with relationalnonrelational databases such as CouchDBppnbspnbspnbspnbspnbspnbspExperience with Docker dockercompose and swarm and optionallynbspKubernetesnbspppnbspnbspnbspnbspnbspnbspExcellent understanding of algorithms data structures coding standardsppnbspnbspnbspnbspnbspnbspSelfmotivated and proactive with multitasking and critical thinking capabilitiesppstrongnbspstrongppstrongPreferred skillsstrongnbspppnbspnbspnbspnbspnbspnbspPassion for clean energy a systemsthinking perspective and a desire to take an active part   in shaping a newnbspparadigmnbspppnbspnbspnbspnbspnbspnbspGood knowledge of AWS Cloud Storage Elastic ComputeppnbspnbspnbspnbspnbspnbspExperience with Linux and shell scriptingnbspppnbspnbspnbspnbspnbspnbspPrevious working experience with ultrasound signal datappnbspnbspnbspnbspnbspnbspFoundational knowledge on signal processingppnbspnbspnbspnbspnbspnbspStartup experience a plusppnbspppstrongPersonal ValuesstrongnbspppnbspnbspnbspnbspnbspnbspBias to action selfmotivated and entrepreneurial spiritppnbspnbspnbspnbspnbspnbspAttention to detail effective time management and pride in workppnbspnbspnbspnbspnbspnbspDependable trustworthy empathetic amp full of integrityppnbspnbspnbspnbspnbspnbspStrong collaborative communication skills able to build consensus internally and externallyppstrongnbspstrongppLearn more at wwwtitanaescomppnbspppTitan welcomes applicants from every background  our diversity helps us thrive and serve our customers and each other All employment decisions are based on qualifications merit and business needs without discrimination or bias We are proud to be an equal opportunity employer If you need assistance or accommodation due to a disability please let us knownbspppp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T10:46:45.000Z"
+  },
+  "company": {
+    "name": "Titan Advanced Energy Solutions (we are hiring!)",
+    "link": "https://www.linkedin.com/company/titan-aes"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Salem",
+    "region": "MA",
+    "postal_code": "01970",
+    "street_address": null,
+    "latitude": 42.521404,
+    "longitude": -70.89864
+  }
+}

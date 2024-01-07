@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Application Development - Austin, TX",
+    "industry": "Marketing and Advertising,Online Media,Internet",
+    "description": "The future of the open web is measured media LockerDome is an ad platform with a brain designed specifically for modern advertising At the core of our ad platform is Neo LockerDomes proprietary AI which uses machine learning to process billions of data points and make intelligent decisions at lightning speed Learn more at lockerdomecombrbrAs an Application Developer on the Engineering amp Product team you will be expected to write clean and maintainable code building tools that will be used by thousands of brands and publishers and reaching millions of end usersbrbrThis position will be part of our Austinbased team Candidates residing in or near Austin TX are preferredbrbrstronguYour Skills Should Includebrustrongulli Indepth knowledge of JavaScript and Nodejslili Experience with responsive web design using CSS and Sasslili Ability to learn new skills and information sets quicklylili Ability to solve unique or complex problems and provide actionable guidancebrliulstronguSkills That Are a Plusbrustrongulli Experience with C particularly with a lowlevel performance focuslili Familiarity with Redis or other keyvalue databaseslili Familiarity with highperformance distributed systemsbrliulstronguResponsibilitiesbrustrongulli Build web applications using LockerDomes inhouse JavaScript framework Corallili Improve and streamline the data flow pipeline for our inhouse machine learning algorithmslili Iterate on LockerDomes data and analytics dashboardlili Streamline and automate processes and procedures across the companyliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:40:38.000Z"
+  },
+  "company": {
+    "name": "LockerDome",
+    "link": "https://www.linkedin.com/company/lockerdome"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "St Louis",
+    "region": "MO",
+    "postal_code": "63121",
+    "street_address": null,
+    "latitude": 38.635357,
+    "longitude": -90.20099
+  }
+}

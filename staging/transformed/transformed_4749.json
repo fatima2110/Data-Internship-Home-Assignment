@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Retail",
+    "description": "pstrongLocationstrong Corporate Headquarters  Springfield MO or RemoteppstrongTentative Schedulestrong MondayFriday 8 am5 pmppstrongCompensation Rangestrong 6500000  11500000 annually pay will be based upon applicable experience training and skillsppstrongBonusstrong This job is eligible for an annual cash bonus based on individual goal achievementppbrppAnbspstrongemData Scientist IInbspemstrongat OReilly Auto Parts is responsible for modeling complex enterprise problems discovering insights and identifying opportunities through the use of statistical algorithmic mining and visualization techniques The Data Scientist II will work closely with clients data stewards projectprogram managers and other IT teams to turn data into critical information and knowledge that can be used to make sound organizational decisionsnbspppbrppstrongEssential Job FunctionsstrongpulliWork with stakeholders to identify opportunities for leveraging company data to drive business solutionsnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspliliSynthesize facts theories trends inferences key issues and themes in complex and variable situationsnbspnbspnbspnbspnbspnbspnbspliliRecognize abstract patterns and relationships between seemingly unrelated entities or situationsliliApply appropriate concepts and theories in the development of principles practices techniques tools and solutionsnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspliliGather and analyze information or data on current or historical trends to anticipate the futureliliImprove organizational performance through the application of original thinking to existing and emerging methods processes products and servicesliliEmploy sound judgment in determining how innovations will be deployed to produce return on investmentnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspliliTranslate uptodate information into continuous improvement activities that enhance performancenbspnbspnbspliliAnticipate identify and define problems while continuallyliliDevelop and implement practical and timely solutionsliulpbrppstrongSkills and QualificationsstrongppstrongRequirednbspstrongpulliBachelors degree in an Information Technology fieldlili5 years practical experience with ETL data processing database programming and data analyticsliliExtensive experience with Python including Pandas Numpy SciKitLearn and Jupyter notebooksliliExtensive experience with machine learning and statistical modelingliliKnowledge of a variety of machine learning techniques eg clustering decisiontree learning artificial neural networks and their realworld advantagesdrawbacksliliKnowledge of advanced statistical techniques and concepts eg regression properties of distributions statistical tests and proper usage and experience with applicationsliliMastery of SQL along with knowledge of database design and optimizationliliExcellent communication skills and the desire to work in a dynamic and collaborative environmentliliDemonstrable ability to develop and implement mathematical solutions to data problemsnbspliulpstrongDesirednbspstrongpulliAdvanced degree in Computer Science Statistics Applied Math or related fieldliliExperience with a highlevel programming language such as JavaliliLinux command line experience that includes shell scriptingnbspliulpbrppstrongBenefitsstrongppAll full time team members are eligible for a benefits package that is designed to offer convenience and security to our team members and their families Programs resources and benefit eligibility varies based on employment status average hours worked location and length of service For detailed benefits info pleasenbspclick herenbspor typenbsphttpbitlyORLYBenefitsnbspin your browserp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T19:04:15.000Z"
+  },
+  "company": {
+    "name": "O'Reilly Auto Parts",
+    "link": "https://www.linkedin.com/company/o%27reilly-auto-parts"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

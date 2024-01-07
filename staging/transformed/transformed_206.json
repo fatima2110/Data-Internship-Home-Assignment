@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Software Engineer",
+    "industry": "Capital Markets,Research,Computer Software",
+    "description": "pSenior Machine Learning Engineer  Trading Systems  Prestigious Prop Trading Firm  AustinppbrppbrppIm working with a very wellknown and prestigious trading firm who are looking to make a key hire in their Software EngineeringMachine Learning team This team work handinhand with traders and quant researchers to build and improve their machinelearning based trading systems The team has grown steadily over the past 7 years and now one of their leading business initiatives is to scale this team to become as large and profitable as their other trading groupsppbrpulliImplement ML features models and strategies for use innbspbacktest simulation and productionnbspliliManage an inhouse compute and data cluster job scheduler and Pythonbased pipeline to provide robust efficient 247nbspbacktestsimulationresearch environmentnbspliliDevelop lowlevel Linux CC software with FPGA integration to achieve worldclass latenciesnbspliulpbrppThis is an extremely exciting opportunity which is not only very lucrative but also offers significant advancement opportunities as the firm continues to dominate this spaceppbrppThere is a very generous compensation package on offer Unfortunately this firm is not currently offering sponsorship at this timep",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T19:17:26.000Z"
+  },
+  "company": {
+    "name": "Selby Jennings",
+    "link": "https://uk.linkedin.com/company/selby-jennings"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "Texas Metropolitan Area",
+    "postal_code": "78723",
+    "street_address": null,
+    "latitude": 30.276316,
+    "longitude": -97.70931
+  }
+}

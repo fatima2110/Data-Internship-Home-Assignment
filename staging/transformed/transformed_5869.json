@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Full Stack Software Developer",
+    "industry": "Staffing and Recruiting",
+    "description": "pstrongJob Title Full Stack Software DeveloperstrongppstrongDuration 6 monthsstrongppstrongLocation San Diego CAstrongppstrongnbspstrongppstrongDuties strongpulliWork closely with product and development teams to create an amazing user experienceliliBuild integration and unit tests along with codeliliWork in agile development environment with short sprints and standupsliliImplement proof of concept prototypes and productiongrade softwareliliMaintain and support existing software and hardware systems infrastructure and productionliliAssist support staff and team members in troubleshooting software issues and implementing bug fixesliliTakes ownership of the code base Work to continually improve code quality and get bugs fixed and deployed rapidlyliliExperience in or knowledge of Python Celery Go Elasticsearch PostgreSQL SaltStack Flask Git React ElixirliliDeep understanding and knowledge of virtualization libvirt KVM XenserverliliExcellent communication and interpersonal skills Strong programming skills including software engineering methodologies and best practicesliliRESTAPI developmentliliStrong experience with Python or other scripting languagesliliExperience working in a Linux development environmentliliStrong experience with relational databases and specifically MySQL Elasticsearch RedisliliExcellent HTML CSS and JavaScript skills Experience in consuming RESTful APIsliulpstrongnbspstrongppstrongSkills Required Skills  strongJava spring boot Web services AWSppstrongnbspstrongppstrongEducation strongEOE AA MFVetDisabilityp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-25T17:40:22.000Z"
+  },
+  "company": {
+    "name": "Russell Tobin",
+    "link": "https://www.linkedin.com/company/russell-tobin-&amp;-associates-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

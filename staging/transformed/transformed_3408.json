@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "pTitle Data ScientistbrbrppWhy is this position open GrowthbrbrppPaySalaryBenefitsPerks 120kyr  140kyrbrbrppWork from Home Policy Full RemotebrbrppSkills Required Were looking for highly skilled data scientist to bring your breadth of knowledge to our team As part of our team youll work with other passionate data scientists in an exciting dynamic environment working with a massive dataset utilizing machine learning and morebrbrppBest Personality Match for this Role Someone knowledgeable with Data Science Machine learning and morebrbrppScreening  Background checks Required CriminalbrbrppRequiredbrbrpp A few years of strong technical experience around data science and machine learningbr Heavy with SQL and Pythonbr Expert knowledge around machine learning applied statistics and AB testingbr Code optimization deployment and monitoring ML modelsbr Strong collaboratorbrbrppbrNicetohavebrbrpp Masters or PhD degreebr Experience with twosided marketplacebr Experience with AWS DynamoDB SageMaker or equivalentbr Experience with Airflowbr Experience with a deep learning frameworkbrbrbrpstrongDesired Skills and ExperiencebrbrstrongWere looking for highly skilled data scientist to bring your breadth of knowledge to our team As part of our team youll work with other passionate data scientists in an exciting dynamic environment working with a massive dataset utilizing machine learning and more",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T20:00:21.000Z"
+  },
+  "company": {
+    "name": "Vaco",
+    "link": "https://www.linkedin.com/company/vaco"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Nashville",
+    "region": "TN",
+    "postal_code": "37221",
+    "street_address": null,
+    "latitude": 36.166344,
+    "longitude": -86.77907
+  }
+}

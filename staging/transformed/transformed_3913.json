@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "stronguDescriptionbrbrustrongAre you excited about powering Amazons physical stores expansion through the application of Machine Learning and Big Data technologies Do you thrive in a fastmoving innovative environment that values datadriven decision making scalable solutions and sound scientific practices We are looking for experienced scientists to build the next level of intelligence that will help Amazon physical stores grow and succeedbrbrOur team is responsible for building the core intelligence insights and algorithms that support the real estate acquisition strategies for Amazon physical stores We are tackling cuttingedge complex problems  such as predicting the optimal location for new Amazon stores  by bringing together numerous data assets from disparate sources inside and outside of Amazon and using bestinclass modeling solutions to extract the most information out of thembrbrYou will have a proven trackrecord of delivering solutions using advanced science approaches You will be comfortable using a variety of tools and data sources to answer highimpact business questions You will transform oneoff models into automated systems You will be able to break down complex information and insights into clear and concise language and be comfortable presenting your findings to audiences with a broad range of backgroundsbrbrstronguResponsibilitiesbrustrongulli Develop production software systems utilizing advanced algorithms to solve business problemslili Analyze and validate data to ensure high data quality and reliable insightslili Partner with data engineering teams across multiple business lines to improve data assets quality metrics and insightslili Proactively identify interesting areas for deep dive investigations and future product developmentlili Design and execute experiments and analyze experimental results in collaboration with Product Managers Business Analysts Economists and other specialistslili Leverage industry best practices to establish repeatable applied science practices principles amp processesbrbrliulstronguBasic Qualificationsbrustrongulli MS in computer science statistics applied mathematics engineering or related field with 2 years of relevant experiencelili Strong Python programming skills in industrial settinglili Excellent understanding of computer science fundamentals machine learning data structures and algorithmslili Able to understand and translate business and product questions into analytics projectslili Understanding of relational databases and familiarity with statisticslili Great design and problem solving skills passion for quality and engineering excellence at scalelili Ability to work independently in a fastpaced iterative development environmentlili Exemplary communication skills ability to work with large cross functional teams of technical and nontechnical membersbrliulstronguPreferred Qualificationsbrustrongulli PhD in computer science statistics applied mathematics engineering or related field with 5 years of relevant experiencelili Expertise in specialized areas such as Machine Learninglili Expertise in Big Data technologies EMR Spark Hive Piglili Knowledge and direct experience using statistical packages and business intelligence toolslili Experience in gathering requirements and formulating business metrics for reportinglili Track record of delivering actionable solutions which drive business decisionsbrliulAmazon is committed to a diverse and inclusive workplace Amazon is an equal opportunity employer and does not discriminate on the basis of race national origin gender gender identity sexual orientation protected veteran status disability age or other legally protected status For individuals with disabilities who would like to request an accommodation please visit httpswwwamazonjobsendisabilityusbrbrbrstrongCompanystrong  Amazoncom Services LLCbrJob ID A1646626",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-27T09:04:51.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 108000,
+    "max_value": 150000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

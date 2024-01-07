@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer II",
+    "industry": "Information Technology and Services,Computer Hardware,Computer &amp; Network Security",
+    "description": "pAt Zonar we are looking fornbspa solid linuxbasednbspSite ReliabilitynbspEngineer with experience across the application stack to help us design create and grow our applications and platformsnbspThe amount of data we collect and process is staggeringnbspWe have big data challenges and are looking for folks that have a passion and experience delivering solutions within this problem setnbspNo business problem will be too big or too small to meet customer expectations achieve critical time to market and deliver business valueppnbspppstrongEssential Tasks and DutiesstrongpulliDevelop applications and services across the stack to maintain existing features and deliver new features and support for Zonars productsliliDeliver high quality features with quality and ontime meeting release plans and delivery commitmentsliliInstrument code to achieve insight on business metrics usage and performanceliliFollow engineering best practices including unit testing code reviews and version control using GITliulpnbspppstrongAdditional Responsibilities and DutiesstrongpulliFollow all company policies and proceduresliliPerform all other duties as requiredliliOvertime as requiredliliTravel as required to support Zonars needsliulpstrongnbspstrongppstrongKnowledge and SkillsstrongpulliStrong knowledge of objectoriented design data structures algorithm design and problem solvingliliProven experience implementing mission critical internetbased applications implementing best practices for software code development reuse and componentizationliliHighly proficient in Python Go PHP Web Service APIs RESTful services and XML SQL is a plusliliStrong database skills Postgres andor Cassandra are a big plusnbspDesign and implementation of features to process and query large sets of datanbspBe able to tune application and query performanceliliExperience in designing and building large scale systemsnbspDemonstrated knowledge with distributed and multithreaded implementations a plusliliPassionate orientation and attention to customersliliAbility work well with others motivate others and thrive in a dynamic and challenging work environmentnbspAble to set goals and achieve scheduled deadlinesliliExcellent verbal and written communication skillsliulpnbspppstrongEducationstrongpulliBS or equivalent degree in computer science or related fieldliulpnbspppstrongExperiencestrongpulli5 years relevant work experience in operational support and software developmentliulpnbspppstrongABOUT USstrongppFounded in 2001 Zonar has pioneered smart fleet management technology by providing innovative technology that has changed fleet operations in the vocational pupil and commercial trucking industries With a unique focus on this field the Company offers a complete suite of solutions and specialized platforms for our customers in multiple markets Our patented awardwinning technology keeps fleet owners and managers connected to their fleets and drivers to dispatchers Zonar has a proven history of continuous innovation on behalf of our customers providing products that efficiently and easily track commercial fleets and assets streamline reporting and significantly increasing safety while saving cost Leveraging a portfolio of 150 patents we are building upon these data and related analytics services to create the next generation of software and services for the 15M target customers in the US aloneppHeadquartered in Seattle and majorityowned by technology company Continental Zonar also has a Technology Development Center in downtown Seattle a regional office in Cincinnati and a distribution center outside of Atlanta Our culture is based on ingenuity leadership teamwork excellence passion integrity and fun Our company has grown to over 350 employees who are goaloriented and fastpaced but who understand the importance of having a healthy work life balance This is an excellent opportunity to work for a fastpaced growing innovative company make a big impact on a rapidly evolving space and have fun along the wayp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-22T22:35:36.000Z"
+  },
+  "company": {
+    "name": "Zonar Systems",
+    "link": "https://www.linkedin.com/company/zonar-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 75000,
+    "max_value": 115000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98104",
+    "street_address": null,
+    "latitude": 47.601467,
+    "longitude": -122.32967
+  }
+}

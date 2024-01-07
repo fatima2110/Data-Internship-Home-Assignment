@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps/Site Reliability Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "strongOUR STACKbrbrstrongstrongAPPLICATION MONITORINGstrong Instana Cloudwatch ELK Prometheus Influx GrafanabrbrstrongALERTING SYSTEM strongPagerdutybrbrstrongINFRASTRUCTURE AS CODEstrong Terraform CloudformationbrbrstrongAWS CLOUDstrong Lambda EKS ECS EC2 DynamoDb AuroraDb Kinesis SNS SQS Redshift API Gateway Cloudfront S3 IAMbrbrstrongEDGESIDE COMPUTE  WAF strongCloudflarebrbrstrongCICD strongGitHub Actions Jenkins TeamcitybrbrstrongSOURCE CONTROL strongGitHubbrbrstrongPROCESSstrong JIRA Confluence GitHubbrbrstronguWhat Is Expected Of YoubrustrongulliCan communicate effectively with a diverse teamliliUnderstanding best practices of software reliability and availabilityliliHas experience creating alerts and dashboards in Cloudwatch  Grafana  other APMSliliHas experience working with a development team to plan  build out tasks for setting SLI  SLOs for new and legacy features and can influence the applications SLAliliDemonstrate understanding of principles of the Incident Command System liliHas a wide breadth of knowledge of compute storage message queueing and networking of AWS resourcesliliHas experience writing Github Actions  Jenkins software pipelinesliliHas experience writing complex multiresource terraform  cloudformation stacks from scratchliliHas experience managing and deploying applications to kubernetesbrliulstronguQualificationsbrustrongulliExperience with modern APM technologies dashboarding setting application alarms and incident responselili3 years of hands on devops  sre experience lili3 years with python  nodelili3 years working with AWS with Infrastructure as Codelili3 years of experience with writing software development pipelineslili2 years of experience with kubernetes and helm chartslili2 years working closely with software development teamsbrliulstronguPreferred QualificationsbrustrongulliExperience with Instana Cloudwatch ELK Prometheus Influx GrafanaliliExperience with working with teams to define SLIs amp SLOs for new and existing servicesliliExperience with Github Actions or Jenkins CIliliExperience with Kubernetes and EKSliliExperience with software Incident Command System facilitating Post MortemsbrliulstronguAbout YoubrbrustronguShips Site Reliability Engineers integrated with software agile teams solving challenging problems in the logistics ecommerce space We are looking for an engineer to help ensure the reliability of our next wave of products Ideal candidates want to deeply understand how our systems work from the infrastructure level their dependencies to other systems how to mitigate risk and develop strategies for service failover Youll be building the foundation that enables us to empower the logistics landscape and help customers all over the worldbrbrstrongWhy uShipbrbrstronguShip offers bigcompany benefits in a smallish sized company because we really value and are committed to our people There are even some extras that will surprise youbrulli100 Paid Health and Dental availablelili401k matching with no vestingliliStock Optionslili100 paid maternity and paternity leaveliliuShip shipping credit 750liliPet InsuranceliliMonthly Wellness ReimbursementsliliCasual dress codeliliDogfriendly liliSo much morebrliulstronguCompany OverviewbrbrustronguShip is the worlds first and largest shipping marketplace making it quicker easier and more affordable to ship large or bulky items Consumers and businesses can compare and book bids from hundreds of thousands of customerreviewed transportation service providers ranging from independent owneroperators to the largest freight carriers and brokers From cars to cranes and furniture to freight our straightforward and transparent platform helps people businesses ecommerce sellers and multinational logistics companies ship with greater speed and efficiency Customers save money and service providers make money using their empty cargo space  everyone winsbrbrstrongInclusivity is KeybrbrstrongWe welcome diversity in all its forms and believe were better collaborators strategizers and thinkers because of it We show pride in our community by giving back and working with local charities uShip is an equal opportunity employer We are inspired to find candidates who embody our Core Values uShip prohibits discrimination and harassment of any type and affords equal employment opportunities to employees and applicants without regard to race color religion sex gender identity age parental status national origin disability or veteran status We celebrate diversity and are committed to creating an inclusive environment for all employees",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-27T00:00:00.000Z"
+  },
+  "company": {
+    "name": "uShip",
+    "link": "https://www.linkedin.com/company/uship"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

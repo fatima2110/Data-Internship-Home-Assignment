@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Automotive Software Engineer, Vehicle Level Controls",
+    "industry": "Computer Software,Automotive",
+    "description": "pPonyai is a startup colocated in Silicon Valley and China our mission is to revolutionize the future of transportation by building the safest and most reliable technology for autonomous vehicles Armed with the latest breakthroughs in artificial intelligence we aim to deliver our technology on a global scale We believe our work has the potential to transform lives and industries for the better We are looking for an experienced and motivated Automotive Software Engineer with a focus on Vehicle Level Controls to join our teamppbrppstrongRoles and ResponsibilitiesstrongpulliDevelop automotive standard software for vehiclelevel autonomous controlsliliImprove and deliver reliable software through requirements generation continuous integration automated testing issue tracking and code reviewsliliDevelop and test communication interfaces to vehicle systems sensors and other hardware componentsliliDesign failoperational strategies and architecture for redundant systemsliliDevelop fault diagnostics and prognosis for safety critical hardware componentsliliWork with component suppliers to calibrate and test sensors and actuatorsliliSupport simulation bench and invehicle testingliliSupport technical discussion with OEM and component suppliers and partnersliulpbrppstrongRequirementsstrongpulliAdvanced Degree in Computer Science Electrical Engineering Mechanical Engineering Mechatronics or related disciplinesliliExperience with automotive standard eg AUTOSAR MISRA software CC development in the Linux environmentliliExperience with automotive control system development instrumentation and calibration toolsliliUnderstanding of the design and application of vehicle systems eg steering braking and powertrainliliKnowledge of system identification dynamics and controlsliliExperience with automotive embedded and realtime control systems including OS and architectureliliExperience with automotive communication protocols CAN CAN FD and Automotive Ethernet and electrical architecturesliliKnowledge of autonomous driving software stack or advanced driver assistance featuresliliExperience with systems engineering processes and formal requirements management systemsliulpbrppstrongAbout PonyaistrongppPonyai Inc Ponyai is pursuing an ambitious vision for autonomous mobility We aim to bring safe sustainable and accessible mobility to the entire world We believe that autonomous technology can make our roads exponentially safer for travelers Founded in late 2016 Ponyai has been a pioneer in autonomous mobility technologies and services across the US and China spearheading publicfacing Robotaxi pilots in both markets The company is currently valued at 53B and some of its major investors include Toyota OTPP Sequoia Capital China and IDG Capitalp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:31:05.000Z"
+  },
+  "company": {
+    "name": "Pony.ai",
+    "link": "https://www.linkedin.com/company/pony-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 107000,
+    "max_value": 158000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Accounting,Information Technology and Services,Management Consulting",
+    "description": "Are you an experienced passionate pioneer in technology A systems professional who wants to work in a collaborative environment As an experienced Data Scientist you will have the ability to share new ideas and collaborate on projects as a consultant without the extensive demands of travelbrbrstronguWork Youll DoResponsibilitiesbrustrongulli Deep dives in largescale data to identify key insights that inform product improvements and business strategy lili Performing Data Analysis and finding solutions to various data based problems lili Responsible for designing high quality dashboards with BI tools such as Tableau or other internal tools lili Running PySpark pipeline for data analysis lili Strong knowledge of Python to do various analysis and develop ML based models lili Using Shell Script and Git environment to connect with various data sources to perform various analysis brliulstrongThe TeambrbrstrongOur Strategy practice brings together several key capabilities that will allow us to architect integrated programs that transform our clients businesses including Corporate amp Business Unit Strategy Technology Strategy amp Insights Enterprise Model Design Enterprise Cloud Strategy and Business TransformationbrbrStrategy professionals will serve as trusted advisors to our clients working with them to make clear datadriven choices about where to play and how to win in order to drive growth and enterprise valuebrbrStrategy will help our clientsbrulliIdentify strategies for growth and value creation liliDevelop the appropriate business models operating models and capabilities to support their strategic vision liliMaximize the ROI on technology investments and leverage technology and Cloud trends to architect future business strategies brliulstronguQualifications Requiredbrustrongulli 5 years of recent experience in a data science or data analyst role lili Demonstrated ability in applied empirical analytics data mining and predictive analytics to provide with actionable insights lili Experience measuring UX impact customer engagement planning and analyzing AB experiments lili Strong familiarity with multiple platforms tools methodologies in data analysis and insight synthesis lili Have strong working knowledge of database structures and data warehousing principles and have authoritative level SQL with the ability to ETL both structured and unstructured data from various sources lili Conceive and execute the design of end to end scripted analytics solutions using SQLTeraData as well as modern analytical systems in Spark SQL PySparkHadoop as well as experience using Notebooks lili Experience in data visualization tools such as Tableau for fullstack data analysis insight synthesis and presentation lili Strong knowledge and hands on experience doing complex quantitative analysis and working with distributed cluster computing lili Strong knowledge and hands on experience with scripting languages such Python R lili Expertise in building sophisticated ML models lili Prior experience working with financial products particularly credit cards is requiredliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-15T12:08:48.000Z"
+  },
+  "company": {
+    "name": "Deloitte",
+    "link": "https://www.linkedin.com/company/deloitte"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

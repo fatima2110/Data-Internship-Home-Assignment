@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Photonic Design Automation Engineer - PDK - 100% REMOTE",
+    "industry": "Semiconductors",
+    "description": "If you are a Sr Photonic Design Automation Engineer with Process Development Kit PDK experience please read onbrbrstrongJob Titlestrong Sr Photonic Design Automation Engineer  PDKbrstrongJob Locationstrong Pasadena CA  100 REMOTEbrbrOur companys core technology platform was developed with a total focus on high volume manufacture of highly integrated opticalelectronic devices Our large waveguide photonics platform offers multiple benefits over conventional solutions These benefits include higher density waveguide circuit design better manufacturing tolerance superior optical power handling and a more efficient interface from the photonics IC to the physical domainbrbrOur companys technology simplifies the manufacturing assembly and test process while maximizing the power efficiency of the optical systembrbrOver half of our team holds advanced technical degrees MSc and PhD and it includes world recognized experts in photonics process development photonics device design and modeling high speed CMOS mixed signal circuits optical circuit switching optical sensing and measurement systems and network systems architecture Our business leaders have amassed a spectacular track record including in multiple photonics startups with impressive investor returns in growing high volume optical manufacturing at scale and in forging marketleading communications semiconductor product lines Together the team is driving a vision for pervasive silicon photonics across a broad range of high volume applicationsbrbrTop Reasons to Work with Usbrulli Competitive Base Salary plus bonuslili Comprehensive Benefits package including equitylili The chance to join a rapidly growing well funded latestage Silicon Photonics startup with huge upside potentialbrliulWhat You Will Be DoingbrbrThe Senior Photonics Design Automation Engineer is responsible for implementing tools and workflows which accelerate the development of our full suite of products This will include and not be limited to develop maintain test and release proprietary Silicon Photonics Process Development Kits PDKs improve and lead software development best practices such as issue tracking and support development of physical verification scripts and infrastructure The Senior Photonics Design Automation Engineer will be expected to interact with software vendors and customers as necessary to push development of the toolchain and meet customer deliverablesbrulli Develops and validates all collaterals in the Silicon Photonics PDK for the full design flowlili Develops and maintains symbols pcells callbacks technology files etclili Interprets and accurately translates design rules and other documentation into PDK environmentlili Creates scripts that perform complex functionslili Improves and enforces software development best practiceslili Applies formal release and version control best practices to PDKslili Works closely with process designdevice modeling and layout engineers to deliver highest quality PDKslili Works with vendors of Silicon Photonic design and simulation as well as EDA tools to improve the state of the industry and meet company goalslili Works with external customers to understand and meet deliverableslili Competencies for Role Positive Attitude Efficient FlexibilityAdaptability Organized Strong Communication Skillslili Organizational Values Customers Results Excellence Innovation TeamworkbrliulWhat You Need for this PositionbrbrstronguPreferredbrbrustrongMust have a BS degree MS or PhD preferred in Computer Science Engineering or similar with 2 years industry experience in the followingbrulli Developing software in a collaborative environmentlili Silicon Photonics Process Development Kit PDKlili Photonic Design Automationlili Scripting C Perl Tcl Python Java etclili EDAEPDA Tools such as Synopsys Custom Compiler Cadence Virtuoso OptoDesigner OptSim Circuit IC Validator Mentor Calibre andor KLayout requiredlili Experience developing and maintaining Symbols PCells Callbacks Technology Files etclili Familiarity with ClioSoft GIT or other revision control systems and best practiceslili Familiarity with issue tracking systems such as JIRAlili Familiarity or interest in Silicon Photonics is preferredlili Experience with Windows and Linux shell scripting is preferredlili Familiarity with RF or analog circuit design and verification is a plusbrliulWhats In It for Youbrulli Competitive Compensationlili Flexible work environment flex hours and day  work 100 REMOTE even postCovidlili Our Equity offering is extremely competitive we are looking for candidates who are interested in taking a vested interest in our success and we are more than willing to share the rewards of that success with themlili We offer a stimulating and innovative work environmentbrliulSo if you are a Sr Photonic Design Automation Engineer with Process Development Kit PDK experience please apply today or send an updated copy of your resume to strongMikeVandenberghCyberCoderscomstrong for immediate considerationbrbrstronguEmail Your Resume In Word TobrbrustrongLooking forward to receiving your resume through our website and going over the position with you Clicking apply is the best way to apply but you may alsobrbrMikeVandenberghCyberCoderscombrulliPlease do NOT change the email subject line in any way You must keep the JobID linkedin  MV11600200  in the email subject line for your application to be consideredbrliulMike Vandenbergh  Lead Recruiter  CyberCodersbrbrApplicants must be authorized to work in the USbrbrstrongCyberCoders Inc is proud to be an Equal Opportunity EmployerbrbrstrongAll qualified applicants will receive consideration for employment without regard to race color religion sex national origin disability protected veteran status or any other characteristic protected by lawbrbrstrongYour Right to Workstrong  In compliance with federal law all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hirebrbrCyberCoders will consider for Employment in the City of Los Angeles qualified Applicants with Criminal Histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring Ban the Box Ordinance",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:16:09.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Sr."
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pasadena",
+    "region": "CA",
+    "postal_code": "91122",
+    "street_address": null,
+    "latitude": 34.14955,
+    "longitude": -118.14145
+  }
+}

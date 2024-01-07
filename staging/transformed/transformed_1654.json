@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Consumer Goods,Entertainment,Online Media",
+    "description": "strongCompany Overview brbrstrongWarnerMedia is a leading media and entertainment company that creates and distributes premium and popular content from a diverse array of talented storytellers and journalists to global audiences through its consumer brands including HBO HBO Max Warner Bros TNT TBS truTV CNN DC Entertainment New Line Cartoon Network Adult Swim Turner Classic Movies and othersWarner Bros has been entertaining audiences for more than 90 years through the worlds mostloved characters and franchises Warner Bros employs people all over the world in a wide variety of disciplines Were always on the lookout for energetic creative people to join our teambrbrstrong Business Unit Overview brbrstrongWB Technology combines Warner Bros industryleading technologists and disciplines to ensure global alignment with business strategy and accelerated delivery of innovative technology solutions studio and industrywide From preproduction through archiving the WBT organization will provide critical business and technology intelligence and services to all Studio business units WBT manages the Studios enterprise systems and solutions emerging platforms information security consumer intelligence content mastering and delivery and morebrbrstrongThe JobbrbrstrongWarnerMedia seeks a Data Scientist for the Digital Product Platform amp Strategy Data Intelligence Operations department We are looking for a talented data scientist to join our Data Intelligence Team The data scientist will be responsible for predictive modeling and analysis of customer data as well as researching best practices in analytics and data science and sharing them across the company to improve analytic capabilities at Warner BrosbrbrstrongThe Dailybrbrstrongulli Analyze and model internal customer data lili Build relationships and collaborate with analysts and researchers across WB lili Produce statistical and machine learning models that inform how we communicate with our customers lili Drive improvement in our methodologies systems and processes lili Provide analysis reporting and modeling to internal organizations based on customer data lili Prepare and present results of analyses to leadership brbrbrliulstrong The Essentials brbrstrongulli BABS degree in Statistics Mathematics Computer Science Economics Political Science or similar quantitative field lili Quantitative oriented Masters Degree or PhD preferred lili Minimum of 12 years of experience in analytics and data science lili 1 years of experience with conducting analysis in R Python SAS or similar analytical languages lili Experience with relational databases and SQL lili Experience with working in cloud based environments like AWS a plus lili Expertise in machine learning and predictive modeling approaches such as Random Forest GBM xgBoost neural networksdeep learning etc lili Skilled researcher able to distill large bodies of research to key findings and explain them to varied audiences lili Experience developing testing plans for evaluating campaigns or changes to products lili Knowledge of basic survey design and analysis lili Strong history of identifying opportunities for developing predictive models to meet business needs lili Love of TV Movies Games and Comics is a Plus lili Must be able to communicate effectively and tactfully with all levels of personnel both in person and on the telephone lili Must be able to pay close attention to complex detail and understand written and oral instructions lili Must be able to organize and schedule work effectively lili Must be able to work well under time constraints lili Must be able to handle multiple tasks with changing priorities communicating changes in scope and schedule to all parties concerned lili Must be able to work independently lili Must be able to maintain confidentiality brbrbrliulWarner Media LLC and its subsidiaries are equal opportunity employers Qualified candidates will receive consideration for employment without regard to race color religion national origin gender sexual orientation gender identity or expression age mental or physical disability and genetic information marital status citizenship status military status protected veteran status or any other category protected by law",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T18:14:57.000Z"
+  },
+  "company": {
+    "name": "Warner Bros. Entertainment",
+    "link": "https://www.linkedin.com/company/warner-bros--entertainment"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 77500,
+    "max_value": 141000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Burbank",
+    "region": "CA",
+    "postal_code": "91504",
+    "street_address": null,
+    "latitude": 34.182053,
+    "longitude": -118.30747
+  }
+}

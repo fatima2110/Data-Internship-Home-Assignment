@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "pnbspnbspppDetailed JD ppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspParticipate in architecture reviews ppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspParticipate in operations reviews ppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspIdentify and automate measurement of operations KPIs ppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspDevOps rollout and implementation ppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspAutomated the deployment of production ready technical solutions ppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspWriting automation that can be easily supported and extended by others ppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspTake full responsibility for the availability and performance of the platform ppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp3 years of software development experiencenbspppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspExpert at problem solving algorithms and data structures ppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspPassionate about investigating employing and managing 3rd party and open source solutions when building a cloud native platform ppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspExperience operating solutions based on a microservice architecture ppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspExperience in integrating and automating solutions to provide a highly scalable high throughput platform ppExperience working with mature development practices and tools for source control security and deploymentnbspp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-18T18:08:30.000Z"
+  },
+  "company": {
+    "name": "Scrumlink",
+    "link": "https://www.linkedin.com/company/scrumlink"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

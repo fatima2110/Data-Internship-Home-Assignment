@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Electrical/Electronic Manufacturing,Information Technology and Services,Mechanical or Industrial Engineering",
+    "description": "stronguAbout CompanybrbrustrongEstablished in Taiwan in 1974 Hon Hai Technology Group Foxconn is the worlds largest electronics manufacturer Foxconn is also the leading technological solution provider and it continuously leverages its expertise in software and hardware to integrate its unique manufacturing systems with emerging technologies By capitalizing on its expertise in Cloud Computing Mobile Devices IoT Big Data AI Smart Networks and Robotics  Automation the Group has expanded not only its capabilities into the development of electric vehicles digital health and robotics but also three key technologies AI semiconductors and newgeneration communications technology  which are key to driving its longterm growth strategy and the four core product pillars Consumer Products Enterprise Products Computing Products and Components and OthersbrbrDGroup is a business group within Foxconn with more than 50000 employees a global footprint including China Taiwan and over ten other countries with functions including RampD sales manufacturing supply chain management products and services extending into IT product manufacturing computers printers printer cartridges monitors game consoles and wireless speakers industrial PCs aftersales services recycling peertopeer digital payment platform and strategic investments on behalf of customers to provide an endtoend onestop solution for RampD manufacturing salesmarketing and aftersales servicesbrbrstronguAbout JobbrbrustrongSoftware Engineer responsibilities include gathering user requirements defining system functionality and writing code in various languages Our ideal candidates are familiar with the software development life cycle SDLC from preliminary system analysis to tests and deploymentbrbrUltimately the role of the Software Engineer is to build high quality innovative and fully performing software that complies with coding standards and technical designbrbrstronguJob ResponsibilitiesbrustrongulliPerform Core software development and delivery activities for BaaSDaaSDevOps platformliliDesign develop test implement and maintain functionalities within BaaSDaaSDevOps PlatformliliWork on development and delivery of BaaSDaaSDevOps in Java Net Core C HTML5 VuejsReactjs Nodejs CSS3 JavaScriptjQuery and other codesliliExecute appropriate software engineering procedures and processesliliParticipate and follow design control activities to ensure consistent design concept such APIs and Services within BaaSDaaSDevOps PlatformliliPerform development and delivery activities among team members for a reliable implementationliliApply technologies and tools and the best practice defined in BaaSDaaSDevOps Platform to the software engineering activitiesliliCollaborate with team members within and outside SAT in NA and China to align leverage and implement the best practiceliliWork on tasks and duties as requested by ManagementbrliulstrongJob Requirement brstrongulliBS or MS in Computer Sciences or equivalent work experiencelili3 years of experience as software engineer 1 years of proficiency in JavaScript programming for API and serviceoriented architectureliliExperience with Java Net Core C HTML5 VuejsReactjs Nodejs CSS3 JavaScriptjQueryliliStrong understanding of the software designarchitecture process and design patternsliliKnowledge of packaging web application in modules or selfsufficient containersliliProven experience of building integrations with APIs using technical interface specificationsliliExperience in Agile development and working withwithin Agile teamsliliExperience with DevOps tools like JenkinsliliStrong analysis problemsolving and troubleshooting skillsliliExcellent verbal and written skills Attention to detail and organizationbrliulstrongFoxconn provides equal employment opportunities EEO to all employees and applicants for employment without regard to race color religion sex national origin age disability or genetics In addition to federal law requirements Foxconn complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities This policy applies to all terms and conditions of employment including recruiting hiring placement promotion termination layoff recall and transfer leaves of absence compensation and trainingbrbrstrongPowered by JazzHRbrbr2HGNSAiq7s",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T12:58:56.000Z"
+  },
+  "company": {
+    "name": "Foxconn",
+    "link": "https://www.linkedin.com/company/foxconn"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Houston",
+    "region": "TX",
+    "postal_code": "77208",
+    "street_address": null,
+    "latitude": 29.760803,
+    "longitude": -95.36951
+  }
+}

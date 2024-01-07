@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "pSenior Software Engineer Site ReliabilityppbrppstrongWho are westrongppstrongWe are Americas Workforce Specialists The largest light industrial staffing company in the United States and a preeminent resource for professional staffing We offer local expertise and service through our nearly 600 branches and provide a full range of employment solutions to companies nationwidestrongppstrongWhat are we looking forstrongppstrongOur Corporate office is looking for a Senior Software Engineer to join our remote platform engineering team You will be developing core frameworks components and services that will be the foundational pieces for our suite of applications We are a dynamic team of various skillsets and need someone who has a background in Database administration or Security This position is 100 remote the ideal candidate will be based in the Central or Eastern time zonestrongppstrongPrimary ResponsibilitiesstrongpulliDesign develop and maintain infrastructure components that will be used to build out our strongAWS strongcloud infrastructure environments for software engineering teamsliliDeveloping reusable strongTerraformstrong modules that are secured in strongGitHub strongsource controlliliBuild into and enhance the strongcontinuous integration  continuous deliverystrong pipelinesliliConduct infrastructure reviews using the strongAWS Well Architected ToolstronglilistrongExhibit a leadership strongstyle and be a strongforce multiplierstrong that helps to grow others around the organizationliliEvaluate and integrate application tools into our application ecosystem Examples Logging Monitoring Feature Toggling Static Code Analysis Testing Secrets Management Artifact Repository etcliliBe a collaborative team player working on an agile strongscrumstrong teamliliA curiosity to understand the inner workings of our systems and a focus on strongcontinuous improvementstrong of our applications and services to ensure the highest level of customer satisfactionliliParticipate in agile strongscrumstrong activities and ceremoniesliliProvide strongproduction supportstrong for infrastructure and tooling issues that may arise during business hoursliulp ppstrongRequirementsstrongpulliSpecific expertise in one of the following areas strongDatabase Administration or SecuritystronglilistrongSolid experience with TerraformstronglilistrongA passion strongfor technology and providing stronginnovative ideas strongto help the company be a standout engineering organization in the staffing industryliliBachelors Degree in Computer Science Computer Engineering or related technical experiencelilistrong5 yearsstrong of relevant stronghandsonstrong software engineering experienceliliExperience working on strongenterpriselevelstrong applicationsliliExperience with the application build process and integration and deployments to onprem and cloud environments like strongAWSstronglilistrongExperience building core components and services for alerting monitoring logging builds deployments authentication authorization and many morestronglilistrongAbility to work in a team environment independently pairing and possibly doing mob programmingstronglilistrongExperience evaluating and implementing best practices tools and techniques for software development leading code reviews and coachingmentoring engineersstronglilistrongExperience supporting AWS production environmentsstrongliulp ppstrongPlusesstrongpulliCloud certification in AWSliliAdministering managed database services in AWSliliFamiliar with security tooling from Palo Alto  Prima Cloud Cortex XDR PanoramaliliExperience with Configuration Management tools such as AnsibleliliExperience with CICD tools such as Github Retrieve Jenkins or Gitlabliulp pp ppEmployBridge offers a competitive benefits package which includes comprehensive Health coverage including MedicalDentalVision and prescription drug benefits 401k paid time off and holidays flexible spending accounts and a wellness programppEmployBridge is an equal opportunity employer We evaluate qualified applicants without regard to race color religion sex sexual orientation gender identity national origin disability veteran status and other legally protected characteristicsppp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-15T14:46:54.000Z"
+  },
+  "company": {
+    "name": "EmployBridge",
+    "link": "https://www.linkedin.com/company/employbridge"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

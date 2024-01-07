@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer &amp; Network Security",
+    "description": "pstrongData ScientiststrongppOur client is looking for a Data Scientist to collaborate with our team on current projects and contribute to the architecture design and development of their AIML powered Passwordless Continuous Authentication Your primary focus will be on applying data mining techniques doing statistical analysis and building highquality prediction systems integrated with our productsppThis position may require participation in customer meetings to discuss the software requirements and present solution architectures and designs to our customers Therefore strong verbal and written communication skills as well as good presentation skills are required for this positionppbrppstrongResponsibilities IncludestrongppCalculate and automate scoring using machine learning techniquesppBuild recommendation systemsppImprove and extend the features used by the existing data classifierppDevelop and test AIML algorithmsppBuild a system for automated fraud detectionppSelecting features building and optimizing classifiers using machine learning techniquesppData mining using stateoftheart methodsppExtending the companys data with third party sources of information when neededppEnhancing data collection procedures to include information that is relevant for building analytic systemsppProcessing cleansing and verifying the integrity of data used for analysisppDoing adhoc analysis and presenting results in a clear mannerppCreating automated anomaly detection systems and constant tracking of its performanceppbrppstrongSkills amp Experience Were Looking Forstrongpp2 years of handson experience in data science data analytics or a related quantitative fieldppMS degree in a quantitative discipline applied mathematics statistics computer science operations research or related fieldsppStrong knowledge of Python programming language extensive experience working with Numpy and Pandas and additional experience in one or more of scikitlearn PyTorch or Tensorflow and ability to write neat and welldocumented codeppProficiency in using query languages such as SQLppSolid knowledge of machine learning techniques Clustering Neural Networks decision trees Naive Bayes SVM etc and their advantagesdrawbacksppStrong mathematical skills and working knowledge of applied statistics regression distributions statistical tests time series etc and their applicationsppComfortable working with git version controlling and commandline interfaceppExcellent verbal and written communication skillsppbrppstrongNice to havestrongppKnowledge of semisupervised learning methodsppKnowledge of operations researchppSoftware development experience in PythonppStrong knowledge of cybersecurityp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T20:33:53.000Z"
+  },
+  "company": {
+    "name": "VanderHouwen",
+    "link": "https://www.linkedin.com/company/vanderhouwen"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Portland",
+    "region": "Oregon Metropolitan Area",
+    "postal_code": "97215",
+    "street_address": null,
+    "latitude": 45.553497,
+    "longitude": -122.90853
+  }
+}

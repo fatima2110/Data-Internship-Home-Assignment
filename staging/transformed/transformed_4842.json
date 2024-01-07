@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "pThe ideal candidates favorite words are learning data scale and agility You will leverage your strong collaboration skills and ability to extract valuable insights from highly complex data sets to ask the right questions and find the right answers pp pstrongResponsibilitiesstrongulliAnalyze raw data assessing quality cleansing structuring for downstream processing liliDesign accurate and scalable prediction algorithms liliCollaborate with engineering team to bring analytical prototypes to production liliGenerate actionable insights for business improvementsliulpstrongbrstrongppstrongQualificationsstrongppulliBachelors degree or equivalent experience in quantative field Statistics Mathematics Computer Science Engineering etc liliAt least 1  2 years of experience in quantitative analytics or data modeling liliDeep understanding of predictive modeling machinelearning clustering and classification techniques and algorithms liliFluency in a programming language Python CC Java SQL liliFamiliarity with Big Data frameworks and visualization tools Cassandra Hadoop Spark Tableauliulp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-19T15:58:53.000Z"
+  },
+  "company": {
+    "name": "Modis",
+    "link": "https://ch.linkedin.com/company/modis"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Southfield",
+    "region": "MI",
+    "postal_code": "48037",
+    "street_address": null,
+    "latitude": 42.480198,
+    "longitude": -83.241
+  }
+}

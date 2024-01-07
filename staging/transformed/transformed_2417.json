@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site reliability Engineer",
+    "industry": "Internet,Information Technology and Services",
+    "description": "stronguPreferred QualificationsbrustrongulliDevOps Experiencelili Public Cloud Experience Microsoft AzureliliContainer Concepts DockerliliOrchestration KubernetesliliSource Control GitHub Bitbucket Azure Repos etcliliContinuous Integration  Azure Pipelines Jenkins Bamboo etcliliContinuous Deployment Azure DevOps Jenkins etcliliExperience with infrastructure automation tools Terraform Packer Puppet Ansible etcliliScripting Experience Python Ruby Bash Shell NodejsliliSecurity and Network awarenessliliProduct MindsetliliLearnabilityliliSelf MotivatedliliExperience in Agile methodologiesliliExperience working with global teamslili Good communication amp interpersonal skillsbrliulstronguMinimum Qualificationsbrustrongulli5 years of IT industry experience with a BachelorsMasters Degree in Computer Science or equivalentliliStrong Software Engineering PrinciplesliliProduct Company Experienceliul",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-03T01:56:09.000Z"
+  },
+  "company": {
+    "name": "Resiliency LLC",
+    "link": "https://www.linkedin.com/company/resiliencyllc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Bruno",
+    "region": "CA",
+    "postal_code": "94067",
+    "street_address": null,
+    "latitude": 37.627277,
+    "longitude": -122.416145
+  }
+}

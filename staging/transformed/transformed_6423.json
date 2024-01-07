@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Hardware Test Engineer",
+    "industry": "Medical Devices,Biotechnology,Hospital &amp; Health Care",
+    "description": "pstrongPosition Senior Hardware Test EngineerstrongppstrongLocation San Jose CA strongppstrongDuration 34 Months ContractstrongppstrongnbspstrongppstrongPay Rate 50hr  58hr depending on experiencestrongppstrongnbspstrongppstrongRelocation Expenses Assistance NOstrongppstrongnbspstrongppstrongJob DescriptionstrongpulliWe are looking for a Senior RampD Hardware Test Engineer with strong experience in instrumentation measurements both analog and digital liliKnowledgeable in PCB test standards FPGA testing and highspeed board test design Methodologies of calibration and understanding of measurements uncertainty six sigma and ICTDFTFCTliliThe candidate will work closely with the hardware design teams throughout the product life cycle by defining and specifying test requirements You will be supporting pretesting of the Hardware developed by the design teams and supporting the team through product execution ultimately leading the manufacturing test team to leverage your ATE test platformliliThe ideal candidate must be responsive flexible and able to succeed within an open collaborative peer environment across multiple projects simultaneouslyliliInterface with the RampD designers and other Hardware Engineers to define the most efficient and accurate measurement for testing the boards functionalityliliDesign the test fixturesliliAbility to remotely manage computers using SSH or VNC protocol using Git version controlliliWork closely with validation test engineers to insure that the test fixtures would satisfy module automated testingliliDrive system verification of solutions through ATEFCTliliSupport the HW team with sub system bringup and test fixturesliliResponsibility for Test definition and calibration of the ATEliliCollaborate with HW Design Engineers to develop and execute hardware verification test plansliliBoard level functional testingliliDesign build and program test systems used in HW testing as well as generate automated reports tracking for test resultsliliAnalyze test results and test data to determine if design meets functional and performance specificationsliliExtensive experience in testing of Digital and AnalogMixed signal circuitsliliExperience using RF measurement instruments highspeed oscilloscopes signal generators arbitrary waveform generatorsliliAbility to read and interpret PCB schematics and perform basic digital and analog circuit analysisliliExperience designing and analyzing test procedures to minimize measurement errorliliKnowledge of industrial controls systems and their communications interfaces and protocols such as EthernetIPliliProficiency with measurement automation tools and scripting languages such as Python Labview Labwindows and MatlabliliExperience with electronic hardware design tools such as Cadence or Mentor GraphicsliliFamiliarity and experience working with Gigabit Ethernet FPD link CAN SPI I2C LIN and RS232liulpnbspppstrongMinimum QualificationsstrongpulliBachelors degree in Electrical Engineering or similar technical disciplineliliMSEE PreferredliliMinimum 5 years of experience as a Test Engineer supporting product introductionliulpstrongnbspstrongppstrongDesired SkillsstrongpulliAbility to install and configure a Linux distribution on desktop or embedded systemsliliFamiliarity with the prebuilt highperformance computing HPC software stack used in AMD Xilinx devicesliliComfortable installing prebuilt Linux packages with the occasional build from sourceliliWrite humble highlevel test scripts in Python using precompiled software to support that aspirations lowlevel realtime DSP designersliliICT FCTliliFPGA BIST High speed SERDEs testing IBERTliliAnalog measurements noise Jitter oscilloscope spectrum DMMliliADC and DAC testing noise dynamic rangeliliInstrument and test calibration proceduresliliGUM analysisliliSix sigma application DFSSliul",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-31T00:12:21.000Z"
+  },
+  "company": {
+    "name": "Amerit Consulting",
+    "link": "https://www.linkedin.com/company/amerit-consulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

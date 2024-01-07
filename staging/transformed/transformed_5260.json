@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Identity Management Software QE Engineer (Early Career)",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brImagine what you could do here At Apple great ideas have a way of becoming great products services and customer experiences very quickly Bring passion and dedication to your job and theres no telling what you could accomplishbrbrbrApples Identity Management Services Quality Engineering group is looking for a highly motivated Engineer with a strong background in Software Development and Quality Engineering to join its team of highly skilled software engineers You will be responsible for quality engineering of server side for customerfacing distributed platforms and applications in a fast paced dynamic environment Your job is to keep our highquality bar set ridiculously high and to help us identify and execute ways to raise it even higher brbrbrThe Quality Engineer in this role will play a key function in delivering highly critical Identity Management Authentication amp Authorization services and features for customers in a timely manner In this role you are encouraged to learn and use latest technologies like ML and AI to improve the automationbrbr brstrongKey Qualificationsbrstrong brInternship or work experience in Software DevelopmentQuality EngineeringbrbrExperience working with Java Python or other OO languagesbrbrFamiliar with QE automation architecture methodologies processes toolsbrbrExperience in testing Web Services Rest amp SOAP databases and batch processesbrbrUnderstanding of software build tools and CICD integrationsbrbrExperience in automating functional system integration and failover tests at server levelbrbrExperience in tools like Selenium WebDriver Appium Postman SOAPUI for API Web iOS and MacOS platformsbrbrProven track record to deliver highquality work on tight schedulesbrbrAbility to work in a fastpaced environment with frequent context switchingbrbrSelfmotivated independent and proactivebrbrOutstanding collaboration and organizational skillsbrbrExcellent written and verbal communication skillsbrbr brstrongDescriptionbrstrong brProvide functional and integration qualityassurance testing for features at whitebox and API using REST API tools or SOAPUI or API testing toolsbrbrProvide functional and integration qualityassurance testing for features at web iOS and MacOS using tools like Selenium WebDriver Appium UI Automation or Robot framework etcbrbrBuild Quality test plans and cases with the goal of 100 automation and reduction of regression test cyclebrbrTake Quality to next level by using ML and AI in automationbrbrBuild test management toolsutilities and enhance existing automation platforms brbrWork closely with crossfunctional organizations project teams and clients to develop test plans execute test plans and cases and deliver high quality productsbrbrAct as a strong advocate for quality in the software development processbrbrIdentify gaps or inefficiencies in workflows and suggest necessary process improvements brbrSelfmotivated able to grasp issues quickly and make educated critical judgment in the absence of complete requirementsbrbrProvide project managers with timely and accurate testing status and progress during all testing phases including summarizing Quality results at project conclusionbrbr brstrongEducation amp Experiencebrstrong brBachelors degree in CS CE ECE EECS IS IT and other related fields of studybrbr brRole Number 200257937brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:29:33.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

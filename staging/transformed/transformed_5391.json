@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "pXignite Engineering is a talented energetic team building out a highly scalable and reliable cloudcomputing architecture that powers Xignite and enables the business to grow rapidly Our engineering team creates complete endtoend technology products and solutions to deliver financial market data timely and accurately to our customersppbrppstrongThe RolestrongpulliDesign build and deploy high performance faulttolerant scalable front end and back end servers for fast optimized web servicesliliGain a deep understanding of the financial industry and business requirements and work with the product team to create justintime deliverablesliliLeverage your knowledge and understanding to create innovative business solutionsliliDrive improvements in team productivity through tools processes testdriven development and continuous refactoringliliTake full ownership and responsibility for the success of your deliverables from design through production deploymentliliAbility to work in a fastchanging environmentliulpbrppstrongRequired Skill SetstrongpulliBS MS or PhD in Computer Science or related disciplineexperiencelili25 years experience with NETliliProficiency with CliliSolid object oriented design and analytical skillsliliHighly selfmotivated with a strong sense of ownership and urgencyliliGood communication skillsliulpbrppstrongBonus SkillsstrongpulliDeep NET Core skills in memory management multithreading serializationliliExperience developing for and deploying to the cloud AWS or Microsoft AzureliliExperience building largescale server applications or distributed systemsliliSQL experience SQL Server or MySQLliliKeyvalue storesliliExperience with microservices Linux Docker REST APInbspAkkaNet gRPC OAuthOpenIDliliExperience with automated test frameworksliliKnowledge of financial market dataliliMaintaining a GitHub like account contributing to open source projects posting answers on StackOverflowliulpbrp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-21T01:12:23.000Z"
+  },
+  "company": {
+    "name": "Xignite",
+    "link": "https://www.linkedin.com/company/xignite"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

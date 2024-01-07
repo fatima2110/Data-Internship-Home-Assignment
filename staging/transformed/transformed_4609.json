@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "The CompanybrbrMiso Robotics is transforming the restaurant industry and making a real impact on the world Weve developed a robotic kitchen assistant Flippy that can perform a variety of kitchen tasks including flipping burgers and running the deep fryer Our product is a robotic arm on a rail that fits into existing kitchens along existing cook lines and is designed to work with existing equipment alongside kitchen workers Under the hood Flippy relies on our platform which combines deep learning and other computer vision technologies with optimizationbased scheduling and nonlinear control to adapt quickly to a variety of kitchen workflows while achieving graceful and efficient motionbrbrThe challenge of bringing robotics into commercial kitchens requires many disciplines to come together The compositions of teams at Miso Robotics reflect this multidisciplinary nature of our work We have built a worldclass team and we are looking for more exceptional people to join us If you believe like we do that the future of the kitchen involves robotics and artificial intelligence HINT It definitely does and if you want to count yourself among the handful of lucky people whove found themselves with the opportunity to solve this problem then Miso Robotics might be the right place for youbrbrThe RolebrbrIn the Site Reliability Engineer role you will be responsible for bridging the gap between products operations and developers through automation tools and methodologies You will work closely with our software engineering team to design define execute monitor and manage our cloud infrastructure to meet company needs The team is still growing so the responsibilities will be wide and varied This particular role will focus on a lower level towards the OS with Linux Ubuntu Docker Bash etcbrbrWhat Youll DobrbrstronguIn This Role You WillbrustrongulliCollaborate with developers and operations to automate build and deploy using GCP Docker Jenkins and other CD toolsliliCollaborate with developers to automate testing using hardwareintheloop virtual environments Docker Jenkins and other CI toolsliliEnsure high availability and disaster recovery in placeliliImplement and improve DevOps tools processes and proceduresliliShare responsibility for network security usability and access controlliliCreate and maintain infrastructure to meet product and developer needsliliManage and improve software versioning and release deploymentliliCreate reports and manage metrics for deployed software and infrastructureliliScale our current infrastructure and tools up to great lengthsbrliulNecessary SkillsbrulliBachelors degree in Computer Science or another relevant engineeringscience fieldlili4 experience working in SRE roles for IoT productsliliExpert skills in Docker Bash Linux UbuntuliliExpert skills with scripting and automation Python BashliliExperience in automated builds tests and deployments using Git Jenkins GCP CICD and configuration managementbrliulstronguAdditional Skills To Succeed In This RolebrustrongulliExperience in Agile development and JiraConfluence workflowliliExperience in network management of both cloud and onprem networks including VPN and routingliliExcellent understanding of Software Development Life Cycle and versioningliliExcellent understanding of implementing using and deploying SQL databasesliliExperience in autoscaling cloud tools and working with large numbers of serversliliStrong understanding of security considerations and responses on all frontsliliSuperb oral and written communication skills including documentationliliAbility to collaborate effectively within a team and across teamsliliInitiative in recognizing what needs to be done and taking actionliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T20:54:36.000Z"
+  },
+  "company": {
+    "name": "Miso Robotics",
+    "link": "https://www.linkedin.com/company/miso-robotics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pasadena",
+    "region": "CA",
+    "postal_code": "91122",
+    "street_address": null,
+    "latitude": 34.14955,
+    "longitude": -118.14145
+  }
+}

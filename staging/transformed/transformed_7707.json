@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "pAre you looking to join a groundfloor startup where your work makes an immediate impactppbrppDo you want to be a part of a dynamic team with diverse backgrounds improving benefit offerings and the experience for employeesppbrppDo you want to be a part of the discussion and impact decisions that shape the future of the company you work forppbrppOur ideal candidate is a selfmotivated problem solver who thrives in an open and collaborative environment You enjoy supporting and developing an application that will reinvent itself as and scale with market adaptationppnbspppstrongDay to Day ResponsibilitiesstrongpulliWriting clean highquality highperformance maintainable codeliliDevelop and support software including applications database integration interfaces and new functionality enhancementsliliDesign robust secure and scalable featuresliliCoordinate crossfunctionally to insure project meets business objectives and compliance standardsliliSupport test and deployment of new products and featuresliliParticipate in code reviewsliulpbrppstrongQualificationsstrongpulliBachelors degree in Computer Science or related field Extensive Experience in software engineering considered in lieu of degreelili2 years of Ruby on Rails development experienceliliExperience working with relational databases MySQL preferredliliExpertise in front end technologies eg JavaScript CSS HTML and JQueryliliExperience with Agile or Scrum software development methodologiesliliAn analytical mind in addition to a problemsolving attitudeliliAbility to multitask organize and prioritize workliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:01:05.000Z"
+  },
+  "company": {
+    "name": "benefitbay™",
+    "link": "https://www.linkedin.com/company/benefitbay"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

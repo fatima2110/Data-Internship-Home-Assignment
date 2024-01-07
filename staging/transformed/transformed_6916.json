@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Banking,Financial Services",
+    "description": "stronguJob DescriptionbrbrustrongAt Bank of the West our people are having a positive impact on the world Were investing where we feel we can make the most impact like advancing diversity and women entrepreneurship programs financing for more small businesses and promoting programs for sustainable energy From our locations across the US Bank of the West is taking action to help protect the planet improve peoples lives and strengthen communities We are part of BNP Paribas a global leader supporting the UN Sustainable Development Goals SDGs Yes were a bank but as the bank for a changing world we are continually seeking to improve the ways we help our customers while contributing to more sustainable and equitable growthbrbrstronguJob Description SummarybrbrustrongContributes to the development modification testing adaption andor implementation and post implementation support of short and longterm software solutions to business and technology needs Reviews system requirements and business processes codes tests debugs and implements software solutions Works independently in a fast paced environment on moderately complex issuesbrbrstronguEssential Job FunctionsbrustrongulliProvides software development services typically in a defined moderately complex projectliliConducts a wide range of moderately complex quality control tests and analyses to ensure that software meets or exceeds specified standards and enduser requirementsliliReviews system requirements and business processes codes tests debugs and implements software solutions Makes recommendations on process improvementsliliDetermines software design requirementsliliReviews software policies standards and procedures and make recommendations for changeliliLeads users in the planning of user acceptance testing alpha and beta testingliliCreates test data files with valid and invalid records to thoroughly test program logic and verify system flowliliManage environments ImplementDeploy software upgrade to various environments and support post implementationliulstrongOther Job DutiesbrstrongulliCreates Conceptual approach Estimation Detailed design Software Deployment Guide Supplemental or non functional specificationliliDefines and documents software installation and configuration processesliliCoordinates and communicates applications support activities with key stakeholdersliliReviews platform requirements and coordinates with vendors and other IT groups in buildingmaintaining hardware 3rd party software patches and network related components to comply with IT standards and proceduresliliPerforms other duties as assignedbrliulstronguJob QualificationsbrbrustrongstrongRequired ExperiencebrstrongulliRequires practical knowledge of job area typically obtained through advanced education combined with experienceliliRequires 3 years minimum prior relevant experiencebrliulstrongEducationbrstrongulliBachelors DegreebrliulstrongFull Stack EngineeringbrstrongulliPerforms low difficulty development with guidance using Agile methodologies including Scrum or KanbanbrliulstrongSDETbrstrongulliTests using Agile methodologies including Scrum or Kanban or other SDLC methodologiesliliCreate automation test strategiesliliDevelop and execute automated tests of moderate complexity and difficultyliliSupports POCs installation configuration and maintenance of shared Testing tools and frameworksliliWith minimal guidance will create test utilities and tool connectors in support of creatingmaintaining automation frameworksliliExecute performance and load testing strategiesliliUnderstands CICD processes DevOps practices and fullstack methods and has the ability to test debug and codeliliSolid technical competency in an Object Oriented Programing languagebrliulstrongEqual Employment Opportunity PolicybrbrstrongBank of the West is an Equal Opportunity employer and proud to provide equal employment opportunity to all job seekers without regard to any status protected by applicable law Bank of the West is also an Affirmative Action employer  Minority  Female  Disabled  VeteranbrbrBank of the West will consider for employment qualified applicants with criminal histories pursuant to the San Francisco Fair Chance Ordinance subject to the requirements of all state and federal laws and regulationsbrbrstrongPrimary LocationbrbrstrongUnited StatesArizonaTempebrbrstrongJobbrbrstrongTechnologybrbrstrongJob PostingbrbrstrongSep 1 2021 82758 PM",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:20:22.000Z"
+  },
+  "company": {
+    "name": "Bank of the West",
+    "link": "https://www.linkedin.com/company/bank-of-the-west"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tempe",
+    "region": "AZ",
+    "postal_code": "85280",
+    "street_address": null,
+    "latitude": 33.42552,
+    "longitude": -111.94125
+  }
+}

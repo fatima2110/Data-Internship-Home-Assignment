@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Software Engineer",
+    "industry": "Financial Services,Information Technology and Services",
+    "description": "Every day Global Payments makes it possible for millions of people to move money between buyers and sellers using our payments solutions for credit debit prepaid and merchant services Our worldwide team helps over 3 million companies more than 1300 financial institutions and over 600 million cardholders grow with confidence and achieve amazing results We are driven by our passion for success and we are proud to deliver bestinclass payment technology and software solutions Join our dynamic team and make your mark on the payments technology landscape of tomorrowbrbrstronguPrimary Responsibilitiesbrustrongulli Help maintain and extend existing applications written in Laravel 567 MySQL Vue amp jQuerylili Develop and maintain publicly consumable packages to make it easy to integrate to our services lili Architect and evolve evergreen projects using the latest versions of Laravel and Vue brliulstronguRequired SkillsKnowledgebrustrongulli Extensive experience with PHP amp Laravel 5x and greater lili Experienced in designing and maintaining MySQL databases lili Experience with testing and testdriven workflows PHPUnit lili Working with Git Github and common Git based workflows lili Advanced knowledge building RESTful APIs lili Comfortable developing in a Linux environment lili Motivated to contribute and release to open source software lili Comfortable in a fast paced evolving environment lili Hands on passionate and persistent lili Extremely comfortable with CLIs lili Strong JS skillset Vue or React Vanilla ES67 lili Strong desire to evolve progress learn and collaborate brliulstronguBonus SkillsKnowledgebrustrongulli Docker lili AWSVapor lili Active and involved with the Laravel community lili Experience in the payment acceptance industry lili Familiar with PCI DSS brliulstronguBenefitsbrustrongulli The chance to make a huge impact on a business lili Direct involvement in all aspects of the products development lili Ability to work on a forward focused techstack lili Competitive salary based on experience lili 401K lili HealthDentalVision Insurance brliulGlobal Payments Inc is an equal opportunity employerbrbrGlobal Payments provides equal employment opportunities to all employees and applicants for employment without regard to race color religion sex including pregnancy national origin ancestry age marital status sexual orientation gender identity or expression disability veteran status genetic information or any other basis protected by law Those applicants requiring reasonable accommodation to the application andor interview process should notify a representative of the Human Resources Department",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T21:48:32.000Z"
+  },
+  "company": {
+    "name": "Global Payments Inc.",
+    "link": "https://www.linkedin.com/company/global-payments"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Sr."
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Michigan",
+    "region": "United States",
+    "postal_code": "48832",
+    "street_address": null,
+    "latitude": 44.874798,
+    "longitude": -85.73098
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Application Support Engineer",
+    "industry": "Financial Services",
+    "description": "pstrongSenior Applications Support EngineernbspDirect Hire rolestrongppNew York NYnbspOnsite after CovidppbrppThe Senior Applications Support Engineer is accountable and responsible for performing application management servicesnbspadministration maintenance and support of financial applicationsppbrppstrongKey Activities includestrongpp Administering and configuring softwarepp Adhering to change management best practicespp Triaging problems with applications  identifying known errors and problem trends and finding permanentppnbspsolutions through root cause analysispp Providing level 2 and 3 application supportppThe resource must also be able to communicate technical information accurately and imagine conceptualizeppand articulate current and future state environmentsppThe applications engineer needs to be proficient in the application that heshe is administering to be able to facilitateppstrategic and tactical initiativesppAdaptability and flexibility in supporting evolving organizational needs is paramountppThe resource will also be expected to engage and collaborate with business partners and lead and participateppin initiatives both tactical and strategicppThe role will be part of the application management team that maintains administers and supports the business applications in the EbankingDigital Banking domain within the organization The engineer will collaborate with stakeholders from Service and Delivery cash management compliance and ITppnbspnbspppstrongQualifications and Experience includestrongpp Excellent troubleshooting and communication skillspp Adaptability and flexibilitypp Ability to work independentlypp Proven ability to assess problems and research solutionspp Proactively solve problems using automation where possiblepp Strong analysis and problemsolving skills for financial system supportpp Keen awareness of system vulnerabilitiespp Knowledge of Windows Operating Systems relational databases Microsoft SQL and Oracle databases WebSphere Application Server Apache Tomcat IIS IBM MQ Business Objects Net and Java applications cloud platforms such as VeriPark Q2 Temenos Backbasepp Good experience with sFTP technologiespp Ability to navigate and troubleshoot Microsoft 365 platformpp Experience with Azure Office 365pp Familiarity with programming languages a plus Java CNET APEX PowerShell PERL Python HTML CSS and JavaScriptp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T01:53:41.000Z"
+  },
+  "company": {
+    "name": "TriSearch",
+    "link": "https://www.linkedin.com/company/tri-search"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

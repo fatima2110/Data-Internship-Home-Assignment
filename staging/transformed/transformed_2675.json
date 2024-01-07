@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "Title  Site Reliability EngineerbrLocation  Seattle WA  Remote brPosition type  Full timebrbrTitle  Site Reliability EngineerbrPosition type   Full timebrLocation  Seattle WAbrbrJob descriptionbrbrSummary of Experiencebr br Coding and Operations experience 5 years combinedbr Designing supporting and deploying all types of applications and tools 2 yearsbr Support of CICD Dev Tooling 2 yearsbr Operating complex largescale Enterprise applications or web sites 4 yearsbr Experience working in an environment that implemented Agile 2 yearsbr Ecommerce experience 2 yearsbr brRequired Knowledge Skills and Abilitiesbr br Continuous delivery tooling br Cloud Experience preferably with AWS  Terraformbr Security experience Akamai CDN  Bot Managerbr Keen understanding of branching versioning and release strategiesbr Scripting languages such as Python Bash Perlbr Infrastructure as code Terraformbr Hands on experience with Jenkins and artifact repository Nexus administrationbr Experience with automating software tests in a pipelinebr Proven experience with ELK stack New Relic Netdata Graphite Grafana br Commercial retail website architecturebr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T18:35:21.000Z"
+  },
+  "company": {
+    "name": "Cloudix Inc.",
+    "link": "https://www.linkedin.com/company/cloudix-cloudix"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

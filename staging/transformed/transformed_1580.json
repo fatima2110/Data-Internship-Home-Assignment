@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "pstrongWho We ArestrongpulliWe are doersliliWe are problem solversliliWe are thinkersliliWe are technologistsliliWe are listenersliliWe are partnersliulpbrppstrongWhat we look forstrongpulliSmart honest and genuine peopleliliPeople who take pride in their workliliPeople willing to do what it takesliliPeople who want to learn and help others learn along the wayliliPeople who laughliliPeople who do right by othersliulpbrppstrongWhat we offerstrongpulliA great environment without politics micromanagement or burdensome tools and processesliliEmpowerment to make your markliliGrowth defined by experiences not tenure or rankliliExcellent benefitsliliEducation and training programsliliCasual dressliliIndustry leading PTO and company holidaysliliA flexible smart and inclusive work environmentliulpbrppstrongWhat youll be doingstrongpulliActivenbspparticipation innbspthe design and implementation of our software solutions  We use our experience to help translate client requirements into technical design and tasksliliCollaboration with teammates clients stakeholders and executivesliliAssist with providing estimates on assigned tasksliliIndependently write good code simple reliable and scalableliliAddress moderate to complex problems during development and support Document and communicate results appropriatelyliliParticipate in whiteboarding sessions and impact analysis and explore methods and tools to improve the overall development processliliAssist with providing estimates on assigned tasksliliLearn new client information quickly and translate data modeling process modeling and revision control systemsliliDeveloping longterm relationships and networks both internally and externallyliulpbrppstrongWhat were looking forstrongpulliBachelors degree Computer Science or Engineering or related experiencelili15 years of experience developing business applications Microsoft environment preferred but not necessaryliliPreferred languages  frameworksliliCliliHTML  CSSliliJavaScript React  AngularliliFamiliar with relational databasesnbspnbspliliSelfstarter and able to handle multiple tasks projects and prioritiesliliEnjoy working at an entrepreneurial companyliliHighly motivated and dependableliliPassion for learning new technologiesliulpbrppstrongNot required but nice to havestrongpulliBachelors degree in Computer Science MIS or a related fieldliliMicrosoft Dynamics 365 CertificationliliFamiliarity with data analytics solutions PowerBI Tableau DomoliliExperience working with Microsoft Dataverseliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-26T14:44:17.000Z"
+  },
+  "company": {
+    "name": "Root16",
+    "link": "https://www.linkedin.com/company/root16"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Chicago Area",
+    "region": null,
+    "postal_code": "60618",
+    "street_address": null,
+    "latitude": 41.948055,
+    "longitude": -87.655754
+  }
+}

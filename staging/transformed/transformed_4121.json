@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Azure Data Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "pOur Client is looking for an strongAzure Data Engineerstrongnbspfor contract positions Please review the Job descriptions below and let us know if you arenbspinterested and fit for any of the jobsnbspppbrppstrongPlease apply at ravindervsvwinscom 510 560 4649  raghavvsvwinscom 302 648 1257strongppbrppstronguJob DescriptionustrongpullistrongProject Durationstrong 12month contract with a chance to extendlilistrongProject Locationstrong Richmond VA Can be RemoteliliIts a strongW21099 strongPositionliulpbrppstronguTechnical MUST havesnbspustrongpulliPysparkPython writing streaming applications into a production Enterprise environmentliliRest API Design and DevelopmentliliAzure Data Bricks Configuration Notebooks development and Delta Tables processingliliSQL in AzureliliMicrosoft Azureliulp Logic Apppp Function Appspp Resource Managementpp Agile Delivery FrameworkpulliProven experience with Agile and Waterfall SDLC methodologiesliliExcellent systems requirement documentation skillsliliProven ability to deliver resultsliulpbrppstrongNice to Have ExperiencestrongpulliExperience with Continuous Integration Continuous Development CICD is a plusliliExperience with TestDriven Development TDD is a plusliulpbrppstrongRoles and ResponsibilitiesstrongpulliFollows direction set by the ETL Development Lead when developing ETL solutionsliliWorks with Systems Analysts in designing testing and implementing ETL solutionsliliWorks as part of a larger development team that includes other internal and external ETL developersliliResponsible for the development testing and maintenance of ETL solutionsliliParticipates in unit testing and data quality efforts within assigned data domainliliCreates and maintains appropriate documentationliliMust be able to troubleshoot and identify the root cause of production issuesliliDemonstrate detailed knowledge of legacy systems Atlas systems data structuresusage and primary systems interfaces based on appropriately written system specificationsliulpbrppstrongIf you are interested or have references please apply at ravindervsvwinscom 510 560 4649  raghavvsvwinscom 302 648 1257strongppbrppstrongRegardsstrongppstrongRavi ChandelstrongppstrongVSVWINS INCstrongp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-17T23:24:53.000Z"
+  },
+  "company": {
+    "name": "VSV WINS, INC",
+    "link": "https://www.linkedin.com/company/vsv-wins-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Virginia",
+    "region": "United States",
+    "postal_code": "23038",
+    "street_address": null,
+    "latitude": 37.512905,
+    "longitude": -78.697624
+  }
+}

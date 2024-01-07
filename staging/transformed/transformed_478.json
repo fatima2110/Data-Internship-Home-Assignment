@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist - Python/Machine Learning",
+    "industry": "Defense &amp; Space",
+    "description": "strongWork with the best in the industry on underwater vehiclesbrbrstrongThis Jobot Job is hosted by Tori BenderbrbrAre you a fit Easy Apply now by clicking the Apply button and sending us your resumebrbrstrongA Bit About UsbrbrstrongOur client is changing the world through the development of oceanbased vehicles They are transforming the way ocean data is collected and distributed worldwide allowing scientists engineers and governments access to insights that were previously unobtainablebrbrYoull be a part of a team taking on earths last frontierbrbrstrongbrbrstrongWhy join usbrbrstrongstrongulli100 of benefits are covered for employees liliEquitybrliulstrongJob DetailsbrbrstrongYour rolebrulli Build Machine Learning models for various data setslili Design and implement reports and quality visualizations of accuracylili Produce documentation and presentations lili Work alongside other engineers to build an endtoend data processing pipelinebrliulstrongSkills Requiredbrstrongulli Proficiency in various machine learning models SVM KNN and CNNlili Detailed understanding of Python and associated learning librarieslili Knowledge and use of databaseslili Experience with producing realworld ML resultsbrliulWhat wed like to seebrulli Show us evidence of your exceptional ability Go ahead braglili Industry Experience in Machine learninglili Independent project that demonstrates software proficienciesbrliulNice to havebrulli Masters Degree or equivalent experience in a STEM fieldbrliulITAR RequirementsbrbrTo conform to US Government space technology export regulations the applicant must be a US citizen lawful permanent resident of the US protected individual as defined by ITAR 22 CFRbrulli12015 or eligible to obtain the required authorizations from the US Department of StatebrliulInterested in hearing more Easy Apply now by clicking the Apply buttonbrbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-13T11:55:16.000Z"
+  },
+  "company": {
+    "name": "Jobot",
+    "link": "https://www.linkedin.com/company/jobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Huntington Beach",
+    "region": "CA",
+    "postal_code": "92605",
+    "street_address": null,
+    "latitude": 33.659775,
+    "longitude": -117.99931
+  }
+}

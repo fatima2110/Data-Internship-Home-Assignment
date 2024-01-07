@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "高级软件工程师",
+    "industry": "",
+    "description": "pThis job is based in Beijing China ppbrppstrong Senior Software Engineer strongppuupullilililililililiulpbrppstronguustrongpulli liliPythonliliCANUARTTCPlililililililiulpstrongSenior Software EngineerstrongppstronguJob Responsibilitiesustrongpp1 Quickly develop product supporting software based on requirementpp2 Develop production tool software according based on requirementspp3 Write RampD project documentationpp4 Complete other tasks assigned by the department manager in a timely mannerppstronguQualificationsustrongpulliComputer or electronics related major bachelor degree or aboveliliProficient in a programming language Python is preferredliliFamiliar with CAN bus UART TCP and other communication methodsliliHave a team spirit and be able to share knowledge and experience in a timely mannerliliFive years of work experienceliliExperience in largescale instrument projects is preferredliulpbrp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T03:11:39.000Z"
+  },
+  "company": {
+    "name": "Coyote Bioscience",
+    "link": "https://cn.linkedin.com/company/coyote-bioscience"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles Metropolitan Area",
+    "region": null,
+    "postal_code": "90021",
+    "street_address": null,
+    "latitude": 34.073666,
+    "longitude": -118.23985
+  }
+}

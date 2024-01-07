@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Machine Learning)",
+    "industry": "Banking,Financial Services,Investment Banking",
+    "description": "314 Main Street 21020 United States of America Cambridge MassachusettsbrbrSoftware Engineer Machine LearningbrbrstrongIC Lead Machine Learning Engineer brbrstrongAs a Capital One Machine Learning Engineer youll be part of an Agile team dedicated to productionizing machine learning applications and systems at scale Youll participate in the detailed technical design development and implementation of machine learning applications using existing and emerging technology platforms Working within an Agile environment youll serve as a technical lead helping guide machine learning architectural design decisions developing and reviewing model and application code and ensuring high availability and performance of our machine learning applications Youll have the opportunity to continuously learn and apply the latest innovations and best practices in machine learning engineering Youll also mentor other engineers and develop your technical knowledge and skills to keep Capital One at the cutting edge of technologybrbrstronguWhat Youll Do In The RolebrustrongulliDeliver ML software models and components that solve realworld business problems while working in collaboration with the Product and Data Science teamsliliSolve complex problems by writing and testing application code developing and validating ML models and automating tests and deploymentliliCollaborate as part of a crossfunctional Agile team to create and enhance software that enables stateoftheart next generation big data and machine learning applicationsliliLeverage cloudbased architectures and technologies to deliver optimized ML models at scaleliliConstruct optimized data pipelines to feed ML modelsliliUse programming languages like Python Scala or JavaliliLeverage continuous integration and continuous deployment best practices including test automation and monitoring to ensure successful deployment of ML models and application codeliliAdvocate for software and machine learning engineering best practicesliliFunction as a technical leadliliMentor junior ML engineering talentbrliulstronguBasic QualificationsbrustrongulliBachelors degreeliliAt least 6 years of experience designing and building dataintensive solutions using distributed computingliliAt least 4 years of experience programming with Python Scala or JavaliliAt least 2 years of experience building scaling and optimizing ML systemsliliAt least 1 year of experience with the full ML development lifecycle using modern technology in a business critical settingbrliulstronguPreferred QualificationsbrustrongulliMasters or doctoral degree in computer science electrical engineering mathematics or a similar fieldbrliulJob Category  Engineering Technology Explorers Information Technology Technology Explorers",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T05:18:40.000Z"
+  },
+  "company": {
+    "name": "Capital One",
+    "link": "https://www.linkedin.com/company/capital-one"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 83700,
+    "max_value": 153000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cambridge",
+    "region": "MA",
+    "postal_code": "02239",
+    "street_address": null,
+    "latitude": 42.36525,
+    "longitude": -71.10502
+  }
+}

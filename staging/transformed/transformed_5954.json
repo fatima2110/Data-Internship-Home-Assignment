@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Hardware",
+    "description": "Contract to Hire  80  100  hour DOEbrbrClient is looking to bring in a Machine Learning resource to help with 3 major projects Need to have a mixture of Programming Data EngineeringStructures ProbabilityStatistics backgroundbrbrstronguSkill Set RequiredbrbrustrongLarge project experience with Machine LearningbrbrProgramming Skills  C  C  R  Java  PythonbrbrData EngineeringData Structure experienceknowledgebrbrMachine Learning AlgorithmsLibrariesbrbrConsutling background is highly prefferedbrbrstrongOther Data I Pulled from ML Skill Sets  ResumesbrbrstrongData VisualizationbrbrPredictive AnalysisbrbrStatistical ModelingbrbrData MiningbrbrClustering amp ClassificationbrbrData AnalyticsbrbrQuantitative AnalysisbrbrWeb ScrapingbrbrModel Development",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-24T14:36:31.000Z"
+  },
+  "company": {
+    "name": "Addison Group",
+    "link": "https://www.linkedin.com/company/addisongroup"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Houston",
+    "region": "TX",
+    "postal_code": "77208",
+    "street_address": null,
+    "latitude": 29.760803,
+    "longitude": -95.36951
+  }
+}

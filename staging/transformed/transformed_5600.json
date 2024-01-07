@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "Data Scientistbrbr 5 Years in Machine Learning currently hands onbr Very Strong in SQL 5 Years of hands on experiencebr Strong handson skills on forecasting modellingbr Expert in Python Machine Learning Librariesbr Applied experience on Regression Classification Unsupervised  Optimization techniques br Experience implementing machine learning solutions in Real Life Analytics Projects Excluding Academic projectsbr Solid fundamentals knowledge of supervised unsupervised machine learning and deep learning algorithms such as classifiers cluster analysis dimension reduction regressionbr Experience in implementing NLPNatural Language Processing Solutionsbr Experience with Language models like BERT br Manage requirements create specificationsbr Excellent communication writtenverbal presentation and facilitation skillsbr Ability to engage with business teams directlybr Strong organizational skills and attention to detailbr Great presentation skillsbr Resilient and flexible comfortable with ambiguity and adaptable to fastchanging environmentobjectivesbr Good analytical and problem solving skillsbr Good understanding of text representation techniques such as ngrams a bag of words sentiment analysis and semantic extraction techniquesbrbr brbr",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-23T20:44:05.000Z"
+  },
+  "company": {
+    "name": "Confidential",
+    "link": "https://au.linkedin.com/company/confidential2"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "pstrongSite Reliability Engineer strongppbrppIDRs largest client is seeking a Site Reliability Engineer to join its growing team in the Atlanta GA area The Site Reliability Engineer will be responsible for improving the efficiency of the infrastructure and its associated applicationsppbrppuThis person must be local to the Atlanta areauppstrongnbspstrongppstrongResponsibilities of the Site Reliability EngineerstrongpulliOversees the administration of businesscritical clouddelivered systems and servicesliliWorks with the systems and network administrators to develop maintain and improve the efficiency and reliability of infrastructure and applicationsliliUse configuration management tools to automate the deployment of new systemsliliIncrease the efficiency of existing applications measure and optimize system performanceliliEnsure that requests and incidents are accurately documented escalated and resolvedliliCoach and lead Junior members of the team liulpbrppstrongRequired SkillsExperience of the Site Reliability EngineerstrongpulliExperience with container technology such as Docker LXC etc Must HaveliliHandson technical expertise with one or more cloud platforms is requiredliliExperience with shell scripting BASH PowerShell etcliliExperience working with public and private cloud platforms eg AWS Google Cloud Platform Microsoft Azure Nutanix etcliliStrong experience in at least one relational database platform such as MS SQL Server preferred MySQL or OracleliulpbrppstrongWhats In It for YoustrongpulliJoin a flexible friendly laidback work environmentliliEnjoy extremely competitive compensation and benefits packageliliEnjoy true worklife balanceliliJoin an extremely secure organization that offers job stabilityliliAdvance your career by joining an organization that believes in promoting from withinliulpbrppstrongWhy IDRstrongpulli20 Years of Proven Industry Experience in 4 major marketsliliEmployee Stock Ownership ProgramliliDedicated Engagement Manager who is committed to you and your successliliMedical Dental Vision and Life Insuranceliulpp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T12:18:28.000Z"
+  },
+  "company": {
+    "name": "IDR, Inc.",
+    "link": "https://www.linkedin.com/company/idr-inc-_2"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

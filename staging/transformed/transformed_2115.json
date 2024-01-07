@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Systems Engineer III",
+    "industry": "Information Technology and Services,Defense &amp; Space,Aviation &amp; Aerospace",
+    "description": "stronguPosition SummarybrbrustrongMAG Aerospace is looking for a Software Engineer  III to support our customer in creating capabilities and providing technical services and subject matter expertise in Mission Command and C2 Maneuver systems You will provide primary technical support to the Joint Automated Deep Operations Coordination System JADOCS andor the Advanced Field Artillery Tactical Data Systems AFATDSbrbrstronguDuties Include But Not Limited Tobrbrustrongstrong Essential Duties and Responsibilities brstrongulli Derive and maintain a cohesive program software architecture based on customer requirements customer interactions subject matter expert inputs system architecture artifacts and business objectives Coordinate with Information Assurance and Risk Management group to design develop and integrate updated security controls into product source lili Communicate development concepts to software developers program management and customer representatives during meetings lili Work with system engineering personnel to assess requirements and to ensure consistency between system architecture and software architecture lili Use Jira Confluence GitBitbucket collaboration and source control tools to communicate information lili Identify potential roadblocks and develop around them lili Plan and estimate development tasks and work to improve performance metrics brliulstronguRequirementsbrbrustrongstrong Minimum Requirements brbrstrongstronguKnowledge And Skillsbrustrongulli US Citizenship and must currently possess an active DoD SECRET security clearance lili 812 years of prior relevant experience lili Experience with JavaJ2EE technologies Sockets JPA CML DOM and SAX parsers PostgresSQL RDBMS PLSQL Referential Integrity Relational DB models and JPA Atlassian tools including Jira Confluence and Bitbucket lili Ability to multitask selfassign work and function in a dynamic fastpaced development environment lili Excellent verbal and written skills lili Proficiency with MS Office Products Word Excel Visio amp PowerPoint brliulstrong Education brstrongulli BS in technical related degree brliulstronguDesired Requirementsbrustrongulli Experience with Service Oriented Architectures SOAs and specifically OSGi lili Experience with AFATDS Army Common Operating Environment COE or other PM MC systems lili Experience with Windows scripting Batch PowerShell lili Experience with Windows Processes IPC caching Windows Registry brliulstronguOther Qualificationsbrustrongulli Security related certification or experience in the application of secure programming principals or security controls lili Ability to work in office and lab environment brliulstronguCompany PolicybrbrustrongMAG Aerospace MAG is an Equal OpportunityAffirmative Action Employer and is committed to Diversity and Inclusion We encourage diverse candidates to apply to our positionsbrbrAll qualified applicants will receive consideration for employment without regard to race color religion sex sexual orientation gender identity national origin disability or veteran statusbrbrClick below for the EEO is The Law and Pay Transparency Nondiscrimination supplement postersbrbrhttpswwwdolgovagenciesofccppostersbrbrMAG Aerospace MAG is committed to providing an online application process that is accessible to all including individuals with a disability by offering an alternative way to apply for job openings This alternative method is available for those who cannot otherwise complete the online application due to a disability or need for accommodationbrbrMAG provides reasonable accommodation to applicants under the guidance of the Americans with Disabilities Act ADA Section 503 of the Rehabilitation Act of 1973 the VietnamEra Veterans Readjustment Assistance Act of 1974 and certain state andor local lawsbrbrIf you need assistance due to a disability please contact the MAG Aerospace Recruiting emailbrbrApplicantAssistmagaerocom or call 703 3768993brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:29:39.000Z"
+  },
+  "company": {
+    "name": "MAG Aerospace",
+    "link": "https://www.linkedin.com/company/magaerospace"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lawton",
+    "region": "OK",
+    "postal_code": "73502",
+    "street_address": null,
+    "latitude": 34.606377,
+    "longitude": -98.39682
+  }
+}

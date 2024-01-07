@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Financial Services,Real Estate,Hospitality",
+    "description": "strongWhy VacasabrbrstrongWe started with just one home and an idea to bring homeowners and renters together with smart technology and caring local teams Today were the largest fullservice vacation rental company in the US thanks to the people who give us their best every day Youll fit right in here if youre curious collaborative innovative and thrive in a rapidgrowth environmentbrbrstrongWhy Software Engineering at Vacasa brbrstrongWe build the industryleading technology that enables Vacasa to manage over 25000 homes and service more than 2 million guest stays per yeara scale that is otherwise unprecedented in the vacation rental management industry and continues to grow We have big ambitions and aim to move fastbrbrWe live in the cloud AWS empower our teams to design and operate their own applications amp services and release software into production systems many times per daybrbrstronguWhat Youll DobrbrustrongAs a Software Engineer youll be a key contributor on your team solving missioncritical problems working on our everevolving systems We believe to shine in this role youre good atbrulliBuilding both customer facing web apps and backend services with modern toolsliliBuilding towards high quality standards and creating robust automated testsliliEngaging in daily standups code reviews and architecture discussionsliliUtilizing DevOps tools and practices for building deploying and maintaining software in production environmentsliliOptimizing applications for maximum reliability security speed and scalabilityliliContinuously learning new technologies and validating concepts in order to pick the right tool for the jobliliParticipating in a collaborative productive culture around productfocused goalsbrliulstronguSkills Youll Needbrustrongulli3 years of professional experience in fullstack developmentliliExperience in cloud platforms with Infrastructure as CodeliliExperience with JavaScriptTypeScript Python ReactliliKnowledge and experience with SQL amp NoSQL databasesbrliulstrongNice to havebrstrongulliCompleted a BSMS in Computer Science or equivalent work experienceliliAWS Serverless techbrliulstronguWhat Youll GetbrustrongulliHealthdentalvision insurance100 coverage optionliliEmployer Sponsored amp Voluntary Supplemental Benefitslili401K retirement savings plan with immediate 100 company match on the first 6 you contribute liliHealth amp Dependent Care Flexible Spending AccountsliliFlexible vacation timeliliPaid sick days and holidays liliPaid parental leave after one year of tenure liliEmployee Assistance ProgramliliCareer advancement opportunitiesliliEmployee discounts and liliAll the equipment youll need to be successfulliliGreat colleagues and culturebrliulPlease visit our careers page to review our full benefits offeringsbrbremVacasa is an equal opportunity employer committed to fostering a diverse and inclusive workplace We do not discriminate against applicants based upon race color religion sex including pregnancy gender identity and sexual orientation national origin age disability genetic information or other classes protected by applicable lawbrbrememVacasa is committed to maintaining a safe and productive work environment Possession use or being under the influence of alcohol or illegal drugs in the workplace is prohibitedbrbrememAn offer of employment for this role will be contingent upon the successful completion of a background checkem",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Vacasa",
+    "link": "https://www.linkedin.com/company/vacasa"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boise",
+    "region": "ID",
+    "postal_code": "83712",
+    "street_address": null,
+    "latitude": 43.61579,
+    "longitude": -116.20158
+  }
+}

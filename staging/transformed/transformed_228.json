@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Services,Information Technology and Services",
+    "description": "pstrongMachine Learning EngineernbspstrongppstrongAustin TexasstrongppstrongContracttoHirenbspstrongppbrppstrongHow will you make an impactstrongppnbspppWe are currently seeking a MidSenior Level Machine Learning Engineer with strong development skills in Python or Java coding exercise is part of the interview process If you have some experience with Data Engineering that is a plus You will be creating models through production and maintenance and working with gigabytes of data as well as TeradatanbspppbrppThis team works heavily with Visual AICVNComputer Vision  any experience with that is a huge plusnbspOther technologies that this team works with include TensorFlow Data Flow Spark Hadoop Kubernetes JVM KerasnbspThey are hiring several engineers for the team at various levelsnbspnbspnbspppnbspppDay in the life includes Product Manager Meetings Developing Models Massage the Data Evaluate Models Production Launch Visual Models etcp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-06T15:12:00.000Z"
+  },
+  "company": {
+    "name": "GSquared Group",
+    "link": "https://www.linkedin.com/company/gsquared-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

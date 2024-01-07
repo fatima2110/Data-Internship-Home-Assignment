@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Information Technology and Services,Mechanical or Industrial Engineering",
+    "description": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not Today SpaceX is actively developing the technologies to make this possible with the ultimate goal of enabling human life on MarsbrbrstrongSITE RELIABILITY ENGINEER STARLINK brbrstrongWant to build the next era of the Internet Want to develop the infrastructure necessary to operate thousands of satellites in space and bring high speed broadband to every corner of the world SpaceX is looking for an experienced Site Reliability Engineer to design operate and scale the infrastructure we use to run Starlink a global ISP and the worlds largest satellite constellation We have no shortage of hard problems and challenges The ideal candidate will be flexible possess broad skills across product operations and software development and flourish in a fastpaced and challenging environmentbrbrstrongRESPONSIBILITIESbrstrongulliDevelop automation to deploy and manage compute resources both onpremises and in the cloudliliDeploy and manage core infrastructure such as databases monitoring and storageliliClosely collaborate with Software Engineers to create highly scalable operable and maintainable productsliliEngage in and improve the whole lifecycle of services  from inception and design through deployment operation and refinement brliulstrongBASIC QUALIFICATIONS brstrongulli1 years of Site Reliability or DevOps experiencelili1 years of experience with Linux operating systemsliliExperience with Terraform Ansible or other infrastructure toolsliliExperience with containerization technologies ie Docker Kubernetes etcliliAutomation experience in Bash Python andor other scripting languagesliliExperience with source code and version control tools such as GitbrliulstrongPREFERRED SKILLS AND EXPERIENCEbrstrongulliBachelors degree in computer science information systemsIT or an engineering disciplinelili5 years of Systems Administration Site Reliability Engineering or DevOps experiencelili3 years of experience with Python and Pythonbased development frameworksliliStrong understanding of Docker Vagrant and Kubernetes or similar technologiesliliStrong understanding of virtualization and hypervisor technologiesliliUnderstanding of databases and data modelingliliExperience with automatically managing dozens or hundreds of serversliliFocus on performance bottlenecks and performance improvement techniquesliliStrong networking knowledge of TCPIPliliMust be comfortable working with mission critical with a sense of urgency appropriate to the responsibilitiesliliExcellent communications skills with the ability to communicate with customers peers management etc in both formal and informal situationsbrliulstrongADDITIONAL REQUIREMENTSbrstrongulliAbility to work long hours and weekends as necessarybrliulstrongITAR REQUIREMENTSbrstrongulliTo conform to US Government space technology export regulations including the International Traffic in Arms Regulations ITAR you must be a US citizen lawful permanent resident of the US protected individual as defined by 8 USC 1324ba3 or eligible to obtain the required authorizations from the US Department of State Learn more about the ITAR here brliulSpaceX is an Equal Opportunity Employer employment with SpaceX is governed on the basis of merit competence and qualifications and will not be influenced in any manner by race color religion gender national originethnicity veteran status disability status age sexual orientation gender identity marital status mental or physical disability or any other legally protected statusbrbrApplicants wishing to view a copy of SpaceXs Affirmative Action Plan for veterans and individuals with disabilities or applicants requiring reasonable accommodation to the applicationinterview process should notify the Human Resources Department at 310 3636000",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-07T05:08:33.000Z"
+  },
+  "company": {
+    "name": "SpaceX",
+    "link": "https://www.linkedin.com/company/spacex"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "At Spectrum Labs were working hard to make the Internet a safer place for communities to grow While technology has brought us closer than ever it has also opened up new ways for people to harass bully threaten scam and overall hurt each other With our products we empower our clients to recognize these behaviors on their own platform according to their own community guidelines Using the signal from our solutions platforms can more effectively enforce those guidelines and promote a healthier environment for their users to become a community brbrSpectrum Labs is looking for a Speech Scientist with a strong machine learning background with a focus on modern speech recognition technologies to help build industryleading audio and voice moderation tools The candidate will work with talented peers to develop novel algorithms in speech recognition and language understanding Some of the tasks will include processing voice conversations discerning sarcasm and understanding intent from spoken language in a variety of acoustic environmentsbrbrAdditionally the candidate will be a selfstarter comfortable with ambiguity with strong attention to detail and an ability to work in a fastpaced and everchanging environment This person will also be highly proficient in communicating their research and recommendations to technical and business stakeholdersbrbrKey Responsibilitiesbrbr Develop new patterns of feature extraction and model designs that leverage multiple modalities of data using state of the art techniquesbr Identify research prototype and build predictive productsbr Effectively document and communicate methodologies and results to scientists and developersbr Provide informal direction and guidance to coworkers on all aspects of analytics from business context and prioritization to technical coachingbrbrBasic Qualificationsbrbr PhD or equivalent Masters Degree  in CS CE ML or related field or equivalent experience with specialization in speech recognitionbr Strong programming skills with working knowledge of C and Pythonbr 3 years of experience in building endtoend neural network based ASRbr 3 years of experience with Deep Learning frameworks and libraries PyTorch TensorFlow and ONNXbr 2 years of experience training distributed deep learning models on GPUsbrbrPreferred Qualificationsbrbr Familiarity with stateoftheart speech recognition frameworksbr Prior experience working with speech and audio datasetsbr Demonstrable track record of dealing well with ambiguity prioritizing needs and delivering results in a dynamic environmentbr Ability to think creatively and solve problemsbr Excellent written and verbal communication skillsbrbrPlease apply by using the following link httpsappjobvitecomjajoTzqgfwSampsLinkedInFree",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T11:38:57.000Z"
+  },
+  "company": {
+    "name": "Spectrum Labs",
+    "link": "https://www.linkedin.com/company/spectrum-labs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "The engineering team at Root strives to be one of the most transformative engineering teams ever Were changing the way an industry works by leveraging technology and data to build the best products possible Even with our significant growth we operate in small teams that are given ownership over projects and results Weve found that the people closest to the problems are the best at solving thembrbrstronguOur Tech Stack IncludesbrbrustrongRuby  Rails backend RSpec for testingbrbrJavascript  React Native frontend Mocha for testingbrbrSmall amounts of native iOS and AndroidbrbrDeployment to AWS ECS using containersbrbrBuildkite for CIbrbrWere scaling rapidly and we recently launched a 6B IPObrbrhttpswwwnasdaqcomarticlesrootinsuranceipopoisedtodisrupttheinsurancemarket20201030brbrOur team excels at delivering software to solve the problems in front of us at Root presently a suite of worldclass mobile web and serverbased products obsessed with the customer experience Weve shaped our team and process around this we know that constant iteration and experimentation produce the best resultsbrbrFor more information on engineering at Root see rootengineeringbrbrWe divide the areas of responsibility for engineers into three major areasbrbrstrongTechnicalstrong The skills and knowledge that make up an engineers basic problemsolving toolboxbrbrstrongPlanning and Executionstrong The ability to plan and execute assigned work beyond basic technical solutionsbrbrstrongWorking with Others strongThe ability to work effectively with other engineers and people in other functionsbrbrstronguTechnical SkillsbrbrustrongstrongWhat we look for in a Software Engineer IbrstrongulliExcellent command of basic programming skillsliliSolid knowledge of 1 to 2 languages familiar with othersliliExperienced with at least one common programming paradigmliliBasic understanding of clientserver architecture and web technologiesliliFluent usage of version control toolsliliBasic knowledge of databases and SQLbrliulstrongPlanning and ExecutionbrstrongulliWrites clean functional welltested codeliliCompletes medium preplanned tasks in an efficient manner making changes that touch multiple aspects of the applicationliliFollows existing patterns and aims for consistency with the rest of the codeliliAble to take on small unplanned feature work and bugfixesliliStarts understanding and taking business goals into account when making implementation decisionsbrliulstronguWorking With OthersbrustrongulliProvides good feedback on other teammates work in code reviewsliliWorks with the engineering lead and teammates to answer questions about their workliliUnderstands and implements feedback from peers into own workliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-16T03:52:56.000Z"
+  },
+  "company": {
+    "name": "Root Inc.",
+    "link": "https://www.linkedin.com/company/rootinsurance"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Columbus",
+    "region": "OH",
+    "postal_code": "43272",
+    "street_address": null,
+    "latitude": 39.96276,
+    "longitude": -82.99629
+  }
+}

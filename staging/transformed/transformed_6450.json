@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer - Machine Learning Development",
+    "industry": "Information Technology and Services,Retail,Financial Services",
+    "description": "strongJob SummarybrbrstrongThe primary purpose of this role is to translate business requirements and functional specifications into logical program designs and to deliver modules stable application systems and Data or Platform solutions This includes developing configuring or modifying integrated business andor enterprise infrastructure or application solutions within various computing environments This role facilitates the implementation and maintenance of business and enterprise Data or Platform solutions to ensure successful deployment of released applicationsbrbrstrongKey ResponsibilitiesbrstrongulliTranslates business requirements and specifications into logical program designs modules stable application systems and data solutions with occasional guidance from senior colleagues partners with Product Team to understand business needs and functional specificationsliliDevelops configures or modifies integrated business andor enterprise application solutions within various computing environments by designing and coding componentbased applications using various programming languagesliliConducts the implementation and maintenance of complex business and enterprise data solutions to ensure successful deployment of released applicationsliliSupports systems integration testing SIT and user acceptance testing UAT provides insight into defining test plans and ensures quality software deploymentliliParticipates in the endtoend product lifecycle by applying and sharing an indepth understanding of company and industry methodologies policies standards and controlsliliUnderstands Computer Science andor Computer Engineering fundamentals knows software architecture and readily applies this to Data or Platform solutionsliliAutomates and simplifies team development test and operations processes develops conceptual logical and physical architectures consisting of one or more viewpoints business application data and infrastructure required for business solution deliveryliliSolves difficult technical problems solutions are testable maintainable and efficientbrbrliulstronguData Engineering ResponsibilitiesbrustrongulliSupports the build maintenance and enhancements of data lake development supports simple to medium complexity API unstructured data parsing and streaming data ingestionliliExcels in one more domain understands pipelines and business metricsliliBuilds tests and enhances data curation pipelines integration data from a wide variety of sources like DBMS File systems and APIs for various KPIs and metrics development with high data quality and integrityliliSupports the development of feature  inputs for data models in an Agile mannerliliWorks with Data Science team to understand mathematical models and algorithms participates in continuous improvement activities including training opportunities continuously strives to learn analytic best practices and apply them to daily activitiesliliHandles data manipulation extract load transform data visualization and administration of data and systems securely and in accordance with enterprise data governance standardsliliMaintains the health and monitoring of assigned analytic capabilities for a specific data engineering solution ensures high availability of the platform monitors workload demands works with Technology Job Description Page 2 of 3 Infrastructure Engineering teams to maintain the data platform serves as an SME of one or more applicationbrbrliulstrongMinimum QualificationsbrstrongulliBachelors degree in Engineering Computer Science CIS or related field or equivalent work experience in a related fieldlili2 years of experience in Data BI or Platform Engineering Data WarehousingETL or Software Engineeringlili1 year of experience working on projects involving the implementation of solutions applying development life cycles SDLCbrbrliulstrongData Engineering Qualificationsbrstrongulli2 years of experience in Hadoop or any Cloud Bigdata components liliExpertise in JavaScalaPython SQL Scripting Teradata Hadoop Sqoop Hive Pig Map Reduce Spark Spark Streaming MLib Kafka or equivalent Cloud Bigdata components brbrliulstrongPreferred QualificationsbrstrongulliIn most cases Lowes will not be able to provide sponsorship for roles located in the Tech HubliliMasters degree in Computer Science CIS or related fieldlili2 years of IT experience developing and implementing business systems within an organizationlili4 years of experience working with defect or incident tracking softwarelili4 years of experience with technical documentation in a software development environmentlili2 years of experience working with an IT Infrastructure Library ITIL frameworklili2 years of experience leading teams with or without direct reportsliliExperience with application and integration middlewareliliExperience with database technologiesbrbrliulstrongAbout LowesbrbrstrongLowes Companies Inc NYSE LOW is a FORTUNE 50 home improvement company serving approximately 20 million customers a week in the United States and Canada With fiscal year 2020 sales of nearly 90 billion Lowes and its related businesses operate or service more than 2200 home improvement and hardware stores and employ over 300000 associates Based in Mooresville NC Lowes supports the communities it serves through programs focused on creating safe affordable housing and helping to develop the next generation of skilled trade experts For more information visit LowescombrbrstrongAbout Lowes in the Community brbrstrongAs a FORTUNE 50 home improvement company Lowes is committed to creating safe affordable housing and helping to develop the next generation of skilled trade experts through nonprofit partnerships Across every community we serve Lowes associates donate their time and expertise through the Lowes Heroes volunteer program For the latest news visit NewsroomLowescom or follow LowesMedia on Twitter",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T23:52:34.000Z"
+  },
+  "company": {
+    "name": "Lowe's Companies, Inc.",
+    "link": "https://www.linkedin.com/company/lowe%27s-home-improvement"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81500,
+    "max_value": 118000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Charlotte",
+    "region": "NC",
+    "postal_code": "28241",
+    "street_address": null,
+    "latitude": 35.223785,
+    "longitude": -80.84114
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Cloud DevOps Engineer",
+    "industry": "Computer &amp; Network Security",
+    "description": "pThestrong Cloud DevOpsnbspEngineerstrongnbspwill be working with the engineering team and focusing on AWSAzureGCPOCI infrastructure and automationnbspA key part of the role is championing and leading infrastructure as code The other major role is developing and maintaining the Python scripts to support the automation jobsnbspThe Engineer will work closely with DevQA team to support our SaaS product base upon the public cloud platformppbrppstrongDuties amp ResponsibilitiesstrongpulliDesign cloud infrastructure that is secure scalable and highly available on AWSliliWork collaboratively with software engineering to define infrastructure and deployment requirementsliliProvision configure and maintain AWSAzureGCPOCI cloud infrastructure defined as codeliliEnsure configuration and compliance with configuration management toolsliliAdminister and troubleshoot Linux based systemsliliTroubleshoot problems across a wide array of services and functional areasliliBuild and maintain operational tools for deployment monitoring and analysis of AWSAzureGCPOCI infrastructure and systemsliliDevelop and maintain the infrastructurerelated Python toolsliliWork with developers to develop businesslevel Python tools liulpbrppstrongQualificationsstrongpulliAt least 35 years of experience building and maintaining AWS infrastructure VPC EC2 Security Groups IAM ECS CodeDeploy CloudFront S3liliStrong understanding of how to secure AWS environments and meet compliance requirementsliliHandson experience deploying and managing infrastructure with TerraformliliHandson experience developing with PythonliliSolid foundation of networking and Linux administrationliliExperience with Docker GitHub Jenkins ELK andnbspdeploying applications on AWSliliAbility to learnuse a wide variety of open source technologies and toolsliliStrong bias for action and ownershipliulpp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-07T00:01:32.000Z"
+  },
+  "company": {
+    "name": "Fortinet",
+    "link": "https://www.linkedin.com/company/fortinet"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

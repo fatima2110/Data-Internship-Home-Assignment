@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Compliance Engineer (Cloud)",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brImagine what you could do here At Apple extraordinary ideas have a way of becoming industry leading products services and customer experiences very quickly Bring passion and dedication to your job and theres no telling what you could accomplishbrbrbrApple IS Data Services is seeking a hardworking passionate and selfmotivated Database Compliance engineer with focus on database security who has passion for security compliance and automation You should be able to support and implement groundbreaking technologies to provide compliance controls for cloud and hybrid database environments Multifaceted candidate should be willing to accept new challenges in fast paced environment with responsibility to secure various critical relational  noSQL databasesbrbrbrPlease note this role can also be based out of Sacramento Californiabrbr brstrongKey Qualificationsbrstrong brTechnical background with understanding database methodologies and various relational and noSQL database technologies brbrComfortable translating compliance control language into terms that engineers can apply to their processes and workbrbrExperience leading PCI or SOX audit or worked with an engineering organization to detail technical solutions to meet controls in a large scale environmentbrbrDesign govern and automate set of controls and associate implementation strategy in the cloud environmentbrbrLiaison with external auditor and other internal teams to support certification auditsbrbrWork in exciting environments and run tight deadlines or unexpected changes in highly multifaceted environmentbrbrAbility to quickly adapt and learn new technology and participate in design discussions as neededbrbrPartner with various teams on developing security amp compliance documentation for new technologiesbrbr brstrongDescriptionbrstrong br24 years of experience in database security  compliancebrbrHandson experience and detailed understanding of AWS cloud security best practices tools and automationbrbrClear and indepth understanding of IT compliance controlsbrbrCapable of translating compliance requirements into technical specifications and leading security compliance engagements with database engineering and IT compliance organizationsbrbrIndepth knowledge of Relational NoSQL and BigData technologies Security and compliance experience for these technologies is a mustbrbrExpertise with Jenkins Python Java shell scripting preferably in cloud environment brbrAbility to work multiple teams across different geographical locations in different time zonesbrbrExperience with Linux and AIX operating systemsbrbrThorough understanding of procedures and processes in large organizationbrbr brstrongEducation amp Experiencebrstrong brBS in Computer ScienceEngineering or Equivalentbrbr brstrongAdditional Requirementsbrstrong brWorking knowledge of automation in AWS environment is highly desirablebrbr brRole Number 200231908brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:33:57.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81200,
+    "max_value": 106000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

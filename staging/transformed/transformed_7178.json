@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "stronguJob DescriptionbrbrustrongA leading loan provider and engineering distribution center in Florida is looking to scale up these guys are on the cutting edge of loan distrubiton More specifically provide loan engineering systems for mortgage lendersbrbrA strong engineer will have experience in C AspnetCore Web API Restful web services Javascript angular2  React Azure and SQL You will be working on a core usage analytics and loaning web applicationbrbrstronguRequired Skills amp ExperiencebrustrongulliCliliAspnetliliCore or MVCliliJavaScriptliliAzure or SQLbrliulstronguDesired Skills amp ExperiencebrustrongulliWeb API Building not consumingliliRestful web servicesliliBS in CSliliAngular2 or React brliulWhat You Will Be DoingbrbrTech Breakdownbrulli0 Red Hat Linuxlili100 Windows Server 2010brliulDaily Responsibilitiesbrulli90 Hands Onlili0 Management Dutieslili10 Team CollaborationbrliulThe OfferbrulliCompetitive Salary Up to 170Kyear DOEbrliulstronguYou Will Receive The Following BenefitsbrustrongulliMedical Insurance amp Health Savings Account HSAlili401kliliPaid Sick Time LeaveliliPretax Commuter BenefitbrliulApplicants must be currently authorized to work in the United States on a fulltime basis now and in the futurebrbrThis position does not offer sponsorshipbrbrJobspring Partners part of the Motion Recruitment network provides IT Staffing Solutions Contract ContracttoHire and Direct Hire across 10 major North American markets Our unique expertise in todays highest demand tech skill sets paired with our deep networks and knowledge of our local technology markets results in an exemplary track record with candidates and clientsbrbrstrongPosted Bystrong Brendan McLean",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T03:21:44.000Z"
+  },
+  "company": {
+    "name": "Motion Recruitment",
+    "link": "https://www.linkedin.com/company/motion-recruitment-partners"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Wildwood",
+    "region": "FL",
+    "postal_code": "34785",
+    "street_address": null,
+    "latitude": 28.8609,
+    "longitude": -82.041794
+  }
+}

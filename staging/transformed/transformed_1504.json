@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "pstrongThe purposenbspampnbspresponsibilities of the rolenbspincludestrongnbsppulliDesign developnbspdebugnbspand maintainnbspwebbasednbspapplications written in PythonnbspliliBe involved and participate in the overall application lifecycle for software applicationsnbspsupporting our Process Development department including Highthroughput screening Analytics FermentationnbspBiocatalysis and Downstream processingnbspliliCollaborate withnbspscientists and frontend developersnbspliliDiscuss technical and design requirements with manager and endusersnbspliliProvide training helpnbspand support to other team membersnbspliliBuild highquality reusable code that can be used in the futurenbspliliTroubleshoot and debug applicationsnbspliliLearn about newnbsptechnologiesnbspliulpnbspppstrongRequirementsstrongnbsppulliCandidate should havenbspat leastnbspa masters preferably in Software Engineering or a degree in a quantitative discipline such as computer science mathematics computational biology electrical engineering bioengineering or equivalentnbspliliIndustry experience is a plus but not requirednbspliliBiology exposes a plus but not requirednbspliliExperience with programming best practices unit testing CICD etc and version control while contributing to or maintaining large codebasesnbspliliExpertise with scripting programming languages Python isnbspstronglynbsppreferrednbspliliEnglish spoken written is requirednbspliliChinesenbspspokennbspornbspwrittennbspis a plusnbspliliCandidates must be willing to locate near our facilities in either LafayettenbspCalifornia or Hangzhou ChinanbspWe are open to a hybrid work modelnbspliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T18:47:03.000Z"
+  },
+  "company": {
+    "name": "Bota Biosciences",
+    "link": "https://www.linkedin.com/company/botabio"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lafayette",
+    "region": "CA",
+    "postal_code": "94549",
+    "street_address": null,
+    "latitude": 37.890797,
+    "longitude": -122.12747
+  }
+}

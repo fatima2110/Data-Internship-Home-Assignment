@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Remote",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "stronguDescriptionbrbrustrongJob DescriptionbrbrAs an effective change agent of Change Control Management the Software Release Engineer will help organize and coordinate software deployments for multiple software delivery teams while upholding Change Control Management practices and policy As a Site Reliability Engineer the Software Release Engineer will administrate and leverage CICD practices to aid software delivery teams towards robust automation solutions in cloudbased environments Tasks include maintaining healthy relationships with members of software development and delivery infrastructure and operational teams administration of intellectual property and configuration management deployment coordination software pipeline tool administration automation solution development documentation and communication of change and change policybrbrstronguEssential Duties And ResponsibilitiesbrustrongulliAdminister and oversight of software packaging and deployment to production and nonproduction environmentsliliMay conduct code deployments to production and nonproduction environments as scheduledliliAdminister Amazon Web Services AWS andor cloudbased provisioning and delivery solutionsliliResponsible for software assetartifact repository and source code repository management and administrationliliResponsible for scriptsoftware automation for software configuration management tasksliliProvide support and resolution of configuration problems that may occur during the software deploymentsliliWork with cross functional product delivery teams to clearly understand communicate and document changes with each software deployment activityliliParticipates in project planning of change management tasks in alignment with software development lifecycleliliResponsible for creation and administration of Change Control Management change acceptance policies process and standards documentationliliAdminister regulatory compliance develop and conduct internal software auditsliulQualificationsbrulli3 years of Software Configuration Management experience surrounding release managementliliHS Diploma required Bachelors degree preferredliliFamiliarity with Maven based Repository Management technology JFrog Artifactory Sonatype Nexus Archiva etcliliFamiliarity with the Agile development methodologyliliProven experience working with continuous integration environment and tools ex Jenkins Bamboo Team City Maven GIT Chef PuppetliliProven ability to function within a fastpaced and highpressure environmentliliWindows and Unix OS proficiencyliliScripting experience with Unix andor Windows and any Maven Ant Python Perl experience is idealliliExperience with developing software release automation solutionsliliStrong attention to detail and ability to follow established proceduresliliFamiliarity with ITIL or MOF Software and Change Management concepts desiredliliFamiliarity with OracleSQL Server and RDBMS concepts desiredliliFamiliarity with ClearCase or other change management tools desiredliliAble to effectively influence and negotiate successful outcomesliulemApplicants for employment in the US must have valid work authorization that does not now andor will not in the future require sponsorship of a visa for employment authorization in the USbrbremWe are an equal opportunity employer and make hiring decisions based on merit Recruitment hiring training and job assignments are made without regard to race color national origin age ancestry religion sex sexual orientation gender identity gender expression marital status disability or any other protected classification We consider all qualified applicants including those with criminal histories in a manner consistent with state and local laws including the City of Los Angeles Fair Chance Initiative for Hiring OrdinancebrbrTo apply please email your resume to jledesmaledgentcom",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Ledgent Technology",
+    "link": "https://www.linkedin.com/company/ledgent-technology"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 104000,
+    "max_value": 151000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Denver",
+    "region": "CO",
+    "postal_code": "80247",
+    "street_address": null,
+    "latitude": 39.738453,
+    "longitude": -104.984856
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "If you are a Site Reliability Engineer with experience please read onbrbrTop Reasons to Work with UsbrbrWe are an up and coming SAAS company providing time tracking and management tools for major global players We provide solutions for clients like Boeing Disney Volkswagen Oracle Hulu and Office Depot Come be a part of something greatbrbrWhat You Will Be Doingbrulli Develop and maintain tools for deploymentcluster managementlili Ensure reliability by responding to outages and supportingresolving technical issueslili Support our developers with CICD managementlili DebuggingbrliulWhat You Need for this PositionbrbrstronguIdeally 5 Years Of Experience With The Followingbrustrongulli Managing AWS production systemslili GCP experiencelili Microservices experience w Kuberneteslili Python and Golang for progamminglili Ansible and Terraformlili GitVersion Control experiencelili Build tools like Maven and Gradlelili Docker containerizationlili RabbitMQlili DatadogbrliulWhats In It for Youbrulli Competitive base salary 100130klili Unlimited vacationlili Great benefits plan health dental visionlili Remote workbrliulSo if you are a Site Reliability Engineer with experience please apply todaybrbrColorado employees will receive paid sick leave For additional information about available benefits please contact Joe KippbrbrstronguEmail Your Resume In Word TobrbrustrongLooking forward to receiving your resume through our website and going over the position with you Clicking apply is the best way to apply but you may alsobrbrJoeKippOptellocombrulliPlease do NOT change the email subject line in any way You must keep the JobID linkedin  JK121655625  in the email subject line for your application to be consideredbrliulJoe Kipp  Recruiter  OptellobrbrApplicants must be authorized to work in the USbrbrstrongOptello is proud to be an Equal Opportunity EmployerbrbrstrongAll qualified applicants will receive consideration for employment without regard to race color religion sex national origin disability protected veteran status or any other characteristic protected by lawbrbrstrongYour Right to Workstrong  In compliance with federal law all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-17T10:55:02.000Z"
+  },
+  "company": {
+    "name": "Optello",
+    "link": "https://www.linkedin.com/company/optello-us"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Government Administration",
+    "description": "pstrongnbspATEK Inc Washington DCnbspnbspstrongppstrongstrongppATEK Inc has an immediate opportunity for a Machine Learning Engineer in the Washington DC metro areanbspppnbspppstrongPosition Responsibilities strongppSupports clients Target Data Architecture related to data technologies that includes future trend and innovation identification for AIML data analyticsnbsppulliAssists implementation of the clients Enterprise Data Catalog an AIdriven augmented platform for data search and discoveryliliDevelops operating software that can be used for artificial intelligence programs or other artificial intelligence applicationsliliWorks closely with NLP engineer as well as data architects data scientists and strategist in order to produce systems that utilize artificial intelligenceliliCapability to adapt or change operating environments based on adding dataliliProgramming systems to look for or seek out specific conditions and respond based on those factorsliliClarify objectives to others in the team and may be responsible for supervising other programmers as part of overall dutiesliliResponsible for working as part of a multidisciplinary team analyze structured and unstructured data sources to determine the key business questions and hypotheses that can be explored within data setsliliEvaluate approaches and algorithms based on available data and research objectivesnbspDevelop experimental prototypes to demonstrate concepts and communicate approach and results to decisionmakersliliSupports ongoing AI technology researchliliFamiliarity with DevSecOps patterns and practicesliulpstrongnbspstrongppstrongRequired Qualifications strongpulliRequires a BA or BS degree from an accredited institution in a management or technical discipline  Computer Science Information Technology related degrees will be consideredlili3 years of experience in a handson AIML roleliliExperience with at least one to two languages for implementing AIML algorithms eg Python R C etc and SQL skillsliliExperience working with clients facetofaceliliStrong attention to detail and accuracyliliAbility to be a selfstarter and manage competing priorities multitask and continue to meet all deadlines and commitments while remaining flexible with continually changing prioritiesliliExcellent written and oral communication including technical writing must be able to communicate fluently in English both verbally and in writingliulpnbspppstrongPreferred Skills and Experience strongppnbspnbspnbspnbspnbspnbspnbspnbspFederal contracting experience supporting Federal civilian agenciesppbrppnbspp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-04T14:42:31.000Z"
+  },
+  "company": {
+    "name": "A-TEK, Inc.",
+    "link": "https://www.linkedin.com/company/a-tek-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington DC-Baltimore Area",
+    "region": null,
+    "postal_code": "21201",
+    "street_address": null,
+    "latitude": 38.873062,
+    "longitude": -77.007385
+  }
+}

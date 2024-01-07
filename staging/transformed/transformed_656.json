@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "stronguAbout UsbrbrustrongLumApps teams across the world all share the same objective We want to help teams in their quest to develop strong cultures and share knowledge across communities the way we do every daybrbrLumApps helps organizations transform the way they communicate collaborate and engage with their customers partners and most importantly their employees Leading companies rely on our solutions LumApps Social Collaborative Intranet and LumApps Employee Social Advocacy to make their teams more productive Our solutions contribute to smarter more efficient and betterconnected workforces around the world Because ultimately our mission is to make people feel that they belong and have a purposebrbrstronguAbout The RolebrbrustrongLumApps is seeking to add a Migrations Engineer to our current team of 4 This individual will work predominantly with our customers as well as across multiple internal teams to develop execute test and improve the process of data migration into LumApps As the Migrations Engineer for LumApps you will provide your technical expertise and product knowledge to ensure successful project implementations and project migrations working closely with customers and Professional Services teams as the SME of LumApps APIs LumApps technical functionality and integrations and LumApps migration expert This position will allow you to work side by side with our customers to define technical expectations and to address technical roadblocksbrbrstronguWhat You Will DobrustrongulliWork with LumApps customers internal stakeholders and partners to migrate data into LumApps using REST APIs extract  transform  loadliliImprove LumApps data migration tools Python code to meet new business requirements from our customersliliResponsible for maintaining and improving python code collaborating occasionally with other developersliliResponsible for the QA execution and delivery of data migrations into LumAppsliliSME of the LumApps APIs and LumApps SDK liliHelp create and maintain new tools that will allow Customers to migrate data into LumApps from any source export CSV XML JSON APIsliliAs part of the Professional Services Org PSO you will have to occasionally meet with customers to gather migration requirements andor to explain migration strategies to nontechnical audiencesbrliulstronguWhat We Are Looking Forbrustrongulli2 years of practical experience as a Migrations Engineer or Software Developerlili2 years of experience readingdebuggingwritingmaintaining code Pythonlili2 years of experience with REST APIs proficient in ETL processes liliExperience with SQL Databases PostgresliliExperience with Python libraries like html2text beautifulsoup pdfkit redis requests httpx xmltodict pypandoc or willingness to learnliliExperience with FlaskliliComfortable working with Googles set of collaboration tools WorkspaceliliAbility to work in multiple projects with different deliverables and deadlinesliliAbility to thrive in ambiguity and a fast paced environmentbrliulstronguPreferred QualificationsbrustrongulliWorking experience with Angular Reactjs Vanilla JavaScript is a plusliliExperience with Google Cloud Platform GCP is a plusliliSystem administrator level knowledge of Linux is a plusbrliulstronguWhat We OfferbrustrongulliA program designed with your success in mind Were looking for intelligent hardworking and ethical individuals that will appreciate a wellcoached path to a rewarding careerlili100 employerpaid benefits for employees starting day oneliliAwesome coworkers and culturelili401k with employer matchliliSo much morebrliulstrongIf our core values of Be bold do amazing things Say what you mean Do what you say One team Same mission and Always be evolving speak to you apply to join our team todaystrong",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T21:44:51.000Z"
+  },
+  "company": {
+    "name": "LumApps",
+    "link": "https://fr.linkedin.com/company/lumapps"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

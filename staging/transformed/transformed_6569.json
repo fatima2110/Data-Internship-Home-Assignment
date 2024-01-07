@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, New Grad",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "strongDoorDash is building the worlds most reliable ondemand logistics engine for delivery Were looking for experienced engineers to join our fastgrowing engineering team to help us develop a 24x7 global infrastructure system that powers DoorDashs threesided marketplace of consumers merchants and dashersbrbrstrongAt DoorDash our product engineers implement and operate technological solutions to improve the experiences of our merchants dashers and consumers From creating beautiful userfriendly flows to crafting scalable backend architectures we strive to deliver reliant performant technology that delights our customersbrbrstronguWhat Youll DobrustrongulliDevelop maintain and ship technical elements with the support of your team members liliAct on feedback coaching and mentorship from your manager and team membersliliActively learn about the elements to which you contributeliliMake a direct impact on our business by collaborating with your team to solve problems for our customersliliUnderstand the why behind your work and empathizes with your customersbrliulstronguQualificationsbrustrongulliBS MS or PhD in Computer Science graduating in December 2020 or Summer 2021 liliAt least 1 previous internship or equivalent practical experience liliExperience working with databases eg SQL liliSolid understanding of algorithms and data structuresliliExperience working with at least one objectoriented programming language eg Python Java Kotlin etcliliExperience writing clean code working with version control and unit testingbrliulstronguNice To HavesbrustrongulliAble to analyze and improve efficiency scalability and stability of various systemsliliExcited to develop release and run largescale web applicationsliliExperience with solutions for systems monitoring live deployments and continuous integrationliliExperience with realtime technology problemsliliExperience working with service oriented architecture writing APIs and designing systemsbrliulstrongWhy Youll Love Working at DoorDashbrstrongulliWe are leaders  Leadership is not limited to our management team Its something everyone at DoorDash embraces and embodiesliliWe are doers  We believe the only way to predict the future is to build it Creating solutions that will lead our company and our industry is what we do  on every project every day liliWe are learners  Were not afraid to dig in and uncover the truth even if its scary or inconvenient Everyone here is continually learning on the job no matter if weve been in a role for one year or one minuteliliWe are customer obsessed  Our mission is to grow and empower local economies We are committed to our customers merchants and dashers and believe in connecting people with possibilityliliWe are all DoorDash  The magic of DoorDash is our people together making our inspiring goals attainable and driving us to greater heights liliWe offer great compensation packages and comprehensive health benefitsbrliulstronguAbout DoorDashbrbrustrongDoorDash is a technology company that connects customers with their favorite local and national businesses in all 50 US states Canada and Australia Founded in 2013 DoorDash empowers merchants to grow their businesses by offering ondemand delivery datadriven insights and better instore efficiency providing delightful experiences from door to door By building the lastmile delivery infrastructure for local cities DoorDash is bringing communities closer one doorstep at a time Read more on the DoorDash blog or at wwwdoordashcombrbrstrongOur Commitment to Diversity and InclusionbrbrstrongWere committed to growing and empowering a more inclusive community within our company industry and cities Thats why we hire and cultivate diverse teams of the best and brightest from all backgrounds experiences and perspectives We believe that true innovation happens when everyone has room at the table and the tools resources and opportunity to excel",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T00:00:00.000Z"
+  },
+  "company": {
+    "name": "DoorDash",
+    "link": "https://www.linkedin.com/company/doordash"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 93400,
+    "max_value": 216000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

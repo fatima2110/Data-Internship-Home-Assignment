@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software,Computer Hardware,Computer Networking",
+    "description": "pPosition DetailsppstrongLocationstrong San Francisco CA 100 RemotenbspppstrongTypestrong Full TimeppstrongemMust have TN Visa GC USC H4 EAD or H1B emstrongppstrongnbspstrongppstrongReferral Program Not Interested but know someone We offer a 1000 Referral Bonus for anyone you refer that gets the projectnbspstrongppnbspppstrongYou WantstrongppTo automate infrastructure behind customer facing APIs with high availability reliability scalabilitynbspppTo build systems thatpulliLook Elegant and reliable on the outsideliliDeal with the complexities of rigorous business logicliliTransparently handle hardware failuresliliTo work in Go and other tools as necessary to build systemsliliTo participate and thrive in a deliveryoriented goalcentric cultureliulpnbspppstrongSuccessful candidates willstrongpulliDemonstrate the ability to be productive and independent in a remote environmentliliDesign write and maintain software to improve the availability scalability reliability performance and efficiency of our services incorporating thirdparty opensource tools when availableliliCreate new designs for a growing number of distributed systemsliliDesign and implement the tools and processes used for deployment and change managementliliPlan and execute configuration managementliliAutomate resource provisioning and allocation processliliOwn maintain and continuously improve all systems provided as a service such as monitoring and datastoresliliEngage in service capacity planning and demand forecasting anticipating performance bottlenecksliliRun software performance analysisliliPlan and execute disaster recovery drillsliliParticipate in rotating oncall dutiesliulpbrppstrongYou havestrongppA Love of systems engineering APIs and making applications secure You enjoy collaborating and coming up with reliable solutions that solve business needs You constantly seek ways to ensure your systems meet the objectives while improving performanceppbrppThe ideal candidate doesnt have all of the following but is seeking to gain experience with thempulliComfortable with languages such as Go and PythonliliMinimum of 4 years of industry experience in engineeringliliFamiliarity with algorithms data structures and complexity analysisliliExperience with Grafana and PrometheusliliExperience working with Linux systems from kernel to shell including working with system libraries file systems and clientserver protocolsliliExperience with networking TCPIP UDP ICMP ARP DNS load balancing etcliliExperience with configuration management tools AnsibleliliSystematic problem solvingliliElegant and simple solutions to complex problemsliliStrong sense of ownership and driveliliExpertise in designing analyzing and troubleshooting largescale distributed systemsliulpbrppstrongWe offerstrongpulliAn opportunity to build a cloud solution and scale it to meet the needs of the worlds largest cloud consumersliliA highly distributed remotefriendly team US preferredliliAn opportunity to shape product and business strategy and can grow into new roles as the organization growsliulpnbspppbrppBlackstone Talent Group is a division of Blackstone Technology Group a global IT services and solutions firm that implements technological solutions across commercial industry verticals and the US Federal Government Blackstones global talent augmentation practice was founded in 1998 Blackstone Talent Group has offices in San Francisco Denver Houston Colorado Springs and Washington DC We specialize in providing clients the best talent across a variety of industries and sectorsppnbspppstrongEOE of MinoritiesFemalesVeteransDisabilitiesstrongp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T20:24:07.000Z"
+  },
+  "company": {
+    "name": "Blackstone Talent Group",
+    "link": "https://www.linkedin.com/company/blackstonetalentgroup"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

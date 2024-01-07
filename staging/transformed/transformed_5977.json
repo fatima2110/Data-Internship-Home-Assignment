@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "pstronguResponsibilitiesustrongppnbspppSuitable candidates will be part of Wipro DigitalIntelligent Enterprise practice The job requires candidates to be proficient in leading a team of ML and NLP developers Design and develop AI solutions to address business process automation challenges by applying Machine Learning models Deep Learning Classification models statistical methods and NLUNLPppnbspppstronguSkillsustrongppstronguspan classqlcursorspanustrongppnbspnbspnbspnbspnbspnbspnbspnbspStrong Python 27 or above programming skills usage of open source librariesppnbspnbspnbspnbspnbspnbspnbspnbspExperience building AI based automation solutions using platforms like IBM WatsonAWS SagemakerAzure ML Google APIs etcppnbspnbspnbspnbspnbspnbspnbspnbspApplying innovative ideas to extract information from structured and unstructured document imagesppnbspnbspnbspnbspnbspnbspnbspnbspProficient in applying NLP techniques to process unstructured data contentppnbspnbspnbspnbspnbspnbspnbspnbspProficient in modeling techniques such as Entity Extraction Sequential Modelling CRF LSTM etc ppnbspnbspnbspnbspnbspnbspnbspnbspProficient with Machine learning Supervised and UnSupervised algorithms Clustering Classification PCA Fisher projections and other algorithm Kmeans SVM Random ForestppnbspnbspnbspnbspnbspnbspnbspnbspProficient with Word Embeddings Glove Word2VecppnbspnbspnbspnbspnbspnbspnbspnbspTeam Leading capabilitiesppnbspnbspnbspnbspnbspnbspnbspnbspEffective communication skillsppnbspnbspnbspnbspnbspnbspnbspnbspAgile based development methodologyppnbspnbspnbspnbspnbspnbspnbspnbspFlexibility for Short Term travels to Client locationsppnbspp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T10:19:51.000Z"
+  },
+  "company": {
+    "name": "Wipro Technologies",
+    "link": "https://in.linkedin.com/company/wiprotechnologiessjp"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "IN",
+    "locality": "Bengaluru",
+    "region": null,
+    "postal_code": "577566",
+    "street_address": null,
+    "latitude": 12.976747,
+    "longitude": 77.57528
+  }
+}

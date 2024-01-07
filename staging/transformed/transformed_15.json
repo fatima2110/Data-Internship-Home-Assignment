@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "QA Software Testing Engineer",
+    "industry": "Computer Software,Computer &amp; Network Security,Information Technology and Services",
+    "description": "pstrongTHE POSITION QA Software Testing EngineerstrongppAs The Shade Store continues our aggressive growth it has become ever more apparent that we need to continue to grow this very important team Were committed to building an excellent team of collaborators and innovators Our team is ambitious and passionate the environment is closeknit fast paced and fun We are a company that values doers over talkers and mentors over managers If you work well with people and most importantly have the technical skill set to help support the business in the functions described below  then we would love to hear from youppbrppThe position will report directly to the Director of Project Management and will be part of the IT team responsible for developing and improving our website showroom and corporate applications for The Shade Store The role requires strong technical skills and good communication skills for collaboration with the rest of the development team IT Software Management and Security teamsppbrppstrongRESPONSIBILITIESstrongpulliWork directly with the development team to test and validate the operation of all code developmentliliManage UAT Regression and Unit testing in QA and with developers  end usersliliWork with the security team to validate all new development meets our security standardsliliCommunicate with the development team on issues and bugs that must be corrected before the code is put into productionliliMaintain documentation of best practices for the QA process and for the developers to avoid repeating the same issues multiple timesliliIntroduce develop implement maintain testing automation where it adds valueliliRemain current on software test automation technologyliliContribute in all phases of the development lifecycleliliFollow industry best practicesliliDocument all QA activities in accordance with the company best practicesliliPerform other duties as they ariseliulpbrppstrongPOSITION REQUIREMENTSstrongpulliBachelors degree in Computer Science Engineering or a related subject or equivalent experienceliliA minimum 58 years of solid experience in QA for a team of PHPLAMP stack developers in a professional environment using object oriented and MVC designlilistrongSignificant experience with Form Testing eg Smoke Regression Testing is requiredstronglilistrongHas owned the full responsibility for leading UAT Regression and Unit testing for an organizationstrongliliHas worked with and implemented hands on with automated testing softwareliliDemonstrated knowledge of modern SDLC AgileScrum Kanban etcliliUnderstanding of GIT  CI pipeline workflowliliExtensive PHP 73 experience with MySQL and ApacheliliExtensive MYSQL 56 experience with workbench or equivalentliliFamiliarity with one or more PHP frameworks SymfonyliliStrong understanding of frontend JavaScript jQuery as well as other libraries or frameworks and CSSSass knowledge liliPassion for deploying high quality and performance applications and a desire to develop new bold ideasliliAbility to organize and manage multiple tasks and prioritiesliliSharp attention to detailliliStrong communication skills with the ability to cross collaborate amongst internal departmentsliliComfortable using a Mac or Windows deviceliliSelfmotivated and willing to do what it takes to get the job doneliulpbrppstrongNICE TO HAVESstrongpulliUnderstanding of virtual machinesliliExperience with AWS Docker AnsibleliliPCI Experience a plusliulpbrppstrongABOUT THE SHADE STOREstrongppstrongAt The Shade Storestrong we have handcrafted the finest Shades Blinds and Drapery for 75 years We believe designing beautiful custom window treatments should be an effortless experience so we offer outstanding services to help our customers every step of the way from inspiration to installation We are always looking for friendly passionate people to help us deliver the finest custom window treatment experience to our customers Our team is growing and expanding and there has never been a more exciting time to be part of itppbrppstrongWHY WORK AT THE SHADE STOREstrongppWe set out to create a company culture that is enjoyable rewarding and where there is continuous upward mobility and growth opportunity If you work hard give the company your all use good judgment and have a positive attitude  then the skys the limit In return there are numerous perks and benefits includingppbrpulliFull time highly competitive salaryliliMedical Benefitslili401k Available and we match up to 4 of your contributionslili100k Life Insurance amp ShortTerm Disability Coverage provided at no chargeliliPartake in many charities and local eventsliliAnd many moreliulpbrppstrongemIf youre looking to be part of a growing family of enthusiastic and hardworking individuals wed love to hear from youemstrongppbrppstrongABOUT US strongVisit our website atnbsphttpswwwtheshadestorecomcorporateinfocareersnbspto learn more about The Shade Store and our career opportunitiesppbrppstrongTHE SHADE STORE offer is contingent upon strongpulliSuccessful completion of reference checksliliProof of legal authorization to work in the United States for The Shade Store which will be confirmed by EVerify within three business days of your hire dateliulpbrppThe Shade Store provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race color religion age sex national origin disability status genetics protected veteran status sexual orientation gender identity or expression or any other characteristic protected by federal state or local lawsp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T17:38:23.000Z"
+  },
+  "company": {
+    "name": "The Shade Store",
+    "link": "https://www.linkedin.com/company/the-shade-store"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Port Chester",
+    "region": "NY",
+    "postal_code": "10573",
+    "street_address": null,
+    "latitude": 41.00155,
+    "longitude": -73.66583
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer Mobile (React)",
+    "industry": "Information Technology and Services,Financial Services",
+    "description": "pOur CONFIDENTIAL venturebacked growth client is hiring a Senior Mobile Engineer React Native who has a strong aptitude for identifying opportunities to improve user experience robust experience translating design into code and a proactive desire to collaborate with fellow developers designers and product managers to build amazing apps Position is fulltime either in NYC Chicago LA SF or Portland and will report to the Manager of Mobile EngineeringppbrppstrongResponsibilitiesstrongpulliCollaborate with product managers designers and backend engineers to design and deliver highquality products on iOS and AndroidliliBuild efficient and reusable UI components and architect reliable performant and maintainable solutionsliliLead teams that continuously build ship learn and iterateliliDrive technical innovation processes and best practices required to deliver bestinclass mobile applicationsliliMentor and develop a highperforming team of engineersliulpbrppstrongQualificationsnbspstrongpulliYou have at least 4 years of experience building mobile applicationsliliYou have used React Native to build crossplatform mobile applicationsliliYou are comfortable working with JavaScriptTypescript but also not afraid to jump into Swift or Kotlin as neededliliYou have knowledge of mobile best practices and stay informed about innovations in the mobile industryliliYou have a strong understanding of UXUI concepts and a demonstrated record of design sensibilityliulpbrppstrongPreferred QualificationsstrongpulliExperience working with Bitcoin Ethereum andor blockchain technology a huge plusliulpbrppOnce you apply well send you all company information and a highlight of their leadership teamp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:11:40.000Z"
+  },
+  "company": {
+    "name": "Talentpair",
+    "link": "https://www.linkedin.com/company/talentpair"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

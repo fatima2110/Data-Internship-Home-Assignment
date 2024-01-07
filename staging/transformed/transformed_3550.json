@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps / Site Reliability Engineer ",
+    "industry": "Information Technology and Services",
+    "description": "pstrongDevOps and Site Reliability Engineer SRE  Oracle SAAS Infrastructure Services TeamstrongppbrppstrongUS Citizenship or US Lawful Permanent Resident Status Required  due to supporting Federal Government customersstrongppbrppOracle is a leader in enterprise cloud applications powering many of the worlds largest organizations and were in the process of revolutionizing our application user experiences withnbspournbspnew Redwood user interface components and enterprisescale backend servicesnbspWe are on a quest tonbspprovide the most productive platform with extremelynbspfast secure and extensible REST services to back these user experiencesnbspOur goal is to create a universal services and transaction servicesnbspthat is metadataoriented and is simple to uptake test debug and monitornbspThese services must be highly scalable andnbspdynamic to meet the varying work loads for our customersnbspppWe have many large scale customers who are ready to work with you on this fabulous journeynbspWere looking for talented DevOpsSRE engineers to build deploy and monitor the service on Oracle Cloud Ifnbspyounbsphavenbspexperience as a DevOps engineer supporting CICD rollout patching monitoring enterprise scalable micro services using cloud nativenbspinfrastructure please contact us right awayppbrppstrongWhat Youll DonbspstrongpolliBringing in the right DevOps mindset among the teams developing software conductingnbsptraining on tools and processes that makes software development and testing easierliliParticipate in the entire software Lifecycle  development testing CI and production operationsliliAutomate release and deployment process from development to productionnbsprollout following CICD processnbspusing standard DevOps toolsetliliDefine enforce and maintain metrics and quality gates for build promotionnbspprocessesliliTake ownership of maintaining and managing the environments Maintain separation between Dev UATnbspstage and production environmentsliliMonitor and maintain the production service and infrastructureliliParticipate in oncallPagerduty for the serviceliliWork with customers and ISVs and service developers to troubleshoot issues in production systemsliliMentor new employees and software developers to increase quality of projectsliolpbrppstrongRequired Knowledge and SkillsstrongpolliBS MS in Computer Science Electrical Engineering withnbsp23 years of professionalnbspexperience innbspCloudnbspInfrastructure and Cloud SolutionsliliProfessional work experience working on complex applicationsservices with DevOps ExperienceliliStrong knowledge of LinuxUNIX Shell scripting package management etcliliHands on experience working with standard DevOps tools Kubernetes Docker Istio Grafana Helm Charts TerraformliliExperience withnbspBuildnbspAutomationnbspand Monitoringnbsptools like Maven ANT Gradle Jenkins bug tracking tools like JIRAliliBuild Tools like Maven ANT GradleliliSource control tools like Git GitHub SVN or equivalentliliNetwork configuration and managementliliKnowledge of middleware components like Weblogic or TomcatliliKnowledge of Python or Perl is desirableliliKnowledge of Monitoring technologies Enterprise Manager Thousand Eyes Prometheus will be an advantageliliTeamwork is key herenbspWe are looking for developers who believe in the value of cross team collaborationliliExcellent oral and written communication skillsliliSelf motivated to continuously learn and improveliol",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-11T18:59:02.000Z"
+  },
+  "company": {
+    "name": "Oracle",
+    "link": "https://www.linkedin.com/company/oracle"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "Texas Metropolitan Area",
+    "postal_code": "78723",
+    "street_address": null,
+    "latitude": 30.276316,
+    "longitude": -97.70931
+  }
+}

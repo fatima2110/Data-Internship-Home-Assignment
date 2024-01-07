@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Nonprofit Organization Management",
+    "description": "brstrongLocation strongArlington VirginiabrstrongCategories strongEngineering and ITbrstrongReq ID strong4946brbrstrongOverview brbrstrongAre you passionate about Cloud Computing technology and driving growth and maturity in a team Do you enjoy partnering with infrastructure to ensure the foundation set in cloud amp security meets the software teams needs If so this might be the role for youbrbrIn this role you will work with our team of software engineers core infrastructure engineers and product managers to build and maintain customerfacing experiences and backend solutions to enable highquality application solutions that leverage AWS services Youll get to play with some of the best tools AWS has to offer to help with integration data engineering and software development Youll be able to work with top practitioners on solving some of our countries toughest social challenges using your unique skills The ideal candidate should be a selfstarter with a strong work ethic and a growth mindset The team values engineering quality technical excellence innovation and collaboration brbrstrongYour Responsibilities Include brstrongulliChose the right AWS services for the application you develop and supportliliWrite code that optimizes the performance of AWS services used by your applicationliliImplement automated tests to support Continuous Integration and Continuous Delivery to productionliliDevelop integrations and automations with multiple data sources using AWS servicesliliContribute to other solutions on the team to include code reviews pair programming and architecting prototypes and fully functional production ready applicationsliliCollaboratively promote and prototype lowcode solutions for potential new business opportunitiesliliCommunicate with end users other technical teams and leadership to collect requirements describe functionality and product features and technical designsbrbrliulstrongKnowledge and Skills You Bring to the Organizationbrstrongulli3 years of handson professional experience with programming languages such as Python CC Java Ruby or PowershellliliGood understanding of core AWS services uses and basic AWS architecture best practicesliliExperience developing applications on AWS using EC2 Lambda Step Functions SQS SNS S3 API Gateway Redshift AthenaliliSolid understanding of objectoriented design data structures problem solving and complexity analysisliliStrong verbal and written communication skillsliliDeep curiosity to learn about new technologies and how to improve operationsbrbrliulstrongStandout Candidates May Also BringbrstrongulliAWS or Azure certifications Certified Developer DevOps Solutions Architect Data Analytics or DatabasebrbrliulstrongAbout UsbrbrstrongStand Together helps social entrepreneurs supercharge their efforts to help people improve their lives We connect them with passionate partners and the resources necessary to make a greater difference brbrThrough our philanthropic community we tackle some of the nations biggest challenges so that every person has the opportunity to realize their extraordinary potentialbrbrStand Together partners with people from diverse perspectives and backgroundsincluding people in education business community nonprofits and public policyto accomplish more together than any of us could on our ownbrbrstrongOur ValuesbrbrstrongWorking at Stand Together is different from many other organizations We have a relentless commitment to a culture based on a business philosophy called Market Based Management  MBM   Informed by the principles that allow a free and open society to flourish MBM prepares individuals to innovate improve and transform while fostering a healthy growing organization that creates longterm value for its clients and supporters and fulfillment for its employees brbrWe believe that diversity in experiences perspectives knowledge and ideas fuels creativity broadens knowledge and helps drive success Thats why were proud to be an equal opportunity employer and strive to treat all employees and applicants with honesty dignity respect and sensitivity We welcome all qualified applicants regardless of colorrace religion religious creed sex gender or gender identity gender expression sexual orientation national origin citizenship ethnicity ancestry age physical disability mental disability medical condition pregnancy including medical needs which may arise from pregnancy childbirth or related medical conditions military and veteran status genetic information marital or familial status political affiliation or any other legally recognized protected basis under federal state or local laws regulations or ordinances  brbrPM19brbrbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T07:35:23.000Z"
+  },
+  "company": {
+    "name": "Stand Together",
+    "link": "https://www.linkedin.com/company/standtogether"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 56000,
+    "max_value": 103000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Arlington",
+    "region": "VA",
+    "postal_code": "22210",
+    "street_address": null,
+    "latitude": 38.890762,
+    "longitude": -77.084755
+  }
+}

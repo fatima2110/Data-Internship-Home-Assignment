@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Computer Software,Automotive",
+    "description": "ISEE is seeking a fulltime Machine Learning Engineer to join our team The ideal candidate has several years of work experiencebrbrstrong Role Responsibilities Include brstrongulli Working on the intersection of sensing and perception algorithmslili Prototyping and deploying robust computer vision algorithms on ISEEs vehicle fleet in areas of Sensor calibration localization and mapping fusion tracking and pattern recognitionlili Benchmarking and maintaining developed moduleslili Work independently to deliver highquality code in a timely fashionlili Collaborate with team for testing evaluation and review of codebrbrliulstrong Required Qualifications brstrongulli Degree in Computer Science Electrical Engineering Robotics or related fieldlili Experience in deploying deep learning models at scale on realworld data in at least one of these deep learning frameworks PyTorch Tensorflow Caffelili Handson experience with developing training and deploying deep learning models in multimodal sensors space and temporal real world datalili Strong Python andor C skillslili Passionate about selfdriving vehicles and realworld robotic solutionslili Strong presentation and communication skillsbrbrliulstrong Preferred brstrongulli Publication record in toptier computer vision or machine learning conferenceslili 3 yrs industrial experience in deploying Computer VisionDeep learning algorithms in realworld scenarioslili Roboticsautonomous experience is a plusliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-25T11:34:21.000Z"
+  },
+  "company": {
+    "name": "ISEE AI",
+    "link": "https://www.linkedin.com/company/isee-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cambridge",
+    "region": "MA",
+    "postal_code": "02239",
+    "street_address": null,
+    "latitude": 42.36525,
+    "longitude": -71.10502
+  }
+}

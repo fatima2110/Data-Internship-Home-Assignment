@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineers (RoR)",
+    "industry": "",
+    "description": "pstrongSENIOR SOFTWARE ENGINEERs RoRstrongppnbspppZYMR Inc has an immediate requirement to fulfill for our newest CustomernbspThe project involves working with a fastgrowing tier1 preIPO Silicon Valley Energy startup that was established almost 10 years ago and has raised more than 100M in funding so farppbrppstrongWe are looking for experienced Ruby on Rails Preferred Django Platform DevelopersstrongppbrppstrongResponsibilities and DutiesstrongpulliWrite platform code services and componentsliliDesign amp develop microservices for componentsliliResponsible for design and implementation test automation and other SDLC activitiesliliGather and analyze requirements and convert them into concrete technical tasks with effort estimatesliliCrossborder project experience is a plusliliPerform code reviews test case reviews to meet highquality standardsliulpnbspppstrongQualifications and Skillsstrongpulli6 years building scalable applications with web frameworks like Ruby on Rails Django etc RoR preferredlili6 years experience with OOP design and building REST APIsliliProficient in designing microservices with containerization tools Docker and KubernetesliliExperience with UI frameworks like Angular or ReactJSliliStrong background in Data Structures and AlgorithmsliliExpert with Relational Databases like MySQL or PostgreSQLliliExperience with Web Services RESTliliExperience working in cloud environments AWS preferredliliExperience with SOA amp EventDriven ArchitectureliliKnowledge of Caching and Messaging technologies like Redis RabbitMQ KafkaliliExperience with Linux development and runtime environmentsliliExperience with Agile  SCRUM methodology for product development TDD CIlilistrongEducationstrong Bachelors in computer science or equivalent degreelili4 years at any leading SaaS firm  experience with the energy domain a big plusliulpbrp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-20T06:05:56.000Z"
+  },
+  "company": {
+    "name": "Zymr, Inc.",
+    "link": "https://www.linkedin.com/company/zymrinc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

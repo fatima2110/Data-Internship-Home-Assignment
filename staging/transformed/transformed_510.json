@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, 2021 New Grad",
+    "industry": "",
+    "description": "pstrongWed love to hear from you if you are looking for a tech company with the followingstrongpullistrongHuge marketstrongnbsp800 billion market size we are building the first AIpowered super app to help people owning a carlilistrongOpen transparentstrong meritbased cultureliliHyper growth nbspstrong10X revenue growth in 2020strongliliBest user experiencenbspstrong1 ranked appstrongnbspin the insurance comparison categoryliliStrong leadership from Amazon Microsoft Facebook Nvidia Alibaba etc and rockstar colleaguesliliApproaching series C withnbspstrong100Mstrongnbsptotal financing backed by top VCs such as YCombinator Goodwater SV Angel Funders Club and Bow Capital etcliulpnbspppstrongAbout jerryaistrongppJerryai is building the strongfirst SUPER appstrong for your car that helps people optimize the cost and experience of owning a car making ownership easy amp affordable Having built the 1 ranked app and strongthe fastest growth appstrong in the insurance comparison category we are tackling other areas of car ownership and looking for engineering talents to join us in expanding our product offerings Headquartered in Silicon Valley CA we have offices in the US China and CanadappstrongnbspstrongppstrongA few examples of the exciting projects that we are working onstrongpulliCreate a smart prediction engine for customers insurance coverage needsliliBuild predictive models on customer purchase behavior based on a large data setliliUse telematics tracking to build customer driving risk profileliulpnbspppstrongAbout YOUstrongpulliYou love tackling convoluted problems and coming up with clean stable solutions that scaleliliYou have a genuine passion for designing and implementing elegant software solutionsliliYou are intimately familiar and up to date with development ecosystem and make sound decisions when choosing the right tool or library for the jobliliYou will contribute across the entire product stack as well as collectively oversee the integrity of the codebaseliulpnbspppstrongA few more specifics about YOUstrongpulli1  years of fulltime software development experienceliliBS degree in Computer Science or related disciplineliliStrong software development fundamentals data structures algorithms etcliliProficient with modern web application development with knowledge of JS ecosystems and open source web frameworks eg NodeJS  React  GraphQL  PostgreSQL  Redshift  Redis  KubernetesliliKnowledge of good practices preferred design patterns and writing idiomatic Javascript codeliliSolid understanding of performance implications and scalability of codeliliKeenness for writing good meaningful tests and maintaining thorough test coverageliliExperience with large complex codebases and know how to maintain themliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-12T23:07:15.000Z"
+  },
+  "company": {
+    "name": "Jerry",
+    "link": "https://www.linkedin.com/company/jerryinc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

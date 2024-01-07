@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer-AWS - SP&amp;R",
+    "industry": "Computer Hardware,Computer Software,Computer Networking",
+    "description": "strongstrongstrongWhat Youll DobrbrbrstrongstrongstrongYou will be responsible for operating in a senior role guiding the efficient automation of build deploy and release to support Ciscos SecureX research team This includes developing and encouraging Infrastructure As Code and CICD pipelines identifying automation opportunities and mentoring delivery and design and implementation of platform and service life cyclebrbrbrstrongstrongstrongWho Youll Work WithbrbrstrongstrongstrongThis team is decisive and fast moving by the nature of the product they work on Working with us youll be working with a team that sees the results of their work in the security of our customers The work we do is important and we get to see thatbrbrbrstrongstrongstrongWho You ArebrbrstrongstrongstrongulliYoull have at least five years of experience with AWS hosted services including use of Cloudformation or Terraform as a deployment platformliliA successful candidate will know the value of micro services REST APIs proper web scale architecture containerization and be able to effectively use programming to automate use of these conceptsbrliulstrong The position requires minimum of 3 years experience with the following brbrstrongulliArchitecture and engineering of microservicebased distributionsliliWeb services and REST APIsliliWeb scale architectureliliDocker imagecontainer primitives and orchestration suites eg Kubernetes MesosDCOS NomadliliGitlab CI pipeline authoring or Jenkins Travis CircleCI etcliliHashicorp Terraform or AWS Cloudformation in a production environmentliliOne or more objectoriented programming languages python go rust ruby etcliulstrong The following experiences are preferred brstrongulli10 years Traditional server administration concepts networking storage securitylili8 years experience administering one or more linux distributionslili5 years of shell scriptinglili5 years experience with git VCSlili3 years in a leadership capacitybrbrliulPlease note this posting is to advertise potential job opportunities This exact role may not be open today but could open in the near future When you apply a Cisco representative may contact you directly if a relevant position opensbrbrWeAreCisco where each person is unique but we bring our talents to work as a team and make a difference powering an inclusive future for allbrbrWe embrace digital and help our customers implement change in their digital businesses Some may think were old 36 years strong and only about hardware but were also a software company And a security company We even invented an intuitive network that adapts predicts learns and protects No other company can do what we do  you cant put us in a boxbrbrBut Digital Transformation is an empty buzz phrase without a culture that allows for innovation creativity and yes even failure if you learn from itbrbrDay to day we focus on the give and take We give our best give our egos a break and give of ourselves because giving back is built into our DNA We take accountability bold steps and take difference to heart Because without diversity of thought and a dedication to equality for all there is no moving forwardbrbrSo you have colorful hair Dont care Tattoos Show off your ink Like polka dots Thats cool Pop culture geek Many of us are Passion for technology and world changing Be you with us",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-23T17:12:12.000Z"
+  },
+  "company": {
+    "name": "Cisco",
+    "link": "https://www.linkedin.com/company/cisco"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 117000,
+    "max_value": 203000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "",
+    "description": "pstrongJunior to Mid 14yrs commercial experience ETLData EngineerAnalytics rolestrong ppemnChoose2 acting as agency for social and environmental startup equal opportunity employerem pulliOnboardextract new feeds into PostgreSQL database Fivetran syncload them to Snowflake on AWS transform data with DBT SQLbased for reporting layer Tableau internal user or RubyReact Web App external user liliUS working rights no sponsorship required  ability to work PacificMountain time GMT67 though 99 remote working autonomously and updating team over slackZoom liliOpen communicator to stakeholders of handson Head of Data in Denver  CFO in San Fran  Senior Engineer in Perth Australia liliUSD 6585k base  generous package  eg     20d paidtimeoff  65k Equity Options  2k personal development budget  401k and matching contribs liliB E EngCS  preferredliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:07:15.000Z"
+  },
+  "company": {
+    "name": "nChoose2",
+    "link": "https://au.linkedin.com/company/nchoose2-io"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "California",
+    "region": "United States",
+    "postal_code": "93266",
+    "street_address": null,
+    "latitude": 37.254673,
+    "longitude": -119.61728
+  }
+}

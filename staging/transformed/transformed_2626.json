@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "pstrongLocation  TexasstrongppstrongRequirementsstrongpulliStrong knowledge of Python and general software development skills source code management debugging testing deployment etcliliStrong understanding of text preprocessing and normalization techniques such as tokenization and POS taggingliliAbility to design NLP pipelines to meet customer requirementsliliFamiliarity with different approaches for training entity tagging models eg CRF RNN CNN TransformerliliExperience with asynchronous programming is a plusliliFamiliarity with deep learning frameworks such as Tensorflow and Pytorch a plusliliFamiliarity with computer vision deep learning algorithms a plus CNN RCNNliliBS MS andor PhD in Mathematics Physics etcliulpInterested candidates can mail their resumes to careerkalongenscomp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T06:34:09.000Z"
+  },
+  "company": {
+    "name": "KalonGens",
+    "link": "https://www.linkedin.com/company/kalongens"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Texas",
+    "region": "United States",
+    "postal_code": "76522",
+    "street_address": null,
+    "latitude": 31.463793,
+    "longitude": -99.333275
+  }
+}

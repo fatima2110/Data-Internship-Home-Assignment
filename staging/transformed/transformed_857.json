@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Automotive",
+    "description": "At Ford Motor Company we believe freedom of movement drives human progress We also believe in providing you with the freedom to define and realize your dreams With our incredible plans for the future of mobility we have a wide variety of opportunities for you to accelerate your career potential as you help us define tomorrows transportationbrbrFords Global Data Insight and Analytics GDIampA organization is looking for smart nice and curious data scientists with exceptional skills in Machine Learning ML Artificial Intelligence AI and Scalable Computing No other industry has the diversity difficulty and economic impact of quantitativebased solutions as those found in the automotive industry And no other automotive company in the world has the size executive support or computing infrastructure to match that provided to GDIampA by Ford We are seeking highpotential Machine Learning and AI scientists to assist in all phases of project work including problem identification formulation model development and deployment These scientists must have strong selfdiscipline initiative and possess a passion for lifelong learning to face evolving challenges in rapidly changing mobility technology Successful candidates will be given the autonomy to conduct original research and choose appropriate methodologies to solve worldclass machine learning problems This position involves the development and deployment of AI and ML technology in areas such as autonomous vehicles cybersecurity customer interaction product design development manufacturing quality and marketing of connected vehicles If hired you will be a member of a team that applies cuttingedge AI and Machine Learning techniques to develop innovative solutions for these problems and participate in building a strategy for future contributions in these domains and morebrbrstronguWhat Youll Be Able To DobrustrongulliAnalyze source data and data flows working with structured and unstructured dataliliManipulate highvolume highdimensionality data from varying sources to expose and highlight patterns anomalies relationships and trendsliliApply AI and Machine Learning technology to solve complex realworld problemsliliAnalyze and visualize diverse sources of data interpret results in a business context and report results clearly and conciselyliliFulfill problem formulation and ML technique consulting requests in a timely mannerliliCommunicate and present analytical models to business customers and executive managementliliWork collaboratively with different business partners and be able to present results in a clear and concise mannerbrliulstronguThe Minimum Requirements We SeekbrustrongulliBachelors degree in Computer Science Computer Engineering or related field of studylili2 years of experience in software development with PythonJavaScalaC including coop and internshipslili1 years working with Artificial Intelligence  Machine Learning tools and techniques including coop and internshipsbrliulstronguOur Preferred RequirementsbrustrongulliMasters  PhD degree in Computer Science Data Science Engineering Statistics Economics Mathematics Physics preferredliliExperience building deep learning solutions for realworld applications such as Computer Vision Natural Language Processing timeseries analysis or anomaly detectionlili2 years of experience with Machine Learning or Artificial Intelligence techniques in one or more of the following advanced neural network architectures regression classification and clusteringliliDemonstrated ability in the application of Machine Learning or AI in realworld settings with large scale dataliliExperience with Deep Learning tools such as TensorFlow PyTorch or other frameworks on GPUsliliExperience with Agile software developmentliliExperience with parallel and distributed computing is a plusliliStrong oral and written skillsliulstrongWhat youll receive in returnbrbrstrongAs part of the Ford family youll enjoy excellent compensation and a comprehensive benefits package that includes generous PTO retirement savings and stock investment plans incentive compensation and much more Youll also experience exciting opportunities for professional and personal growth and recognitionbrbrIf you have what it takes to help us redefine the future of mobility wed love to have you join usbrbrCandidates for positions with Ford Motor Company must be legally authorized to work in the United States Verification of employment eligibility will be required at the time of hire Visa sponsorship may be available for this positionbrbrWe are an Equal Opportunity Employer committed to a culturally diverse workforce All qualified applicants will receive consideration for employment without regard to race religion color age sex national origin sexual orientation gender identity disability status or protected veteran statusbrbrstronguFor Information On Fords Salary And Benefits Please Visitbrbrustronghttpscorporatefordcomcontentdamcorporateusenusdocumentscareers2021benefitsandcompGSRsalplan1pdf",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-19T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Ford Motor Company",
+    "link": "https://www.linkedin.com/company/ford-motor-company"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dearborn",
+    "region": "MI",
+    "postal_code": "48120",
+    "street_address": null,
+    "latitude": 42.32214,
+    "longitude": -83.17594
+  }
+}

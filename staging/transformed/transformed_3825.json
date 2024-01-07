@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brApples ETS Platform Services group is looking for an outstanding Software Engineer who will ensure the availability performance maintenance of a highly available highdemand most meaningful enterprise platformsbrbrbrApplication relate to Infrastructure Platform DevOps Nginx Integration Platforms Messaging data services SOA Communication Platforms Business Transactional Mail including phishing detection component and Business Platforms Delivery Quote Centralize Inventory system brbrbrThe position requires shown analytical understanding of distributed computing consistency and availability concerns in geographically distributed data and performance tuning in such scenariosbrbr brstrongKey Qualificationsbrstrong brExperience in engineering highlyscalable and distributed systemsbrbrKnowledge of Web Services HTTPHTTPSWebDav ProtocolsbrbrKnowledge of Data Security SSL Certificates etcbrbrUnix Performance Monitoring amp TuningbrbrStrong problem solving and troubleshooting skillsbrbrStrong programming expertise in JavaJ2EE background with deeper knowledge on Spring frameworks such as springsecurity springmvc springdata JPA amp hibernatebrbrValidated understanding of CC is a plusbrbrExperience in performance tuning of the applications including JVM tuning memory profilingbrbrStrong knowledge on securing applications detailed understanding of OWASP top 10 risks and solutionsbrbrExperience in developing high efficiency high performance systems and global applicationsbrbrGood understanding of Database concepts PLSQL and NoSql TechnologiesbrbrGood fundamentals on Release Management amp continuous IntegrationbrbrExperience with Splunk and BigData solution brbrTeammate able to workcoordinate with multiple teamsbrbr2 years experience leading software engineer teamsbrbr5 years of IT experiencebrbr brstrongDescriptionbrstrong brReviewing hardware software infrastructure and application functionality for identifying and optimizing performance bottlenecks brbrDeveloping and maintaining application services and driving incident management brbrWorking closely with Multifunctional IT organization Business group Apples production support team application engineers systems engineers database administrators and QA team to successfully ensure implementation and reliability of PlatformsApplicationsbrbr brstrongEducation amp Experiencebrstrong brBSMS in Computer Science Software Engineering or equivalent is requiredbrbr brRole Number 200250392brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T08:30:39.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 80100,
+    "max_value": 157000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

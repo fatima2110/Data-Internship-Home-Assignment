@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr Software Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "stronguCompany DescriptionbrbrustrongServiceNow is making the world of work work better for people Our cloudbased platform and solutions deliver digital workflows that create great experiences and unlock productivity for employees and the enterprise Weaposre growing fast innovating faster and making an impact on our customersapos and employeesapos lives in significant and important ways With over 6900 customers we serve approximately 80 of the Fortune 500 and weaposre on the 2020 list of FORTUNE Worldaposs Most Admired CompaniesbrbrWere looking for people who are ready to jump right in and help us build on our incredible momentum our diverse engaged workforce and our purpose to make the world of work work betterbrbrLearn more on Life at Now blog and hear from our employees about their experiences working at ServiceNowbrbrstronguJob DescriptionbrbrustrongstrongWhat you get to do in this rolestrongstrong  brbrstrongThe ServiceNow developers primary responsibility will be to develop scoped applications that can integrate between ServiceNow and other enterprise business systems This role will also be responsible for the enablement of new modules support enhancements and the development of integrations that will leverage new and existing platform APIsbrulli Develop scoped applications that will utilize all of the ServiceNows platform functionalitylili Develop and support the integration of 3rd party systems with ServiceNow MID server web services REST and SSH actionslili Create and maintain API and data integrations between ServiceNow and other serviceslili Be a lead contributor on how ServiceNow can be used to integrate to new and existing technologiesbrliulstronguQualificationsbrbrustrongstrongTo be successful in this role you havebrstrongulli At least 4 years of handson experience with the development configuration implementation and support of production and nonproduction ServiceNow instanceslili At least 4 years of handson experience with JavaScript HTML and CSS are requiredlili A rich knowledge of both ITIL and ITSM disciplines is requiredlili ServiceNow Application Developer and System Administrator Certifications are nice to havelili Demonstrated proficiency with the use and management of APIslili Knowledge of infrastructure services spanning servers storage network security and cloudbrliulFD21brbrstronguAdditional InformationbrbrustrongServiceNow is an Equal Employment Opportunity Employer All qualified applicants will receive consideration for employment without regard to race color creed religion sex sexual orientation national origin or nationality ancestry age disability gender identity or expression marital status veteran status or any other category protected by lawbrbrIf you are an individual with a disability and require a reasonable accommodation to complete any part of the application process or are limited in the ability or unable to access or use this online application process and need an alternative method for applying you may contact us at 1 408 5018550 or talentacquisitionservicenowcom for assistancebrbrFor positions requiring access to technical data subject to export control regulations including Export Administration Regulations EAR ServiceNow may have to obtain export licensing approval from the US Government for certain individuals All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by the US Government",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:40:25.000Z"
+  },
+  "company": {
+    "name": "ServiceNow",
+    "link": "https://www.linkedin.com/company/servicenow"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 113000,
+    "max_value": 146000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

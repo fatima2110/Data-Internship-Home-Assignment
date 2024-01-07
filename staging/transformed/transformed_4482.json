@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist (Remote)",
+    "industry": "Information Technology and Services,Information Services",
+    "description": "pstronguData Scientist RemoteustrongppnbspppOur PharmaMed Device client based out of Massachusetts is looking to hire a Junior to MidLevel Data Scientist for a 100 remote  opportunity This role starts as a contract but has the potential to go full time Unfortunately our client is not able to sponsor at this time so W2 candidates are encouraged to applyppnbspppThe right candidate will possesspulli3 years of experience serving as a Data ScientistBI DeveloperliliExperience taking raw data and transforming it into visualizationinsights for SMEsliliExperience with Salesforcecom Marketing Cloud and a knowledge of conversion funnel using SFDCliliExperience with BI tools such as Tableau or Spotfire a mustliliScripting languages such as Python R or MATLABliliAbility to write and run SQL database queriesliliExperience in data wrangling data cleaning and machine learningliulpbrppFor immediate consideration please send your most recent resume tonbspmsalemifootbridgeconsultingcomnbspp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-18T15:10:39.000Z"
+  },
+  "company": {
+    "name": "FootBridge Consulting",
+    "link": "https://www.linkedin.com/company/footbridgeconsulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

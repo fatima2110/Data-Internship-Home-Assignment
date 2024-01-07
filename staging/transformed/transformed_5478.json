@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Analyst",
+    "industry": "",
+    "description": "pThe ideal candidate will use their passion for big data and analytics to provide insights to the business covering a range of topics They will be responsible for conducting both recurring and ad hoc analysis for business usersnbspppnbspppstrongResponsibilitiesstrongpulliUnderstand the daytoday issues that our business faces which can be better understood with dataliliCompile and analyze data related to sales digital marketing analytics production inventoryliliDevelop clear visualizations to convey complicated data in a straightforward fashionliulpbrppstrongQualificationsstrongpulliBachelors or Masters degree in Statistics or Applied Mathematics or equivalent experiencelili1  2 years Data Analysis experienceliliProficient in SQLliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:24:30.000Z"
+  },
+  "company": {
+    "name": "Pitusa",
+    "link": "https://www.linkedin.com/company/pitusa"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Miami",
+    "region": "FL",
+    "postal_code": "33299",
+    "street_address": null,
+    "latitude": 25.775084,
+    "longitude": -80.1947
+  }
+}

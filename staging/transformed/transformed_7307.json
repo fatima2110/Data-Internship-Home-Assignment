@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "With our recent close of our Series A funding Molecule is hiring midtoseniorlevel fullstack engineers As a member of our team youll help us design build and deliver the very best commoditiestrading software on the planetbrbrYoull get to build production grade software using Ruby on Rails React Go Python Postgres Docker Kubernetes and more because we dont shy away from using cool tech in production As a member of our team youll find yourself doing things the right way most of the timebrbrThe problem domain is complex and if you have experience or interest in finance trading statistics or calculus this could be the gig for you Sound interesting Heres some more about the jobbrbrstronguResponsibilitiesbrustrongulliDesign develop and test new features for Molecules nextgen trading platformliliWrite efficient maintainable and reusable code and participate in and support the full continuous delivery pipelineliliWrite and maintain unit and feature tests and review other team members code and testsliliHelp eliminate tech debtliliCollaborate with and mentor team membersliliLearn new technologies and help your teammates learn them tooliliHelp the company grow by contributing to open source projects and by representing Molecule well within the developer communitybrliulstronguExperience amp QualificationsbrbrustrongstrongRequirementsbrstrongulliBS or MS in Computer Science or related fieldlili2 to 5 years of experience developing fullstack applications with Ruby on Rails React Go Python or other opensource technologiesliliHigh level of proficiency with Ruby React SQL and JavaScriptTypeScriptliliExperience with DevOps and with container eg Docker and container orchestration technologies eg KubernetesliliExperience with asynchronous and highvolume transaction processingliliExperience with Agile software developmentliliA selfdisciplined and task oriented approach to development documentation and code structureliliWork in US time zonesbrliulNice to havesbrulliExperience in finance or energycommoditiesequity tradingliliExperience with enterprisegrade software and highsecurity environmentsliliExperience working at a tech startupbrliulustrongBenefitsbrbrstronguMolecule has an awesome benefits packageone that fits right in with the small company that we are Benefits includebrulliFull medical dental and vision insurance 99 companypaidliliLife and ADampD 100 companypaidliliNo limit on paid vacation days within reasonlili10 sick dayslili1500 every 18 months towards a BYOD policyliliAn environment matching our valuesliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T20:29:57.000Z"
+  },
+  "company": {
+    "name": "Molecule",
+    "link": "https://www.linkedin.com/company/molecule-software"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Houston",
+    "region": "TX",
+    "postal_code": "77208",
+    "street_address": null,
+    "latitude": 29.760803,
+    "longitude": -95.36951
+  }
+}

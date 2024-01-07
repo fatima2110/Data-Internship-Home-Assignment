@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Apple Pay",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brImagine what you could do here At Apple great ideas have a way of becoming phenomenal products services and customer experiences very quickly Bring passion and dedication to your job and theres no telling what you could accomplishbrbrbrAre you passionate about building massively scalable services that surprise and delight Do you have a natural curiosity for learning new technologies If you answered yes to both questions the Apple Pay Server engineering team wants to hear from youbrbr brstrongKey Qualificationsbrstrong brExperience with objectoriented analysis and design with languages like JavabrbrExperience developing scalable and distributed systemsbrbrExperience authoring and supporting web servicesbrbrExperience with Relational and NoSQL Databasesbrbr brstrongDescriptionbrstrong brApple Pay brought mobile payment to millions of customers and its just the beginning We are looking for engineers who are equally comfortable working at the bits and bytes level and designing state of the art objectedoriented webservices brbrbrImagine the freedom of a startup but with the funding and focus of the most valuable company in the world  Job duties include the following  brbrbrArchitect and implement new features for Apple Pay Write bulletproof Java code threadsafe performant objectoriented and inherently testable brbr Work directly with the business team to collaborate on current and future initiatives brbr Work directly with the iOS client team on feature definition and development brbr Design specifications and protocols to tackle novel problems brbr Support ongoing development efforts brbr Work on overall teams efforts to fix bugs and diagnose existing issues brbr Embrace testdriven development Unit tests are not optional on this teambrbr brstrongEducation amp Experiencebrstrong brBS degree in computer science or equivalent field plus 34 years software development experience or MS degree plus 12 years software development experience or equivalentbrbr brstrongAdditional Requirementsbrstrong brNicetohave Experience but not required   brbrGlobalPlatform 221  brbrBSI Technical Guideline TR03111brbrElliptic Curve Cryptography Version 20  brbrNIST Special Publication 80038B  brbrEMV Tokenization  brbrAPDUJavaCard  brbrAsn1 brbrHSM Thalesbrbr brRole Number 200270120brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T03:16:43.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 118000,
+    "max_value": 200000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

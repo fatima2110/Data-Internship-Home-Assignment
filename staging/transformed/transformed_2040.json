@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Silicon Validation Software Engineer: Board Firmware",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brAt Apple new ideas have a way of becoming extraordinary products services and customer experiences very quickly Bring passion and dedication to your job and theres no telling what you could accomplish Dynamic smart people and inspiring innovative technologies are the norm here The people who work here have reinvented entire industries with all Apple Hardware products The same passion for innovation that goes into our products also applies to our practices strengthening our commitment to leave the world better than we found it Join us to help deliver the next groundbreaking Apple productbrbrbrWe have a critical impact on getting high quality functional products to millions of customers quickly and we are hiring all levels from junior to senior roles As part of a highly talented boarddesign and SoC bringupvalidation team you will design implement test and support software used to control boards used for testing SoCsbrbr brstrongKey Qualificationsbrstrong brProficient C programmerbrbrExperienced with embedded softwarebrbrFamiliar with boot code lowlevel OS code device drivers and IO devicesbrbrExperience with computer initialization SoC bringup debuggers and networkingbrbrExperience with embedded software implementations in FPGAsbrbrScripting Python Bash Perl TCL LuabrbrUnix systemlevel programmingbrbr brstrongDescriptionbrstrong br  You will develop test release maintain and enhance microcontroller code running in FPGAs and controlling SoCs under testbrbrbr  You will develop test release maintain and enhance lowlevel software running on Unixcompatible environments mostly Linux some Macbrbrbr  You will assist in the bringup and debug of SoCsbrbr brstrongEducation amp Experiencebrstrong brBS  MS  PhD in EE or CS is requiredbrbr brRole Number 200149618brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:44:09.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brDo you have a passion for creating the best photo editing experience in the world Are you comfortable pushing pixels no matter how many through image processing pipelines Do you aspire to make the best interactive image and video editing toolsbrbrApples Photos Imaging Team is looking for a Senior Imaging Software Engineer to drive the development of innovative tools for our users to enhance their images and videos on iOS and OS X in new and delightful waysbrbr brstrongKey Qualificationsbrstrong br Strong ObjectOriented analysis and design experiencebrbr Strong ObjectiveC and Cocoa experiencebrbr Deep understanding of performance assessment and optimization techniques brbr Strong applied software methodology process and quality skillsbrbr Experience with CoreImage or similar GPU image processing technologiesbrbr Proven ability to excel in a fastpaced development teambrbr Track record of shipping productsbrbr brstrongDescriptionbrstrong brIn this role you will create and architect new ways of processing images and videos optimize existing and new image filters build the next generation of tools to interact with them and everything in betweenbrbrThe ideal candidate will have deep knowledge of current Apple imaging technologies such as CoreImage CoreGraphics CoreVideo CoreAnimation or AVFoundation Prior experience optimizing imagevideo editing and processing pipelines is a plusbrbrCandidates should have a proven track record that demonstrates innovation strong collaboration excellent communication skills and a passion for designing high quality softwarebrbr brstrongEducation amp Experiencebrstrong br BS in Computer Sciencebrbr 5 years industry experiencebrbr brstrongAdditional Requirementsbrstrong br Prior experience building and optimizing crossplatform image processing applicationsbrbr Understanding of video processing related technologies such AVFoundation brbr Knowledge of CoreImage CoreGraphics CoreVideo and CoreAnimationbrbr Knowledge of Metal OpenCL OpenGL or other GPU programming languagebrbr Experience writing Swift applications for iOS or OS Xbrbr Knowledge of imaging science image processing algorithms and color managementbrbr Experience working in an Agile environment brbr Interest in Photographybrbr brRole Number 200215570brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T02:24:37.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 117000,
+    "max_value": 200000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": " WhatnotbrbrWhatnot YC W20 is a livestream shopping platform and marketplace backed by Andreessen Horowitz and Y Combinator Were one of YCs top companies and one of the fastest growing marketplaces ever Were laser focused on creating an exceptional software company team and place to work You can read our principles herebrbrOur mission enable anyone to turn their passion into a business and bring people together through commerce Were building the future of ecommerce an interactive community where creators can make a living off their passionbrbrDid we mention were high growth Weve 10xd the company in 6 months In January Whatnot was 10 people Today our team is approaching 60 and will exceed 100 by year end Were hiring forward thinking problem solvers across all functional areas We recruit thoughtfully can move fast and are scaling fully remotelybrbr Opportunity SizebrbrThe ecommerce experience has been static for 20 years and is perhaps the largest opportunity in the startup space today Livestream shopping is a 170B GMV market in China and has grown 100 YoY Retail is a 5T market opportunitybrbrstrong About The Data Team brbrstrongWe are looking for intellectually curious highly motivated individuals to be foundational members of our Data Science and Machine Learning team You will partner across the company to identify critical goals for the business develop a deep understanding of them and design scalable solutions The ideal candidate will be able to navigate the data stack and support initiatives from data engineering product analytics exploratory data analysis to machine learning service deployments and monitoringbrbr RolebrulliPartner closely across the business to find improvements and influence decisions using data science methodologies and toolsliliEnrich product gotomarket and operations with new kinds of advanced analytics and machine learning powered experiencesliliDesign and implement endtoend data pipelines and data systems that support MLOps and business processesliliCreate high quality communication devices such as dashboards notebooks documents presentations to convey insights across a broad audienceliliDefine and advance best practices within an experiment driven cultureliul YoubrulliAs our next data scientist you should have 3 years of relevant experience plusliliExcellent verbal communications including the ability to clearly and concisely articulate complex concepts to both technical and nontechnical collaboratorsliliDemonstrated history of knowledge in Computer Science Statistics Mathematics Software Engineering or related technical fieldliliIndustry experience with proven ability to apply scientific methods to solve realworld problems on large scale dataliliAbility to lead initiatives across multiple product areas and communicate findings with leadership and product teamsliliExperience with operational databases such as PostgreSQL DynamoDBliliProficiency with data warehouses and big data technologies such as Snowflake Big Query SparkliliExtensive experience with Python for software development and data scienceliliAptitude and experience in applied statistics and machine learning techniquesliliFirm grasp of visualization tools interactive and selfserving such as BI dashboards and jupyter style notebooksliliFamiliarity with cloud computing platforms such as AWS or GCPliliExperience launching productionquality machine learning models eg dataset construction preprocessing deployment monitoring quality assuranceliul BenefitsbrulliCompetitive base salary and stock options benchmarked to 90th percentileliliUnlimited Vacation Policy and No Meeting HolidaysliliAmazing Health Insurance options including a no premium plan Dental and Vision Plans with less 1 monthly employee contribution and no cost Life Insurancelili13 Week Parental Leavelili200 to spend within Whatnot Applili3500 expense to buy your computer and at home work stationlili100 weekly expense for Lunchlili75 monthly expense for Internetlili75 monthly expense for Cell Phone planliulbrbrCurious about who thrives at Whatnot Weve found that low ego a growth mindset and leaning into action and high impact goes a long way herebrbrAt Whatnot we value diversity We are an equal opportunity employer we do not discriminate on the basis of race religion color national origin gender sexual orientation age marital status veteran status or disability status We recognize that diverse teams make the strongest teams and we encourage people from all backgrounds to apply",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T05:14:01.000Z"
+  },
+  "company": {
+    "name": "Whatnot",
+    "link": "https://www.linkedin.com/company/whatnot-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "pstrongTechnology Startup Opportunity to build a rocketship from scratch Hiring Engineer 1strongstrongbrstrong ppstrongbrstrong ppstrongWhat youll dostrong p ul liFull stack webmobile application development with a variety of coding languages li liWork closely with Product Manager to define feature specifications and build products leveraging frameworks such as React amp React Native li liCreate engaging UIs using performant and modern React li liBuild REST APIs li ul pbr p pstrongRequired skillsstrong p ul liBachelors in computer science or equivalent li liYou produce readable high quality code li liHighly technical with strong handson coding skills li liFluent in at least one backend web framework li liExperience with React or a similar framework li liComfortable with SQL li liYou prize reliability simplicity and robustness in building out systems li liYou communicate clearly and listen well li liYou are a selfstarter and comfortable taking on a variety of roles li liHave a startup mentality team player selfmotivated highintegrity pragmatic resourceful can execute under pressure li ul pbr p pstrongPreferred Qualificationsstrong p ul liMasters in computer science or equivalent li liPrior experience with distributed systems and highthroughput services li liKnowledge of AWS or similar cloud services li ul pbr p pstrongLocationstrong p ul liSan Francisco li ulpbr ppstrongCompensationstrong pulliSalary  Bonus  Equityliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T16:52:48.000Z"
+  },
+  "company": {
+    "name": "Startup",
+    "link": "https://www.linkedin.com/company/startup_5"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

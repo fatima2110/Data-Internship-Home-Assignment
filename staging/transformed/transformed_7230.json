@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Autonomy/AI Machine Learning Research Engineer",
+    "industry": "Defense &amp; Space",
+    "description": "stronguSummary DescriptionbrbrustrongFocuses on research amp development of technologies that enable and advance semi and fullybrbrautonomous systems for both defense and commercial customers Serves as the algorithm expertbrbrworking to enhance machine learning and robotic algorithms Investigates optimizes and applies uptobrbrdate knowledge on modern AI research with latest machine learning and deep learning techniquesbrbrDevelops algorithm implementation requirements Develops prototypes and may be involved in thebrbrinception of ideas and drive the development cycles from research to test of prototypes for a majorbrbrproject or component of a major projectbrbrstronguKey Responsibilitiesbrustrongulli Researches and discovers improvements to machine learning and robotic algorithmslili Drives advancements in techniques used in signal processing computer vision CV and controlbrliulsystemsbrulli Develops AI algorithms for mission systemslili Applies latest research on AI algorithms and trains machine learning  deep learning models tobrliulsolve a variety of problemsbrulli Investigates and applies the latest machine learning and deep learning techniqueslili Optimizes the performance of AI algorithms applications and platformslili Develops and documents algorithm and implementation requirementslili Develops prototypes that will enable autonomous functionality in LM products and platformslili Interfaces with other teams involved the development lifecycle for perception mission andbrliulmotion planning simulation and modeling testing etc",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T15:44:49.000Z"
+  },
+  "company": {
+    "name": "Lockheed Martin",
+    "link": "https://www.linkedin.com/company/lockheed-martin"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Littleton",
+    "region": "CO",
+    "postal_code": "80018",
+    "street_address": null,
+    "latitude": 39.61265,
+    "longitude": -105.0162
+  }
+}

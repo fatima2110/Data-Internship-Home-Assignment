@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer III (Backend)",
+    "industry": "Computer Software,Human Resources,Information Technology and Services",
+    "description": "brstrongDo what you love Love what you do brbrstrong At Workday we help the worlds largest organizations adapt to whats next by bringing finance HR and planning into a single enterprise cloud We work hard and were serious about what we do But we like to have fun too We put people first celebrate diversity drive innovation and do good in the communities where we live and work brbrstrongAbout the TeambrstrongThe Reporting application is central to empowering users of Workday Planning to visualize finance sales and other planning data through powerful selfservice and adhoc reports We leverage our powerful compute engine to provide bestinclass reporting that scales against very large data sets and complex planning modelsbrstrongAbout the RolebrbrstrongWe are open for a Software Engineer II or and Software Engineer IIIbrbr You are a teamplayer but also a leader and gogetter and motivated to excel You care deeply for inclusivity belonging and equity in relationships with workmates  brbr Along side these attributes if you are excited to join to a growing and talented bunch of fun folks in building a bestinclass reporting SaaS platform you are looking in the right place brbrstrongAbout YoubrbrstrongstrongSoftware Engineer IIbrstrongulli2 years of software development experiencebrbrliulstrongSoftware Engineer IIIbrstrongulli5 years of software development experienceliliStrong grasp for design patterns coding best practices and be able to write unittestable codebrbrliulstrongBasic qualificationsbrstrongulliFundamentals in algorithms and data structuresliliExperience working with SQL and databases Postgres Oracle etcliliStrong communication organizational skills and ability to balance multiple prioritiesliliBS andor Masters in Computer Science Engineering or related field preferredbrbrliul Workday is an Equal Opportunity Employer including individuals with disabilities and protected veterans",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T06:56:47.000Z"
+  },
+  "company": {
+    "name": "Workday",
+    "link": "https://www.linkedin.com/company/workday"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pleasanton",
+    "region": "CA",
+    "postal_code": "94588",
+    "street_address": null,
+    "latitude": 37.658436,
+    "longitude": -121.877
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Site Reliability Engineer, Monitoring",
+    "industry": "Computer &amp; Network Security,Computer Software,Information Technology and Services",
+    "description": "We are looking for an experienced Site Reliability Engineer to join Oktas Technical Operations Team At Okta our motto is Always On and nowhere do we embrace that more than in Technical Operations We strive to build the most reliable and performant systems on the planet through the skillful use of automation Weve created an integrated system that securely connects any person via any device to the technologies they need to do their most significant workbrbrThis role is ideal for someone who not only enjoys working on large scale cloud production systems but gains pride from seeing those systems handle anything the internet can throw at thembrbrIf you like to be challenged and have a passion for solving problems at scale with automation testing and tuning then we would love to hear from you The ideal candidate is someone who exemplifies the ethics of If you have to do something more than once automate it and who can rapidly selfeducate on new concepts and tools This engineer can be in our Bellevue San Francisco andor San Jose office or can be remotebrbrstronguResponsibilitiesbrustrongulliDesign build and monitor Oktas global production infrastructureliliRespond to production incidents and determine preventive solutionsliliTroubleshoot complex reliability and performance issuesliliAutomate manual processes evolve our monitoring tools and develop technical documentationliliSupport a highly available and large scale online environment as part of an oncall rotation once per quarterbrliulstronguQualifications amp RequirementsbrustrongulliExperience with Federal and DoD compliance requirements  FedRAMP ILliliBackground using and supporting Splunk Zabbix Wavefront Elasticsearch Logstash Kibana or related toolsliliPassionate about automationliliExperience in chatops tooling Slack automation PagerDuty integrationliliBackground with Linux systems administration and strong scripting skills in Bash Ruby Python Go etcliliExperience supporting Docker containers and web applications running on Java  Apache  Tomcat in a live production environmentliliStrong expertise with production services in AWS such as EC2 ECS KMS Kinesis CloudWatchliliPrevious experience with automating systems and infrastructure via Ansible Chef or TerraformliliSolid understanding of networking concepts and IP protocolsliliExperience with multicloud infrastructure is desiredliliComputer Science plus or relevant experiencebrliulstronguEducation And TrainingbrustrongulliBS Computer Science plus or relevant experiencebrliulOkta is rethinking the traditional work environment providing our employees with the flexibility to be their most creative and successful versions of themselves no matter where the employees are located We enable a flexible approach to work meaning you can work from the office or home regardless of where you live Okta invests in the best technologies and provides flexible benefits and collaborative work environmentsexperiences empowering employees to work productively in a setting that best and uniquely suits their needs Find your place at Okta httpswwwoktacomcompanycareersbrbrOkta is an equal opportunity employerbrbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T04:52:43.000Z"
+  },
+  "company": {
+    "name": "Okta",
+    "link": "https://www.linkedin.com/company/okta-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "pWe are looking for a missiondriven team member to join our team as a data scientist You will work directly with CTO and lead AI engineer to support the development and testing of new AI models for bias detection in text contentnbsp ppbr ppIdeal candidate should have pulliA degree in a quantitative field  mathematics computer science physics economics engineering statistics operations research quantitative social science etc liliBasic Knowledge on software development principles and architecture liliGood analytical and problemsolving abilities liliAbility to break down and understand complex business problems define a solution and implement it using advanced quantitative methods liliFamiliarity with programming for data analysis ideally Python SQL liliPrior experience with text data analysis is preferred liliSolid oral and written communication skills especially around analytical concepts and methods liliGreat work ethic and intellectual curiosity liliKnowledge of cloud technologies such as AWS liliWork in an Agile environment liliMust be a team player with excellent communication and problemsolving skills and have experience working with customers acrossliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T15:57:35.000Z"
+  },
+  "company": {
+    "name": "Barometer",
+    "link": "https://www.linkedin.com/company/thebarometer"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta Metropolitan Area",
+    "region": null,
+    "postal_code": "30317",
+    "street_address": null,
+    "latitude": 33.74975,
+    "longitude": -84.38857
+  }
+}

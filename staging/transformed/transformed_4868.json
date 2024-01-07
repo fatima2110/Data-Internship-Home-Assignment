@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - (100% REMOTE)",
+    "industry": "Computer Software,Financial Services,Real Estate",
+    "description": "eXp Realty is one of the fastest growing real estate brands in North America with thousands of agents operating across the United States Canada and around the world As a fullservice real estate brokerage eXp Realty provides 247 access to collaborative tools training and socialization for real estate brokers and agents through its 3D fullyimmersive cloud office environmentbrbreXp Realty attracts the most talented people from all fields Whether youre a real estate professional engineer marketer accountant or another field youll be challenged and inspired every day Join us on this incredible journeybrbrWe are fully remotebrbrstronguGeneral SummarybrbrustrongeXp Realty is hiring a Site Reliability Engineer SRE to join our DevOps Engineering Team This role is for a highperforming handson Engineer committed to the practices required to support critical customerfacing platforms requiring consistent uptime while driving continuous improvement and innovation We are building the next generation SaaS Operations Organization to enable our product development Teams to effectively deliver SaaS Products and Service offerings to our CustomersbrbrThis SRE role will be focused on continually improving our operational practices and automating them to reduce toil through code or use of modern tools along with being engaged in activities for improving availability and reliability of our Infrastructure Systems and ServicesbrbrFocus will be around designing effective monitoring  alerting for conditions such as applicationerrors high memory usage and log aggregation approaches to quickly access logs for troubleshooting or generate reports for trend analysis to proactively notify stakeholders of issues and communicate metricsbrbrstronguMajor ResponsibilitiesbrustrongulliMonitor measure and improve the reliability availability and scalability of IT Infrastructure applications and servicesliliParticipate in 247 rotational shifts for handling production operation issuesliliEngage in Incident response and participate in postmortem analysis to investigate root cause and capture contributing factors for remediationliliPerform analytics on previous incidents and trendusage patterns to better predict issues and take proactive actionsliliIdentify manual routine operational practices and build robust automation capabilities using code and modern toolsliliCollaborate with DevOps team members and business stakeholders to gather requirements for enabling and improving performance monitoring for applications and servicesliliDesign and build custom tools as needed to support process optimization and continually strive to challenge the statusquo and improve operational efficiencyliliEngage in service capacity planning and demand forecasting software performance analysis and system tuningliliCreate meaningful dashboardsreports for application telemetry and infrastructure health for proactively identifying performance constraints and bottlenecksbrliulstronguEducationbrustrongulliBachelors Degree in Computer Science Information Systems Engineering or equivalent experienceliliAWS certifications would be a plusbrliulstronguRequired Skills And Experiencebrustrongulli2 years of experience managing AWS infrastructureliliStrong understanding of cloudbased architecture and cloud operations Demonstrable experience with Monitoring  alerting tools such as New Relic Site24x7 Pagerduty etcliliExperience with log aggregation tools such as Sumologic FluentD Scribe SplunkliliHandson experience with Amazon Web Services andor equivalent public cloud technologyliliFoundational understanding of Infrastructure and Platform Technology stacksliliStrong understanding of Networking concepts and theories such as different protocols TCPIP UDP ICMP etc MAC addresses IP packets DNS OSI layers and load balancingliliWorking knowledge of Infrastructure and Application monitoring platforms such as Solarwinds Datadog NewRelic BigPanda ElasticStack ThousandEyes CloudWatch or equivalentliliUnderstanding of the core DevOps practices CICD pipeline release management etcliliAbility to write code using any one modern programming language Phython JavaScript Ruby etc liliConfiguration management platform understanding and experience ChefPuppetAnsibleliliService availability oriented mindset with a proactive approach to problem solving liliAn ideal candidate should be able to develop automated solutions to prevent recurring problemsliliPossesses the ability and willingness to challenge the statusquo and optimize current procedures and processesliliStrong sense of ownership and an ability to drive crossfunctional process improvementliliPossesses excellent interpersonal written and verbal communications skillsliliAnalytical and logical approach to problemsolving and a willingness to automate repetitive tasks and reduce manualreactive workloadliliAbility and willingness to coach and mentor Team members and colleaguesbrliulstronguDesired ExperiencebrustrongulliPrior experience in Cloud management automation tools Terraform  CloudFormation etcliliExperience with source code management software and API automationliliCloud certifications or equivalent experience highly regardedbrliuleXp Realty is an equal employment opportunity employer All qualified applicants will receive consideration for employment without regard to race color religion sex sexual orientation gender identity national origin protected veteran status or disability or any other characteristic protected by lawbrbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:14:09.000Z"
+  },
+  "company": {
+    "name": "eXp Realty",
+    "link": "https://www.linkedin.com/company/exp-realty"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Nashville",
+    "region": "TN",
+    "postal_code": "37221",
+    "street_address": null,
+    "latitude": 36.166344,
+    "longitude": -86.77907
+  }
+}

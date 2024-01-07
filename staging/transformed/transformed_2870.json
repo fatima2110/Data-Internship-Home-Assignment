@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Human Resources,Information Technology and Services",
+    "description": "brstrongDo what you love Love what you do brbrstrong At Workday we help the worlds largest organizations adapt to whats next by bringing finance HR and planning into a single enterprise cloud We work hard and were serious about what we do But we like to have fun too We put people first celebrate diversity drive innovation and do good in the communities where we live and work brbrstrongAbout the TeambrstrongWe are the Machine Learning Frameworks team at Workday at the intersection of the ML Platform and ML Applications We build datadriven MLpowered tools and services into the Workday ML Platform These services are embedded into products and features that help the worlds largest organizations make strategic decisions about their people finances and business We leverage Workdays unparalleled datasets and work on a modern machine learning and big data software stack Join us as we transform the future of workbrstrongAbout the Rolebrbrstrong As a machine learning engineer in the ML Frameworks organization you will brulli Lead exploration design and execution of machine learning models and frameworks that deliver value to our users lili Work closely with ML engineers software developers and product managers to take MLpowered services from inception to production  lili Leverage highquality datasets from the worlds largest enterprises across applications spanning NLP Vision Document Intelligence and more lili Utilize modern software and dataengineering stacks along with Workdays vast computing resources to enable training deployment and lifecycle management of ML models lili Develop new APIsMicroservices and deploy them into production at scale lili Lead the performance and ongoing enhancements of your products lili Mentor and guide other engineers lili Be given autonomy and ownership over your work lili Have extraordinary opportunities for career growth and learning in a fastgrowing forwardlooking company  brbrliul We will challenge you to apply your best creative thinking analysis problemsolving and technical abilities to make an impact on thousands of enterprises and millions of people strong   brbrstrongstrongAbout Youbrstrongulli 2 yrs experience as part of a data science machine learning or other software development team lili Advanced proficiency in Python lili Experience with machine learning frameworks amp toolkits lili Experience building and productionizing applied machine learning products  lili Experience with modern softwareengineering practices lili Familiarity with DockerKubernetes and cloud technologies is a plus lili Great communication and crossteam collaboration skills lili BS in a relevant field   Eg Computer Science Mathematics Engineering MS or PhD preferred  brbrliulstrongSan Francisco Fair Chance OrdinancebrbrstrongPursuant to the San Francisco Fair Chance Ordinance Workday will consider for employment qualified applicants with arrest and conviction recordsbrbr Workday is an Equal Opportunity Employer including individuals with disabilities and protected veterans",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T17:31:29.000Z"
+  },
+  "company": {
+    "name": "Workday",
+    "link": "https://www.linkedin.com/company/workday"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boulder",
+    "region": "CO",
+    "postal_code": "80310",
+    "street_address": null,
+    "latitude": 40.016872,
+    "longitude": -105.279625
+  }
+}

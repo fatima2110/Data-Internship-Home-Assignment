@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "strongSummarybrbrstrongHulu is looking for a motivated Software Engineer to join the Growth Life Engineering teambrbrThe Growth Lifecycle engineering group is responsible for orchestrating the customer flow and integrating with various other backend services during signups for Disney ESPN and Hulu We own and support many tier1 services that need to be highly available in all regionsbrbrWe are a fastpaced and fastgrowing team where you will have influence over the technical direction and architecture for the services and tools built by the team You will also have an opportunity to learn about the international landscape and challenges in the area of billing payments subscriptions offers and promotions as our streaming services launch around the world over the next few yearsbrbrstronguWhat Youll DobrbrustrongulliDesign and implement tier1 microservices in Java andor ScalaliliImplement asynchronous processes to run in the cloud for various data transformation operationsliliWork on tech design for various initiatives and projects as per business needsliliBe involved in code reviews and architecture reviews for team membersliliParticipate in Agile methodology and SCRUM processes such as Sprint Planning Backlog grooming Daily Standups and Retrospectives with the teamliliProvide oncall support for critical services on a rotational basisliliOwn featuresfunctionality and deliver projects endtoend with high quality and robust architectureliliCommunicate and work with multifunctional business partnersliliRamp up on new domains and technologiesbrbrliulstronguWhat To BringbrbrustrongulliExperience in backend serverside developmentliliKnowledge of at least one objectoriented languageliliExperience working with cloud providersliliFamiliarity with databases SQL and noSQLliliExperience investigating technical components and taking ownership of feature developmentliul oTtuffwP",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-02T16:41:46.000Z"
+  },
+  "company": {
+    "name": "Hulu",
+    "link": "https://www.linkedin.com/company/hulu"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 118000,
+    "max_value": 193000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

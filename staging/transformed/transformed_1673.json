@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Consumer Goods",
+    "description": "pAs Data Science Manager you would have the opportunity to apply data science techniques across our portfolio of brands to create novel tools and analyses pushing the boundaries of marketing analytics within the companynbspppbrppThis role is responsible for building data products and translating data into clear and compelling insights ensuring proper activation that leads to business results You will work closely with other data scientists engineers and partners across Marketing Sales and RampD to derive insights from diverse data sources help the business make datadriven decisions and apply cutting edge data science techniques The ideal candidate would be passionate aboutnbspdata science andnbspproductnbspanalyticsnbspwithnbspbusiness facingnbspexperiencenbspThisnbspposition reports tonbspthenbspAssociate Director Data SciencenbspnbspppbrppuKey ResponsibilitiesnbspuppbrpulliEngage with studios and business stakeholders to discover data science and analytics opportunities and pain pointsnbspnbspliliAssess and scope data science work within these opportunities and pain points to effectively develop priorities and map to specific algorithms data products and componentsnbspnbspliliLead and coach stakeholders and team members to enhance their ability to deliver on the agreed data strategynbspnbspliliCollaborate with a crossfunctional team to develop strategic datadriven frameworks and use agile product management to ensure ontime product delivery and activationnbspnbspliliEnsure projects are delivered within the agreed schedule and budget while ensuring qualitynbspnbspliliDeliver clear and consistent communications within projects and across stakeholders of all levelsnbspnbspliliActively engage in meetings solution design review sessions and retrospectives Support team by actively engaging in knowledge share sessions and brining in innovative data science ideasnbspnbspliliManage expectations daily to keep everyone alignednbspnbspliulpbrppuEducation amp ExperiencenbspuppbrpulliBachelors degree or higher innbspdata science math statistics computer sciencenbspornbspothernbsprelevant quantitative fields MS strongly preferredlili57 years of relevant business experience with bachelors or 35 years with graduate degreenbspnbspliliHighly collaborative and able to communicate effectively with nontechnical audiencesstrongnbspstrongBusiness partner facing experience is preferredliulpbrppuTechnical SkillsnbspuppbrpulliComfortable with predictive modeling AB testing and experimentation neural networks and deep learning natural language processing data visualization and statistical analysisnbspliliExperience in Python and its packages such as PySpark PyTorch Keras TensorFlownbspliliExperience with cloudbased data tools like BigQuery Azure Synapse and GCS nbspliliAbility to create examples prototypes demonstrations to help management better understand the worknbspnbspliulpbrppuOther SkillsnbspuppbrpulliSelfstarter who can think creatively and look fordevelop elegant and viable solves for real world problemsnbspnbspliliSkilled at producing actionable and compelling recommendations driven by complex dataliliStrong leadership and communication skillsnbspnbspliliExcellent time and project management skills with the ability to work efficiently under tight deadlinesnbspnbspliliStrong interpersonal and relationship building skillsnbspnbspliliStrong Business acumen Consumer goods CPGFMCGnbspexperience preferredliliComfortable in a dynamic environment and able to identify needs develop a plan of action and implementnbspnbspliulpp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-06T20:56:16.000Z"
+  },
+  "company": {
+    "name": "The Clorox Company",
+    "link": "https://www.linkedin.com/company/the-clorox-company"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 95400,
+    "max_value": 183000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Oakland",
+    "region": "CA",
+    "postal_code": "94612",
+    "street_address": null,
+    "latitude": 37.80483,
+    "longitude": -122.27248
+  }
+}

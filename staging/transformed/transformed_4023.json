@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer Senior/Advanced",
+    "industry": "Banking,Capital Markets,Financial Services",
+    "description": "stronguCompanybrustrongFederal Reserve Bank of Kansas CitynbspThe Application Delivery Services department of the Federal Reserve Bank of Kansas Citynbsp is seeking a Software Engineer with skills in AWS Cloud Postgres SQL and Java development The Federal Reserve plays a major role in operating the nations payment system This position will be responsible as a contributor in the analysis design development and implementation of enterprise solutions in support of the Treasurys debt recovery initiatives This individual will be responsible for working with the development team and architects to implement application and infrastructure enhancements supporting these Treasury initiativesbrbrstronguQualificationsbrbrustrongulli Bachelors degree from an accredited college or university with specialization in an information technology field eg ComputerManagement Information Systems MISCIS Computer Science CS ElectricalComputer Engineering EECE or an equivalent combination of related education and work experience lili Typically requires at least six to ten years of relevant and progressive information technology experience directly related to architecture design and development of software solutions ranging in complexity from departmentclass to enterpriseclass lili Familiarity with Industry software development methodologies standards and architecture frameworks lili Demonstrated proficiency with some of the following technologies on a Cloud platform AWS cloud native services Infrastructure as Code Python Java GitLab and PostgreSQL lili Experience with Infrastructure as Code Terraform CloudFormation is preferred lili Demonstrated ability to adapt and learn new technologies eg cloud services containers etc lili Experience using modern CICD pipelines using DevOps tooling eg Git Bitbucket Bamboo GitLab Maven Nexus Fortify Sonar etc lili Demonstrated proficiency with Agile software development principles lili Experience with Java Enterprise Applications eg JEE Spring etc is preferred lili Experience using containerization technologies like Docker Kubernetes AWS ECS and AWS EKS is a plus lili Demonstrated proficiency with Automated Testing UML Design Patterns Object Oriented Design Behavior Driven Development BDD and Test Driven Development TDD lili Experience designing and developing microservice solutions using RESTful APIs  lili Excellent organizational project management and problemsolving skills lili Excellent initiative innovative thinking skills and the ability to analyze details and adopt a bigpicture view lili Excellent oral and written communication skills Ability to explain complex technical information to technical and nontechnical contacts including executive audiences lili United States citizenship is required for this position lili This position has additional screening requirements due to the information accessed while preforming the job These additional screenings would be initiated at the time of offer acceptance and can take up to a couple of months to be completed You can begin work before the screening is completed however continued employment is contingent on acceptable screening results The areas screened may include educationemployment verification criminal history credit history and reference checks brbrliulFollow us on LinkedIn InstagramTwitter and our YouTube channel  Kansas City FedbrbrstronguFull Time  Part TimebrustrongFull timestronguRegular  TemporarybrustrongRegularstronguJob Exempt Yes  NobrustrongYesstronguJob CategorybrustrongInformation TechnologystronguWork ShiftbrustrongFirst United States of AmericabrbremThe Federal Reserve Banks believe that diversity and inclusion among our employees is critical to our success as an organization and we seek to recruit develop and retain the most talented people from a diverse candidate pool The Federal Reserve Banks are committed to equal employment opportunity for employees and job applicants in compliance with applicable law and to an environment where employees are valued for their differencesbrbremPrivacy Notice",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T07:45:13.000Z"
+  },
+  "company": {
+    "name": "Federal Reserve Bank of Kansas City",
+    "link": "https://www.linkedin.com/company/kansascityfed"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 66800,
+    "max_value": 91000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Kansas City",
+    "region": "MO",
+    "postal_code": "64113",
+    "street_address": null,
+    "latitude": 39.099792,
+    "longitude": -94.57856
+  }
+}

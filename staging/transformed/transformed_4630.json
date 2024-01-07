@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer Lead - Remote",
+    "industry": "Information Technology and Services,Computer Software,Information Services",
+    "description": "pstronguDetails are as followsustrongppstrongJob position Site Reliability Engineer Leadstrongppstrong strongLocation  RemoteppDuration 12 months Long termppImmediate Interview Startppbrpp stronguPlease NOTE We have positions open in CANADA and US both ustrongppbrpulli10 years Total IT experiencelilistrongHealthcare experience is required stronglilistrongExperience of at least 5 years within an Enterprise SRE configuration MandatorystrongliliL2 L3 Productions supportliliBlue Green deploymentlilistrongManaged on site and off site resourcesstronglilistrongAWS 4 years Mandatorystrong AWS Cost Optimization Developing applications in an AWS environment amp TerraformliliDebugging production issues 4 years Mandatory Python 23 years Mandatory  DJango CeleryliliGood to have AWS CertifiedlilistrongExperience in with development technology stackDocker Python Django Celery Postgresstrong lilistrongAWS serverless technologies Lambda Cognito API Gateway Step Functions AppSyncstrongliliExperience in operational technology stack Uwsgi Nginx RabbitMQ Elasticsearch Redis liliExperience with automation tools Salt Vagrant Packer liliExperience with metrics and orchestration toolsJenkins NewRelic Datadog LogglyliliHe She needs to be the best buddy of Key IT Stakeholders and sponsorsnbspliulpp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-18T14:45:34.000Z"
+  },
+  "company": {
+    "name": "Saicon",
+    "link": "https://www.linkedin.com/company/saicon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": "Lead"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

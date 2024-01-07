@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Nonprofit Organization Management,Financial Services,Hospital &amp; Health Care",
+    "description": "stronguJobSpecific ResponsibilitiesbrbrustrongMatthew K Nock the Director of the Nock Lab in the Department of Psychology at Harvard University is seeking to hire a Machine Learning Engineer MLE  Data Scientist DS with expertise in machine learning ML and the management and analysis of data The MLEDS will work on studies aimed at advancing the understanding prediction and treatment of suicidal thoughts and behaviors The data to be managed and analyzed are from smartphonebased surveys passive smartphonewearable monitors and social media platforms The MLE will clean transform and merge data and will run advanced data analysesbrbrstronguIn Addition To Designing And Developing ML Models The MLE WillbrbrustrongThe MLE will work with a dynamic multisite team on projects aimed at improving identification of and intervention on mental health problems eg suicide using rich data sources The successful applicant will have strong programming skills sufficient knowledge and technical expertise in ML to execute tasks independently advanced data management and analysis skills and interest in application of ML to the healthcare sectorbrul liWork with the research team to design develop and implement ML modelsli liCreate and assist in development of infrastructure for cleaning processing analyzing and visualization of various data types eg GPS data scraped from smartphones accelerometer data from wearable devices digital phenotyping data etcli liRun experiments to evaluate model performance perform error analysis and suggest and implement improvementsli liConduct higherlevel analysis of data and supervise analyses performed by other members of the labli liIntegrate data across workflows eg digital phenotyping behavioral and clinical datali liPerform fiber tracking on DTI data specifying grouplevel models for DTI datali liProgram behavioral tasks and archive studiesli liAssist with preparation of grant applications presentations and publicationsbrliulstrongTypical Core Dutiesbrstrongul liCollaborate with researchers in the design planning and implementation software that enriches research productivity and reliabilityli liBuild understanding of research activities through regular engagementsli liProvide feedback on scope of work and project plan and track progress of regular milestonesli liBuild and maintain aspects of software code and custom data processing pipelines for complex environmentsli liApply firm understanding of specific technology to develop custom solutions to meet researchers needsli liWork in a team of developers and researchers in collaboration with systems professionalsli liProvide regular communications to project leads with updatesli liBuild internal code design and development guides for future contributorsli liTeach workshops for researchers on sustainable software and data management practicesli liAbide by and follow the Harvard University IT technical standards policies and Code of ConductbrbrliulstronguBasic Qualificationsbrustrongul liMinimum of five years postsecondary education or relevant work experiencebrbrliulstronguAdditional Qualifications And Skillsbrustrongul liPhD or Masters Degree in Computer Science Data Science Electrical Engineering Mathematics Statistics Psychology or related fieldli liExpertise in one or more programming languages Python andor JavaScript preferredli liPrior applied experience designing and developing ML modelsli li5 years of data management and analysis experienceli liExperience cleaning and analyzing digital phenotyping datali liAdvanced statistical skills including expertise with longitudinal data analysis eg multilevel modeling and strategies for dealing with missing datali liExperience with toolkits such as TensorFlow PyTorch or Kerasli liDemonstrated history of commitment to open science and reproducible science eg via an active Github or OSF pageli liExpertlevel knowledge of statistical programming particularly R tidyverse ggplot2 and R Markdownli liExperience with of survey software REDCap and Qualtricsli liAbility to troubleshoot optimize and manage small and large projects with different timelinesli liAbility to work closely with people with a range of statistical programming knowledge from undergraduates to other expertsli liAbility to carefully consider conflicting demands of confidentiality of sensitive data and open scienceli liAbility to work independently with minimal supervision but also function well as part of a team have excellent formal and interpersonal communication skills and the ability to communicate technical information effectively to a broad range of audiencesli liLab experience andor coursework on selfinjury and suicidal behaviorsbrliulstrongWorking Conditionsbrstrongul liOccasionally required to work outside of normal business hours and may be contacted during off hoursbrbrliulstronguAdditional InformationbrbrustrongThis is a oneyear term position with renewal dependent upon continuation of fundingbrbrAll formal offers will be made by FAS Human ResourcesbrbrstrongJob FunctionbrstrongInformation TechnologybrstrongLocationbrstrongUSA  MA  CambridgebrstrongJob CodebrstrongI1257P IT RC SoftwareData Prof IIIbrstrongSubUnitbrstronglibrlistrongDepartmentbrstrongPsychologybrstrongTime StatusbrstrongFulltimebrstrongu Salary Grade brustrong057brstrongUnionbrstrong00  Non Union Exempt or TemporarybrstrongPreEmployment ScreeningbrstrongIdentitybrstrongEEO StatementbrstrongWe are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race color religion sex national origin disability status protected veteran status gender identity sexual orientation pregnancy and pregnancyrelated conditions or any other characteristic protected by law",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-12T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Harvard University",
+    "link": "https://www.linkedin.com/company/harvard-university"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 73200,
+    "max_value": 119000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cambridge",
+    "region": "MA",
+    "postal_code": "02239",
+    "street_address": null,
+    "latitude": 42.36525,
+    "longitude": -71.10502
+  }
+}

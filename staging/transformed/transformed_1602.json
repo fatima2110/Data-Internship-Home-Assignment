@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, RippleNet Platform - New Grad",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "Ripple is the worlds only enterprise blockchain solution for global payments Today the world sends more than 155 trillion across borders Yet the underlying infrastructure is dated and flawed Ripple connects banks payment providers corporates and digital asset exchanges via RippleNet to provide one frictionless experience to send money globallybrbrRipple is growing rapidly and we are looking for a resultsoriented Software Engineer to help build the next generation payment platform that enables its customers to instantly settle crossborder payments to create the Internet of Value Ripples distributed financial technology outperforms todays payments infrastructure by driving down costs increasing processing speeds and delivering endtoend visibility into payment fees timing and deliverybrbrstronguWhat Youll DobrustrongulliBuild enterprise distributed payment applications that execute settlement within seconds to enable the Internet of ValueliliPrototype new solutions for complex software problems and implement them for cloud and production bank deploymentsliliBe a technical subject matter expert and share your expertise with a growing team of engineersliliWork with teams across the organization including product legal and business development to think beyond the technical implications of your design decisionsbrliulstronguWhat Were Looking ForbrustrongulliInterest in either software development data analysis or technical operations in working with blockchain payments and production systemsliliBachelors degree or higher in Software Engineering Computer Science or a related field or equivalentlili02 years of handson Software Development experience with experience in the following areas Java Python C Javascript Spring Relational Databases Kubernetes AWSliliBonus Excellent working knowledge of Java and its ecosystem ie threading concurrency  etcliliExperience building highly scalable and performant enterprise softwareliliIntellectual curiosity  you love to dig into how things work and understand how to improve and scale themliliYou thrive on autonomy responsibility and owning your work end to endliliA positive attitude and a passion for sharing knowledge within your team and organizationliliAbility to encourage and drive engineering best practicesliliBe a recent graduate of Spring 2020 Fall 2020 Spring 2021brliulstronguWhat We OfferbrustrongulliThe chance to work in a fastpaced startup environment with experienced industry leadersliliA learning environment where you can dive deep into the latest technologies and make an impactliliCompetitive salary and equitylili100 paid medical and dental and 95 paid vision insurance for employees starting on your first daylili401k with match fully paid parental leave commuter benefitsliliGenerous wellness reimbursement and weekly onsite programsliliFlexible vacation policy  work with your manager to take time off when you need itliliEmployee giving matchliliModern office in San Franciscos Financial DistrictliliFullystocked kitchen with organic snacks beverages and coffee drinksliliWeekly company meeting  ask me anything style discussion with our Leadership TeamliliTeam outings to sports games happy hours game nights and morebrliulemLearn more about engineering at Ripple by visiting our blog ememGet TechnicalemembrbremstronguWho We ArebrbrustrongRipple enables payments everywhere every way for everyone using the power of blockchain and crypto By joining Ripples growing global network RippleNet financial institutions can process their customers payments anywhere in the world instantly reliably and costeffectively Banks and payment providers can use the digital asset XRP to further reduce their costs and access new markets With offices in San Francisco Washington DC New York London Mumbai Singapore So Paulo Reykjavik and Dubai Ripple has hundreds of customers around the worldbrbremRipple is an Equal Opportunity Employer Were committed to building a diverse and inclusive team We do not discriminate against qualified employees or applicants because of race color religion gender identity sex sexual preference sexual identity pregnancy national origin ancestry citizenship age marital status physical disability mental disability medical condition military status or any other characteristic protected by local law or ordinancebrbrememPlease find our UKEU applicant privacy notice hereem",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-27T05:57:41.000Z"
+  },
+  "company": {
+    "name": "Ripple",
+    "link": "https://www.linkedin.com/company/ripple-labs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "no requirements",
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 91300,
+    "max_value": 199300,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

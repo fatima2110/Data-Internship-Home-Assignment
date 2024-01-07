@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Entry Level)",
+    "industry": "Information Technology and Services",
+    "description": "pThe ideal candidate will be responsible for developing highquality applications They will also be responsible for designing and implementing testable and scalable codenbspppbrppnbspppstrongResponsibilitiesstrongpulliDevelop quality software and web applicationsliliAnalyze and maintain existing software applicationsliliDesign highly scalable testable codeliliDiscover and fix programming bugsliulpbrppstrongQualificationsstrongpulliBachelors degree or equivalent experience in Computer Science or related fieldliliDevelopment experience with programming languagesliliSQL database or relational database skillsliulpp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T21:52:59.000Z"
+  },
+  "company": {
+    "name": "Tata Consultancy Services",
+    "link": "https://in.linkedin.com/company/tata-consultancy-services"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Oregon",
+    "region": "United States",
+    "postal_code": "97350",
+    "street_address": null,
+    "latitude": 43.938683,
+    "longitude": -120.558105
+  }
+}

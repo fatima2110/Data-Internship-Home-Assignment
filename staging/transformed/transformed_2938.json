@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist, Product Insights (RippleX)",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "RippleX is a division at Ripple focused on accelerating adoption of the digital asset XRP and the XRP Ledger in blockchain projects across industries and technologies RippleX aims to build a robust ecosystem of thirdparty developers projects and companies that build grow and monetize their applications on XRP and other blockchain technologiesbrbrAs a data scientist within the Product Insights team you will leverage data and statistical methods to help RippleX solve impactful product marketing and growth problems such as funnel analysis attribution modeling causal inference user incentives and morebrbrThis role will partner closely with Product Marketing Design Engineering and other teams to drive crossfunctional data science projects from beginning to end Our team gives you full ownership over the projects you tackle so you should be a person who is bold and dreams big then executes wellbrbrstronguWhat Youll DobrustrongulliUse quantitative analysis to understand user intent behavior and product trends and present methodology and key insights to stakeholders and senior leadersliliBuild and maintain fullcycle experiments reports and dashboards using PythonR SQL and other scripting and statistical toolsliliProduce designs and recommendations for growth strategies such as user incentives and use statistical techniques to measure resultsliliReport against our goals design essential business and product metrics and build executivefacing dashboardsliliDevelop and implement modeling and testing frameworks to ensure that we operate with the highest level of scientific rigorbrliulstronguWhat We Are Looking ForbrustrongulliA degree in Math Physics Statistics Economics Computer Science or similar domainlili25 years in an AnalyticsData Science type role Experience working with funnels cohort analyses time series analyses regression models a plusliliExpertise of SQL queries ETL AB Testing and statistical analysis eg hypothesis testing experimentation regressions with statistical packages such as Python or RliliHandson experience building dashboards with a data visualization tool such as Tableau Looker Data Studio etcliliAbility to take ambiguous problems and solve them in a structured hypothesisdriven scientific wayliliPassion to initiate and lead projects to completion in a fast paced ever changing startup environmentbrliulstronguWhat We OfferbrustrongulliThe chance to work in a fastpaced startup environment with experienced industry leadersliliA learning environment where you can dive deep into the latest technologies and make an impactliliCompetitive salary and equitylili100 paid medical and dental and 95 paid vision insurance for employees starting on your first daylili401k with match commuter benefitsliliIndustryleading parental leave policiesliliGenerous wellness reimbursement and weekly onsite programsliliFlexible vacation policy  work with your manager to take time off when you need itliliEmployee giving matchliliModern office in San Franciscos Financial DistrictliliFullystocked kitchen with organic snacks beverages and coffee drinksliliWeekly company meeting  ask me anything style discussion with our Leadership TeamliliTeam outings to sports games happy hours game nights and morebrliulstronguWho We ArebrbrustrongRipple enables payments everywhere every way for everyone using the power of blockchain and crypto By joining Ripples growing global network RippleNet financial institutions can process their customers payments anywhere in the world instantly reliably and costeffectively Banks and payment providers can use the digital asset XRP to further reduce their costs and access new markets With offices in San Francisco Washington DC New York London Mumbai Singapore So Paulo Reykjavik and Dubai Ripple has hundreds of customers around the worldbrbremRipple is an Equal Opportunity Employer Were committed to building a diverse and inclusive team We do not discriminate against qualified employees or applicants because of race color religion gender identity sex sexual preference sexual identity pregnancy national origin ancestry citizenship age marital status physical disability mental disability medical condition military status or any other characteristic protected by local law or ordinancebrbrememPlease find our UKEU applicant privacy notice hereem",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T06:03:11.000Z"
+  },
+  "company": {
+    "name": "Ripple",
+    "link": "https://www.linkedin.com/company/ripple-labs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 103700,
+    "max_value": 225300,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

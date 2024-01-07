@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Test Engineer, IODT",
+    "industry": "Information Technology and Services,Telecommunications",
+    "description": "Nokia is a global leader in the technologies that connect people and things With stateoftheart software hardware and services for any type of network Nokia is uniquely positioned to help communication service providers governments and large enterprises deliver on the promise of 5G the Cloud and the Internet of ThingsbrbrServing customers in over 100 countries our research scientists and engineers continue to invent and accelerate new technologies that will increasingly transform the way people and things communicate and connectbrbrNokia is an equal opportunity employer that is commited to diversity and inclusionbrbrAt Nokia employment decisions are made regardless of race color national or ethnic origin religion gender sexual orientation gender identity or expression age marital status disability protected veteran status or other characteristics protected by lawbrbrstrong General Purpose brbrstrongWorks as System Engineer in product system or technology program in SWHWSystem Design or Integration amp Verification Strategically based in Nokia Dallas site to colocate with other local support teams and close to key customer markets and labs for urgent onsite support deployment Works under general direction and interprets internalexternal business issues and recommended best practice in own discipline Ensure Interoperability of Nokia products with Devices from key ecosystem chipset partnerbrbrstrongMain responsibility brbrstrongHeShe has the responsibility for understanding 3GPP Specification Nokia product implementation integrating testing and verification of Nokia 5G RAN with other DevicesChipets from Key ecosystem partners As part of these activities the engineer should be able to understand Nokia 5G RAN implementation and design test plans to verify Nokia 5G RAN functionalities Ensure good interoperability with Devices and 4G RAN Work as an expert in 5G RAN and Lead and execute technical activities and projects in own responsibility area Writes requirements specifications test plans reports and other guiding documentation from a technical point of view May work also outside of own process area on technical issues Solves complex engineering problems in many technology areas especially 5G and in 5G4G interworking areas Team player in solving complex engineering problems Undertakes technical training responsibilitiesbrbrstronguJob DescriptionbrbrustrongThe main objective is to work as IODT engineers that support Nokia 5G and LTE productsbrulli Responsible for driving the device interoperability development testing with key chipset vendors lili Creates Program Plans test plan test report to ensure testing capability meets Nokia requirement including reviewsanalysis of feature specifications lili Test specification work including creatingupdatingreviewing test documents ie test plans test cases test reports feature specification instructions etc lili Perform interoperability testing with OEMChipset vendors in Nokia lab and if needed in the customer lab lili Install commission and integrate 5G gNB and 4G eNB in test environment lili Testing and reporting for assigned test cases and perform Fault investigationreporting which includes cooperation with other teams lili Analyze logs and troubleshoot problems from the field and customer lab lili Provide remote andor onsite support to Nokia Test Teams on site andor in customers lab lili Lab maintenance which includes evaluating test tools and test equipment needed prior to each release upgrading NEs and buildingexpanding of work stations amp 5G gNB 4G eNBs as needed lili Familiarization with the tools processes and methods linked to the job QXDM Wireshark 5G and 4G Nokia tools such as biblog Snapshots EMIL SYSLogs Sherpa etc lili Provide training to team members on new featurestest equipment as needed lili Consults supports and guides team members lili Provide technical supporttraining to other teams as needed brliulstrongPersonal Attributesbrstrongulli Excellent verbal and written communications skills lili Flexibility and Adaptability lili Initiative creative and innovative lili Thinker lili Problem solving skills lili Technical leadership potential is a plus lili Applying knowledge lili Attention to Details lili Openness and Communication lili Team Player brliulstronguRequirementsbrustrongulli At least 5 years experience in SWHW integration or system testing radio access products 5G4G Experience on Nokia product is plus lili Knowledge on RF is a plus lili Understand E2E 5G 4G network implementation lili Excellent knowledge of LTE and 5G radio interface protocols lili Good familiarity with LTE and 5G L1 and L2 concepts OFDM RRM Frame structure Beamforming  scheduler etc lili Ability to understand and evaluate internalexternal 3GPP specifications lili Experience with test analysis test planning and test case design lili Strong experience with system testing and troubleshooting lili Experience with test equipment amp Tools signal generators spectrum analyzers test mobile protocol analyzer lili Experience with UE testing and UE log analysis eg via QXDM QCAT etc brliulem Nokia is an equal opportunity employer that is committed to diversity and inclusion At Nokia employment decisions are made regardless of sex gender identity or expression sexual orientation race ethnic origin color creed religion national origin citizenship age marital status physical or mental disability genetic information or ancestry protected Veteran or military status or other characteristics protected by law brbremstrongJobbrbrstrongAnalogue Hardware  Applied RampD EngineerbrbrstrongPrimary LocationbrbrstrongNorth AmericasUnited StatesTexasDallasbrbrstrongSchedulebrbrstrongFulltime",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T05:08:41.000Z"
+  },
+  "company": {
+    "name": "Nokia",
+    "link": "https://fi.linkedin.com/company/nokia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 50300,
+    "max_value": 72200,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

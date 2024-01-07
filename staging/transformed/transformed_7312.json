@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Internet",
+    "description": "pThis is a 6month contract role with potential extension up to two yearsppbrppJob Responsibilitiespp Develop userfacing features while taking an active role in designing and improving the UX for Assistant Studiopp Build new features and maintain tools for the Assistant Studio  Model Factory including tools and services for training data management model training inference etcpp Collaborate with other engineers to improve the efficiency and usability of existing toolsppbrppSkills Must Havepp 3 years of Full Stack web development experiencepp Experience with web applications and large scale front end developmentpp Proficient with programming languages like HTML CSS JavaScript and PHPpp Experience with modern JavaScript libraries and frameworks like React and Reduxpp Experience with git or other source controlpp Strong motivation and product sensepp Verbal and written communication skills problem solving skills customer service and interpersonal skillspp Ability to work independently and manage ones timepp Ability to troubleshoot issues and make system changes as needed to resolve issueppbrppNice to Havepp Experience in Python is a pluspp Experience and interest in NPL is a plusppbrppEducationExperienceppBachelors degree in computer science software engineering information system or relevant field requiredp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-09-02T17:42:15.000Z"
+  },
+  "company": {
+    "name": "Facebook",
+    "link": "https://www.linkedin.com/company/facebook"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Menlo Park",
+    "region": "CA",
+    "postal_code": "94029",
+    "street_address": null,
+    "latitude": 37.45322,
+    "longitude": -122.18322
+  }
+}

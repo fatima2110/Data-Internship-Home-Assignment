@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "pstrongstrongData Scientiststrongstrong pptldr An innovative seedstage startup in the DevSecOps space is looking for a Data Scientist to join our team and help design and build NLP and anomaly detection models and algorithms using bleeding edge technology ppbr pstrongstrongOur techstack and RampD culturestrongstrongpAs this is a greenfield application we do not have all the details ironed out emyouemnbspwill help us do that However well probably be using some of these pp nbsp nbsp nbspstrongDatabricks  Apache Spark  Presto  Hive  Athena strongfor data wrangling pp nbsp nbsp nbspstrongPyTorch  TensorFlow  Keras  Scikitlearn strongfor MLDL pp nbsp nbsp nbspstrongAWSstrongnbspas a cloud provider pp nbsp nbsp nbspstrongPython and Jupyter notebooks strongwell for everything ppbr ppWe will be putting a high emphasis on pp nbsp nbsp nbspHoning your skills pp nbsp nbsp nbspNonblocking automatic MLOps CICD pipeline pp nbsp nbsp nbspLetting data scientists research and not distract them with endless unneeded meetings pp nbsp nbsp nbspInvolvement and impact on the decision making process and roadmap of a new product pp nbsp nbsp nbspOpensource use and contribution ppbr ppOne of the challenges of data scientists is getting data youll have all the data you need and then some pstrongnbspstrongpstrongstrongWhat do we expect you to bring to the tablestrongstrongpWe believe that for every highly functioning relationship there must be a good synergy between the partners and that it must be a winwin situation for all ppOur key requirements are pp nbsp nbsp nbspEnjoy your work and working with your team and be proud of it pp nbsp nbsp nbspAssume best intentions  we know we will pp nbsp nbsp nbspDrive to build something amazing pp nbsp nbsp nbspBe excited about data and coding pp nbsp nbsp nbspHave strong opinions but hold them loosely ppnbsp pstrongstrongWhat will you be doingstrongstrongpAs a seedstage team member you will be working on a greenfield application and ML models You will be an integral part of the design and architecture decision process working directly with the other team members and leadership we have a very flat structure In this role you will have a huge impact on the success of the company pbrpstrongMinimumnbspQualifications strongstrongbrstrong pp At least 4 years of experience as a Data Scientist  Researcher  ML Engineer pp Handson experience building MLDLnbspmodelsnbspbr pp Masters degree or equivalent in a STEM fieldnbspbr ppbr ppstrongPreferred Qualificationsstrong pp MLOps and data engineering experiencebr pp Familiarity with the DevOps ecosysetm pp Experience with NLP anomaliy detetionbr pp PhD in a STEM fieldnbsppp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T18:09:35.000Z"
+  },
+  "company": {
+    "name": "Stealth Startup",
+    "link": "https://www.linkedin.com/company/stealth-startup-51"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta Metropolitan Area",
+    "region": null,
+    "postal_code": "30317",
+    "street_address": null,
+    "latitude": 33.74975,
+    "longitude": -84.38857
+  }
+}

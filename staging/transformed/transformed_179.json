@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer &amp; Junior Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "stronguPosition 1brbrustronguMachine Learning Engineer brbrustronguResponsibilitiesbrustrongulliConsulting with managers to determine and refine machine learning objectivesliliDesigning machine learning systems and selfrunning artificial intelligence AI software to automate predictive modelsliliTransforming data science prototypes and applying appropriate Client algorithms and toolsliliMonitoring and ensuring that algorithms generate accurate user recommendationsliliTurning structured and unstructured data into useful information by utilizing various data science approachesliliSolving complex problems with multilayered data sets as well as optimizing existing machine learning libraries and frameworksliliDeveloping Client algorithms to analyze huge volumes of historical data to make predictionsliliRunning tests performing statistical analysis and interpreting test resultsliliDocumenting machine learning processesliliKeeping abreast of developments in machine learningliul strongRequirementsbrstrongulliBachelors degree in computer science data science mathematics or a related fieldliliMaster s degree in computational linguistics data analytics or similar will be advantageousliliAt least two years experience as a machine learning engineerliliAt least two years experience as a fullstack engineerliliAdvanced proficiency with Python Java and R code writingliliExtensive knowledge of Client frameworks libraries data structures data modeling and software architectureliliIndepth knowledge of mathematics statistics and algorithmsliliSuperb analytical and problemsolving abilitiesliliGreat communication and collaboration skillsliliExcellent time management and organizational abilitiesliul strongPosition 2 brbrstrongstronguJunior Data Scientist brbrustrongstronguYour Skills Should IncludebrustrongulliDegree in a scientific or quantitative field or proven proficiency in these areasliliStrong understanding of statistics and how it can be used with the scientific method and Bayesian statisticsliliStrong technical ability in a datafocused programming language such as R or PythonliliAbility to solve unique or complex problems and explain your findings in a concise actionable mannerliliAbility to form useful machine learning models that have a measurable impact towards a target goalliliAbility to learn new skills and information sets quicklyliliSelecting features building and optimizing classifiers using machine learning techniquesliliData mining using stateoftheart methodsliliExtending company s data with third party sources of information when neededliliEnhancing data collection procedures to include information that is relevant for building analytic systemsliliProcessing cleansing and verifying the integrity of data used for analysisliliDoing adhoc analysis and presenting results in a clear mannerliliCreating automated anomaly detection systems and constant tracking of its performanceliul strongResponsibilitiesbrstrongulliExplore large data sets and identify trends on both short and longtime scales identify what types of models best apply towards a particular objectiveliliImplement predictive models that improve prediction accuracyliliImplement models that automate decision making at scale that optimize for target KPIliliBuild data science models that tie directly into other existing modelsliliGreat communication skillsliliExperience with data visualization tools such as DOMO Tableau D3js GGplot etcliliProficiency in using query languages such as SQLliliGood applied statistics skills such as distributions statistical testing regression etcliliGood scripting and programming skillsliliDataoriented personalityliul",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-06-16T04:00:41.000Z"
+  },
+  "company": {
+    "name": "LGZ New Media",
+    "link": "https://uk.linkedin.com/company/lgz-new-media"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

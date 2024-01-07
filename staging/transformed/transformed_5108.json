@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Oil &amp; Energy",
+    "description": "pstrongResponsibilitiesstrongppbrpulliWork with a small team of data scientists software engineers and domain experts to build the next generation of Novis platformliliDevelop novel solutions to openended challenging and longstanding industry problemsliliEngage in thought leadership within the company and communityliliMentor other team members on domain knowledge and technical solutionsliliDevelop software to deliver solutions to illposed problems using sparse noisy spatiotemporal dataliulpbrppstrongRequired Skills ampstrong EstrongxperiencestrongpulliMinimum 5 years of handson data science and machine learning experienceliliFoundation in integrating datadriven methods with physicsbased modelsliliStrong foundation in statistics and machine LearningliliStrong software engineering principles and software development lifecycle experience eg git unit tests CIliliStrong familiarity with Python and PyData stack eg pandas numpy scipyliliStrong familiarity with ML Frameworks eg scikitlearn PyTorch TensorFlowliliExperience going from algorithm development to production codeliliExperience modeling time series and spatial datasetsliliExperience deploying callable ML models in a production environment eg REST API TensorFlow ServingliulpbrppstrongPreferred Skills ampstrong EstrongxperiencestrongpulliOpensource plotting libraries eg altair matplotlib holovizliliDatabase query amp ETL SQL amp NoSQLliliAWS tools eg lambda EC2 etcliliProbabilistic programming eg Stan PyMC PyroliliModel interpretation and explainability tools eg ShapleyliliLinux systems and commandline interfaces eg bashliliContainer and orchestration tools eg Docker Kubernetes NomadliliPrevious work on an agile teamliliExperience in oil and gasliulpp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T15:26:04.000Z"
+  },
+  "company": {
+    "name": "Quest Groups LLC",
+    "link": "https://www.linkedin.com/company/quest-groups"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

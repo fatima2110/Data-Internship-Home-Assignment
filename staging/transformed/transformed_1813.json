@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I - Tool Development",
+    "industry": "Computer Software,Consumer Services,Entertainment",
+    "description": "PlayStation isnt just the Best Place to Play its also the Best Place to Work Weve thrilled gamers since 1994 when we launched the original PlayStation Today were recognized as a global leader in interactive and digital entertainment The PlayStation brand falls under Sony Interactive Entertainment a whollyowned subsidiary of Sony CorporationbrbrstrongSoftware Engineer I  Tool DevelopmentbrbrstrongstrongSan Francisco CAbrbrstrongDo you have a passion for quality software Do you want to work at a company where customers have real excitement for the products you help create Are you the sort of person that is comfortable analyzing a network protocol in Wireshark one moment debugging a ReactNative application the next At PlayStation we are looking for engineers to join a global initiative in robust test automation and Continuous IntegrationContinuous Deployment systemsbrbrWe are passionate about both teamwork and technology We love building the systems that millions of people use and are our own first customers We strive to be at the forefront of development technologies and are a diverse company with developers on four continentsbrbrWe are located in San Franciscos vibrant SOMA district within walking distance to great restaurants museums and nightlife While the position isnt 100 remote the majority of work can be done from either home or office as desiredbrbrstronguResponsibilitiesbrbrustrongAs an engineer on the test tools development team you will work as part of a team building tools that help engineers test applications delivered on PlayStation Hardware including the PS4 and PS5 We deliver a variety of different products to the internal organization which run the gamut from command line tools pytest plugins to web services Team members maintain existing tools and propose and develop new tools as needed Our tools use many different technologies mostly python based but include some node based services and other miscellaneous frameworksbrbrstronguRequired Qualificationsbrustrongul liA Bachelors degree in Computer Science or related field or ability to demonstrate equivalent knowledgeli liExperience with version control solutions particularly the github workflowli liExperience writing commandline scripts using Python or similar languagesli liExperience with at least one modern web application framework such as AngularEmberjsReactli ul strongstrongPreferred but not required Qualificationsbrstrongstrongul liSoftware testing or tools experienceli liExperience with Selenium or Appiumli liExperience with testing frameworksli liExperience developing or testing a nonPC device mobilegame consolesettop box etcli brulstrongProfile NonTechnicalbrstrongul liStrong problem solving skillsli liExcellent written and verbal communication skillsli liPositive outlook willing to challenge the status quoli liWorks independently under minimal direction with strong work ethicli liAble to work quickly and efficiently in a fastpaced environmentli liA belief in code qualityli brbrulSony is an Equal Opportunity Employer All persons will receive consideration for employment without regard to race color religion gender pregnancy national origin ancestry citizenship age legally protected physical or mental disability covered veteran status status in the US uniformed services sexual orientation marital status genetic information or membership in any other legally protected categorybrbrReasonable Accommodation Notice Federal law requires employers to provide reasonable accommodation to qualified individuals with disabilities Please tell us if you require a reasonable accommodation to apply for a job or to perform your job Examples of reasonable accommodation include making a change to the application process or work procedures providing documents in an alternate format using a sign language interpreter or using specialized equipmentbrbrWe strive to create an inclusive environment empower employees and embrace diversity We encourage everyone to respondbrbrWe sincerely appreciate the time and effort you spent in contacting us and we thank you for your interest in PlayStationbrbrstrongPRIVACY NOTICE TO SIE LLCS JOB APPLICANTSbrbrstrongThis Privacy Notice explains what personal information we at Sony Interactive Entertainment LLC collect from you and why we collect it and use it This Notice covers our practices regarding the personal information of all applicants to our job positions Please review it carefullybrbrstrongCategories of personal information we collect from youbrbrstrongstronguGenerally We Obtain This Information Through Our Recruiting TeambrbrustrongWe collect personal information about you throughout the recruiting process in particular the following categoriesbrbrstrong li Identification and contact information brli liDirect identifiers such as your first and last nameli liIndirect identifiers such as a government ID your Social Security work permit or passport li liContact information such as your email address mailing address telephone numberli brlistrong li Other information about you or that can be associated with you such as brlistrong SensitiveProtected Data strongDuring the recruitment process you may voluntarily provide us with your ethnicity gender military service information or physical or mental health information as well as your national origin and citizenshipli listrong Professional or job positionrelated information strong including your past professional experience references background verification talent management and assessment information regarding any conflicts of interests and the terms and conditions of your job offerli listrong Nonpublic education information strong including information about your education records such as grades and transcriptsbrbrlilistronglistrong",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:06:06.000Z"
+  },
+  "company": {
+    "name": "PlayStation",
+    "link": "https://www.linkedin.com/company/playstation-sony"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

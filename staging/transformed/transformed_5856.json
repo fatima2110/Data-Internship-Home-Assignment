@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Biotechnology",
+    "description": "Seeking a Senior Software Engineer Architect who will develop complex software for low power and battery powered medical devices Come join a team of professionals where your experience will be a Value addbrbrWhat You Will Be DoingbrbrDevelop Linux applications that communicate with firmware running on development boardsbrbrDesign and implementbrulliRealtime embedded signal processing software and algorithmsliliProgrammable and configurable data acquisitions systemsliliHighly secure authentication and encryption systems such as secure booting secure data collection bidirectional authentication mechanismsliliUser interface and conduct applications programmingliliBluetooth Low Energy wireless connectivityliliRealtime data visualization using custom Qt Widgets for data collection systemsliliRobust and faulttolerant wireless data transfer and synchronization between multiple devices in unpredictable environmentsbrliulArchitecting the firmware system designbrbrEnsure high reliability suitable for verification and validationbrbrWhat You Need for this PositionbrbrBachelors Degree in Computer Science or a related fieldbrbr5 years of Software Engineer experiencebrbrImplement secure data streaming and synchronization over BLEUSBbrbrImplement streaming and synchronization using REST APIsbrbrSupport group efforts toward high quality documentationbrbrstronguKnowledge Of Or Experience In The FollowingbrustrongulliCC programmingliliObject oriented programmingliliDesign patternsliliComputer architecture memory organizationliliCode optimization and code debuggingliliFirmware developmentliliBluetooth Low Energy BLEliliNear Field Communications NFCliliUSB device interfaces libUSBliliTCPIP and REST APIsliliEncryption AESliliDistributed systemsliliSoftware testing methods unit testing integration testingbrliulFamiliarity with Qt Linux systems and implementing applications that communicates with firmwarebrbrKnowledge of QMS FDA design controls and GMP regulationbrbrExperience working in both large structured and small entrepreneurial organizationsbrbrFor your hard work and dedication earn a generous salary bonus and stock option along with a comprehensive benefits package including 401k and much morebrbrRelocation assistance could be available for an ideal candidatebrbrstronguEmail Your Resume In Word TobrbrustrongLooking forward to receiving your resume through our website and going over the position with you Clicking apply is the best way to apply but you may alsobrbrNynaGoldbergCyberCoderscombrulliPlease do NOT change the email subject line in any way You must keep the JobID linkedin  NG1641839  in the email subject line for your application to be consideredbrliulNyna Goldberg  Principal Recruiter  CyberCodersbrbrApplicants must be authorized to work in the USbrbrstrongCyberCoders Inc is proud to be an Equal Opportunity EmployerbrbrstrongAll qualified applicants will receive consideration for employment without regard to race color religion sex national origin disability protected veteran status or any other characteristic protected by lawbrbrstrongYour Right to Workstrong  In compliance with federal law all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:38:27.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 67100,
+    "max_value": 85100,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lake Forest",
+    "region": "CA",
+    "postal_code": "92609",
+    "street_address": null,
+    "latitude": 33.66746,
+    "longitude": -117.6885
+  }
+}

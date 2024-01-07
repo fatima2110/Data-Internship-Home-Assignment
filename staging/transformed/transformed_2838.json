@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Financial Services,Computer Software,Internet",
+    "description": "The OpportunitybrbrDigits is hiring passionate collaborative customerdriven engineers who share in our belief that modern business software can be intelligent fast fluid beautiful and even joyful to usebrbrWe believe that small businesses everywhere deserve the same cuttingedge technology that is currently available only to the largest tech companies and that recent advances in deep learning have unlocked a new chapter in financial software and business operationsbrbrWe leverage stateoftheart deep learning to solve critical customer problems while investing heavily in seamless automated MLOps infrastructure to allow our ML engineers to stay focused on innovative projects We prioritize a highownership lowoverhead approach to machine learning where youll be expected to build launch and operate ML projects endtoendbrbrOur team has experience shipping products at massive scale with backgrounds at Crashlytics Twitter Google Airbnb and many others and were constantly learning and exploring new technologies and techniques in our quest to ship amazing business software powered by machine learningbrbrstronguWhat Youll Bringbrustrongulli2 years of experience developing and training models in either PyTorch or TensorFlowliliProficiency with deploying and maintaining machine learning models in productionliliProficiency with Transformer models andor Natural Language ProcessingliliProficiency with relational databases and SQLliliProficiency with Natural Language Processing Transformer models andor Embedding GenerationliliFamiliarity with testdriven development liliFamiliarity with Git and GitHubliliFamiliarity with Google Cloud or AWS machine learning productsliliDesire to work remotely fulltime from home or a coworking spaceliliExcellent spoken and written communication skills EnglishliliObsession for delighting customersbrliulstronguNicetohavesbrustrongulliExperience in one or more areas Knowledge Graphs Probabilistic ML ML Privacy SemiSupervised Model Training MLOpsliliFamiliarity with Kubernetes or container orchestrationliliFamiliarity with TensorFlow Extended Kubeflow Pipelines or other MLOps toolingliliEducational background in machine learning or artificial intelligenceliliExperience with or interest in analytics dashboardsliliExperience with or interest in financeaccountingbrliulGet in touchbrbrIf youre excited to push the bounds on what people imagine financial software can be wed love to talk",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T23:13:10.000Z"
+  },
+  "company": {
+    "name": "Digits",
+    "link": "https://www.linkedin.com/company/digits-financial"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

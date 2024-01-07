@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (C#)",
+    "industry": "Staffing and Recruiting",
+    "description": "pstrongMust Haves strongpp At least a Bachelors degree in computer science or related field or equivalent experience pp 6 years of experience in software development pp Fundamental knowledge of Objectoriented design data structures algorithm design problemsolving and complexity analysis pp Proven skills in C and JavaScript preferably VueJS and two or more of the following pp\t  TypeScript CSS SQL pp The ability to communicate with users other technical teams and management to collect requirements describe software product features and technical designs pp Demonstrated willingness to learn new technologies and in solving challenging problems pp The ability to think abstractly and deal with ambiguousunderdefined problems pp The ability to learn and adapt quickly to changing requirementsppnbspppstrongPluses strongpp Experience building complex multitier software systems and or servicespp Knowledge of professional software engineering practices for the full software development life cycle including coding standards code reviews source control management build processes testing and operations pp SQL Server development skills including data integration data modeling query performance tuning designing stored procedures pp Experience with Public Key Infrastructure PKI in applications especially smart card credentialspp Experience with ORM technologies like Entity Framework Dapper or NHibernate pp Experience with development in a Windows environment using Net Active Directory IIS Remote Desktop Services etcpp Experience with webbased applications both local and cloud pp Familiar with cloud solution stacks from either AWS or Azure pp Experience with windows services microservices docker containers pp Experience writing documenting and consuming REST APIs GraphQL etc pp Familiar with development using Secure Software Development Lifecycle standardsppnbspppstrongDay to Day strongppYou work in a fastpaced environment where you will develop and deliver software thatnbspsimplifies solutions for a broad set of interrelated problems Specifically you will join a talented team of dedicated professionals in delivering productionquality code against well1drafted requirements and business logic from product management You will have the opportunity to create and deploy cutting edge solutions for commercial and government clientsnbspalike Best of all youll get to grow your experience working alongside smart people to solvenbspproblems that make the world a safer more efficient placeppnbspppWhat does a typical day look like for the Software DeveloperppAlthough no two days will be the same youllpp Participate in high functioning software development projects including design and testpp Interpret requirements and design specifications to develop debug test and maintain ppsoftware applications to be deployed against a broad array of platforms and cloud servicespp Maintain current knowledge of relevant technologypp Proactively manage relationships with other team memberspp Present complex technical information in a clear and concise manner to a variety of ppaudiencespp Facilitate consensus building and resolution of complex technical issuespp Present complex technical information in a clear and concise manner to a variety of audiencespp Be an active participant in your development along your career pathppnbspppnbspppnbspp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:02:44.000Z"
+  },
+  "company": {
+    "name": "Insight Global",
+    "link": "https://www.linkedin.com/company/insight-global"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh-Durham-Chapel Hill Area",
+    "region": null,
+    "postal_code": "27603",
+    "street_address": null,
+    "latitude": 35.817448,
+    "longitude": -78.27004
+  }
+}

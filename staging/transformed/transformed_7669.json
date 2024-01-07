@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist - Recent Grad",
+    "industry": "Internet",
+    "description": "pstrongData Scientist  Recent GradstrongppbrppLike to shake things up We do eBay hires innovators who can push boundaries and change the world Put on your entrepreneurial hat roll up your sleeves and dive head first into eBays extensive pools of data Come with an analytical mindset and a real passion for delivering on business goals Help eBay take data to the next levelppWe are looking for a motivated machine learning and data science engineering intern to build robust and scalable software and draw insights from massive data sets We want the highest levels of technical talent and programming skills as well as a keen desire to deeply understand our products and services to push our technology forward Youll work alongside the best and the brightest engineering talent in the industryppnbspppstrongNote By applying to this position your application will be considered for locations San Jose CA New York NYnbsp Bellevue WA and Austin TXstrongppnbspppYou arepulliInsightful Be able to draw conclusions from large Datasets and help drive business decisions with datadriven thinkingliliInventive Have the ability to do a lot with a little Aggregate information from various places and establish relationships with key partners to get the data you needliliTech Savvy Master your tools and continue to expand your systems knowledge through formal or informal research and trainingliulpnbspppWe needpulliAn Excel connoisseur Know excel backwards and forwards able to use advanced techniques to collect display and interpret dataliliSQL expertise Proficiency in SQL is required R Python Java andor C are a bonusliliNoSQL Tools Have familiarity with at least one NoSQL tool Hadoop Hive Spark Pig H2O etcliulpnbspppBasic QualificationspulliCurrently enrolled as a fulltime student have 03 years of relevant work experience in an accredited Masters or PhD program within the United States graduating December 2021  June 2022liliEnrolled in or pursuing an Masters or PhD Degree in Data Science Computer Science Statistics or related majorliliThe ability to strike a balance between critical thinking and actual handson analyses using tools such as SQL Python TableauliliStrong technical skills to turn big data into measurable insights At the same time you also have the ability to think about the big picture and connect the dots to evaluate how the insights impact eBays ecosystemliliIn addition to delivering insights on existing Product amp Tech initiatives you will come up with innovative product growth opportunities based on insights and create momentum through influenceliliProactive collaboration and effective communication are criticalliliAbility to present complex analyses and insights effectively in simple termsliliGood experience with both descriptive and inferential statistics  ability to build basic prototype modelsliliExperience with site experimentation AB testing is a plusliliCreative thinker who knows how to build realworld productsliliCurate Acquire amp Maintain DatasetsliliBuild and handle data in traditional and nontraditional waysliliShare engineering support release amp on callliliEstimate plan amp rollout changesliliKey skills SQL Java Python NoSQL tool ie Hadoop Pig Spark H2O etcliulpp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-27T18:16:16.000Z"
+  },
+  "company": {
+    "name": "eBay",
+    "link": "https://www.linkedin.com/company/ebay"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "no requirements",
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 97400,
+    "max_value": 147000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

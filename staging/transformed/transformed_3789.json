@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "pstrongLocationstrongppThis role is remote for the first six months Then relocate to one of the cities belowppnbspnbspnbspnbspnbspnbspRoswell GAppnbspnbspnbspnbspnbspnbspDallas TXppnbspnbspnbspnbspnbspnbspKnoxville TNppnbspnbspnbspnbspnbspnbspNeenah WIppnbspnbspnbspnbspnbspnbspSan Francisco CAppnbspppnbspCompanyppnbspppiCuro is pioneering artificial intelligence AI systems and products for accelerating enterprise growth outcomes iCuro is a leading consulting partner and thought leader in the rapid development and deployment of enterprise AI solutions by fully integrating hardware and software and data We serve customers across multiple industry verticals including Consumer Packaged Goods CPG Retail Manufacturing Health Sciences and TechnologyppbrppwwwicurocomnbspppbrppJob DescriptionppnbspppThe Data Scientist will apply hisher strong expertise in machine learning data mining and information retrieval to design prototype and build next generation advanced analytics engine and services The Data Scientist collaborates with translators to define technical problem statement and hypothesis to test develops efficient and accurate analytical models that mimic business decisionsppnbspppstrongRole amp ResponsibilitiesstrongppnbspnbspnbspnbspnbspnbspDesign create test and implement complex machine learning and deep learning models and algorithms that drive analytical solutions throughout the organizationppnbspnbspnbspnbspnbspnbspWork with business managers to frame a problem both mathematically and within the business context Perform exploratory data analysis to gain insights about the problemppnbspnbspnbspnbspnbspnbspExperienced in proposing ROI based solutions to business driven by AIML Be a storyteller to explain the why amp how of your data driven recommendations to crossfunctional teamsppnbspnbspnbspnbspnbspnbspLeverage variety of machine learning techniques clustering decision tree learning artificial neural networks etc and their realworld advantagesdrawbacks to achieve business outcomesppnbspnbspnbspnbspnbspnbspLeverage advanced statistical techniques and concepts regression properties of distributions statistical tests and proper usage etc and experience with applications to improve model recommendationsppnbspnbspnbspnbspnbspnbspConduct advanced statistical and other analysis to provide actionable insights identify trends and measure performance leveraging TensorFlowppnbspnbspnbspnbspnbspnbspUse predictive modeling to increase and optimize customer experiences revenue generation ad targeting and other business outcomesppnbspnbspnbspnbspnbspnbspIdentify and develop longterm data science processes frameworks tools and standardsppnbspnbspnbspnbspnbspnbspComfortable working in programming languages like SQL Python and R as well as with frameworks like Azure ML Ops and Azure Machine Learning experience designing solutions in distributed teams using Version Control tools like GITppnbspnbspnbspnbspnbspnbspCurate and connect external data sets for broad enterprisewide analytic usageppnbspnbspnbspnbspnbspnbspDevelop company AB testing framework and test model qualityppnbspnbspnbspnbspnbspnbspCollaborate with internal stakeholders to understand business challenges and develop analytical solutions to optimize business processes amp monitor outcomesppnbspnbspnbspnbspnbspnbspHave passion to advocate and educate on the value and importance of data driven decision making amp analytical methodsppnbspnbspnbspnbspnbspnbspMentor and guide data science team members as well as developers and QA engineers working on the productsppnbspppstrongQualificationsstrongppnbspnbspnbspnbspnbspnbsp510 years of experience in software development of largescale data infrastructure and distributed systemsppnbspnbspnbspnbspnbspnbsp48 years of experience in data extraction transformation statistical analysis and data modelingppnbspnbspnbspnbspnbspnbsp5 years of experience developing enterprise software using Java or Pythonppnbspnbspnbspnbspnbspnbsp36 years of experience in applying Data Mining and Machine Learning techniques to solve business problemsppnbspnbspnbspnbspnbspnbsp58 years of experience using major RDBMS SAP Hadoop Spark Elasticsearch or similar technologiesppnbspnbspnbspnbspnbspnbsp3 years of experience with statistical modeling tools such as R SAS SciKitlearn ppnbspnbspnbspnbspnbspnbspBachelors degree in Computer Science Computer Engineering Machine Learning or related field or equivalent experienceppstrongnbspstrongppstrongTechnical SkillsstrongppnbspnbspnbspnbspnbspnbspExperience with Azure andor GCP cloud platformppnbspnbspnbspnbspnbspnbspExperience in machine learning statistics optimization or related fields deeper experience in working with large data sets simulation optimization or distributed computing tools is a plusppnbspnbspnbspnbspnbspnbspExperience working with Open CV Deep learning experience and time series analysisppnbspnbspnbspnbspnbspnbspExperience with MapReduce SAP Hadoop Hive Spark etcppnbspnbspnbspnbspnbspnbspExperience using statistical computer languages R Python SLQ etc to manipulate data and draw insights from large data setsppnbspnbspnbspnbspnbspnbspCoding knowledge and experience with several languages Python Go Java JavaScript R SQL etcppnbspnbspnbspnbspnbspnbspKnowledge and experience in statistical and data mining techniques GLMRegression Random Forest Boosting Trees text mining social network analysis etcppnbspnbspnbspnbspnbspnbspExperience creating and using advanced machine learning algorithms and statistics regression simulation scenario analysis modeling clustering decision trees neural networks etcppnbspnbspnbspnbspnbspnbspExperience visualizingpresenting data for stakeholders using Tableau PowerBI Looker Data Studio Shiny D3 ggplot etcp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-15T12:22:37.000Z"
+  },
+  "company": {
+    "name": "ICURO",
+    "link": "https://www.linkedin.com/company/icuro"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

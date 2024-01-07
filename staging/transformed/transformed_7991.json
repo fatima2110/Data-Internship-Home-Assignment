@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Analyst",
+    "industry": "Health, Wellness and Fitness",
+    "description": "DescriptionbrpbrbrbrppRelatient is a leading provider of integrated messaging solutions for practices hospitals and health care systems We take a patientcentered approach to engagement utilizing the power of realtime clinical data to deliver timely messages between patients and their care providers Our platform effortlessly automates appointment reminders patient billing and payment collection satisfaction surveys selfscheduling checkin chat and ondemand messaging We are looking for talented people to join our team building platform solutions that integrate with Enterprise Health Care systemsbrbr brbrppstrongResponsibilitiesbrbrstrongpp Work with Product Engineering and Business resources to create and maintain analytics related to our products work with business stakeholders to identify business objectives measurement criteria KPI and operational reporting necessary to support our products and business functionsbrbr brbrpp Identify Analyze and Interpret trends and patterns in complex data produce visual results in a meaningful easytounderstand way presenting results in dashboard reports and other presentation formats to our usersbrbr brbrpp Identify data sources evaluate data types and validity perform the necessary ETL  Data Aggregation to provide the necessary data used to drive reporting and analysis for internal staff and our clients while producing industryleading automated and onetime visualizations and raw data reportingbrbr brbrpp Oversee our production reporting platform ensure standards and maintained provide management and training as needed for users Maintain a standard library of reporting that supports the business including standard weekly and oneoff reporting and analysisbrbrpulliManage Business Intelligence platforms to      enable technical and business usersliulpstrongRequirementsbrbrstrongpp Exceptional interpersonal communication skills written and verbal active listening attention to detail critical thinking problemsolving and time management skillsbrStrong analytic skills with expertise in data mining statistical analysis data analysis and evaluation of results with the ability to produce complex visualizations for the businessbrbrpulliStrong knowledge of and experience with databases MySQL PostrgreSQL and CRM tools SalesforceliliStrong knowledge of Business Intelligence platforms Tableau PowerBI Looker etcliliKnowledge of statistics and experience using      statistical packages for analyzing datasets Excel SPSS SAS etcliliStrong analytical      skills with the ability to collect organize analyze and disseminate significant amounts of information with attention to detail and accuracyliliAdept at queries report writing and presenting findings Familiarity with software languages and SQL understanding of relational databases ability to reviewunderstand code and write complex SQL select statementsbrbr liulp A Bacheloraposs Degree in Mathematics Economics Computer Science Information Management or Statistics or Relevant Work Equivalent with 5 years experience focused on product or process definition and release processes experience working in a growth phase technology company particularly in Healthcare a plusbrbr brbrppstrongCompany Overviewbrbrstrongpp The Relatient Offices are in Franklin TN preferred or Cookeville TN This position will be based in the Franklin office with some travel to the Cookeville officebrbrpp You will be using the latest tools and technology solving realworld problems while working with large data sets complex backend data transformation 3rd party API integrations and multiple communication methods delivered natively through web text and voice mailbrbrbrbr brbrpbrbrRequirementsbrpstrongAbout RelatientbrbrstrongppbrbrbrppFounded in 2014 our offices are located in historic Franklin and Cookeville TN and include a casual dynamic work environment with a spirit of innovation and growthbrbrppbrbrbrppOur team consists of smart driven and creative people who are motivated to impact the way in which healthcare providers engage with their patients Our platform takes a patientcentered approach to engagement utilizing the power of realtime clinical data to deliver timely messages between patients and their care providers Our platform effortlessly automates appointment reminders patient billing and payment collection satisfaction surveys selfcheckin nonmedical transportation and on demand messagingbrbrppbrbrbrppbrbrbrppstrongWhat We OfferbrbrstrongpulliBase salary plus incentivesliliMedical dental and vision insuranceliliEmployer HSA match contributionliliEmployer paid Life Insurancelili100 employer paid longterm disability insurancelili401k10Generous PTO policy which includes 3 weeks paid time off plus all 10 paid holidaysliliPerks such as an annual employee awards banquet holiday parties monthly lunches bottomless snacks and coffeeliliCasual culture with approachable leadershipliliGreat office environments located in historic Franklin TN and beautiful Cookeville TNliulpLearn more about our company at wwwrelatientnetbrbrppbrbrbrppbrbrbrpemstrongRelatient is an equal employment opportunity employerbrbrstrongem",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-18T06:04:34.000Z"
+  },
+  "company": {
+    "name": "Relatient",
+    "link": "https://www.linkedin.com/company/relatient"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Franklin",
+    "region": "TN",
+    "postal_code": "37064",
+    "street_address": null,
+    "latitude": 35.923653,
+    "longitude": -86.86783
+  }
+}

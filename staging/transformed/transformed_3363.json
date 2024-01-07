@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "pWe have an urgent need for a strongSite Reliability Engineer strongfor one of our clients ongoing projects This is a Remote role for now ppstrong strongppbrppstrongSoftware Site Reliability EngineerstrongppstrongLocation RemotestrongppType Contract ppDuration 8 Months  ppbrppbrppstrongResponsibilitiesstrongpulliServe as a primary point of contact for the overall health performance and capacity of one or more of our servicesliliPartner closely with our development teams and product managers to architect and build features that are highly available performant and secureliliDevelop innovative ways to smartly measure monitor amp report application and infrastructure healthliliGain deep knowledge of our application stackliliFunction well in a fastpaced and rapidlychanging environmentliliParticipate in a 24x7 oncall rotationsliliAbility to debug and optimize code and automate routine tasksliulpbrppstrongBasic Qualificationsstrongpulli3 years of relevant experience in a production environmentliliExperience in coding in one of the programming languages C C Java Python GoliliExperience with architecting developing and troubleshooting large scale systemsliliExperience with algorithms and data structures andor UnixLinux systems internals eg filesystems system calls and administrationliliExperience with continuous integration and deployment automation tools such as Drone Spinnaker Harness etcliulpbrppstrongPreferred QualificationsstrongpulliHandson working with private or public cloud GCP  AWS Azurelili3 years of experience in computing distributed systems storage or networkingliliPrevious experience working with geographicallydistributed coworkersliliShould have led teams collaborating crossfunctionally to deliver complex software features and solutionsliulpp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-10T20:09:33.000Z"
+  },
+  "company": {
+    "name": "Digitive",
+    "link": "https://www.linkedin.com/company/digitivellc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

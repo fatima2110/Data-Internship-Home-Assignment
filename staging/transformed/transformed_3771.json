@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "pstrongstrongSoftware Engineerstrongstrong  pptldr An innovative seedstage startup in the DevSecOps space is looking for a Software Engineer fullstack to join our team and help design and build a greenfield cybersecurity product using bleeding edge technologybr strongOur techstack and RampD culture strongp  pAs this is a greenfield application we do not have all the details ironed out emyouem will help us do that However we do know we will be using p  p nbsp nbsp  Nodejs backend p  p nbsp nbsp  React  Vue  Angular frontend p  p nbsp nbsp  TypeScript on both p  p nbsp nbsp  Serverless kubernetes AWS p  p nbsp nbsp  Neo4j MongoDB p  pWe will be putting a high emphasis on p  p nbsp nbsp  Honing your skills p  p nbsp nbsp  SOLID design principles p  p nbsp nbsp  Highly maintainable and testable code p  p nbsp nbsp  Nonblocking automatic CICD pipeline p  p nbsp nbsp  Letting developers develop and not distract them with endless unneeded meetings procedures and rules p  p nbsp nbsp  Involvement and impact on the decision making process and roadmap of a new product p  p nbsp nbsp  Opensource use and contribute p  strongstrongWhat do we expect you to bring to the tablestrongstrong  pWe believe that for every highly functioning relationship there must be a good synergy between the partners and that it must be a winwin situation for all p  pOur key requirements are p  p nbsp nbsp  Enjoy your work and working with your team and be proud of it p  p nbsp nbsp  Assume best intentions  we know we will p  p nbsp nbsp  Drive to build something amazing p  p nbsp nbsp  Be excited about data and coding p  p nbsp nbsp  Have strong opinions but hold them loosely p  pnbsp ppstrongstrongWhat will you be doingstrongstrongbr ppAs a seedstage team member you will be working on a greenfield application and ML models You will be an integral part of the design and architecture decision process working directly with the other team members and leadership we have a very flat structure In this role you will have a huge impact on the success of the companyp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T01:57:27.000Z"
+  },
+  "company": {
+    "name": "Stealth Startup",
+    "link": "https://www.linkedin.com/company/stealth-startup-51"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta Metropolitan Area",
+    "region": null,
+    "postal_code": "30317",
+    "street_address": null,
+    "latitude": 33.74975,
+    "longitude": -84.38857
+  }
+}

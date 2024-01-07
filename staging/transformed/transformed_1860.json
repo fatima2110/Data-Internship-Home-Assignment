@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "strongAt Northwestern Mutual we are strong innovative and growing We invest in our people We care and make a positive difference brbrstrongNorthwestern Mutual is looking for an experienced engineer to help us build the next generation of financial planning tools for our clients The role requires an agile engineering approach the patience and persistence to tackle sophisticated problems the ability to get things done quickly but thoughtfully and outstanding technical skillsbrbrDo you enjoy reading tech blogs in your spare time Is your meme game strong Then we want to hear from youbrbrstrong What are we looking for brstrongul li 5 years of professional experience li li Experience with Architecture Patterns and Engineering li li Familiarity with DevOps Automation and Infrastructure li li Effective Communication Easily explains concepts to both technical and nontechnical audiences li li Teamwork Mentors fellow engineers and leads crossteam initiatives li li Autonomy Identifies problems and seeks solutions independently li li Ownership Takes pride in their craft and responsibility for issues that may arise li brbrulstrong What would make you stand out brstrongul li Handson experience with JavaScript Node React Java or GraphQL li li Experience with Automation of CICD Pipelines li li Familiarity with AWS databases storage networking CloudFront li li Ability to DebugTroubleshoot across Infrastructure as Code Terraform li li Understanding of Docker and Kubernetes li li Knowledge of Security Practices Application Firewalls li brbrulstrong Why Northwestern Mutual brstrongul li Highly competitive compensation including annual bonus opportunities li li MedicalDentalVision plans matching 401k pension programs li li Tuition reimbursement commuter plans and paid time off li li Extensive professional training opportunities li li Excellent worklife balance li li HackathonsCommitment to innovation li brbrulem strong This job is not covered by the existing Collective Bargaining Agreement strong brbremstronguRequired Certificationsbrbrustrongstrong Grow your career with a bestinclass company that puts our clients interests at the center of all we do Get started now brbrstrongem We are an equal opportunityaffirmative action employer and all qualified applicants will receive consideration for employment without regard to race color religion gender identity or expression sexual orientation national origin disability age or status as a protected veteran or any other characteristic protected by law brbremFIND YOUR FUTUREbrbrWere excited about the potential people bring to Northwestern Mutual You can grow your career here while enjoying firstclass perks benefits and commitment to diversity and inclusionbrbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:13:59.000Z"
+  },
+  "company": {
+    "name": "Northwestern Mutual",
+    "link": "https://www.linkedin.com/company/northwestern-mutual"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

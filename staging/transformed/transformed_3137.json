@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist / Biostatistician",
+    "industry": "",
+    "description": "pstrongCompany OverviewnbspstrongppbrppBlinkTBIs FDAcleared technology EyeStatTM delivers objective data about the blink reflex in just minutes by stimulating and measuring the blink using light puffs of air and highspeed videography Our foundational research and proof of concept data supports EyeStats initial application intended to test for and identify abnormal blink patterns associated with traumatic brain injury TBI In addition to TBI BlinkTBI is now exploring applications in the diagnosis differentiation and management of neurological diseases and conditions such as Parkinsons Alzheimers and MigrainenbspppbrppstronguPosition Summary ustrongppstrongCore Responsibilities strongppbrpulliLead process to clarify with stakeholders liliIdentify data sources how to collect and prioritize liliProcessClean data liliIntegrate and store data liliLook for correlationtrendsrelation between data sets that allows for improved diagnosis to measure treatment success to refine therapies etc liliUse of machine learning statistical modeling and artificial intelligence liliMeasure and improve liliCommunicate actionable insights lili Utilizes statistical software programs eg SAS R to implement advanced statistical methodologies eg longitudinal data analysis survival analysis Poisson regression imputation methodologies and analyses with missing data and verify underlying distributional assumptions liulpbrppstrongQualifications strongppbrpulliPrior experience in biological sciences pharmaceuticals medical devices in entrepreneurial environment liliA minimum of eight 8 years of experience conducting statistical analysis for clinical research projects Masters or higher level degree in biostatistics statistics or a related field is required liliExcellent verbal and written communication and interpersonal skills liliMust be a selfstarter able to work independently and have the ability to coordinate multiple activities simultaneously in support of various projectsnbspliulpbrppstrongPreferred Skillsstrongppbrpp\tMust be comfortable with earlystage datapp\tWill need to have the ability to help create structure where little existsnbsppp\tMust be able to work with small teamspp\tSomeone who is persistent persuasive systematic independent seeks opportunities takes the initiative and demands efficiency and qualityppbrppstrongAdditionalstrongppstrongspan classqlcursorspanstrongppPaid on an hourly basisppbrp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T15:58:18.000Z"
+  },
+  "company": {
+    "name": "Blinktbi, Inc",
+    "link": "https://www.linkedin.com/company/blinktbi"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Charleston",
+    "region": "SC",
+    "postal_code": "29464",
+    "street_address": null,
+    "latitude": 32.77647,
+    "longitude": -79.93103
+  }
+}

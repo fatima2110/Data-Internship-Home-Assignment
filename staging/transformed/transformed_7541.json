@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "",
+    "description": "pAs annbspstrongSenior Software Engineer  OnLinkstrongnbspfornbspstrongJohn DeerestrongsnbspstrongIntelligent Solutions Group ISGstrongnbspyou will be the technical Leader for the development of thenbspstrongOnLinknbspstrongproduct that enables golf course professionals to plan monitor and complete the work to maintain the golf course and their business operationsnbspOur Staff Engineers are technical leaders  designing and developing production software championing software development practices and mentoringcoaching the team members on industry trendsnbspnbspnbspAn ideal candidate will be someone with a passion for being in the code and a demonstrated history of technical leadership in delivering global software productsppbrppHere is a link to learn more about the OnLink application  httpswwwyoutubecomwatchvc2RDLV5y1sppbrp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:21:56.000Z"
+  },
+  "company": {
+    "name": "John Deere",
+    "link": "https://www.linkedin.com/company/john-deere"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Des Moines",
+    "region": "IA",
+    "postal_code": "50395",
+    "street_address": null,
+    "latitude": 41.58882,
+    "longitude": -93.62031
+  }
+}

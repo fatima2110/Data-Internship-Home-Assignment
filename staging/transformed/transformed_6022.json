@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Marketing and Advertising,Information Technology and Services",
+    "description": "pstrongOVERVIEWstrongppWe are looking for a Software Engineer Inbspto join ournbspInnovation department at our rapidly growing Center City Philadelphia officenbspppbrppAs a Software Engineer I on the Data Engineering team you will have the opportunity to write code to the standard of Sidecars internal best practices while collaborating with others and owning multiple systems and operational toolsppbrppstrongREQUIREMENTSstrongpulli1 years of experience with Go Python or JavaScriptliliDatabase knowledge or experienceliliGithub knowledge or experienceliliDocker knowledge or experienceliulpbrppstrongBONUSstrongpulliExperience working with KubernetesliliKnowledge of microservice architectureliliExperience in a production environmentliliKnowledge of Postgres and RedshiftliulpbrppstrongWHO YOU AREstrongppThis is an intermediate level position the idealnbspcandidate is looking to start their career in Software Engineering within the Digital Marketing industry You arepulliAn intelligent motivated person who thinks for themselves and is motivated by team success as well as their ownliliCollaborative open to and positively receive and deliver feedbacknbspliliExcited to build your skills with guidance from your manager and through handson applicationnbspliulpbrppstrongWHAT YOULL DOstrongppAs a Software Engineer on our Data Engineering team you willpulliWork on data governance ensuring the data we store is accurate and necessaryliliMaintain data pipelines for product feeds advertising metrics and moreliliAdhere to and improve upon Sidecars standards for coding testing and documentationliliImprove on our existing features and help maintain scalable stable and sustainable codebasesliliSuccessfully deliver tasks that meets company product and team goals and standardsliulpbrppIf you reached this point we hope youre feeling excited about the job description Even if you dont feel that you meet every single requirement we still encourage you to apply Were eager to meet people that believe in Sidecars mission and can contribute to our team in a variety of ways  not just candidates who check all the boxesppbrppstrongBENEFITSstrongpulliComprehensive Insurance Coveragenbsplili401K Plan with Employer MatchliliEmployee Stock Options ProgramliliGenerous Paid Time Off 20 Vacation days 5 Sick days 20 Company HolidaysliliFlexible ScheduleliliPretax deductions of public transportation costs for your commuteliliChoice of Device Mac or Windows  additional tech accessoriesliliDiscounted Gym MembershipnbspliulpbrppstrongWHO WE AREstrongppSidecar is dedicated to solving the challenges retailers face in performance marketing channels like paid search and shoppingppbrppOur technology digests and analyzes massive amounts of realtime data to continually improve campaign performance and efficiency for ecommerce retailers of all sizes and verticals in the US and abroad including Under Armour Crate amp Barrel and Boscovs to name a few Our team of performance marketing pros collaborate with our customers to ensure our approach and technology remain aligned to their businesses and goalsppbrppSidecar is proud to be an equal opportunity employer with employees stemming from a wide range of backgrounds and experiences As a business we value the enrichment that diversity brings to our organization and are committed to a culture that creates a sense of inclusion and belonging We welcome new perspectives and affirm that all employment decisions are made without regard to race color ancestry religion national origin age familial or marital status sex sexual orientation pregnancy gender identity or expression disability genetic information veteran status or any other classification protected by federal state or local lawp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T15:29:21.000Z"
+  },
+  "company": {
+    "name": "Sidecar",
+    "link": "https://www.linkedin.com/company/sidecar"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Philadelphia",
+    "region": "PA",
+    "postal_code": "08051",
+    "street_address": null,
+    "latitude": 39.95106,
+    "longitude": -75.16562
+  }
+}

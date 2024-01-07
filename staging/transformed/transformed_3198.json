@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Entry Level Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "pThe ideal candidate will be responsible for developing highquality applications They will also be responsible for designing and implementing testable and scalable codenbsppp\tppstronguResponsibilitiesustrongpulliDevelop create and modify general computer application software or specialized programsliliAnalyze user needs and develop software solutionsliliDesign or customize software for client use to optimize operational efficiencyliliImprove existing systems by analyzing areas of modificationliliAnalyze and design databases with application areasliliCoordinate database development with a team or individuallyliliMaintain systems by monitoring identifying and correcting software defectsliliCreate technical specifications and test plansliliUpdate knowledge and skills regularly through inhouse and external courses manuals and new applicationsliulpstronguQualificationsustrongpulliBS in Computer Science CS Information Technology IT Information Systems IS Electrical Engineering EE Computer Engineering CE Informatics or Software Engineering SEliliKnowledge of basic computer science concepts programming and Information SystemsliliInterest and willingness to travel and relocateliliPrevious experience in JavaJ2EE Development CC NET VBASP Development and Database experience is preferredliullili",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T18:09:18.000Z"
+  },
+  "company": {
+    "name": "Tata Consultancy Services",
+    "link": "https://in.linkedin.com/company/tata-consultancy-services"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Georgia",
+    "region": "United States",
+    "postal_code": "31004",
+    "street_address": null,
+    "latitude": 32.64829,
+    "longitude": -83.444374
+  }
+}

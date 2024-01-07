@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "stronguData ScientistbrbrustrongFractal Analytics is a strategic AI partner to Fortune 500 companies with a vision to power every human decision in the enterprise Fractal is building a world where individual choices freedom and diversity are the greatest assets An ecosystem where human imagination is at the heart of every decision Where no possibility is written off only challenged to get better We believe that a true Fractalite is the one who empowers imagination with intelligencebrbrPlease visit Fractal  Intelligence for Imagination for more information about Fractal AnalyticsbrbrstrongResponsibilitiesbrbrstrongul liDeliver Artificial Intelligence amp Machine learning based solutions around client problems with some of them being Customer Segmentation amp Targeting Propensity Modelling Churn Modelling Lifetime Value Estimation Forecasting Recommender Systems Modelling Response to Incentives Marketing Mix Optimization Price Optimizationli liConceptualize design and deliver highquality solutions and insightful analysis on a variety of projects ranging in both complexity and scopeli liConduct research and prototyping innovations data and requirements gathering solution scoping and architecture consulting clients and client facing teams on advanced statistical and machine learning problemsli liLead and groom the data scientist pool on solving complex problems using data scienceli liConduct ML training for Fractal via Fractal Analytics Academyli brulstrongQualificationsbrbrstrongul liBachelors in Computer Engineering Software Engineering Computer Science Information Technology Statistics Mathematics Economics Operations Research Data Science Business Analytics Business Economics Operations Researchli li25 years of demonstrable experience in Regression Machine Learning Deep learning Natural Language Processing Image processing recommender systems Bayesian methods treebased learners SVM RF XGBOOST time series modelling dimensionality reduction SEM GLM GLMM clusteringli liProblemsolving Ability to break the problem into small problems and think of relevant techniques which can be explored amp used to cater to thoseli liExpertlevel proficiency in at least one of R and Pythonli liExpertlevel proficiency and thorough understanding of statisticalML predictive techniques such as regressionclassification clustering dimensionality reduction forecasting optimization etc and at least one of the upcoming technologies like deep learning DL natural language processing NLP reinforcement learning RL and Bayesian methodsli liExperience of working on a project endtoend problem scoping data gathering EDA modelling insights and visualizationsli brulemFractal Analytics provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race color religion age sex national origin disability status genetics protected veteran status sexual orientation gender identity or expression or any other characteristic protected by federal state or local lawsem",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T05:37:56.000Z"
+  },
+  "company": {
+    "name": "Fractal",
+    "link": "https://www.linkedin.com/company/fractal-analytics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 140000,
+    "max_value": 195000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

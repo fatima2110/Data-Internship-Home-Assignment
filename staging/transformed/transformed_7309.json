@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "pstrongProto AI is actively seeking Software Engineers to join its growing Engineering department to work on its growing software development needs Proto AI provides enterprisescale AI solutions through softwareasaservice applications in several verticalsstrongppbrppstrongResponsibilitiesstrongppbrpulliEffectively design develop and operate software systems at scaleliliAssist in the design amp architecture for new productsliliAbility to convert applied mathematics to computational engineeringliliExcellent written and oral communication skillsliliDevelop and maintain unit and integration testsliliWorking with Microsoft Azure to deploy highly available scalable and secure applicationsliliWork efficiently and meet project deadlines with limited supervisionliliParticipate as a team member in sprint demonstrations and presentations to product stakeholdersliliStrong attention to detail critical thinking skills and solid troubleshooting abilityliliCreate the functional design amp architecture for new products amp featuresliliMaintain control of source research and trade secretsliliConvert applied mathematics to computational engineeringliulpbrppstrongQualificationsstrong ppbrpulliSelfstarter who needs minimal supervision is curious about software and comes with a teamfirst approach to the positionliliEnjoys a startup atmosphere and is flexible shows good judgement takes initiative and is willing to take on a variety of tasks and responsibilities as needed to achieve goalsliliA 4yr college degree in Computer Science or a related fieldliliAt least 5 years software development experience preferably with C and Clili3 years of experience building web microservice solutions in WindowsLinux environmentslili2 years of experience building and deploying scalable and secure enterprise solutions with Azure or AWSliliUnderstanding of Microservices design development and deployment on Azure Service FabricliliExperience with DevOps practices for CICD release management and automation using Azure DevOpsliulpbrppstrongPlusesstrongpulliFamiliarity with developing software to support parallel computingliliFamiliarity with Atomicity Consistency Isolation and Durability ACID rulesliliUnderstanding of interprocess communication to include custom marshaling and threading scenariosliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T15:27:37.000Z"
+  },
+  "company": {
+    "name": "Proto AI",
+    "link": "https://www.linkedin.com/company/proto-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington DC-Baltimore Area",
+    "region": null,
+    "postal_code": "21201",
+    "street_address": null,
+    "latitude": 38.873062,
+    "longitude": -77.007385
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Engineer/Principal Engineer, Machine Learning and Artificial Intelligence",
+    "industry": "Research,Biotechnology,Pharmaceuticals",
+    "description": "stronguCompany DescriptionbrbrustrongAt Roivant we are passionate about discovering and developing new drugs to impact patients lives Since its inception in 2014 Roivant has launched over 20 portfolio companies Vants overseen 5 successful IPOs established a 3B partnership with a global pharma built a pipeline of over 40 assets across various modalities and therapeutic areas and delivered 8 successful phase 3 readoutsbrbrRoivant is currently building new capabilities in drug discovery and expanding its existing development engine to become the worlds leading techenabled pharmaceutical company Roivants drug discovery capabilities are driven by our computational discovery platform which combines preeminent physicsbased tools with deep expertise in machine learning to generate unprecedented predictive power that can tackle previously intractable discovery challenges The tight integration of this computational platform with our experimental capabilities enables the rapid design and optimization of new drugs to address a wide range of targets for diseases with high unmet needbrbrWe believe that the future of drug discovery lies in integrating predictive sciences biology and medicinal chemistry to accelerate the path to new medicines This role is an opportunity to be an architect of this paradigm shift and generate transformative benefit for patientsbrbrstronguPosition SummarybrbrustrongThe candidate will apply stateoftheart methods in machine learning complemented by rigorous statistical analysis and other wellestablished methods in cheminformatics and bioinformatics to substantially advance computationenabled drug discovery The candidate will work closely with an interdisciplinary team of computational chemists biophysicists scientific programmers and software engineers to develop our computational platform that combines latest advances in machine learning and physicsbased models Competitive pay equity strong perks and a fun working environment along with the opportunity to do cutting edge science to design better medicines are all good reasons to join usbrbrstronguResponsibilitiesbrustrongulliDevelop cuttingedge machine learning and statistical models that enable and accelerate drug discovery projects Research areas include liliDevelop protein structure prediction methods combining ML and physicsbased models achieving crystallographic accuracy and enabling prediction of effects of mutations and posttranslational modifications liliCollaborate with quantum chemists to develop machine learning models that predict accurate molecular energies at a fraction of the computational cost of quantum chemistry liliCollaborate with the force field team to develop and train machine learning models to generate and improve force field parameters liliDevelop statistical models for predicting molecular properties based molecular structures liliDevelop statistical models for assessing predictive accuracy of our physics models liliDevelop generative models for designing druglike molecules brliulstronguRequired QualificationsbrustrongulliMaster or Ph D degree in computer science applied math or physical sciences liliExperience developing machine such as random forests support vector machines deep neural networks models familiar with latest developments in machine learning methods liliExtensive experience with common machine learning tools such as Scikitlearn Tensorflow Pytorch etc liliStrong Python coding skills liliExperiences working with large data sets brliulstronguAdditional Desirable QualificationsbrustrongulliExperience with cheminformatic and bioinformatic tools such as RDKit OpenEye Biopython etc liliResearch experience within computational physics or quantum chemistry liliExperience working within a collaborative teamliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:33:44.000Z"
+  },
+  "company": {
+    "name": "Roivant Sciences",
+    "link": "https://www.linkedin.com/company/roivant-sciences-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

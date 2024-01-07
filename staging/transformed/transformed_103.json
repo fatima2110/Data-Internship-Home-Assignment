@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Analyst",
+    "industry": "Financial Services",
+    "description": "pstrongPositionstrongnbspData AnalystppstrongLocationstrongnbspNashville TNppstrongemTHE POSITION IS REMOTE HOWEVER YOU MUST LIVE WITHIN 80 MILE RADIUS OF NASHVILLE TN FOR CONSIDERATIONemstrongppstrongemYou must be authorized to work in the United States Sponsorship is not available for this opportunityemstrongppstrongAbout UsstrongppFIA Tech is a dynamic and growing SoftwareasaService technology company which supports over 8000 global finance and trading firms Our customers depend on our solutions which connect the global futures and derivatives industry for trade processing and regulatory compliance needsppstrongPosition DescriptionstrongnbspThis role is considered an entryLevel Data Analyst within our Databank team located in Nashville TN The main job responsibility is daytoday processing and quality assurance of our reference datappstrongResponsibilitiesstrongpp Monitor global derivative exchanges and financial regulatory authority sites for current and upcoming events affecting Databank products and review the same sites for collection and verification of relevant data such as position limits fees and additional reference data as requiredpp Prepare detailed analysis needed for upcoming changes to Databanks reference datapp Track and help manage teams daily workflow Identify and communicate high priority items to onshore team and assure all data is validated and quality checked for timesensitive taskspp Research and respond to client inquiries received via email Zendesk and phonepp Create and send out daily alerts detailing changesupdates with fees and position limitspp Review and become familiar with published exchange rules and regulatory documentation to provide guidance to clientspp Assist in maintenance and clean up of current reference data utilized by our clientsppstrongQualifications Preferred Experiencestrongpp 1 years of experience in Financial Services andor Banking Operationspp Experience with Microsoft Excel and strong analyticalnumerical skillspp Experience in a coding language Python SQL C etcpp Familiar with business process improvement methodologiesppstrongEducationCertificationsstrongppBachelors Degree in Business  Finance or other related fieldsp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:12:35.000Z"
+  },
+  "company": {
+    "name": "FIA Tech",
+    "link": "https://www.linkedin.com/company/fia-tech"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Nashville Metropolitan Area",
+    "region": null,
+    "postal_code": "37201",
+    "street_address": null,
+    "latitude": 36.172813,
+    "longitude": -86.78488
+  }
+}

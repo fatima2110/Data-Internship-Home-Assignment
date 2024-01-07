@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Software Engineer",
+    "industry": "",
+    "description": "brpSoftware Developer Junior to Intermediate LevelppbrppIsoprime Corporation is a small software development and consulting firm based in Naperville IllinoisnbspnbspWe provide software technology consulting and packaged software products to serve the healthcare market  primarily hospitalbased neonatal intensive care units ppbrppJob duties include software design coding testing maintenance and customer supportnbspBeing a small company Isoprime offers the opportunity to experience all facets of software development and get extensive experience with a wide variety of toolsppbrppOur software products are built using Microsoft technology including VBNet and SQL Server along with other supporting tools such as Crystal ReportsnbspnbspnbspppbrppJob qualifications include classes training or experience with an objectoriented programming language such as VBNET C JavanbspExperience or extensive training in SQL is also requirednbspnbspExperience or training in Crystal Reports OLE DB ADO and MS Access would be usefulnbspBackground in healthcare applications is a plusnbspppbrppExcellent Englishlanguage skills are required and uyou must have the permanent legal right to work in the US without sponsorshipuppbrppWe are a small company looking for a developer who will take ownership of their work is eager to learn and grow and can work well as part of a small team of developersppbrppbrppResponsibilitiespulliDesign Develop and Test new features for our customersliliWork with customers on implementing and configuring our softwareliliAnswer support calls and emails to help customers troubleshoot problemsliulpbrppQualificationspulliExperience or training in NET or another objectoriented languageliliKnowledge and understanding of SQL and Database DesignliliComfortable working with customers to troubleshoot problems liulpbrppPreferredpulliBS in Computer Science or related degreeliliVB NET ExperienceliliCrystal Reports or other reporting tools experienceliulpbrppBenefitspulliCompetitive SalaryliliParticipation in all aspects of software development from design to rolloutliliRetirement PlanliliCompany holidays and paid time offliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T14:33:19.000Z"
+  },
+  "company": {
+    "name": "Isoprime",
+    "link": "https://www.linkedin.com/company/isoprime"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Naperville",
+    "region": "IL",
+    "postal_code": "60563",
+    "street_address": null,
+    "latitude": 41.771496,
+    "longitude": -88.148
+  }
+}

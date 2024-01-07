@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Data Scientist",
+    "industry": "Computer Software,Defense &amp; Space",
+    "description": "pCamgian is hiring a Junior Data Scientist to apply statistical theory and methods to collect interpret and summarize data as well as make predictions and recommended actions based on data As a Junior Data Scientist you will work with product managers and business stakeholders to gather and analyze large sets of structured and unstructured data in order to gain insights and drive decision makingnbspppbrppstrongDutiesResponsibilitiesstrongpulliParticipates in data discover to detect patterns and outliers in customer dataliliBuilds predictive models and machinelearning algorithmsliliProposes solutions and strategies to business challengesliliPresents information using data visualization techniquesliulp       Documents all processes and researchppbrppstrongQualificationsstrongpulliUnited States CitizenshipliliBachelors degree in Computer Science Statistics Mathematics or related field requiredlili13 years of experience with SQL and statistical software packages Python R SASliliExperience using business intelligence tools and understanding of data frameworksliliExperience in data mining and statistical analysisliulpnbspppstrongDesired SkillsstrongpulliProgramming background in R RStudio TensorFlow andor MATLABliliKnowledge of database design and setupliliAble to multitask prioritize and manage time effectivelyliliStrong math skillsliliProblemsolving aptitudeliulpbrppExceptional work ethic willingness to learn tenacity not to quit aptitude to surpass and strong desire to work in a fastpaced environment with existing and new product lines are necessary for successnbspAs a growing business line this position offers an outstanding opportunity to work under the supervision mentorship and guidance of our CTOnbspCollaboration and cross pollination with other teams will be frequent thus communication openness and willingness to share both success and failure is a mustnbspWe are a teamcentric organization there are no individuals we win and lose togetherppnbspppCamgian offers a competitive salary fun work environment excellent benefits and an equity opportunityppnbspppstrongCamgian Culture and Core Value TraitsstrongpulliAbility to work as part of a team while maintaining independent thinkingliliSelfdriven and selfstarter in addition to excellent communication skillsliliGreat at thinking outside the box and have an aptitude for innovation and problem solvingliulpp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T19:08:14.000Z"
+  },
+  "company": {
+    "name": "Camgian",
+    "link": "https://www.linkedin.com/company/camgian"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tuscaloosa",
+    "region": "AL",
+    "postal_code": "35401",
+    "street_address": null,
+    "latitude": 33.210682,
+    "longitude": -87.56558
+  }
+}

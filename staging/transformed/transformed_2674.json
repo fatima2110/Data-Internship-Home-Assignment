@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Financial Services,Banking,Information Technology and Services",
+    "description": "pOur Engineers enjoy reducing or completely eliminating manual tasks are excellent problem solvers and know automation is key to operating a largescale systemppSREs make sure that our applications highly available and Service Level Objectives SLO are met SREs work directly on scrum teams with our Software Engineers using their interest in operations and development skills to ensure new features follow SRE best practices and are supportableppbrppuResponsibilities IncludeuppbrpulliCICDliliMonitor and resolve issues in all environments Ensure SLO and uptime are metliliBe a member of scrum teams to ensure SRE concerns are addressed from the time a feature is designed through its deployment to productionliliEngage in capacity planning and demand forecasting anticipating performance bottlenecks and scaling the environment as neededliliChange managementliliUptime and SLO reportingliulpbrppuspan classqlcursorspanRequirementsuppbrpulliExpertlevel knowledge of at least one configuration management system Chef Ansible Puppet etcliliExperience with build automation and configuration management tools eg Puppet Chef AnsibleliliStrong knowledge of thenbspAmazon Web Services AWSnbspecosystem and other core AWS technologiesliliSoftware development background preferredliliExperience with a microservice architecture running in containers Docker or other containerization technologyliliExperience with Docker tooling and ecosystemliliExperience supporting 24x7 high availability internet application environments that include web application and database servers and load balancing systemsliliBachelors degree or higher in Computer Science or equivalent experienceliliAWS Certification a plusliliExcellent written and communication skillsliulpp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T16:32:28.000Z"
+  },
+  "company": {
+    "name": "Lumin Digital",
+    "link": "https://www.linkedin.com/company/lumindigital"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer III - PDMS",
+    "industry": "Insurance",
+    "description": "strongstrongJoin Our Team Do Meaningful Work and Improve Peoples Lives brbrstrongstrongOur purpose to improve customers lives by making healthcare work better is far from ordinary And so are our employees Working at Premera means you have the opportunity to drive real change by transforming healthcarebrbrTo better serve our customers were creating a culture that promotes employee growth collaborative innovation and inspired leadership We are committed to creating an environment where employees can do their best work and where bestinclass talent comes stays and thrivesbrbrstronguAs a Software Engineer On Our Team You WillbrbrustrongProduct development Marketing and SalesPDMS aims to build a simple and impactful marketplace that sells products that serve the customers healthcare needsbrbrDrive improvements to our technologybrbrCollaborate with sharp engineers and highlyengaged users to ship code continuouslybrbrWe have many challenges in applications ranging from performance of some of the user workflows to optimizing and automating processes If you love building worldclass software we have a place for you We are an agile shop we work closely and inclusively with customers deliver features and are passionate about test coverage automation refactoring and paying off technical debt We are looking for software development leaders who share our vision for continuously improving customer experience and understanding our business needs and are motivated by challenging problems and building distributed systems and who love writing great codebrbrWhat youll dobrbrParticipate and support analysis design development and testing of mission critical solutions in a fast paced environmentbrbrDesign and implement new features and make improvements to existing featuresbrbrBuild and test code in an agile delivery method with a focus on continuous improvementbrbrCreate testable code with a passion for qualitybrbrFocus on automation continuous integration and continuous deploymentbrbrAs an agile team you will triage fix and communicate production issuesbrbrPrepare and maintain system application and program level documentation as neededbrbrDemo the technology you build incorporate feedback received from stakeholdersbrbrWhat youll bringbrbrBachelors Degree in an IT related field or 4 years work experience in Information Technology requiredbrbrstrongu5 Years Application Development Experience requiredbrbrustrongProven experience with C SQL and AzurebrbrExperience in deployment automation and orchestrationbrbrFamiliar with containerization conceptsbrbrExperience in build and manage services with security protocols as per industry standardsbrbrStrong experience with the Agile methodologybrbrDemonstrated good judgment and decision makingbrbrKnowledge and understanding of the healthcare industry would be helpfulbrbrstrongstrongWhat we offerbrstrongstrongulliMedical vision and dental coverageliliLife and disability insuranceliliRetirement programs 401K employer match and pension planliliWellness incentives onsite services a discount program and moreliliTuition assistance for undergraduate and graduate degreesliliGenerous Paid Time Off to reenergizeliliFree parkingliulstrongstrongEqual employment opportunityaffirmative actionbrbrstrongstrongPremera is an equal opportunityaffirmative action employer Premera seeks to attract and retain the most qualified individuals without regard to race color religion sex national origin age disability marital status veteran status gender or gender identity sexual orientation genetic information or any other protected characteristic under applicable lawbrbrIf you need an accommodation to apply online for positions at Premera please contact Premera Human Resources via email at careerspremeracom or via phone at 4259184785brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:11:41.000Z"
+  },
+  "company": {
+    "name": "Premera Blue Cross",
+    "link": "https://www.linkedin.com/company/premera-blue-cross"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Spokane",
+    "region": "WA",
+    "postal_code": "99213",
+    "street_address": null,
+    "latitude": 47.659,
+    "longitude": -117.425026
+  }
+}

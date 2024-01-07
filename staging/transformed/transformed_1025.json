@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Analytics Engineer",
+    "industry": "Marketing and Advertising,Internet,Retail",
+    "description": "Analytics Engineer who will be responsible for building and maintaining complex systems for the purpose of aggregating visualizing and interpreting critical business data setsbrbrstronguWhat Your Day Will Look LikebrustrongulliDrive the design development and maintenance of innovative and scalable intelligence solutions across the organization with the highest standards of analytical rigor and data integrityliliSolicit input from business partners in marketing to define problems and propose solutions including supporting overall data strategies and partnership pipelinesliliDevelop domain expertise and drive major contributions to our data and research roadmap Leverage our analytics tools to uncover deep business insights and trendsliliBuild upon and document our common data framework so that all data can be connected clean and ready for analysisliliHelp to define and improve our internal standards for style maintainability and best practices for a highscale data infrastructure Write clean maintainable and welldocumented code to support our data processesliliTranslate ambiguous business problem statements into actionable analytical solutionsliliManage large scale data requests and projects to define requirements manage timelines and coordinate activities with other involved team membersliliProactively identify and implement solutions to reduce manual data entry wherever possibleliliStrong verbalwritten communication amp data presentation skills including an ability to effectively communicate with business leaders and technical teamsbrliulIDEAL CANDIDATES WILL HAVEbrulliBachelors Degree in quantitative field andor equivalent work experience or educationliliExpert SQL knowledge 5years ability to write efficient and optimized codeliliExperience 3years with Modern scripting languages eg PythonliliExperience with Data visualization and dashboarding tools Tableau Salesforce Looker etcliliProven ability to solve complex quantitative business challengesliliCloud data pipelines eg Fivetran StitchliliGoogle Cloud ecosystemliliPositive attitudeliliEntrepreneurial mindset able to work independently as well as with a teamliliIntellectual curiosityliliStrong interpersonal and communication skillsliliHigh level of accuracy and attention to detailbrliulPowered by JazzHRbrbrYjkGjViumZ",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-03T07:58:24.000Z"
+  },
+  "company": {
+    "name": "310 Nutrition",
+    "link": "https://www.linkedin.com/company/310-nutrition"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81400,
+    "max_value": 150000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

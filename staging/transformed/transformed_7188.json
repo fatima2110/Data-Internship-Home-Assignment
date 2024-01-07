@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "stronguJob DescriptionbrbrustrongAre valued and empowered collaborative and team oriented innovative in their approach and passionate about their work They are reliable trustworthy and open with a high level of integrity We value diversity are inclusive and are committed to a global approachbrbrstronguPosition SummarybrbrustrongAre you looking to be an integral part of a team delivering highquality features for exciting nextgeneration products Do you want to contribute to the cuttingedge technology and products we are known for worldwide The System Performance and Solution Group is looking for an experienced Software Engineer with a software testing background to join usbrbrOn our team you will be responsible for the design and execution of solution and systemlevel software test plans for BIGIP products This includes automating test cases and contributing to test tools and infrastructure You will also be responsible for documenting test results and validating product defectsbrbrstronguPrimary ResponsibilitiesbrustrongulliUnderstand product design and functionality through handson experienceliliPerform manual exploratory testing and troubleshooting to help identify difficult to find bugsliliDevelop highquality endtoend automation tests that match user scenariosliliImprove and build automation infrastructureliliProactively and openly communicate status planofaction and resolution of issuesliliWork effectively to deliver on planned and committed schedules through holistic ownership over assigned product areas and projectsliliOpenly engage on challenges with a growth mindsetliliPerform analysis to define design requirements for modification to existing tools utilities system structures environments and provide technical perspective for input into project scope and estimating activitiesliliProvide technical mentorship to junior level engineersliliAssist with and drive customer solutionsliliParticipates in hiring and onboarding processliulstrongstrongKnowledge Skills and AbilitiesbrstrongstrongulliPython or Golang programming skillsliliA very good grasp of automation test methodologies and frameworksliliExperience with networking and traffic generation toolsliliMust have a strong background in networking technologies amp protocols like IP TCP UDP DNS HTTP etcliliSolid experience with Linux operating systemsliliExperience with Kubernetes Dockers NFV SDN controllers OpenDaylight and OpenStack is a plusliliExperience with GitLabGitHub or other source code management systemsliliStrong analytical and troubleshooting skillsliulstrongstrongQualifications brstrongstrongulliTypically requires a minimum of 8 years of related experience with a Bachelors degree or 6 years and a Masters degree or a PhD with 3 years of experience or equivalent experienceliul The Job Description is intended to be a general representation of the responsibilities and requirements of the job However the description may not be allinclusive and responsibilities and requirements are subject to changestrongPhishing AlertbrbrstrongPlease note that F5 only contacts candidates through F5 email address ending with f5com or auto email notification from YelloWorkday ending with f5com or myworkdaycombrbrstrongEqual Employment OpportunitybrbrstrongIt is the policy of F5 to provide equal employment opportunities to all employees and employment applicants without regard to unlawful considerations of race religion color national origin sex sexual orientation gender identity or expression age sensory physical or mental disabilitymarital status veteran or military status genetic information or any other classification protected by applicable local state or federal lawsThis policy applies to all aspects of employment including but not limited to hiring job assignment compensation promotion benefits training discipline and termination Reasonable accommodation is available for qualified individuals with disabilities upon requestbrbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T03:29:36.000Z"
+  },
+  "company": {
+    "name": "F5",
+    "link": "https://www.linkedin.com/company/f5"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 92300,
+    "max_value": 165000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

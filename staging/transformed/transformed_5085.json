@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software",
+    "description": "pI am partnered with a company that is pioneering the use of notetaking app recorders Their AIpowered collaborative works across Zoom Google Meet and Microsoft Teams to help teams record transcribe search and share meeting notesnbspIn addition they are making virtual meetings accessible to all employees  allowing team members with disabilities to participate in a world that is now dominated by virtual meetingsppThey are currently in their Series A Funding Round looking to rapidly grow their team over the course of the next yearnbsp The team is located in Mountain View with plans to move back to inperson as soon as they canppnbspppA few key details Listed below ppnbspppstrongSkill Requirementsstrongpulli5 years of experience in Machine LearningliliStrong programming skills in a scientific computing language such as Python liliExperience using frameworks for machine learning and data science like scikitlearn pandas NumPyliliExperience working with ML tools such as Tensorflow Keras and PytorchliliExcellent written and oral communication skills and the capability to drive crossfunctional requirements with product and engineering teamsliliComfortable in a Collaborative Startup environmentliulpnbspppstrongNice to havestrongpulliPhD in Machine Learning Artificial Intelligence NLP or similarliliExperience with MLOps systemsliliA drive to keep up and build on cutting edge researchliliExperience with Natural Language ProcessingliliLeadership experienceliulpnbspppstrongOffer ExpectationsstrongppnbsppulliCompetitive SalaryliliAwesome BenefitsliliPotential to grow alongside a fastpaced teamliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T01:15:58.000Z"
+  },
+  "company": {
+    "name": "Intelletec",
+    "link": "https://www.linkedin.com/company/intelletec-ltd"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

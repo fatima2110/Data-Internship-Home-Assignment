@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "pAre you someone who connects the unconnectable Pioneers new technology and innovation tech with modern thinking Do you have a copy of CODE COMPLETE book written by Steve McConnell next to your night stand Then keep reading because ournbspstrongSoftware Developerstrongnbspposition could be just the role for youppppstrongJob in a nutshellstrongppDevelop software to integrate with internal backend systemsppstrongSnapshot of what else you will dostrongpulliAnalyze information to determine recommend and plan installation of a new system or modification of an existing systemliliAnalyze software requirements to determine feasibilityliliConfer with business analyst to design systems and to obtain information on project limitations and capabilities performance requirements and interfacesliliImplement integrations between softwareliliDeploy updates and fixesliliInvestigate and resolve technical issuesliliDevelop procedures and tools to reduce occurrences of errors and improve customer experienceliliDocument integrations and flowsliulpstrongAs a small growing business you will help in these areasstrongpulliProvide level 2 technical supportliliAssess server setup and usageliliModify software programs to improve performanceliliImprove automationliliMonitor and improve networks and serversliulpstrongWhat we are looking forstrongpulliBS in Computer Science Information technology or related field required Equivalent work experience and education in lieu of a degree will be consideredlili4 years Software DevelopmentEngineering or relevant work experience requiredliliExperience in JavaScript PHP and cloud based infrastructure AWS strongly desiredliliWorking knowledge of databases and MySQLliliStrong curiosity and problemsolving attitudeliliSelfmotivated accountable and team mentalityliliKnowledge of Laravel Livewire Tailwind and Salesforce a plusliulpstrongWho we arestrongppAtnbspstrongPatternstrong we have a passion for helping doctors We believe as doctors and our team make better decisions lives are changednbspstrongTech plays a major role in helping our teams success and serving our clientsnbspstrongAtnbspstrongPatternstrong we have a Funfessional culture Dont let the Fun fool you We are growing fast and have big goals We perform at a high level and like having fun together while doing itnbspemStill interestedemnbspstrongGREAT APPLY NOWstrong we would love to learn more about youp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T03:45:07.000Z"
+  },
+  "company": {
+    "name": "Club Wealth®",
+    "link": "https://www.linkedin.com/company/clubwealth"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Vienna",
+    "region": "VA",
+    "postal_code": "22184",
+    "street_address": null,
+    "latitude": 38.903484,
+    "longitude": -77.26282
+  }
+}

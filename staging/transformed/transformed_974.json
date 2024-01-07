@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Test Engineer",
+    "industry": "",
+    "description": "pPosition SummaryppstrongTIP Technologies Incstrong has an immediate opening for a fulltime Software Test Engineer at our Waukesha WI office This individual will be responsible for the testing of our strongTIPemQAemstrong Enterprise Quality Assurance software to ensure that our software meets or exceeds specified standards and enduser requirements nbspppnbspppResponsibilities pulliEngage in the manual testing of the strongTIPemQAemstrong software productliliEnsure that testing is thorough and rigorous and is accomplished with a high degree of accuracy and efficiency liliPerform duties as defined below to validate performance and codedtodesign specificationsliulpnbspppDutiespulliDevelop and execute manual test plans and manual test cases based on functional specificationsliliDevelop and execute regression testing stress and load testing of the application liliDocument troubleshoot and isolate problems encountered during testingliliWork with members of the application development product management support and QA teams to ensure highquality applications liliEnter and verify issues in the Defect Tracking systemliliSuggest improvements with the testing lifecycle liliDocument evolution of testing scripts for future replication liliIdentifies recommends and implements changes to enhance the effectiveness of quality assurance strategiesliliPerforms all other duties as assignedliulpbrppExperiencepp\tBachelors Degree or equivalent experience preferred pp\t2 years experience in manual software testing or quality assurance of software applications pp\t2 years experience developing test plansstrategies test cases and test scripts and traceability process of requirements to test cases pp\tExperience planning and estimating testing duration and effort pp\tExperience with database verification testing pp\tKnowledge and experience with QMSERPMRP systems desired pp\tKnowledge and experience with ERP interface Oracle SAP etc desired pp\tLoad and stress testing experience desiredpp\tCustomer Support experience a plusppbrppbrppRequirements and Competenciespp\tMust have a working knowledge of quality assurance methodologies pp\tHave a proven track record on the ability to quickly gain detailed understanding of complex applications and their designspp\tMust have the ability to work independently with limited supervisionpp\tAbility to work both independently and as part of a team and thrive on technical challenges pp\tPossess strong analytical skillspp\tDemonstrates good problemsolving skills in a software test environmentpp\tCapable of establishing goals and priorities with an ability to multitask pp\tSelf starter who can handle a high stress fast paced environmentpp\tExcellent oral and written communication skillspp\tAbility to establish priorities and multitaskpp\tDedication to going above and beyond during critical test situationsppCandidates responding to this posting must currently possess the eligibility to work in the United StatesppnbspppThis is a fulltime Salaried Exempt position with the expectation of 45 hours per weekp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-08T15:26:58.000Z"
+  },
+  "company": {
+    "name": "TIP Technologies",
+    "link": "https://www.linkedin.com/company/tip-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Waukesha",
+    "region": "WI",
+    "postal_code": "53186",
+    "street_address": null,
+    "latitude": 43.012806,
+    "longitude": -88.235085
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Cohesity radically simplifies data management We make it easy to back up manage and derive value from data  across the data center edge and cloud Cohesity also helps ensure data is in compliance and protected against ransomware attacks We offer a full suite of data management services consolidated on one multicloud data platform reducing complexity and eliminating mass data fragmentation Cohesity can be delivered as a service selfmanaged or provided by a Cohesitypowered partnerbrbrWeve been named a Leader by multiple analyst firms and are prominently featured in the Forbes Cloud 100 and CRNs Coolest Cloud companies Our growth is off the charts and were just getting startedbrbrstronguPrimary Job Responsibilitiesbrustrongul liWork with Cohesity customers to provide a timely resolution to technical issues that they may encounterli liUse available tools to investigate and troubleshoot technical issuesli liRecord customer interactions including investigation troubleshooting and the resolution of issuesli liWork closely with Cohesity engineering and account management teamsli liDemonstrate considerable judgment in selecting methods and techniques for obtaining solutionsli liProvide the best experience possible for Cohesity customersli liManage workload to ensure that all customer issues are resolved in a timely mannerli liAssist in the development of comprehensive and reusable selfservice solutions for future incidentsli liDevelop a knowledge base articleli liMentor other engineers as applicableli brbrulstronguRequired Skillsbrustrongul li5 years of experience working in a storage networking and virtualization environmentli liStrong understanding of Linux and administration experience across all working componentsli liAbility to analyze system diagnostics and clearly articulate the issue for the customerli liGood understanding of Linux debugging utilities with an emphasis on systemtap tcpdump ftrace strace wireshark gdb and crashli liExperience with remote file access protocols including NFS SMB CIFSli liSolid experience with storagerelated concepts including virtualization and data protection eg VMware CommVault Symantec EMC NetAppli liBS degree in Computer Science Computer Networking or related with 2 years of experience OR MS degree in Computer Science Computer Networking or related li brbrulstronguHighly Advantageousbrustrongul li5 years working in a Database Administrative capacity with MongoDB SQL Server or Oracleli li5 years working SQL Server Backup SQL VDI Virtual Disk Interface or Oracle RMAN Recovery Managerli li3 years working with Microsoft VSS Volume Shadow Storageli li5 years working in a virtualized environment HyperV VMware or other hypervisors in a support or administration capacityli brbrulstronguData Privacy Notice For Job CandidatesbrbrustrongFor information on personal data processing please see our strongPrivacy PolicybrbrstrongstrongEqual Employment Opportunity Employer EEOEbrbrstrongCohesity is an Equal Employment Opportunity Employer All qualified applicants will receive consideration for employment without regard to race color creed religion sex sexual orientation national origin or nationality ancestry age disability gender identity or expression marital status veteran status or any other category protected by lawbrbrIf you are an individual with a disability and require a reasonable accommodation to complete any part of the application process or are limited in the ability or unable to access or use this online application process and need an alternative method for applying you may contact us at 18559COHESITY or talentcohesitycom for assistancebrbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T05:14:58.000Z"
+  },
+  "company": {
+    "name": "Cohesity",
+    "link": "https://www.linkedin.com/company/cohesity"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

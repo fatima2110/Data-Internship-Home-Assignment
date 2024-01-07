@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Information Technology and Services,Retail,Financial Services",
+    "description": "stronguPosition Summary What Youll DobrbrustrongSenior Software EngineerbrbrAre you passionate about developing cuttingedge technical solutions to enhance the consumerfacing experience As a member of our Engineering organization youll be viewed as a subject matter expert who is capable of taking our competencies to the next level The work you do will help us to define a bestinclass user experience while positioning Walmart as a cuttingedge company one that puts innovation at the forefrontbrbrThe Senior Software Engineer position is one that calls for a technical expertise which puts the enduser experience at the center Youll apply your coding capabilities and distributed systems competencies to the improvement of existing products and the development of new software solutions at an enterprisescalebrbrYoull sweep us off our feet ifbrulliYoure a selfstarter who balances technical thinking with customercentered solutions liliYoure passionate about leveraging todays technologies to create bestinclass user experiences liliYou are processdriven and have an understanding of todays infrastructure and able to operate with efficiency brliulYoull make an impact bybrulliDeveloping software solutions that impact largescale operations  Demonstrate a mastery of enterprise level based applications while optimizing todays coding methodologies to create efficient consumercentric solutions liliCollaborating with key product leads and fellow engineers to achieve results  Position yourself as a crossfunctional partner one who understands intradepartmental and enterprise objectives as well as technological constraints and capabilities liliBalancing consumer needs with business outcomes  Prioritize efficiency and operational effectiveness while performing with agility and an understanding of todays consumer brliulWhat youll dobrulliParticipates in medium to largescale projects by reviewing project requirements translating requirements into technical solutions gathering requested information for example design documents product requirements wire frames writing and developing code conducting unit testing communicating status and issues to team members and stakeholders collaborating with project team and cross functional teams troubleshooting open issues and bugfixes ensuring ontime delivery and handoffs interacting with project manager to provide input on project plan and providing leadership to the project teamliliLeads the work of other small groups of four to six engineers including offshore associates for assigned Engineering projects by proving pertinent documents direction and examples identifying short and long term solutions and timeline reviewing and providing feedback for proposed solutions and performing design and code reviews of changesliliTroubleshoots business and production issues by gathering information for example issue impact criticality possible root cause engaging support teams to assist in the resolution of issues formulating an action plan performing actions as designated in the plan interpreting the results to determine further action performs root cause analysis to prevent future occurrence of issues and completing online documentationbrliulWhat youll bringulliSpecialization in one of the followingliulliFront end positions Javascript HTML5 CSS React AngularJS VueliliFull stack positions Java Javascript Python NodeJSliliBackend positions Java Spring Springboot Hibernate RestSoapliliMobile positions Kotlin Swift Javascript React NativeliulliExperience with modern unit testing frameworks eg Mocha ChaililiExperiences with building microservicesliliWell versed in both private and public cloud technologiesliliDeep understanding of architecture and datadriven developmentliliAbility to work with designers to develop dynamic user experiencesliliA strong sense of ownershipliliExperience building or maintaining a production applicationliliAn ability to balance a sense of urgency with shipping high quality and pragmatic solutionsliliExperience working with a large codebase on a cross functional teamliliInterest or experience in building large scalable systemsbrliulstronguAbout Global TechbrbrustrongImagine working in an environment where one line of code can make life easier for hundreds of millions of people and put a smile on their face Thats what we do at Walmart Global Tech Were a team of 15000 software engineers data scientists and service professionals within Walmart the worlds largest retailer delivering innovations that improve how our customers shop and empower our 22 million associates To others innovation looks like an app service or some code but Walmart has always been about people People are why we innovate and people power our innovations emBeing humanled is our true disruptionbrbremWere virtualbrbrWorking virtually this year has helped us make quicker decisions remove location barriers across our global team be more flexible in our personal lives and spend less time commuting Today we are reimagining the tech workplace of the future by making a permanent transition to virtual work for most of our team Of course being together in person is an important part of our culture and shared success Well collaborate in person at a regular cadence and with purposebrbrWalmart Inc is an Equal Opportunity Employer  By Choice We believe we are best equipped to help our associates customers and the communities we serve live better when we really know them That means understanding respecting and valuing diversity unique styles experiences identities ideas and opinions  while being inclusive of all peoplebrbrstronguMinimum QualificationsbrbrustrongememOutlined below are the required minimum qualifications for this position If none are listed there are no minimum qualifications brbrememBachelors degree in Computer Science and 3 years experience in software engineering or related field OR 5 years experience in softwarebrbrstronguEngineering Or Related Field Preferred QualificationsbrbrustrongememOutlined below are the optional preferred qualifications for this position If none are listed there are no preferred qualifications brbrememMasters degree in Computer Science or related field and 2 years experience in software engineering or related field Primary Location800 W California Ave Sunnyvale CA 94086 United States of America",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:33:08.000Z"
+  },
+  "company": {
+    "name": "Walmart",
+    "link": "https://www.linkedin.com/company/walmart"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81600,
+    "max_value": 119000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Services",
+    "description": "pnbspppstrongJob Tittle strongSite Reliability EngineerppstrongJob Location strongAlpharetta GAstrongstrongppstrongJob Type Long termnbspContract strongppbrppnbspnbspppnbspnbspResponsibilities ppnbspnbspppnbsp Run the production environment by monitoring availability and taking a holistic view of system healthpp  Manage platform infrastructure and applicationspp  Improve reliability quality and timetomarket of our suite of software solutionspp  Measure and optimize system performancepp  Provide primary operational support and engineering for multiple large distributed software applicationsppnbspppnbspnbspRequirements ppnbspnbspppnbsp Deploy software artifacts to Development QA Integration UAT Staging Load and Production environmentspp  Configure and troubleshoot software runtime environment provide development support and Incident supportpp  Lead the rollout enforcement and continuous improvement of team and enterprise standardspp  Configuring Continuous Integration andor Continuous Delivery pipelinespp  Use continuous Integration tools Jenkins Sonar Ant Maven Nexus Rundeck CHEF Sonarpp  Use of code repository tools like GITpp  Contribute to the design and implementation of our configuration management software architecturepp  Design and implementation of tools to streamline SCM Integration and QA processespp  Define implement and champion policies to significantly increase the efficiency of our software developmentdelivery processpp  Ensure Continuous Integration and Delivery through SDLC Work with Development QA and Operations to guarantee prompt accurate and repeatable delivery of the buildspp  Provide uptodate and accurate documentation on the SCM environment and Process Automation toolspp  Work closely with Development and Quality Engineering teamspp  Experience in one of the clouds AzureGCPAWSpp  Experience in Java based application deployment on application servers like WebSphere and tomcatpp  Experience I vulnerability management and applying software patchespp  UATProduction deploymentspp  Experience with Agile practices  Good team player and coordination skillspp  Candidate should be a Green Card Holder or a US CitizenppnbspppnbspppstrongRegardsnbspstrongppstrongKajalnbspstrongppstrongIT Recruiternbspstrongppstrong13073167195 KajalsaininoralogiccomwwwnoralogiccomnbspstrongppstrongNoralogicnbsp 109 E 17thnbspSt Cheyenne WY 82001nbspstrongppstrongUSA WY MD NJnbspstrongppstrongMexico Guadalajara MonterreynbspstrongppstrongIndia Noida UPnbspstrongppstrongWBE and MBE companynbspstrongppstrong ISO 90012015nbspstrongppstrongWY Top 50 Minority owned growing companynbspstrongppnbspppnbspppnbspppnbspppbrppnbspnbspppnbspp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-17T19:18:15.000Z"
+  },
+  "company": {
+    "name": "Noralogic Inc",
+    "link": "https://sj.linkedin.com/company/noralogic-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Alpharetta",
+    "region": "GA",
+    "postal_code": "30022",
+    "street_address": null,
+    "latitude": 34.075615,
+    "longitude": -84.29455
+  }
+}

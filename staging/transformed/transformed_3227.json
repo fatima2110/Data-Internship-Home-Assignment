@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "New Grad Software Engineer",
+    "industry": "Computer Software,Financial Services,Internet",
+    "description": "At Stripe a core part of our engineering culture is inclusiveness we want to accommodate people from all backgrounds and walks of life Stripe is for the versatile the supportive the impatient and most of all the obsessively user focused Youll be arriving in the first chapter of our story and youll be expected to play a lead role in determining how it unfoldsbrbrAs a New Grad at Stripe youll work on increasingly challenging projects to become an independent highimpact software engineer Depending upon the team the work can focus anywhere on improving our API performance improving the payment acceptance across the globe or work to ensure our infrastructure is reliable enough for critical economic infrastructurebrbrAs a company we believe in endtoend ownership of projects For any given project we have one person on point While they dont necessarily have to do all the work themselves its their job to make sure all the work gets done We launch betas and prototypes as early as we can This helps ensure that were building what users actually want We contribute back to the community often by building things we think are cool and by releasing opensource softwarebrbrstronguYou WillbrustrongulliWork on crossfunctional projects directly collaborating with other engineersliliGive meaningful feedback on code reviews and technical designsliliEnsure that the systems your team operates continue running well and can scale to meet the needs of our usersliliBuild the skills to own a project from beginning to end learning project management and technical leadership skillsbrliulstronguWere Looking For Someone WithbrustrongulliA degree in Computer Science or a directly related field by 2022 or equivalent work experienceliliExperience either in internships or working collaboratively on multiperson coding projects in a university or professional settingliliAbility to learn unfamiliar systems and forming an understanding of those systems through independent research and working with a mentor and subject matter expertsbrliulstronguYou Also Likely HavebrustrongulliOne or more areas of specialized knowledge in balance with general skills and knowledge such as knowing more frontend technologies but knowing at a high level how a service handles an HTTP requestliliExperience in code review practices and an understanding of how to safely update production systemsliliFamiliarity with navigating and managing work in large code basesbrliulstronguPlease Include These In Your ApplicationbrustrongulliA description of your work history either a resume LinkedIn Profile website or other portfolio of workliliExamples of your relevant work and approach to learning GitHub StackOverflow other projects including open source contributionsliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-07T05:19:42.000Z"
+  },
+  "company": {
+    "name": "Stripe",
+    "link": "https://www.linkedin.com/company/stripe"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 121000,
+    "max_value": 215000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

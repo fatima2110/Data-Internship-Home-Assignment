@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer (NLP)",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "We are looking for a Machine Learning Engineer with expertise in NLP who can join our AI research and development efforts with a direct impact on our core platform You will work with both engineering and business teams to best understand design requirements Then your role is to design and build practical high performance machine learning solutionsbrbrIn this role you will work on some of the latest cutting edge applications of machine learning applied to critical problems that affect businesses governments and society You will directly work with top management and key stakeholders to define solutions to critical problems that will have immediate impact and value at the platform and client levels If you are passionate to work on massive unstructured problems that can be solved using data we are looking for youbrbrstronguResponsibilitiesbrustrongul liContribute to research and development focusing on the following areas information extraction multilingual NLP automated summarization and graph network analysisli liManage the collection and annotation of large custom datasets for text classification unsupervised pretraining translation tagging and other related problemsli liCapable of understanding and implementing stateoftheart methods based on research papers andor open source libraries and push beyond the stateoftheartli liExperience with implementing efficient and scalable software systems in Python li liAbility to integrate implemented software components into a fully functional software pipeline and provide verification and validation against requirementsli liKnowledge of machine learning evaluation techniques failure modes and limitationsli brbrulstronguRequirementsbrbrustrongMust Havebrul liMinimum 2 years of professional experience working in Natural Language Processing or closely related field with demonstration of successful delivery of novel research andor product offeringsli liMasters degree or PhD from an accredited collegeuniversity in Computer Science Computational Linguistics Statistics Mathematics Engineering Bioinformatics Physics Operations Research or related fields strong mathematicalstatic background with ability to understand algorithms and methods from a mathematical and intuitive viewpointem Some exceptions can be made depending on exceptional past accomplishmentsreferencesem li liExperience with commandline scripting data structures and algorithms and the ability to work in a Linux environment processing large amounts of data in a cloud environmentli liHighly skilled in Python development as well as Tensorflow Pytorch Keras and ScikitLearnli liAble to communicate scientific concepts to both technical and nontechnical audiencesli brulNice to Havebrul liWorking knowledge of AWS and other cloud servicesli liExperience creating novel datasets for scientific analysis or benchmarkingli liCapability to contribute at the system architecture level to enhance scalability testability robustnessli liExperience with generative models of fake text or imagesli liExperience and top performances in online competitions  hackathons such as kaggleli liPublished research in areas related to machine learning NLP or its applicationsli liRecord of contributions to opensource machine learning projects or related endeavorsli liExperience writing detailed documentation of machine learning systemsli brbrulustrongBenefitsbrstronguul liHealth Care Plan Medical Dental amp Visionli liPaid Time Off Vacation Sick amp Public Holidaysli liWork From Homeli liStock Option Planli brulstrongTake note  due to the high volume of applicants only shortlisted candidates will be notified Thank you for taking the time to apply for the role at BlackbirdAIstrong",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-23T03:19:42.000Z"
+  },
+  "company": {
+    "name": "BLACKBIRD.AI",
+    "link": "https://www.linkedin.com/company/blackbird-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 85200,
+    "max_value": 163000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

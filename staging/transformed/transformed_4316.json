@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "pstrongSummarystrongppbrppemLocation Pasadena CA and Austin TXemppbrppAs Site Reliability Engineer you will be responsible for ensuring the scalability availability and security of a largescale globally distributed hybrid cloud infrastructureppRequirementsppbrpulliBS in Computer Science or equivalent experienceliliStrong knowledge of LinuxUnix System internalsliliExperience in troubleshooting and performance tuning of largescale systemsliliSystem automation experienceliliA thorough understanding of how the internet worksliliExperience in operating troubleshooting and scaling production systemsliliWriting code is strongly emphasizedliliExperience in web application stacks proxies load balancers and firewallsliliAWS experience is a plusliulpbrppstrongBenefitsstrongppbrpulliCompetitive salary and bonus program in an entrepreneurial environmentliliTopnotch health dental and vision insurancelili401k plan with matching contributionliliProfessional TrainingliliGenerous paid time off plan plus paid holidaysliliFrequent company sponsored lunches happy hours fun events and plenty of snacks and drinksliliCasual work environmentliulpbrppSupplyframe is an Equal Opportunity Employer All qualified applicants will receive consideration for employment without regard to race color religion sex sexual orientation gender identity national origin disability protected Veteran status or any other characteristic protected by lawppbrp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T19:45:00.000Z"
+  },
+  "company": {
+    "name": "Supplyframe",
+    "link": "https://www.linkedin.com/company/supplyframe"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pasadena",
+    "region": "CA",
+    "postal_code": "91122",
+    "street_address": null,
+    "latitude": 34.14955,
+    "longitude": -118.14145
+  }
+}

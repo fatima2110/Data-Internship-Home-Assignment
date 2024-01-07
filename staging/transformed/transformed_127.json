@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software",
+    "description": "strongSiteZeus strongis hiring a strongMachine Learning Engineerstrong to join our growing product team Our ideal candidate has a strong background in Azure scalable Machine Learning solutions and the Microsoft suite of application developmentbrbrSiteZeus is a location intelligence SaaS platform based out of Tampa FL and founded in 2013 We are a remote organization focused on company culture industry changing technology and employee value Our customers use SiteZeus to make better decisions about where to build their next physical locations and how to optimize their investment in existing locations We empower brands to pick the very best locations by employing the very best people and giving them the tools to succeedbrbrstronguResponsibilities And DutiesbrustrongulliBe the forefront of development of an industry changing productliliBuild machine learning pipelines and deploying scalable models to production environmentsliliImplement code for productiongrade ML systems in Python or RliliProduce code that is modular efficient scalable and maintainableliliRegularly participate in Agile ceremonies including daily scrum refinement sprint planning and retrospectivesliliMake suggestions for process improvements consistent with our theme of continual process improvementbrbrliulstronguQualifications And Skillsbrustrongulli6 years of relevant work experienceliliSolid understanding of machine learning models data analysis and a variety of supervised and unsupervised learning methodsliliExperience building ML pipelines using cloudbased ML services such as Azure Machine Learning SDK preferredliliExperience building ML pipelines that integrate with products based on the Microsoft platform including NET Azure C PowerShell and related tools preferredliliExperience building models using deep learning tools preferredliliExperience applying CNNs RNNs LSTMs and related techniques to computer vision tasks preferredliliExperience building models with geospatial data mobile movement data or street viewsatellite imagery preferredliliExperience working with multiterabyte scale datasetsliliA Bachelors degree in Computer Science Mathematics Statistics or another STEM field Masters or PhD preferredbrbrliulstrongWhy work at SiteZeusbrstrongulliWork from home from our Tampa office or hybrid We operate fully remoteliliUnlimited PTO that we WANT you to uselili401k Health Dental Legal and loads of awesome traditional benefitsliliPaid parental leave for Mother Father or Partner  dedicated nursing room in Tampa HQliliPaid monthly community service timeliliPaid company summits Technology Sales EtcliliFlexible work hoursliliSerious wellness programs to make your worklife balance better than everliliEquity gaining opportunities after one year of employment based on performanceliliMonthly incentive for meeting sales goals This is in addition to listed compensationbrbrliulstrongHiring ProcessbrbrstrongBelow is our hiring process for this position We will reach out or send a rejection notice within 13 business days of applying SiteZeus promises to value your time and professionalism in every step of the processbrulliQuick ScreeningliliInterview with the Tech TeamliliInterview with the Hiring ManagerliliFinal Interview with Executive LeadershipbrbrliulstrongEverything ElsebrbrstrongSiteZeus is proud to be an equal opportunity employer that celebrates diversity culture and the human experience We go above and beyond to ensure that all team members feel comfortable about who they are and the contributions they make to our mission Our team is highly encouraged to find a balance that allows for optimal fulfillment at work and homebrbrAll applicants must be legally authorized to work within the United States All roles may require prolonged periods of sitting at a desk working on a computer and corporate communication skills Further SiteZeus takes physical health seriously and has processes in place to minimize the spread of Covid19 at its Tampa HQ Degree requirements and preferences may be substituted for bonified work history or relevant experiencebrbrPowered by JazzHRbrbrFYYlbW8sFF",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T08:40:02.000Z"
+  },
+  "company": {
+    "name": "SiteZeus",
+    "link": "https://www.linkedin.com/company/sitezeus"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 65900,
+    "max_value": 118000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tampa",
+    "region": "FL",
+    "postal_code": "33675",
+    "street_address": null,
+    "latitude": 27.947424,
+    "longitude": -82.45878
+  }
+}

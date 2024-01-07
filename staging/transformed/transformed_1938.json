@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer - Data Science Platforms &amp; Infrastructure",
+    "industry": "Financial Services",
+    "description": "Panjiva is a datadriven technology company that uses machine learning to provide powerful search analysis and visualization of billions of shipping records from nearly every country in the world More than 3000 customers in over 100 countries ranging from Fortune 500 companies and startups to government agencies and hedge funds rely on our platform for supply chain intelligence In global trade better insight means better decision making and stronger connections between companies and governments across the globebrbrRecognizing Panjivas cuttingedge technology SampP Global acquired Panjiva in 2018 This acquisition has grown our resources dramatically expanded our access to data and accelerated our growth plansbrbrPeople are Panjivas greatest strength  join our engineering team as we map out a key part of the world economybrbrstronguJob DescriptionbrbrustrongAs a data engineer on our team you will play a key role in developing our nextgeneration data science infrastructure and underlying core technologies You will work with Panjivas worldclass data scientists analysts and engineers to create products that solve important realworld business problems in a collaborative fastpaced and fun environmentbrbrYoull work closely with our data science team to develop new platforms infrastructure and tools that will allow for machine learning applications at production scale over evergrowing datasetsbrbrYoull design and leverage distributed computing technologies data schemas and APIs to construct data science pipelines In addition youll be expected to participate in augmenting our infrastructure to seamlessly integrate new data sets through constant RampD of the technologies and systems we usebrbrJoin us in building the next generation of products as we continue to deliver valuable and actionable insights to decisionmakers in the 15 trillion global trade industrybrbrstronguResponsibilitiesbrustrongulliArchitect and implement distributed systems that perform complex transformations processing and analysis over very large scale datasetsliliDevelop processes to monitor and automate detection of quality regressions in raw data or in the output of Panjivas machine learning modelsliliWorking with our data scientists to turn largescale messy diverse and often unstructured data into a source of meaningful insights for our customersliliOptimizing slowrunning database queries and data pipelinesliliHelping enhance our search engine capable of running sophisticated user queries quickly and efficientlyliliBuilding internal tools and backend services to enable our data scientists and product engineers to improve efficiencybrbrliulstronguCompensationBenefits InformationbrbrustrongSampP Global states that the anticipated base salary range for this position is 91500 to 190100 Base salary ranges may vary by geographic locationbrbrThis role is eligible to receive SampP Global benefits For more information on the benefits we provide to our employees visit emhttpswwwspgbenefitessentialscomnewhiresemembrbremstronguQualificationsbrustrongulliBS MS or PhD in Computer Science or a related field or equivalent work experiencelili3 years of experience working with dataatscale in a production environmentliliExperience designing and implementing largescale distributed systemsliliExperience in multithreaded software development or emsome emform of parallelismliliSignificant performance engineering experience eg profiling slow code understanding complicated query plans etcliliSolid understanding of core algorithms and data structures including the ability to select and apply the optimal ones to computationally expensive operations over dataatscaleliliStrong understanding of relational databases and proficiency with SQLliliDeep knowledge of at least one scripting language eg Python Ruby JavaScriptliliDeep knowledge of at least one compiled language eg Scala C Java GoliliExperience developing software on Linuxbased operating systemsliliExperience with distributed version control systemsbrbrliulstrongNicetoHavesbrstrongulliFamiliarity with relational database eminternalsem especially PostgreSQLliliProficiency with cloud computing platforms specifically AWSliliWorking knowledge of probability amp statisticsliliContributions to opensource softwareliliExperience building customercentric productsbrbrliulstrongGradestrong emrelevant for internal applicants onlyem 11brbrSampP Global is an equal opportunity employer committed to making all employment decisions without regard to raceethnicity sex pregnancy gender identity or expression color creed religion national origin age disability marital status including domestic partnerships and civil unions sexual orientation military veteran status unemployment status or any other basis prohibited by federal state or local law Only electronic job submissions will be considered for employmentbrbrIf you need an accommodation during the application process due to a disability please send an email to strongEEOCompliancespglobalcomstrong and your request will be forwarded to the appropriate personbrbrThe EEO is the Law Poster httpwwwdolgovofccpregscomplianceposterspdfeeopostpdf describes discrimination protections under federal lawbrbr20  Professional EEO2 Job CategoriesUnited States of America IFTECH2022  Middle Professional Tier II EEO Job Group SWP Priority  Ratings  Strategic Workforce PlanningbrbrstrongJob IDstrong 257140brstrongPosted Onstrong 20210325brstrongLocationstrong Cambridge Massachusetts United States",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T06:42:42.000Z"
+  },
+  "company": {
+    "name": "S&amp;P Global Market Intelligence",
+    "link": "https://www.linkedin.com/company/s&amp;p-global-market-intelligence"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Richmond",
+    "region": "VA",
+    "postal_code": "23284",
+    "street_address": null,
+    "latitude": 37.54076,
+    "longitude": -77.43393
+  }
+}

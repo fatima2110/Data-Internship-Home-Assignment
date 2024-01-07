@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software,Information Technology and Services,Medical Devices",
+    "description": "Digital Health Technology team powers digital experiences and engagement to enhance the lives of millions of people every day through connected care We build deliver and manage a portfolio of data management platforms and mobile offerings in support of our core businesses We thrive on simple and elegant architecture and agility Youll be immersed in a dynamic highgrowth environment and empowered to excel take informed risks and drive ingenuity across the enterprisebrbrstronguLets Talk About Responsibilitiesbrustrongulli I mplement and automate deployment of modern cloud native applications lili Set up monitoring for the health of both build and production systems and create automated alerts for outages or degraded performance lili Containerize complex virtual runtime environments lili Expand and streamline complex CICD pipelines that drive frequent highquality product releases liliAutomate all missioncritical tasks and processes brliulstronguRequiredbrbrustrongstrong Lets talk about qualifications and Experience brstrongulli 3 years of senior admin responsibility for AWS Services autoscaling highly available deployments of network compute storage database monitoring resources in a production environment lili Experience building and sharing responsibility for the uptime of production cloudnative application architectures lili Experience with modern Cloud Native application architectures utilizing FaaS  service meshesproxies etc lili Experience with Monitoring tools like DataDog and able to create dashboard and metrics  establishing desired service behavior measuring how the service is behaving availability latency and overall system health and correcting discrepancies lili Experience with Cloud Infrastructure automation toolsIaaS Terraform AWS CloudFormation etc lili Experience building and managing custom Docker images and containers lili Handson experience with Kubernetes on AWS EKS and related toolscomponents lili Experience with Cloud Security respond to security events and automate security best practices lili Experience with gitbased repos and complex autoscaling CICD pipelines like Jenkins AWS TerraForm Landing Zone lili Familiarity with Python and at least one other development or scripting language CC Go JavaScriptNodeJS PHP etc lili Ability to communicate and transfer knowledge clearly and effectively to both technical and nontechnical audiences lili Ability to prioritize and multitask in a fastpaced environment lili Ability to notice and respond effectively to service failures to preserve the services conformance to its SLA servicelevel agreement lili A passion for getting to the bottom of issues and eliminating unknowns lili Evolving systems by pushing for changes that improve reliability and velocity lili BSc or MSc in computer science or a related degree brliulstronguPreferredbrustrongulli Experience with full stack web development lili Experience with traditional enterprise web application frameworks servers and tools lili Experience with performance testing tools and techniques lili Experience defining and measuring internal and customerfacing OLASLA brliulJoining us is more than saying yes to making the world a healthier place Its discovering a career thats challenging supportive and inspiring Where a culture driven by excellence helps you not only meet your goals but also create new ones We focus on creating a diverse and inclusive culture encouraging individual expression in the workplace and thrive on the innovative ideas this generates If this sounds like the workplace for you apply nowbrbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T20:35:14.000Z"
+  },
+  "company": {
+    "name": "ResMed",
+    "link": "https://www.linkedin.com/company/resmed"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Field",
+    "region": "MN",
+    "postal_code": "55701",
+    "street_address": null,
+    "latitude": 47.862286,
+    "longitude": -92.76156
+  }
+}

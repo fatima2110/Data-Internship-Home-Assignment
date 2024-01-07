@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "pMunich Re America Services MRAS is a shared service organization that delivers services to all Munich Re US PampC Companies and other group entitiesbrbrWere adding to our diverse team of experts and are looking to hire those who are committed to building a culture that enables the creation of innovative solutions for our business units and clients brbrThe CompanybrAs a member of Munich Res US operations we offer the financial strength and stability that comes with being part of the worlds preeminent insurance and reinsurance brand Our risk experts work together to assemble the right mix of products and services to help our clients stay competitive  from traditional reinsurance coverages to niche and specialty reinsurance and insurance productsbr brThe OpportunitybrFuture focused and always one step aheadbr brThe Business Technology BT unit works closely with business leaders to drive innovation and business transformation spearheading the digitalization of Munich Res business activities The focus areas for the BT unit are outlined belowbrbrpulliDigital Insurance Platforms and EcosystemsliliAdvanced Analytics and Big DataliliArtificial Intelligence Machine Learning and Automation SolutionsliliMicro Service APIs and Cloud ArchitecturesliliCyber SecurityliliWeb and mobile distributionliulpThe Machine Learning Engineerwill be part of a crossfunctional Agile development team to deliver highquality digital solutions across a broad range of innovation initiatives while championing quality and good coding practices brYour JobbrbrpulliCollaborate with different business units on building DataML ApplicationsliliBuild and maintain robust scalable data pipelines and machine learning pipelines in Microsoft AzureliliOptimize data ingestion process for better reliability and throughputliliDesign and develop data models for Machine Learning as well as AnalyticsliliOwn projects from design through delivery with ongoing supportliliCommunicate effectively across diverse disciplineswith Product Data Science Actuarial etc to collect requirementsliliBuild CICD pipelines for Infrastructure provisioningconfiguration application deployment etcliliDevelop expert knowledge of Data and ML infrastructure within Munich ReliulpbrbrSuccessful candidates should possess the following skillscapabilitiesbrbrpulliBachelors degree MS preferred in Computer Science Statistics Math or equivalent combination of education and experienceliliExtensive data modeling and data architecture skillslili3 years of handson experience with scikitlearn tensorflow or pytorchlili3 years of building and operating Machine Learning Production Systemlili5 years of handson Python R or Java experience requiredliliExpert SQL skills including TSQL Hive Spark SQL etcliliExpert Knowledge in cloud technologies such as Azure App Services Azure Kubernetes Azure DatabricksliliExperience in data pipeline development using Azure Data Factory TSQL PySpark Airflow etcliliExperience with data visualization tools such as Power BIliliDrive and dedication as well as creativity and handson attitudeliliCuriosity in searching for new solutions outside of traditional approachesliliDemonstrated ability to experiment with and learn new technologiesliliStrong oral and written communication and interpersonal skillsliliExcellent analytical problem solving and organizational skillsliulpAt Munich Re US we see Diversity and Inclusion as a solution to the challenges and opportunities all around us Our goal is to foster an inclusive culture and build a workforce that reflects the customers we serve and the communities in which we live and work We strive to provide a workplace where all of our colleagues feel respected valued and empowered to achieve their very best every day We recruit and develop talent with a focus on providing our customers the most innovative products and services brbrWe are an equal opportunity employer Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functionsbrbrp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T22:03:55.000Z"
+  },
+  "company": {
+    "name": "Munich Re",
+    "link": "https://de.linkedin.com/company/munich-re"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

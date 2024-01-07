@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Financial Services,Information Services,Information Technology and Services",
+    "description": "pAs a Site Reliability Engineer you will join the development team to help release outstanding software and lead the Site Reliability process and technical management of cloudnative platforms and financial services ppnbspppstrongEmployment locations for this opportunitystrong Lake Mary FL Austin TX Plano TX Mequon WI Norcross GAppstrongnbspstrongppstrongThere is no sponsorship or C2C available You must currently live in the United StatesstrongppstrongnbspstrongppstrongnbspstrongppstrongWhat you can expectstrongppstrongnbspstrongpp Lead Site Reliability process and technical management of cloudnative platforms pp Design authority for SRE patterns amp practices pp Implement SRE practices for cloudbased financial services pp Prepare and take part in Production Operating Reviews on a weekly basis pp Be a part of oncall rotation to understand the patterns of production failures capped at 25 pp Conduct blameless postmortems of high severity production incidents pp Implement resiliency improvements Software or System pp Conduct Application Reliability Reviews and ensure delivered code fulfils needs pp Conduct periodic Game Day exercises ppnbspppstrongnbspstrongppstrongWhat you will needstrongppnbsppp 5 years of experience in software engineering pp Experience with objectoriented programming Python Go pp Solution design and deployment of resilient HA Highly Scalable and DR architecture pp Experience implementing SRE standards for Resiliency and Scalability of microservices in Cloud pp Experience implementing SLIs SLOs and Error Budgets as part of developmentdelivery practices pp Experience leading Failure Mode Analysis of Architectures pp Experience leading Root Cause analysis of Incidents using Incident Postmortemspp Working knowledge of Cloud IaaS and PaaS Platforms  preferably Microsoft Azure pp Experience designing deploying and managing container orchestration using Kubernetes Certified Kubernetes Administrator preferable pp Experience monitoring container based microservices amp Cloud Platform services pp Use of Continuous Delivery tools  preferably Azure DevOps pp Knowing agile methodology and being able to work by its principals ppnbspppnbspppKwnbspsite reliability engineer software engineering finance oop python go microservices cloud platform services sli slo failure mode analysis incident postmortems cloud iaas paas microsoft azure kubernetes certified kubernetes administrator continuous delivery tools azure devops agile methodologyppnbspp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T20:11:18.000Z"
+  },
+  "company": {
+    "name": "Big A Tech Search",
+    "link": "https://www.linkedin.com/company/big-a-tech-search"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

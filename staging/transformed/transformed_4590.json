@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "If youre ready to innovate and lead in the Digital space join Nikes Global Technology organization We bring together technology and process expertise to deliver onestop solutions that enable Nike Incs digital products and services We are responsible for creating developing and deploying seamless experiences to its Digital consumers Working with our organization will be rewarding ambitious and most definitely not be just another jobbrbrNike is seeking a Senior Site Reliability Engineer to help drive our Core Site Reliability strategic programs and initiatives As a Senior Site Reliability Engineer you will be responsible for continuously driving best practices and consumer experience improvements You will focus on enforcing core operations principles through the development and continuous delivery processesbrbrThis role will be accountable for helping with our AWS cloud infrastructure supporting observability instrumentation and uncovering any gaps for Nike production systems and put in place mitigations to lower the effects of any failures on consumers As an SRE you will establish global observability solutions for InSeason experiences for our demand and supply management teams It will also include building tooling to improve our automatic failure detection and devops focusbrbrSREs perform deep problem analysis detect infrastructure problems versus code defects define and report on scale metrics and incidents and provide long term solutions for reportingbrbrWhat you will work onbrbrWe are looking for talented and passionate full stack developers with knowledge of the datacenter infrastructure and cloud platformsbrbrstronguThe Responsibilities ArebrustrongulliEnsure solutions are designed and developed for largescale highly distributed systemsliliBuilding Continuous Resilience through automation and deployment pipelinesliliGuiding product teams to build systems designed to handle failuresliliIncorporating strategies for full automation autoremediation and comprehensive monitoringliliCollaborate with and consult Architecture Security Privacy and other Nike SWE teamsliliDeliver welldocumented and welltested code and participate in peer code reviewsliliBuild and maintain micro services in Nodejs and JavaliliBuild and maintain reusable components and libraries in JavaScript and JavaliliDevelop and drive real time observability solutions that provide visibility into system healthliliDiagnose and develop fixes to implement quickly and efficiently for production incidentsliliParticipate in a 24x7 oncall rotationliul What you bringbrulli7 years of software development experiencelili3  5 years experience in building cloudbased enterprise systems ideally on AWSliliProficient in Java 8 and newerliliProficient with JavaScript on frontend React Angular etc and backend Nodejs componentsliliProven knowledge of Linux operating system internals TCPIP filesystems diskstorage technologiesliliBasic understanding of DNS Networking VirtualizationliliExperience with Docker andor Serverless patternsliliExpertise in designing and building scalable Micro ServicesliliExpertise in web and webapp patternsliliExpertise in NoSQL datastore systems to build highly scalable solutionsliliExperience with expertise in other modern enterprise languages functional or other  Scala Python Golang etcliliExperience with securing Restful APIs and Apps using OAuth and OpenID Connect and JWTliliGood understanding of asyncnonblocking Restful APIs approaches and frameworksliliExperience within messaging pubsub patternsliliDemonstrated negotiation and influencing skillsliliBasic understanding of most of the following ServiceNow Jira Jenkins Splunk New Relic SignalFx or equivalent Application Performance Monitoring ToolliliBackground with ITIL or Lean a plusliliBachelors degree in Computer Science Engineering IT or a related field MBA a plus Minimum of 7 years of relevant work experienceliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T06:43:56.000Z"
+  },
+  "company": {
+    "name": "Nike",
+    "link": "https://www.linkedin.com/company/nike"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Beaverton",
+    "region": "OR",
+    "postal_code": "97007",
+    "street_address": null,
+    "latitude": 45.486595,
+    "longitude": -122.795616
+  }
+}

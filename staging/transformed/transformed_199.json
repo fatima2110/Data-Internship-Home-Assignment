@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Accounting,Information Technology and Services,Management Consulting",
+    "description": "Deloittes Cloud Machine Learning ML offering combines the power of our Cloud ML and Analytics to accelerate the delivery of value for our clients all using NexGen capabilities Our clients are looking for ways to integrate more automation into business processes and are ready to adopt public cloud to transform their organization We are looking for smart AIML Engineers who have experience in working with largescale data ecosystems including data lake data management governance We are seeking experienced architects and engineers who can apply the latest techniques to help our clients in the integration of structured and unstructured data to generate insights leveraging cloudbased platformsbrbrstrongWork youll dobrbrstrongIn partnership with other leaders in the firm you will focus on understanding requirements designing and deploying leading AIML engineering solutions and as a key member of our engineering practice solve tough problems and ensure success in designing and building complex worldclass applications with automation on public cloudbrulli Engage and consult with clients on foundational Data AI ML Analytics requirementslili Build PoCs with hands on efforts that demonstrate understanding of requirements and knowledge of AIML toolslili Translate POCs into production grade code with appropriate guardrails and reviewslili Design the AIMLpowered Data architecture with the security focus and tools baked in by defaultlili Leverage our deep relationships and partner programs to maintain and enhance our leading edge Data AI ML Analytics and public cloud skills  participate in trusted tester programs and alphabetaslili Assist in developing our AIML community of practice by sharing your knowledge and experience with your peers and apprenticeslili Collaborate with our partners developers and engineers to build repeatable AIML powered cloudnative solutions that accelerate our clients path to valuelili Author or otherwise contribute to AIML customerfacing publications such as podcasts blogs and whitepapersbrliulstrongThe teambrbrstrongCBO Cloud Engineering TeambrbrThe US Cloud Engineering Offering focuses on enabling our clients endtoend journey from OnPremise to Cloud with opportunities in the areas of Cloud Strategy and Op Model Transformation Cloud Development amp Integration Cloud Migration and Cloud Infrastructure amp Managed Services Cloud Engineering supports our clients as they improve agility and resilience and identifies opportunities to reduce IT operations spend through automation by enabling Cloud We accelerate our clients toward a technologydriven future leveraging vendor solutions Deloittedeveloped software products tools and acceleratorsbrbrstronguQualificationsbrustrongulli 6 years of experience as a data engineer with largescale data ecosystems including data lake data management governance and the integration of structured and unstructured data to generate insights leveraging cloudbased platformslili Experience with performing big data transformation and experience or familiarity working with distributed computing such as Sparklili Experience with programming languages Python Scala R Java etclili 5 years of experience with building and deploying MLbased solutions and proficiency in common machine learning frameworks such as TensorFlow Keras scikitlearn Pytorch and ONNXlili Experience with designing building and maintaining productiongrade ML and DL models machine learning workflows and pipelineslili Familiarity with docker containers and Kubernetes orchestrationlili Experience with deploying ML Solutions on AWS  GCP or Azure cloud platforms and exposure to cloud services necessary to build end to end pipelinelili Experience with building and deploying Deep learning solutions in the field of computer vision and Natural Language processinglili Good understanding and experience with MLOPslili Should be able to build distributed scalable and reliable data pipelines that ingest and process data at scale and in realtime to feed machine learning algorithms and pipelineslili Should be able work with an agile team that includes members with crossfunctional skillslili Experience with dashboard tools such as Tableau or Power BI to visualize model results and evaluatelili Good understanding and experience building reusable design patternslili Good understanding and knowledge of DevOps pipelines and IaC technologies such as Terraformlili Excellent listening interpersonal written and oral communication skillslili Skilled at working within a teamoriented collaborative environmentbrliulRequiredbrbr68 Years of experiencebrbrBachelors degree in Computer Science Mathematics related technical field or equivalent practical experiencebrbrTravel up to 50 While 50 of travel is a requirement of the role due to COVID19 nonessential travel has been suspended until further noticebrbrLimited immigration sponsorship may be availablebrbrstronguHow Youll GrowbrbrustrongAt Deloitte our professional development plan focuses on helping people at every level of their career to identify and use their strengths to do their best work every day From entrylevel employees to senior leaders we believe theres always room to learn We offer opportunities to help sharpen skills in addition to handson experience in the global fastchanging business world From onthejob learning experiences to formal development programs at Deloitte University our professionals have a variety of opportunities to continue to grow throughout their career Explore Deloitte University The Leadership Center",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-10T06:08:44.000Z"
+  },
+  "company": {
+    "name": "Deloitte",
+    "link": "https://www.linkedin.com/company/deloitte"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "McLean",
+    "region": "VA",
+    "postal_code": "22101",
+    "street_address": null,
+    "latitude": 38.93759,
+    "longitude": -77.18378
+  }
+}

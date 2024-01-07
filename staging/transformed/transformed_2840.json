@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist, Operations Decision Science",
+    "industry": "Airlines/Aviation,Information Technology and Services,Computer Software",
+    "description": "The Operations Analysis amp Performance OAP team at Delta provides analytical support across all major operations areas of the company OAPs newly formed decision science team seeks a data science analytics leader to take on developing insights models and solutions aimed at continually improving airline performance and decision makingbrbrAn appropriate candidate will have a proven experience in data model building optimization machine learning techniques and other analytics solution building The candidate should have excellent organizational and communication skills and feel comfortable in a fastpaced environment The role will support the delivery of an analytics transformation at Delta Air LinesbrbrstronguPrimary FunctionsbrustrongulliIdentify and develop highimpact insights and data modelsliliDevelop optimization solutions for complex business problems large network based environmentliliInspire and execute data analytics transformation at Delta Air LinesliliPartner with Information Technology to optimize and enhance the database environment for optimal efficiency and best practicesliliProvide technical leadership to the Deltas business unitsliliLeverage emerging technologies and identify efficient and meaningful ways to disseminate data and analysis in order to satisfy the business needsliliMentor junior members in technical proficiency and business acumenliliLead complex process improvement and project management engagements for both individual business units and crossdivisional initiativesliliInterface with business unit leaders to develop and maintain internal customer relationshipsliliPractices safetyconscious environment resulting in employee safety and wellbeingliululliEmbraces diverse people thinking and stylesliliConsistently makes safety and security of self and others the priorityliliWhere permitted by applicable law must have received or be willing to receive the COVID19 vaccine by date of hire to be considered for USbased job if not currently employed by Delta Air Lines Inc liliProficiency in working with relational databases and query authoring SQLliliProficiency in Data Model building Python R SAS and other machine learning platformliliProficiency in deep learning techniqueplatformliululliBachelors degree in Data Science Statistics Mathematics Operations Research Computer Science or equivalent combination of education and experience PH D or Masters degree preferredliliWorking knowledge of API Consumption preferredliliWorking knowledge of simulation experience preferredliliStrong written oral communication and interpersonal skillsliliStrong project management organizational and prioritizations skillsbrbrliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T22:11:00.000Z"
+  },
+  "company": {
+    "name": "Delta Air Lines",
+    "link": "https://www.linkedin.com/company/delta-air-lines"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 83200,
+    "max_value": 181600,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

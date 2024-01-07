@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "pstrongemuData Scientist uemstrongstrongu Atlanta GA or New York NY NYCustrong p  pstrongnbspstrong p  pstrongIf you are a strongstrongData Scientiststrongstrong with natural curiosity and a passion for solving difficult problems we want to talk to youstrong p  pnbsp p  pWe are a team of AItechnology and data analytics experts who deliver model portfolios powered by predictive analytics for the wealth management industry Our research and portfolio simulation platform has been designed from the ground up to integrate alternative data with predictive analytics and deliver to asset managers investment products powered by machine learning p  pnbsp p  pWe are growing and are looking for talented Data Scientists to help us transform a wide array of alternative datasets into predictive signals so that we can expand our AIbased investment offerings with new exciting products You will be working closely with our Quants and AI experts and your work will be focused on automating the ingestion empirical validation via backtesting and paper trading simulation feature engineering and deep statistical analysis of the datas predictive value for certain investment objectives p  pnbsp p  pOur companys goal is to become the fastestgrowing asset manager worldwide This is your opportunity to join a team of experts that will bring to market the next generation of algorithmically traded investments p    pbr ppbr p  pstrongemuData Scientist uemstrongstrongu Atlanta GAustrong p  pPosition Type  Fulltime Data Scientist in Atlanta GA or New York NY Manhattan p  pnbsp p  pNeuravest is seeking to expand our data science team The successful candidate will join the research and development team which oversees the onboarding of exciting and predictive new data sources You will be tasked with identifying validating and deploying to production large data sets from our data vendors The overarching goal of your role is to convert raw data into actionable signals Your work will allow our Quants team to integrate signals into our cloudbased financial decisionsupport system so that we can deliver new investment products to our institutional wealthmanagement clients  p  pnbsp p  pCandidates must have proven experience validating data for predictive measures This includes but is not limited to paneling normalizing feature engineering deseasoning and ranking features  Neuravest places a premium on rigorous model validation experience and knowledge The ideal candidate will also have experience working with large realworld financial data sets and will be knowledgeable about financial mathematics theory and investments  p  pnbsp p  pWe are a technologydriven organization and our products and workflow reflect this  The ideal candidate should be comfortable working in a modern distributed software and hardware architecture and should have a strong understanding of the software development lifecycle SDLC including requirements analysis technical design scoping estimating and implementing In addition the candidate should be comfortable with the analytic model development and validation lifecycle Strong overall communication and documentation skills are required and the ideal applicant would be able to participate in both technical and nontechnical customerfacing discussions We are looking for individuals who are highly motivated able to selfmanage and who enjoy working collaboratively in a team environment p    punbspu pu  upstronguJOB REQUIREMENTSu strongp  p3 years experience validating data sets p  p3 years experience in feature engineering p  p3 years experience developing in Python using common python data libraries such as p  pPandas NumPy SciPy TensorFlow PyTorch Keras and other Python statistical libraries p  pKnowledge of portfolio models financial economics and timeseries analysis p  pDatabase fluency SQL and NOSQL databases and experience in fullstack databasedriven web application development p  pExperience with collaborative development tools such as git p  pBachelors degree Masters preferred or higher in Data Science Finance Statistics or AI or related disciplines p  pnbsp p  pstrongA big plusstrong p  pExperience with distributed computing DASK SPARK p  pExperience with Amazon Web Services EC2 S3 RDS Redshift p  pExperience with REST and MVC Frameworks p  pnbsp p  pUnix system administration and configuration background p  pExperience developing financial applications p  pnbsp p  pstrongCompensation strongCommensurate with experience and skill level p  pnbsp p  pIf you are interested in pursuing this opportunity please email your resume to jobsneuravestnetp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T17:39:03.000Z"
+  },
+  "company": {
+    "name": "Neuravest Research, Inc.",
+    "link": "https://www.linkedin.com/company/neuravest-research"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Buckhead",
+    "region": "GA",
+    "postal_code": "30625",
+    "street_address": null,
+    "latitude": 33.568752,
+    "longitude": -83.362305
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist - REMOTE",
+    "industry": "",
+    "description": "pEight Sleep is looking for a mobilefocused Data Scientist to help launch a new business intelligence effort This role will largely focus on data pipeline and data warehouse issues while also supporting advances in customer lifecycle marketing business intelligence platform customer lifetime value customer segmentation user flow onsite creative analysis AB testing etc ppstrongbrstrong ppstrongHow youll contributestrong pulliUse data exploration techniques to discover new correlations in sleep and wearable data liliDesign and implement algorithms that power our sleep intelligence impact the life of our customers every day liliContribute to product decisions by providing context via data and metrics analysis liulpstrongbrstrong ppstrongWhat youll need to succeed strongpulli3 years of handson experience with data science or analytics in a business context lili2 years of experience working with Python in a production environment lili2 years of SQL experience liliMachine Learning and statistical modeling experience preferred liulpstrongbrstrong ppstrongWhy youll love Eight strongpulliWere a tightknit passionate team thats working to improve peoples lives by improving the way they sleep liliLeadership is committed to employees wellness and career development liliYoull get a better night sleep every night all fulltime employees receive the Pod liliFlexible generous PTO lili100 employer contribution for medicaldentalvision insurance liulpbr ppAt Eight Sleep we continually celebrate the diverse community different individuals cultivate As an equal opportunity employer we stay true to our values by ensuring everyone feels they can flourish and grow We are committed to equal employment opportunity regardless of race color ancestry religion sex national origin sexual orientation age citizenship marital status disability gender identity or Veteran statusp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T14:10:54.000Z"
+  },
+  "company": {
+    "name": "Eight Sleep",
+    "link": "https://www.linkedin.com/company/eight--"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

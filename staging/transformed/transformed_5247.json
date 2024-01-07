@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer, Telephony",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brJoin Apples Wireless Software Engineer eSIM team and drive innovation that matters We have shipped eSIM features in iPads cellular watch and iPhone We build and seamlessly integrate technologies that enrich peoples lives and deliver the absolute best userexperience If you are passionate about writing code and would be interested in developing eSIM features for Apples Cellular Products then we may have the job for you The Wireless Technologies team is looking for a strong programmer to join our growing eSIM teambrbr brstrongKey Qualificationsbrstrong br2 years of experience developing software in CC brbrDevelopment experience with embedded systems brbrProven experience in writing software for multithreaded environmentsbrbrDevelopment experience of Telephony features for consumer products a plusbrbrThrive in a collaborative environment and can clearly connect with multifunctional teamsbrbrHardworking and inquisitive and seek to tackle everyday problems in innovative waysbrbrLaserfocused on the smallest details that are meaningful to our customersbrbrYou are upbeat adaptable and results oriented with a positive attitudebrbrYou will join a handson development team that fosters creativity and generates novel solutions to deliver engineering perfectionbrbr brstrongDescriptionbrstrong brWorking as a part of an extraordinary development team we are searching for a highly motivated software developer In this position you will have the opportunity to develop exciting features for Apples next generation products You work will involve telephony SIM and protocol software Your contributions will make a clear difference towards future iOS productsbrbr brstrongEducation amp Experiencebrstrong brBachelors degree in Computer Engineering Computer Science or equivalent experiencebrbr brstrongAdditional Requirementsbrstrong brExperience crafting security solutions and designing quality modular software Experience in embedded software engineering Experience with developing JavaCard applets for JavaCard OS or related software development experience for security productsbrbr brRole Number 200237762brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:29:10.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 118000,
+    "max_value": 200000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

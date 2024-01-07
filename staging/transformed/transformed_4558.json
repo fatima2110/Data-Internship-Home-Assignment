@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software,Defense &amp; Space",
+    "description": "pstrongOverviewstrongppSoftware engineer shall support a distributed system providing various PlatformasaService PaaS features to a diverse customer set The PaaS system shall support several applications as standalone instances or configured with several supporting componentsnbspppbrppstrongQualificationsstrongppMasters degree in Computer Science or related discipline from an accredited college or university plus five 5 years of experience as a SWE in programs and contracts of similar scope type and complexityppORppBachelors degree in Computer Science or related discipline from an accredited college or university plus seven 7 years of experience as a SWE in programs and contracts of similar scope type and complexityppORppNine 9 years of experience as a SWE in programs and contracts of similar scope type and complexityppANDppUS CitizenshipppANDppTS SCI wFS PolyppbrppstrongTask Required SkillsstrongpulliExperience using the Unix command lineliliExperience writing scripts using BashliliBasic understanding of Source Control Systems specifically GitliliExperience with CICD principles and methodologiesliliFamiliarity with Ruby and the Rails FrameworkliliFamiliarity with Javascript specifically NodejsliliGeneral SQL database knowledge preferably PostgresliliExperience with GitLab CICD and pipelinesliulpbrppstrongTask Desired SkillsstrongpulliExperience with containerization technologies such as DockerliliExperience with container orchestration technologies such as Kubernetes OpenShift and HelmliliExperience with inmemory data structure stores such as RedisliliDemonstrated domain knowledge in distributed systems cloudbased technologiesliliDemonstrated understanding of the core software development lifecycleliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T00:01:51.000Z"
+  },
+  "company": {
+    "name": "Wrench",
+    "link": "https://www.linkedin.com/company/wrench-io"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 108,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Annapolis Junction",
+    "region": "MD",
+    "postal_code": "20701",
+    "street_address": null,
+    "latitude": 39.121826,
+    "longitude": -76.78431
+  }
+}

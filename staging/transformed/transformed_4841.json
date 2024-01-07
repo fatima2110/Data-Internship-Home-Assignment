@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist.",
+    "industry": "Information Technology and Services,Banking,Financial Services",
+    "description": "strongMake banking a Fifth Third betterbrbrstrongWe connect great people to great opportunities Are you ready to take the next step Discover a career in banking at Fifth Third BankbrbrstronguGeneral FunctionbrbrustrongThe Data Scientist will perform data analysis statistical analysis and develop algorithms and methodologies on structured and unstructured data for ondemand and softwareembedded use Manage key analyses to drive more profitable business decisions Focus on providing valueadded analysis and recommendations to support business growthbrbrResponsible and accountable for risk by openly exchanging ideas and opinions elevating concerns and personally following policies and procedures as defined Accountable for always doing the right thing for customers and colleagues and ensures that actions and behaviors drive a positive customer experience While operating within the Banks risk appetite achieves results by consistently identifying assessing managing monitoring and reporting risks of all typesbrbrstronguEssential Duties And ResponsibilitiesbrustrongulliBuild large and complex information sets Integrates and extracts relevant information from large amounts of both structured and unstructured data internal and external to enable analytical solutionsliliConducts advanced analytics leveraging predictive modeling machine learning simulation optimization and other techniques to deliver insights or develop analytical solutions to achieve business objectivesliliDevelop and manage and develop analyses and algorithms that generate actionable insights and programs to improve longterm revenue and relevanceliliPartner with key stakeholders to understand the underlying needs of the business and formulate communicate and create buyin for analytics approaches and solutionsliliEffective communicate and translate business strategy and goals into manageable problems with welldefined measurable objectives and outcomesliliTransform formulated problems into implementations plans for experiments by developing data sources applyingcreating the appropriate methods algorithms and tools as well as delivering statistically valid and reliable resultsliliAd hoc reporting and analytics to support requests from the Banks various lines of businessliliProvides input into the creation of detailed project plans work assignments target dates and other aspects of assigned projectsbrliulstronguMinimum Knowledge Skills And Abilities RequiredbrustrongulliBachelors degree in Statistics Economics Analytics Mathematics Computer Science Information Technology or related field Advanced degrees preferred but not requiredliliTypically requires minimum of 45 years work experienceliliDatabase and analytical experience requiredliliExcellent written and oral communications skillsliliAbility to effectively manage timeliliIndependent and highly selfmotivatedliliAbility to communicate effectivelyliliStrong PC skills including Microsoft Office Word Excel Access PowerPointliulData ScientistLOCATION  Cincinnati Ohio 45202brbrFifth Third Bank National Association is proud to have an engaged and inclusive culture and to promote and ensure equal employment opportunity in all employment decisions regardless of race color gender national origin religion age disability sexual orientation gender identity military status veteran status or any other legally protected status",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T12:40:18.000Z"
+  },
+  "company": {
+    "name": "Fifth Third Bank",
+    "link": "https://www.linkedin.com/company/fifth-third-bank"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cincinnati",
+    "region": "OH",
+    "postal_code": "45241",
+    "street_address": null,
+    "latitude": 39.1037,
+    "longitude": -84.51361
+  }
+}

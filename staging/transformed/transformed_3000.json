@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability/Dev Ops Engineer",
+    "industry": "Information Technology and Services",
+    "description": "Designs develops troubleshoots and debugs software programs for software enhancements and new products Develops software including operating systems compilers routers networks utilities databases and Internetrelated tools Determines hardware compatibility andor influences hardware designbrbrstronguResponsibilitiesbrustrongulliCodes and programs enhancements updates and changes for portions and subsystems of systems software including operating systems compliers networking utilities databases and Internetrelated toolsliliExecutes established test plans and protocols for assigned portions of code identifies logs and debugs assigned issuesliliDevelops understanding of and relationship with internal and outsourced development partners on software systems design and developmentliliParticipates as a member of project team of other software systems engineers and internal and outsourced development partners to develop reliable cost effective and high quality solutions for low to moderately complex productsbrliulstronguEducation And Experience RequiredbrustrongulliBachelors or Masters degree in Computer Science Information Systems or equivalentliliTypically 02 years experiencebrliulstronguKnowledge And SkillsbrustrongulliExperience or understanding of software systems design tools and languagesliliGood analytical and problem solving skillsliliUnderstanding of design for software systems running on multiple platform typesliliUnderstanding of basic testing coding and debugging proceduresliliGood written and verbal communication skills mastery in English and local languagebrliul1090752brbrHPE is an equal opportunity employerFemaleMinorityIndividual with DisabilitiesProtected Veteran Status",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Hewlett Packard Enterprise",
+    "link": "https://www.linkedin.com/company/hewlett-packard-enterprise"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "no requirements",
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Roseville",
+    "region": "CA",
+    "postal_code": "95747",
+    "street_address": null,
+    "latitude": 38.74806,
+    "longitude": -121.2852
+  }
+}

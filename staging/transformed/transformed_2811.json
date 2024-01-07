@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Computer &amp; Network Security",
+    "description": "stronguCompany OverviewbrbrustrongVectra delivers a new class of realtime threat detection and advanced analysis of active breaches Vectra picks up where perimeter security leaves off using AI to provide deep continuous analysis of both internal and Internetfacing network activity for all phases of the attack progression as attackers attempt to breach spy spread and stealbrbrVectra directly analyzes network traffic and other relevant data sources in realtime using a combination of patented data science machine learning and behavioral analysis We detect attacker behaviors and user anomalies within our customers ecosystems provide clear prioritization and include relevant context so that our users can quickly and easily identify active attacksbrbrFor more details see httpswwwvectraaiproductshowwedoitbrbrPosition OverviewbrbrSite Reliability Engineers are critical when it comes to keeping both our customers and engineering team running As part of the Cloud Platform group you will be building the software to help with operations and support helping to fix support escalation issues and ultimately crucial for the continuous improvement of people processes and technology within our organizationbrbrstronguResponsibilitiesbrbrustrongSite Reliability Engineers will have a variety of responsibilities which may include things likebrul liOwning cloud production environments by monitoring availability and taking a holistic view of system healthli liDesigning and developing tools to manage the platform infrastructure and applicationsli liImproving reliability stability performance and security of the overall systemli liMeasuring and optimizing performance identify and resolve bottlenecksli liMeasuring identifying and applying the best costeffective solutions within AWSli liProviding operational support and engineering for Vectra products and teamsli liInfluencing platform architecture decisionsli liAutomating automating automatingli brbrulstronguQualificationsbrustrongul liRequiredbrul liRelevant Bachelors degree Computer Science Engineering etc or equivalent experienceli li3 years of handson DevOps or operations experience on cloud production systemsli liUnderstanding of main SRE concepts eg SLI SLO chaos engineering blast radius etcli liStrong knowledge of networkingli liZealous about productionli liComfort in dealing with cloud deployments and security best practicesli liLinux system proficiencyli ul li liPreferredbrul liStrong containerserverless experience including Kubernetesli liCICD Pipeline experience  Gitlab Jenkins etcli liProficient knowledge of Python languageli liHands on experience on Amazon Web Services AWSli liHashicorp ecosystem experience  Terraform Packer Consul Vaultli liExperience with telemetry toolspipelines metrics logs and traces with technologies like Open Telemetryli liBelief in DevOps and Agile principlesliulliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T05:05:06.000Z"
+  },
+  "company": {
+    "name": "Vectra AI",
+    "link": "https://www.linkedin.com/company/vectra_ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

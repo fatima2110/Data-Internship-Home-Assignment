@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Front-End Software Engineer (Open to Remote)",
+    "industry": "Information Technology and Services,Computer Software,Hospital &amp; Health Care",
+    "description": "stronguDescriptionbrbrustrongOlives AI workforce is built to fix our broken healthcare system by addressing healthcares most burdensome issues  delivering hospitals and health systems increased revenue reduced costs and increased capacity People feel lost in the system today and healthcare employees are essentially working in the dark due to outdated technology that creates a lack of shared knowledge and siloed data Olive is designed to drive connections shining a new light on the broken healthcare processes that stand between providers and patient care She uses AI to reveal lifechanging insights that make healthcare more efficient affordable and effective Olives vision is to unleash a trillion dollars of hidden potential within healthcare by connecting its disconnected systems Olive is improving healthcare operations today so everyone can benefit from a healthier industry tomorrowbrbrOlive is made possible by a technology platform which makes bot training repeatable and fast Software Engineers work with the Olive Product Management team to deliver features utilized by automation teams to improve their ability to train Olive fast and reliably Our team gives Software Engineers the ability to own independent smalltomedium features all the way from technical design to launch A successful Software Engineer will possess strong analytical as well as technical skills and have the ability to communicate the logic behind technical decisions to nontechnical stakeholdersbrbrstronguResponsibilities to Include But Not Limited Tobrustrongul liCollaborate with Engineers and Product Managers to design and implement featuresli liAbility to meet deadlines and satisfy requirements from other Engineers and Product Managementli liPeer review and code review participation to provide valuable feedback during every step of the development processli liQuickly produce wellorganized optimized and documented codeli liCommunicate effectively and efficiently across all divisions including with the business technical teams and leadersli liTake technical ownership of tasks and successfully work independentlyli liDemonstrate the ability to become a domain expert in projectsli liMentor and lead junior engineers on multiple tasks or projectsli brbrulstronguRequirementsbrustrongul liBachelors in Computer Science Computer Engineering or relevant equivalent experienceli li4 years of handson frontend programming experienceli liDeep understanding of Reactjs JavaScript Redux HTML CSS and other frontend technologiesli liKnowledge of Webpack Babel StoryBook Jest or Mocha are nice to haveli liHistory of designing and delivering software solutions for real world problemsli liExperienced in the development of highly maintainable and reliable code using practices such as unit testing integration testing proper code documentation and appropriate loggingli liStrong communication critical thinking and problem solving skills li liKnowledge of software and application design and architectureli liExperience writing and reviewing detailed Technical Design Documents TDDs is a plusli brbrulAt Olive were committed to growing and empowering an inclusive community within our company and industry This is why we hire and cultivate diverse teams of the best and brightest from all backgrounds experiences and perspectives across our organization Research shows that oftentimes women and other minority groups only apply to open roles if they meet 100 of the listed criteria Olive encourages everyone  including women people of color individuals with disabilities and those in the LGBTQIA community  to apply for our available positions even if they dont necessarily check every box on the job descriptionbrbrstronguDisclaimerbrbrustrongemThis job description is not designed to cover or contain a comprehensive listing of activities duties or responsibilities that are required of the employee Duties responsibilities and activities may change or new ones may be assignedbrbrememThis job description does not constitute a contract of employment and Olive AI Inc may exercise its employmentatwill rights at any timeem",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T00:16:33.000Z"
+  },
+  "company": {
+    "name": "Olive",
+    "link": "https://www.linkedin.com/company/oliveai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 55800,
+    "max_value": 121200,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Orlando",
+    "region": "FL",
+    "postal_code": "32889",
+    "street_address": null,
+    "latitude": 28.53833,
+    "longitude": -81.378876
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Telecommunications",
+    "description": "FES Further Enterprise Solutions wwwfurtherllccom a leading provider of engineering services turnkey solutions and software solutions Founded in 2002 by wireless industry veterans FES has rapidly grown to become a leading provider of innovative solutions to leading telecommunications providers and equipment manufacturers FES is headquartered in Philadelphia PA with branch offices through the US and Canada to ensure a rapid response and face to face contact with our clients and staffbrbrThe Senior SRE is a software engineer responsible for ensuring that Ads platform services are designed implemented deployed and operated such that they are highly available highly performing and scalablebrbrA Site Reliability Engineer typically selfidentifies as a hacker who uses his ability as a jack of all trades to bring to bear some deeper knowledge thats closer to his interestsbrbrThe ideal candidate has deep knowledge and strong interest in software defined networking and routing Linux system administration and approaches it from the perspective of a software engineer Challenges of globally distributed services deciding what and when state should be shared and simulating failure scenarios should drive youbrbrRelevant industry experience is important but ultimately less so than your demonstrated abilities and attitudebrbrResponsibilitiesbrulliCoarchitect new services including failure tolerance and selfhealing bydesign as well as establishing clear scalingout pathsliliEvaluating and benchmarking new solutions establishing capacity and growth plansliliImplementing deployment and configuration strategies for new services including provisioning resources and goliveliliAdministration of services whether built inhouse or from external vendorsliliContinuous optimization of services on all layers hardware software for high performanceliliContinuous improvement of internal services for ease of packaging configuration and deploymentliliMonitoring of all critical services sharing pager duty troubleshooting and addressing problems as they arise including any needed changes in code topology resources or configurationliliBackupDR implementation plans documentation and exercisesliliCoown technical relationships with several service providers and vendorsbrbrliulstronguRequired Skills AndOr ExperiencebrustrongulliStrong expertise administrating and scaling Kubernetes on bare metal and CKA preferredliliExperience with Service meshesliliStrong understanding of distributed systems and client server architecturesliliExperience working in a micro services environmentliliFull competency in at least 1 supporting language Bash SQL PythonliliStrong Linux system administration and troubleshooting skills including strong knowledge of how the various components work kernel CPU memory disk networkliliFamiliarity with configuration management systemsliliFamiliarity with distributed multidatacenter 247 web systemsbrliulPowered by JazzHRbrbrv9A73xhrxx",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-10T19:07:42.000Z"
+  },
+  "company": {
+    "name": "Further Enterprise Solutions (FES)",
+    "link": "https://www.linkedin.com/company/fes--further-enterprise-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

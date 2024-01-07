@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Back-End Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "pWe are looking for a Senior Software Engineer with exceptional computer science fundamentals to help scale our platform and take us to the next level If you love high frequency high throughput and low latency applications then take a look at thisppbrppstronguWho are weustrongppWe are a fullscale digital advertising marketplace that offers our clients end to end solutions through our platform to drive ROIppbrppstronguWhat is the jobustrongppOur core exchange team currently consists of 5 software engineers As the newest senior member of this team you will help us solve our most challenging problems as our business and platform scalesppbrppOur platform handles 20 billion requests per day and is the crown jewel of the organization Built entirely with proprietary technology it is time to take things to the next level The exchange is high traffic and high throughput Scale speed and stability are core challenges we faceppbrppYou will work together with other members of the team to ensure we grow and scale while also saving time You will build out new functionality while keeping things stableppbrppstronguWho are youustrongppYou are an exceptional software engineer who understands computer science fundamentals through and through Simply put you know how to build software rightppbrppstrongOur exchange technology is proprietary and we look for strong candidates with the followingstrongpp Expertise in one or more backend languages C Java etcpp High Frequency High Throughput low latency application development experiencepp Scalability speed and stabilitypp Strong understanding of Algorithms and Data Structurespp Expertise in Relational Databasespp System developmentpp Strong problem solving and the ability to understand and learn an unknown systempp AdTech experience is a Major Pluspp Experience with Traffic Shaping is a plusppbrppstronguWhat is in it for youustrongppThis is an opportunity to take your technical career to the next level You will join and disruptive organization that is operating at serious scale We offer a highly competitive compensation and benefits package that includesppbrpp Base Salary DOE  eligibility for annual discretionary bonuspp Medical Dental Visionpp 401kpp Flexible Time Off we take wellbeing and work life balance very seriouslypp Fully remote work environmentpp Too many other perks to listppbrppIf this sounds interesting please apply today for immediate considerationp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:45:41.000Z"
+  },
+  "company": {
+    "name": "Averity",
+    "link": "https://www.linkedin.com/company/averity"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York City Metropolitan Area",
+    "region": null,
+    "postal_code": "10021",
+    "street_address": null,
+    "latitude": 40.748295,
+    "longitude": -73.98556
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Scientist-NLP",
+    "industry": "Food &amp; Beverages,Information Technology and Services",
+    "description": "pOur client is a household name dedicated to making an impact on their customer base This global firm is looking a Senior Data Scientist to work in their fastpaced environment and completely transform the customer experience ppbrppYou will leverage your strong collaboration skills and ability to extract valuable insights from highly complex data sets to ask the right questions and find the right answersnbspYou will focus on using stateofthe art Machine Learning and AI toolsppbrppstrongResponsibilitiesstrongppbrpulliPlay a crucial role in delivering advanced technology solutions that addresses realworld datadriven needsliliDesign and developnbsppipelines reportsnbspdashboards and framework that monitornbspand analyzenbspperformance of the AI Voice AgentsliliEmploy advanced statistical modeling to analyze large data setsnbspcreatenbspdashboardsnbspandnbspderive insightsnbspto guide key businessnbspproductnbspand engineeringnbspdecisionsliulpbrppppstrongSkillsstrongppbrpulliBS in Computer SciencenbspMathematics Statisticsnbspor a related quantitative disciplinelili5nbspyears of experience in data science or analytics using Python and SQL and working with big dataliliExcellent analytical skills along with ability to solve business problems and apply innovative though leadershipliulpbrppstrongCompensationstrongnbspStrong Package Bonus equity and Benefitsp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:18:42.000Z"
+  },
+  "company": {
+    "name": "Intelletec",
+    "link": "https://www.linkedin.com/company/intelletec-ltd"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

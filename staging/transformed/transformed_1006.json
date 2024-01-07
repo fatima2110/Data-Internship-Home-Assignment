@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data / Data Lake Engineer",
+    "industry": "",
+    "description": "brpRequired ExperienceppbrppInfrastructure on the data side experienceppbrppSoftware design Data ExposureppbrppData lake build experienceppbrppLoad capacity testingppbrppData Lake environmentsppbrppMake best practice decisions on use of best Data practices such as NoSQLMySQL streaming mediaNot streaming media Need resource to help give them the structure we needppbrppApache SparkppbrppSQLppbrppMongo DBppbrppSpeak to configuration of environments Best use for Builds from and architectural perspectiveppbrppNice to HavesppbrppDelta Lakep",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-20T02:45:38.000Z"
+  },
+  "company": {
+    "name": "Techmatic Inc",
+    "link": "https://www.linkedin.com/company/techmatic-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

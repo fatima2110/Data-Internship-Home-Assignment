@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Entertainment",
+    "description": "WarnerMedia is a leading media and entertainment company that creates and distributes premium and popular content from a diverse array of talented storytellers and journalists to global audiences through its consumer brands including HBO HBO Max Warner Bros TNT TBS truTV CNN DC Entertainment New Line Cartoon Network Adult Swim Turner Classic Movies and othersbrbrWB Technology combines Warner Bros industryleading technologists and disciplines to ensure global alignment with business strategy and accelerated delivery of innovative technology solutions studio and industrywide From preproduction through archiving the WBT organization will provide critical business and technology intelligence and services to all Studio business units WBT manages the Studios enterprise systems and solutions emerging platforms information security consumer intelligence content mastering and delivery and morebrbrstrongThe JobbrbrstrongWarnerMedia seeks a Data Scientist for the Digital Product Platform amp Strategy Data Intelligence Operations department We are looking for a talented data scientist to join our Data Intelligence Team The data scientist will be responsible for predictive modeling and analysis of customer data as well as researching best practices in analytics and data science and sharing them across the company to improve analytic capabilities at Warner BrosbrbrstrongThe DailybrstrongulliAnalyze and model internal customer dataliliBuild relationships and collaborate with analysts and researchers across WBliliProduce statistical and machine learning models that inform how we communicate with our customersliliDrive improvement in our methodologies systems and processesliliProvide analysis reporting and modeling to internal organizations based on customer dataliliPrepare and present results of analyses to leadershipbrliulstronguThe EssentialsbrustrongulliBABS degree in Statistics Mathematics Computer Science Economics Political Science or similar quantitative fieldliliQuantitative oriented Masters Degree or PhD preferredliliMinimum of 12 years of experience in analytics and data sciencelili1 years of experience with conducting analysis in R Python SAS or similar analytical languagesliliExperience with relational databases and SQLliliExperience with working in cloud based environments like AWS a plusliliExpertise in machine learning and predictive modeling approaches such as Random Forest GBM xgBoost neural networksdeep learning etcliliSkilled researcher able to distill large bodies of research to key findings and explain them to varied audiencesliliExperience developing testing plans for evaluating campaigns or changes to productsliliKnowledge of basic survey design and analysisliliStrong history of identifying opportunities for developing predictive models to meet business needsliliLove of TV Movies Games and Comics is a PlusliliMust be able to communicate effectively and tactfully with all levels of personnel both in person and on the telephoneliliMust be able to pay close attention to complex detail and understand written and oral instructionsliliMust be able to organize and schedule work effectivelyliliMust be able to work well under time constraintsliliMust be able to handle multiple tasks with changing priorities communicating changes in scope and schedule to all parties concernedliliMust be able to work independentlyliliMust be able to maintain confidentialitybrliulWarner Media LLC and its subsidiaries are equal opportunity employers Qualified candidates will receive consideration for employment without regard to race color religion national origin gender sexual orientation gender identity or expression age mental or physical disability and genetic information marital status citizenship status military status protected veteran status or any other category protected by law",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T16:36:54.000Z"
+  },
+  "company": {
+    "name": "WarnerMedia",
+    "link": "https://www.linkedin.com/company/warnermedia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 89200,
+    "max_value": 133000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Burbank",
+    "region": "CA",
+    "postal_code": "91504",
+    "street_address": null,
+    "latitude": 34.182053,
+    "longitude": -118.30747
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "pstrongemLocal Seattle Area Candidates Only PleaseemstrongppbrppstrongThe digital nexus where ESG and price signals mergestrongppstrongXpansiv is the global market for ESG Environmental Social and Governanceinclusive commodities These Intelligent Commodities bring transparency to markets empowering participants to value energy carbon and water to meet the challenges of an informationrich resourceconstrained worldstrongppbrppstrongWere the marketplace for an everexpanding ecosystem of proven environmental commodities like RECs Renewable Energy Certificates offsets and differentiated fuels We connect buyers and sellers of Intelligent Commodities in a global liquidity hub that accelerates the transition to a netzero futurestrongppbrppstrongJob DescriptionstrongppstrongAs a Site Reliability Engineer you will design implement and support our core infrastructure The SRE team is responsible for reliability scalability and automation while keeping an eye on latencynbspsecurity performance and capacity You will also mentor share knowledge and guide technical decisions toward longterm success As a key hire on a growing engineering team youll have a deep impact on engineering practices and culture As an SRE you willstrongppbrpullistrongDeploy and maintain our infrastructure and improve the process to make it as boring as possiblestronglilistrongDocument every action into repeatable actionsnbspnbspand then automationstronglilistrongDebug production issues across all services and levels of the stackstronglilistrongOwn maintain and continuously improve all systems provided as a service such as monitoring and datastoresstronglilistrongResearch and implement changes to increase reliability and operate more efficientlystrongliulpbrppstrongWho Were Looking ForstrongpullistrongSomeone with intense curiosity and humilitystronglilistrongSomeone who can get challenging projects across the finish linestronglilistrongSomeone who is empathetic patient and passionate about helping teammates growstronglilistrongSomeone who is collaborative and who can influence diverse engineering teamsstronglilistrongSomeone with experience running applications in productionstronglilistrongSomeone who takes engineering best practices seriously who cares about reliability and enduser trust and who will advocate for all of these thingsstrongliulpbrppstrongTechnical RequirementsstrongpullistrongFluency in a programming language We use Python and Bash where possiblestronglilistrongFamiliarity with commandline LinuxstronglilistrongFamiliarity with version control We use gitstronglilistrongFamiliarity with some form of infrastructure as code We use Terraform where possiblestronglilistrongFamiliarity and comfort with at least one cloud provider We use AWS where possiblestronglilistrongThree years of experience in some combination of software engineering systems administration backend automation testing automation data engineering or similar work This should include operational responsibility for businesscritical systems in a collaborative environmentstrongliulpbrppstrongBonus PointsstrongpullistrongSix ten or more years of experience in a diverse range of environments and architecturesstronglilistrongStrong fluency in Python and experience writing softwarestronglilistrongStrong fluency in Linux and experience with mediumtolarge scale environmentsstronglilistrongFamiliarity with running systems with a microservice architecturestronglilistrongFamiliarity with data persistence technologies for example Elastisearch Kafka or RedisstrongliulpbrppstrongWe encourage you to apply if this role excites younbspnbspWe are always looking for outstanding individuals with diverse backgrounds and perspectives who embody trust transparency collaboration and a cando attitude Were excited to meet youstrongp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-15T15:32:38.000Z"
+  },
+  "company": {
+    "name": "Xpansiv",
+    "link": "https://www.linkedin.com/company/xpansiv-data-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

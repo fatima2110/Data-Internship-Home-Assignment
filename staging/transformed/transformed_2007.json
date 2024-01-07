@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Color Management Software Engineer",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brThe Display and Color Technologies organization in Apples Interactive Media Group is at the core of designing and implementing solutions for rendering visual media and enhancing visual experience Examples of technologies that weve developed include High Dynamic Range Video and Images Media Composition and Pro Color features such as Display PresetsbrbrbrWe are looking for candidates with strong engineering and mathematical intuition who are excited to solve new problems working with a team from product conception to building production quality softwarebrbr brstrongKey Qualificationsbrstrong brSoftware development skills in C C or equivalent languagesbrbrSoftware debugging and optimization skillsbrbrComfort with describing problems using mathematicsbrbrInterest in visual media technologies such as high dynamic range and wide colorbrbr Interest in building algorithms amp prototypes and constructing visually compelling demosbrbr brstrongDescriptionbrstrong brIn your role as a color management software engineer you will be responsible for developing software that renders visual media and performs display color managementbrbrbrYour responsibilities will include working with GPU Pro Color Tools Media Formats and Display Hardware teamsbrbr brstrongEducation amp Experiencebrstrong brBSMSPhD degree in Computer Science OR Electrical Engineering OR Equivalent Degree OR Equivalent Experiencebrbr brstrongAdditional Requirementsbrstrong br Strong problem solving and communication skillsbrbr Ability to stay focused and prioritize your workbrbr Enjoy working in a collaborative environmentbrbr brRole Number 200234097brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:39:30.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

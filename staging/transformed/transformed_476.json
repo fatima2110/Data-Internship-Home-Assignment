@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "strongIntroductionbrstrongThe data science team at iRobot builds models runs experiments and conducts analyses to understand our fleet of millions of consumer robots Our expertise in machine learning statistical analysis experimentation and focus on the customer help us to produce datadriven digital features for robots and users around the world Join our team as a data scientist with a focus on marketing applicationsbrbrstronguWhat You Will DobrustrongulliPerform analyses and data mining to better understand our customers and our business joining data points across multiple sourcesliliDevelop metrics to track company performance contribute to data definitions and write documentationliliBuild models to forecast revenue understand attribution or LTV and predict conversion or churn ratesliliTest hypotheses about company performance using appropriate statistical methodsliliUphold scientific best practices in experimental design and testingbrbrliulstronguTo Be Successful You Will HavebrustrongulliBachelors degree in a STEM field or social sciences  MS is a plusliliAt least 12 years of relevant job internship or coop experience at a directtoconsumer brand marketing agency or consultancyliliProficient in Python pandas numpy sklearn scipy SQL and data visualization matplotlib seaborn or plotlyliululliPossess fundamental understanding of machine learning algorithms eg regression decision trees timeseries analysis clustering etcliliSavvy in statistical methods and able to select the right test for the situationliliCan balance business considerations with the need for scientific rigorliliCustomerfocused with demonstrated experience in the marketing domainliliSelfmotivated and comfortable working in a fastpaced deliveryfocused environmentliliSkilled communicator who can collaborate effectively across multiple teamsliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T14:28:22.000Z"
+  },
+  "company": {
+    "name": "iRobot",
+    "link": "https://www.linkedin.com/company/irobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 91000,
+    "max_value": 154000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bedford",
+    "region": "MA",
+    "postal_code": "01730",
+    "street_address": null,
+    "latitude": 42.492237,
+    "longitude": -71.279945
+  }
+}

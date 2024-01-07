@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "Principal Software EngineerbrbrThe Data Management and Analytics Engineering team delivers nextgeneration application enhancements and new products for the changing storage world Working at the cutting edge we design and develop independent and intelligent software container services capable of deriving application level insights and recommendations for platforms peripherals applications and diagnostics  all with the most advanced technologies tools software engineering methodologies and the collaboration of internal and external partnersbrbrJoin us as a Software Principal Engineer on our Engineering Development team in Santa Clara to do the best work of your career and make a profound social impactbrbrbrWhat youll achievebrAs a Software Principal Engineer you will be responsible for developing sophisticated systems independent AIML bas microservices and software functionalities based on the customers business goals and needsbrbrYou willbrbrContribute to the design and architecture of highquality independent and AIML based container services on complex management system and softwarestorage environments that are capable of providing data projections and storage level insightsrecommendationsbrDesign machine learning programs developing deep learning systems to various use cases based on the business needs and implement suitable AIML algorithms brProvide technical assistance in identifying evaluating and developing complex and intelligent and learning based models and algorithms and testing with wide variety of datasets that need to be used inside these docker based services for analytics and smartservice usecasesbrContribute to the development and implementation of test strategies for complex software products and systemsfor storage products and systemsbrApply expertise in quantitative analysis data mining and presentation of data to develop compelling and accurate projection models and reports to support metrics historical data trend analysis and identification of opportunities to drive continuous improvementbrReview workinprogress and suggest corrective action to keep projects on schedulebrWrite and maintain operating manuals and assists in preparing activity and progress reports regarding storage management and analytics functionsbrEnsure that installed system services are working effectively and may provide direction to other engineers customers and analysts who install and maintain systemsbrMay periodically assist in orienting training assigning hiring and checking the work of less experienced team membersbrRecognize business needs when prioritizing projects and selecting methods and techniques for solving telecommunication problemsbrFrequently suggest solutions for problems and issues in analytics storage and manageability areas and programmingbrMay manage lead and drive short term projects to successful completionbrPartner with the various teams within Secondary Storage to define technology analytics needs requirements and goalsbrTake the first step towards your dream careerbrEvery Dell Technologies team member brings something unique to the table Heres what we are looking for with this rolebrbrEssential RequirementsbrbrGood knowledge of AIML based data modeling NLP REST APIs frameworks and packages databases postgresql nosql Casandra etc brAbility to codedebug and guide others to codedebug flexible scalable and complex programs using either written or verbal design specificationsbrExperience with multiple programming languages  python java golang  operating systems linux tools and hardware platformsbrExperience developing and testing independent scalable and looselycoupled docker based microservices using one of the programming languagesbrExperience on docker environment docker swarm dockercompose Kubernetes K8 is a plusbrExperience building data pipelines and tools using python  or JAVA golang brAbility to learn new tools languages and operating systems with some training and onthejob experiencebrAbility to identify prioritize and answer the most critical areas where analytics and modeling will have a material impactbrExperience in stream data processing and real time analytics of data generated from user interaction with applicationsbrExperience building services cloud native applications and deploying them in cloud platforms like AWS is a plusbrUnderstanding of design and development of large scale high throughput and low latency applications is a plusbrAptitude to independently learn new technologiesbrExcellent verbal and written communication skills is requiredbrbrDesirable RequirementsbrbrBachelors Degree in Computer SciencebrEngineering or equivalent technical fieldbrMasters degree preferredbr8 years of related experiencebrBachelors degreebrbrHeres our story now tell us yoursbrbrDell Technologies helps organizations and individuals build a brighter digital tomorrow Our company is made up of more than 150000 people located in over 180 locations around the world Were proud to be a diverse and inclusive team and have an endless passion for our mission to drive human progressbrbrWhats most important to us is that you are respected feel like you can be yourself and have the opportunity to do the best work of your life  while still having a life We offer excellent benefits bonus programs flexible work arrangements a variety of career development opportunities employee resource groups and much morebrbrWe started with computers but we didnt stop there We are helping customers move into the future with multicloud AI and machine learning through the most innovative technology and services portfolio for the data era Join us and become a part of whats next in technology starting todaybrbrYou can also learn more about us by reading our latest Diversity and Inclusion Report and our plan to make the world a better place by 2030 herebrbrCandidates can submit their application herebrhttpsdellwd1myworkdayjobscomExternaljobSantaClaraCaliforniaUnitedStatesSoftwarePrincipalEngineerR117105",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T16:06:13.000Z"
+  },
+  "company": {
+    "name": "Dell EMC",
+    "link": "https://www.linkedin.com/company/dellemc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Clara",
+    "region": "CA",
+    "postal_code": "95050",
+    "street_address": null,
+    "latitude": 37.352394,
+    "longitude": -121.95308
+  }
+}

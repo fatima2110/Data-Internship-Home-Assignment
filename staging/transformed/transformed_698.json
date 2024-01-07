@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "pstrongRole Description Data Scientist  Sr Consultant  AIstrongppAs a AI TranslatorSr ConsultantAI on the Data Science team you will play a critical role in ideating developing and then implementing advanced analytics solution in production You will be helping business leaders identify and prioritize their business problems based on value creation and Business ROI These may be opportunities within a single line of business or crossorganizational initiatives This role helps in bridging the technical expertise of Data Scientists with the operation expertise of frontline managers thereby ensuring that the deep insights generated through sophisticated analytics translate into impact at scale in an organizationppnbspppPotential hires are expected to own the endtoend process from development into implementation which involves data extraction feature engineering model building and model testing along with documentationppstrongnbspstrongppstrongRole and responsibilitiesstrongppstrongProblem solving and client consultingstrongppnbspnbspnbspnbspnbspnbspnbspnbspStrong problem solving and analytical skills with excellent understanding of critical business problems in domains  preferably TelecomppnbspnbspnbspnbspnbspnbspnbspnbspBreaking up big business problems into actionable Analytics Data Science problemsppnbspnbspnbspnbspnbspnbspnbspnbspGive thought leadership on problem definition and defining the key metrics to targetppnbspnbspnbspnbspnbspnbspnbspnbspAbility to translate a business problem into digital and analytics problemppnbspnbspnbspnbspnbspnbspnbspnbspOwn the problem and integrate design analytics and engineering capabilities to deliver impactful solution to client problemsppnbspppstrongData Analytics and InsightsstrongppnbspnbspnbspnbspnbspnbspnbspnbspUnderstand client and businessstrong strongdomain and integrate client business issues with data insightsppnbspnbspnbspnbspnbspnbspnbspnbspAbility to analyze business metrics perform data analysis to generate and deliver impactful insights and recommendationppnbspnbspnbspnbspnbspnbspnbspnbspIdentify the important variables that will be required for the modelppnbspnbspnbspnbspnbspnbspnbspnbspDesign the validation metric to evaluate machine learning modelsppnbspnbspnbspnbspnbspnbspnbspnbspAbility to work in multiple projects problems in parallelppstrongnbspstrongppstrongTechnical skills requirementsstrongppThe candidate must demonstrate proficiency inppnbspnbspnbspnbspnbspnbspnbspnbspConceptual understanding on machine learning techniquesppnbspnbspnbspnbspnbspnbspnbspnbspExtremely detailoriented with high standards for written and visual presentation of information as well as idea ppnbspnbspnbspnbspnbspnbspnbspnbspAbility to develop and articulate strategic recommendations based on rigorous data analysisppnbspnbspnbspnbspnbspnbspnbspnbspStrong expertise in SQLppnbspnbspnbspnbspnbspnbspnbspnbspPrior experience in ML models deployed in productionppnbspnbspnbspnbspnbspnbspnbspnbspStrong understanding of AB Multivariate testing ppnbspnbspnbspnbspnbspnbspnbspnbspEDApreliminary model building using PythonppnbspnbspnbspnbspnbspnbspnbspnbspData Visualization skills in TableauPower BILooker or similar toolsppnbspnbspnbspnbspnbspnbspnbspnbspExperience with model explainability techniques and building an explainable ML solutionppnbspnbspnbspnbspnbspnbspnbspnbspExperience presenting to and influencing functional leaders and stakeholdersppstrongnbspstrongppstrongNicetohave skillsstrongppnbspnbspnbspnbspnbspnbspnbspnbspPrior experience with Telecom industry and a deep understanding of common problem statements and solutions in Telecom ppnbspnbspnbspnbspnbspnbspnbspnbspExposure to working in a cloud environment preferably GCPppp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T18:28:33.000Z"
+  },
+  "company": {
+    "name": "Incedo Inc.",
+    "link": "https://www.linkedin.com/company/incedo-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

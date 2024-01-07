@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Banking,Financial Services,Investment Banking",
+    "description": "Locations VA  McLean United States of America McLean VirginiabrbrMachine Learning EngineerbrbrAs a Capital One Machine Learning Engineer youll be part of an Agile team dedicated toproductionizing machine learning applications and systems at scale Youll participate in thedetailed technical design development and implementation of machine learning applicationsusing existing and emerging technology platforms Working within an Agile environment youllfocus on machine learning architectural design develop and review model and application codeand ensure high availability and performance of our machine learning applications Youll havethe opportunity to continuously learn and apply the latest innovations and best practices inmachine learning engineering to keep Capital One at the cutting edge of technologybrbrWe are seeking Software Engineers who are passionate about marrying data with emerging technologies to join our team As a uCapital One Software Engineeru youll have the opportunity to be on the forefront of driving a major transformation within Capital One Learn more about ulifeatcapitaloneu and our commitment to udiversity amp inclusionu by jumping to uslides 7691u on our Corporate Social Responsibility Report This requisition is an advertisement for multiple opportunities within our Tech organization By applying to this particular role youll also be considered for other roles within Capital Ones Engineering OrganizationbrbrstronguWhat Youll Do In The RolebrustrongulliDeliver ML software models and components that solve realworld business problems while working in collaboration with the Product and Data Science teamsliliSolve complex problems by writing and testing application code developing and validating ML models and automating tests and deployment liliCollaborate as part of a crossfunctional Agile team to create and enhance software that enables stateoftheart next generation big data and machine learning applicationsliliLeverage cloudbased architectures and technologies to deliver optimized ML models atscale liliConstruct optimized data pipelines to feed ML models liliUse programming languages like Python Scala or Java liliLeverage continuous integration and continuous deployment best practices includingtest automation and monitoring to ensure successful deployment of ML models andapplication code brliulstronguBasic QualificationsbrustrongulliBachelors degree liliAt least 1 year of experience designing and building dataintensive solutions using distributed computingliliAt least 1 year of experience programming with Python Scala or Java liliAt least 1 year of Machine Learning experience with an industry recognized ML framework scikitlearn PyTorch Dask Spark or TensorFlow brliulstronguPreferred QualificationsbrustrongulliExperience developing and deploying ML solutions in a public cloud such as AWS Azure or Google Cloud Platform liliMasters or doctoral degree in computer science electrical engineering mathematics or a similar field lili1 years of experience working with large code bases in a team environmentlili1 years of experience with distributed file systems or multinode database paradigms liliContributed to open source ML softwarelili1 years of experience building productionready data pipelines that feed ML modelsbrliulAt this time Capital One will not sponsor a new applicant for employment authorization for this positionbrbrJob Category  Information Technology Engineering Technology Explorers Technology Explorers",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-23T18:16:22.000Z"
+  },
+  "company": {
+    "name": "Capital One",
+    "link": "https://www.linkedin.com/company/capital-one"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 85900,
+    "max_value": 175000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "McLean",
+    "region": "VA",
+    "postal_code": "22101",
+    "street_address": null,
+    "latitude": 38.93759,
+    "longitude": -77.18378
+  }
+}

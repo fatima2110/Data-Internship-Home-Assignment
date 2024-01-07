@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sensing Systems Engineer",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brThe Camera Systems Engineering Group is responsible for the systemslevel analysis design and development of new camera features and technologies for performance enhancement The team is seeking an exceptional systems engineer with broad skills to lead research projectsbrbr brstrongKey Qualificationsbrstrong brExpertise with sensing systems preferably in magnetic sensing brbrExpertise in MATLAB and familiarity with Python brbrExperience with signal processing preferably in MATLAB brbrExperience with magnetostatic simulations of CAD using FEA methodsbrbrExperience with analog and digital electronics brbrExperience in systemlevel requirements and documentation brbrBroad knowledge of engineering concepts device behavior data analysis and systems modeling and associated tools MATLAB JMP brbrFamiliarity with control systems brbrFamiliarity with digital camera and optics technology brbrFamiliarity with CMOS image sensor technology brbrExposure to optical concepts and optical design brbrExcellent written and verbal communication skills brbrGreat interpersonal skills  the ability to collaborate across groups brbrSelfmotivated able to lead projects independentlybrbr brstrongDescriptionbrstrong brDuties include performing the systemslevel analysis and modeling of sensing and imaging systems the design and construction of prototypes to guide systems development and assess user impact and the definition of system level tests for parametric specifications Candidates should be highly skilled in several of these areasbrbrbr Performing the systemslevel analysis and modeling of sensing and imaging systems using Matlabbrbr Defining and documenting systems architecture requirements use case analysis and tests for camera features and technologiesbrbr Creating subsystem specifications by analyzing  modeling  characterizing electrical optical and optoelectronic componentsbrbr  Defining subsystem and system level tests to characterize andor guarantee parametric specificationsbrbr  Designing and performing laboratory experiments and documenting the resultsbrbr  Using computer control Matlab Python etc to automate repetitive measurementsbrbr  Managing project deliverables and schedules to meet commitments to product development teamsbrbr brstrongEducation amp Experiencebrstrong brBSMSPhD in a relevant field EE or Physics or equivalentbrbr brRole Number 200107323brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:37:52.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

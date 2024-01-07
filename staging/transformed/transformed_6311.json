@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Full-Stack Web Developer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Do you love bringing innovative dreams to life Are you creative with a technological bent Do you want to be a part of a team that pushes boundaries and redefines whats possible in tech We have something you might likebrbrInterWorks is currently seeking a Junior FullStack PHP Web Developer to join our Experience team We need someone with boundless imagination whos ready to hit the ground running with backend support for our tailormade Curator product Our ideal fit thrives in fastpaced environments and is right at home when it comes to collaboration customer service and exceeding client expectations This individual will play an integral role in laying a strong foundation for this product charting a trailblazing course for its future and dreaming up new ways to experience databrbrstronguWhat Youll DobrustrongulliConsult with clients and other developers to define the right solutionliliInstall and customize software based on client needsliliInteract directly with clients to outline requirements manage expectations and train on software administrationliliManage and deliver PHP software brbrliulstronguWhat Youll NeedbrbrustronguMustHavesbruulliExperience in CSS3liliExperience with jQuery or other JavaScript librariesliliStrong communication skillsliliHighly effective timemanagement skillsbrliuluWhat Wed Like You to Have bruulliExperience in OOP PHPliliExperience with AJAXliliExperience with SQLliliLaravel andor OctoberCMS or similar frameworksliliExperience integrating thirdparty APIs into PHPliliFrontend CSS frameworks like BootstrapliliInterest in consulting and training beyond simply codingliliMySQL administrationliliApache andor IIS administrationliliLinux administrationbrbrliulstrongWhy InterWorksbrbrstrongInterWorks is a peoplefocused tech consultancy that empowers clients with customized collaborative solutions and we love pursuing innovation alongside people who inspire us Our approach to work and community is unique and unconventionaljust like usand thats the way we want it The only thing missing is youbrbremWe are currently monitoring the COVID19 situation globally and our team is working remotely Please dont talk yourself out of applying if you dont meet all requirements At InterWorks we value unique contributions our people are the glue that holds our business together Were always looking for the right people and we could be your perfect fitbrbremPowered by JazzHRbrbrawXlk90upg",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-26T07:00:42.000Z"
+  },
+  "company": {
+    "name": "InterWorks",
+    "link": "https://www.linkedin.com/company/interworks"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Oklahoma City",
+    "region": "OK",
+    "postal_code": "73118",
+    "street_address": null,
+    "latitude": 35.468494,
+    "longitude": -97.52126
+  }
+}

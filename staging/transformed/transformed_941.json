@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "strongSoftware Engineer  Java  Python  Fully RemotebrbrstrongOur client is looking for an individual to augment our Engineering team working on our cybersecurity reporting and analytics platform Day to day work will involve feature development and will require coordination with other remote team membersbrbrstronguRequired Skillsbrustrongulli Experience working as part of an Agile team with experience in SCRUM or Kanbanlili Experience with githublili Extensive development experience with Python and Javalili Knowledge of bash scripting requiredlili Knowledge of Linux operating systems CENTOS preferredlili Experience working with AWS in SaaS environment a pluslili Database development experience a pluslili Dockerkubernetes experience a pluslili Splunk experience a plusbrliul5 years development experience ulliliulliStrong communication ability and collaborative skills liliFlexible and cando attitude brliululehirecomjobsbrbrA Human Approach to StaffingbrbremOur Company is committed to the principles of equal employment We are committed to complying with all federal state and local laws providing equal employment opportunities and all other employment laws and regulations It is our intent to maintain a work environment which is free of harassment discrimination or retaliation because of sex gender race religion color national origin physical or mental disability genetic information marital status age sexual orientation gender identity military service veteran status or any other status protected by federal state or local laws The Company is dedicated to the fulfillment of this policy in regard to all aspects of employment including but not limited to recruiting hiring placement transfer training promotion rates of pay and other compensation termination and all other terms conditions and privileges of employmentbrbrem",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-20T02:05:34.000Z"
+  },
+  "company": {
+    "name": "eHire",
+    "link": "https://www.linkedin.com/company/ehire"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Alpharetta",
+    "region": "GA",
+    "postal_code": "30022",
+    "street_address": null,
+    "latitude": 34.075615,
+    "longitude": -84.29455
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Data Engineer",
+    "industry": "Internet",
+    "description": "Expected compensation 9000  11000 per hourbrbrHireArt is helping Toyota Research Institute TRI find a Machine Learning Data Engineer to contribute to stateoftheart machine learning data infrastructure and relevant software specific to data management data analysis and data mining at unparalleled scale In this role youll implement robust software and data pipelines for a tremendous amount of data and analyze large scale data for the practical scenarios of autonomous driving Last but not least you will deploy your algorithms and systems to explore the meaningful scenarios in TRIs data sea and beyondbrbrThe ideal candidate will possess the basic requirements outlined below as well as 2 years of experience within the autonomous vehicle industrybrbrstronguAs a Machine Learning Data Engineer You WillbrustrongulliAddress large scale challenges in the machine learning development cycle especially around cloud and data engineeringliliManipulate highvolume highdimensionality structured data from driving logs for training and testing deep networksliliBuild a robust data platform that enables ML practitioners to build and maintain their own data pipelines and datasetsliliStay up to date on the stateoftheart in Deep Learning ideas and software in collaboration with other divisions in the companyliliSolve challenging problems with cutting edge design and algorithmsliliWork in a multidisciplinary team and collaborate with other teams across the companybrliulstronguRequirementsbrustrongulliExperience as a statistical machine learning andor data engineer and a degree in Computer Science Math Physics or related fieldliulliBachelors Degree with 4 years of experienceliliMasters Degree with 2 years of experienceliliPhD with 1 year of experienceliulliSolid proficiency in PythonliliStrong software engineering practices with machine learning experience in a production settingliliProficient in SQL and GitliliExperience with pipeline orchestration tooling eg Airflow AWS Step Function Metaflow KubeFlow etcliliExperience with AWS Azure or GCPliliClear grasp on basic Linear Algebra Optimization Statistics and AlgorithmsbrliulstronguNicetohave ExperiencebrustrongulliExperience with data analysis data munging and relative machine learning skillsliliExperience with building endtoend ML workflows Data Mining  Data Preparation  ModelingliliStrong knowledge of ML dataset management data  annotations and exposure to dataset versioning tools such as DVCliliExperience with ML data annotation pipeline RESTful APIs Apache SparkliliExposure to perception prediction andor planning stacks for roboticsAVsliliExperience in AV or Automotive industrybrliulstrongCommitmentstrong emThis is a fulltime 40 hours per week ongoing contract position staffed via HireArt and based in Los Altos CA This position can be fully remote and is open to USbased candidates who are able to work during PST business hours Candidates local to Los Altos CA are encouraged to applybrbrememHireArt values diversity and is an Equal Opportunity Employer We are interested in every qualified candidate who is eligible to work in the United States Unfortunately we are not able to sponsor visas or employ corptocorpbrbrememTRI provides Equal Employment Opportunity without regard to the applicants race color creed gender gender identity or expression sexual orientation national origin age physical or mental disability medical condition religion marital status genetic information veteran status or any other status protected under federal state or local lawsbrbrem",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T11:13:16.000Z"
+  },
+  "company": {
+    "name": "Toyota Research Institute",
+    "link": "https://www.linkedin.com/company/toyota-research-institute"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

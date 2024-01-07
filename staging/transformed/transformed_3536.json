@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Health, Wellness and Fitness,Pharmaceuticals,Retail",
+    "description": "stronguJob SummarybrbrustrongApplies advanced data analysis tools and techniques to provide insights and actionable recommendations for the business Utilizes complex statistical modeling to make predictions about future outcomes and in multiple scenarios May explain findings to business audiencebrbrstronguJob ResponsibilitiesbrustrongulliResponsible for applying advanced data analysis tools and techniques to provide insights and actionable recommendations for the business Utilizes complex statistical modeling to make predictions about future outcomes and in multiple scenariosliliInterprets and applies data in complex analyses and explains findings to business audiences to improve products and processesliliMay support or lead the development of datarelated commercial offerings andor other intellectual property IPliliExecutes statistical and mathematical analyses to support business decision makingliliDevelops andor uses algorithms and statistical predictive models and determines analytical approaches and modeling techniques to evaluate scenarios and potential future outcomesliliApplies analytical rigor and statistical methods to analyze large amounts of data using advanced statistical techniques such as predictive statistical models customer profiling segmentation analysis survey design and analysis and data miningliliDocuments projects including business objectives data gathering and processing leading approaches final algorithm detailed set of results and analytical metricsliliDevelops materials to explain project findingsliliEffectively resolves problems and roadblocks as they occurliliInteracts with internal and external peers andor managers to exchange semicomplex information related to assigned activitiesliliPrepares and presents interpretation of findings to internal clientsliulstrongAn Equal Opportunity Employer including disabilityveteransbrbrstrongWalgreens wwwwalgreenscom is included in the Retail Pharmacy USA Division of Walgreens Boots Alliance Inc Nasdaq WBA a global leader in retail and wholesale pharmacy As Americas most loved pharmacy health and beauty company Walgreens purpose is to champion the health and wellbeing of every community in America Operating more than 9000 retail locations across America Puerto Rico and the US Virgin Islands Walgreens is proud to be a neighborhood health destination serving approximately 8 million customers each day Walgreens pharmacists play a critical role in the US healthcare system by providing a wide range of pharmacy and healthcare services To best meet the needs of customers and patients Walgreens offers a true omnichannel experience with platforms bringing together physical and digital supported by the latest technology to deliver highquality products and services in local communities nationwidebrbrstronguBasic QualificationsbrustrongulliBachelors degree and at least 2 years of experience in quantitative or computational functions or graduate degree in a quantitative computational or technical disciplineliliKnowledge of SQLliliExperience in data science advanced analytics or statistics Ability to interrogate data perform analyses interpret data and present to business audiencesliliKnowledge of open source data science and statistics packages such as Python R Spark etcliliExperience establishing and maintaining key relationships with internal peers business partners and leadership and external business community clients and vendors within a matrix organization to ensure quality standards for serviceliliExperience analyzing and reporting data in order to identify issues trends or exceptions to drive improvement of results and find solutionsliliWilling to travel up to 10 of the time for business purposes within state and out of statebrliulstronguPreferred QualificationsbrustrongulliGraduate degree in a quantitative computational or technical disciplineliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-16T16:37:44.000Z"
+  },
+  "company": {
+    "name": "Walgreens",
+    "link": "https://www.linkedin.com/company/walgreens"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

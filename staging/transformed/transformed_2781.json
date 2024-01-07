@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Backend",
+    "industry": "Construction,Computer Software,Logistics and Supply Chain",
+    "description": "pLessens software engineering team is the driving engine behind the fastest growing startup in real estate services Lessen isnbspfundamentally changing how real estate services are initialized managed and delivered at scalenbspThe company isnbspwellfunded by top Silicon Valley VCsnbspandnbsphasnbspcommitted clients and fastgrowing revenuenbspnbspnbspnbspppbrppLessen isnbspbuilding anbsptwosidednbspmarketplace that solves anbspwelldefinednbspset ofnbspcustomer and service professionalnbspneedsnbspOn one side of the marketplace ournbspsoftwarenbsphandles thenbsplogistics andnbspworkflownbsptonbspconnectnbspservice professionalsnbspto highquality wellspecifiednbspprojects with sameday paymentsnbspOn the othernbspside of the marketplace our customersnbspget access tonbsptimely integratednbspproperty servicesnbspincludingnbsprenovations maintenance and cleaningnbspfrom the best professionals in the industrynbspnbspppbrppWe are looking fornbspBackend SeniornbspSoftwarenbspEngineers who thrive on complex problems and relish the challenge ofnbspbuildingnbspmissioncritical systemsnbspthat solve realworld problemsnbspIf you are ready to be part of a highgrowthnbspstartupnbspthat will stretch your skills and grow your career wed love to chat with younbspnbspppnbspppbrppThe successful candidate is expected to contribute to all parts of the software development and deployment lifecycle including design development documentation testingnbspand operations They must possess strong verbal and written communication skills be selfdriven and deliver highquality results in anbspfastpacednbspenvironment They need to really enjoy working closely with their peers in a group of very smart and talented engineersnbspppbrppOur tech stack isnbspbuiltnbspwithnbspmodernnbspsoftware designnbspprinciplesnbspusingnbspTypeScriptnbspGraphQL NodenbspHasuranbspPostgreSQLnbspand AWSnbspAs anbspSenior Engineer you will helpnbspleadnbspournbspteams to define ournbsptechnology choicesnbsparchitecturenbspteamnbspprocessnbspand standardsnbspnbspppnbspppbrppOur team is intentional about attracting developing and retaining amazing talent from diverse backgrounds Were looking for teammates that are enthusiastic empathetic curious motivated reliable and will help us amplify the positive amp inclusive culture weve been buildingnbspppbrppstrongBASIC QUALIFICATIONS strongpulli2 years of overall backend programming experiencelili2 years of experience with Python NodeJS and GraphQLnbsplili2 years of experience contributing to the architecture design reliability and scaling of new and existingnbspbackendnbspsystemsnbspliliA sound understanding of computer science fundamentals such as algorithms data structures objectoriented design functional programmingnbspand databasesnbspliliExcellent written and oral communication skillsnbspliliHigh sense of ownership and greatnbspproblemsolving skillsnbspnbspliulpbrppnbspppstrongPREFERRED QUALIFICATIONS strongpulliBachelors in computer science or related fieldnbsplili3 years of overall professional software development experiencenbspliliExperience in data technologies such asnbsprealtime streaming with Apache Kafka or AWS KinesisnbspETLnbspjobsnbspdatanbsplakesnbspandnbspdatanbspwarehousingnbspnbspliliAbility to adapt quickly to a fastpaced development environmentnbspliulpnbspppbrppemLessen is intentional about attracting developing and retaining amazing talent from diverse backgrounds Were looking for teammates that are enthusiastic empathetic curious motivated reliable and will help us amplify the positive and inclusive culture weve been building Lessen is an Equal Opportunity Employer All qualified applicants will receive consideration for employment without regard to race color religion sex sexual orientation gender identity national origin age protected veteran or disabled status or genetic informationemp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T21:48:44.000Z"
+  },
+  "company": {
+    "name": "Lessen",
+    "link": "https://www.linkedin.com/company/lessen-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

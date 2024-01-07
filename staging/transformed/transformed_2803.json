@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "pSREnbsp Remote  Up tonbsp200000 nbsp10nbsp BenefitsSharesnbspppbrppOne of the market leadersnbspin producingnbspBlockchainnbspsoftwarenbspsolutionsnbspis lookingnbspfor an SRE with strong skillsnbspwithin anbspmanaged production environment especially withnbspKubernetesnbspnbspppThe company wasnbspset upnbspbynbspthenbspcofoundernbspof Ethereumnbspin 2014 and since thennbspthey have grown to become one of thenbspworldsnbspbestrecognisednbspEthereum solutionsnbspcompanies Located in 30nbspdifferentnbspcountriesnbspopen to remote workingnbspacrossnbspthe USnbspwith a great level of engineeringnbspppnbspppstrongKey Benefitsstrongnbsppulli100 Remote nbspliliUnlimited holidaysnbspliliLearnnbspabout deploying onto BlockchainnbspEthereumnbspinfrastructurenbspnbspliliJoin an industry that is developingnbspeverynbspdaynbspliliBe part of greenfield DevOps Blockchain projectsnbsplili10 Bonus  EquitynbspliulpnbspppAs one of the companysnbspSREs you will have a great opportunity to make a huge impact on the engineering function of the teamnbspdefine and manage all aspects of the development and production infrastructurenbspnbspppbrppResponsibilitiesnbsppulliContinuously improve teams processes tools and solutions used to build deploy monitor maintain and scale production systemsnbspnbspliliImprove the monitoring alerting and remediation solutions and proactively identify production issuesnbspliliLead efforts to remediate critical operational platform issuesnbspnbspliliDesign and improve support processes in collaboration with support and dev teamsnbspliulpbrppRequired skills not limited tonbspnbsppulliLinuxnbspEngineeringnbspnbspliliScripting nbspPythonnbspBash GonbspnbspliliCloud AWSGCPAzurenbspliliMonitoring  ELKnbspPrometheusnbspnbspliliInfrastructure as Code  Terraform PreferrednbspliliCICD  JenkinsnbspliliKubernetesnbspliulpnbspppPlease apply below or contact EmmanuelnbspOloko atnbspemmanuelchisquareanalyticscomnbspor call 07546110052 for a confidential chatnbspp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T11:57:05.000Z"
+  },
+  "company": {
+    "name": "Chi Square Analytics",
+    "link": "https://uk.linkedin.com/company/chi-square-analytics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

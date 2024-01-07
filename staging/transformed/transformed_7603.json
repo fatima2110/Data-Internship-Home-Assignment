@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Perception Infrastructure",
+    "industry": "Transportation/Trucking/Railroad",
+    "description": "pWaymo is an autonomous driving technology company with a mission to make it safe and easy for people and things to get where theyre going Since our start as the Google SelfDriving Car Project in 2009 Waymo has been focused on building the Worlds Most Experienced Driver in hopes of improving the worlds access to mobility while saving thousands of lives now lost to traffic crashes Our Waymo Driver powers Waymo One our fully autonomous ridehailing service as well as Waymo Via our trucking and local delivery service To date Waymo has driven over 20 million miles autonomously on public roads across 25 US cities and conducted over 20 billion miles of simulation testingppbrppSoftware Engineering builds the brains of Waymos fully autonomous driving technology Our software allows the Waymo Driver to perceive the world around it make the right decision for every situation and deliver people safely to their destinations We think deeply and solve complex technical challenges in areas like robotics perception decisionmaking and deep learning while collaborating with hardware and systems engineers If youre a software engineer or researcher whos curious and passionate about Level 4 autonomous driving wed like to meet younbspppbrppIn this role depending on preference and role fit you willpulliWork on the onboard perception system where youll get to build an overall picture of the entire perception stack conduct latency measurements and analysis optimize system performance make software design changes as needed etc OrliliWork on the offboard perception system where youll learn the nittygritty details of the infrastructure to build ML models that actually works in the real world design and implement MLperception infrastructure to enable Waymo scale to many more cities and thousands of cars directly interact with and enable many ML developers to achieve cuttingedge selfdriving perception etc OrliliWork on both of the aboveliulpbrppWed like you to havepulliBS MS or PhD in Computer Science similar technical field of study or equivalent practical experienceliliExperience in C preferred and system designliliExperience in robotics or machine learninglili3 years of industry experienceliulpbrppIdeally you also havepulliExperience in deploying a large production system with many ML modelsliliExperience in optimizing highperformance systemsliulpp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:39:34.000Z"
+  },
+  "company": {
+    "name": "Waymo",
+    "link": "https://www.linkedin.com/company/waymo"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 50700,
+    "max_value": 93900,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

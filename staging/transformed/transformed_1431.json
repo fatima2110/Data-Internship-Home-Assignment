@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "",
+    "description": "pCandidates that do not meet or exceed the minimum stated requirements skillsexperience will be displayed to customers but may not be chosen for this opportunityppbrppstrongMinimum Requirementsstrongpulli8 years Hands on development of Machine Learninglili4 years Provide administration support for ML environment MLOps which includes installation configuration upgrades and business continuity support in AWS Cloudlili4 years Experience creating scripts to automate ML administration tasks schedules and deployment activitieslili4 years Demonstrated experience with Linux administration and troubleshooting activitieslili2 years Excellent oral and written communication skillslili2 years Effectively manage multiple responsibilities prioritize conflicting assignments and switch quickly between assignments as requiredlili2 years Experience working in an agile sprint teamlili2 years Prior experience with an HHS agencyliulpbrppstrongEducational Requirementsstrongpulli4 years Bachelors degree in Computer Science Information Systems or Business or equivalent experienceliulpbrppstrongPreferredstrongpulliAWS Certified Machine Learning  Specialty certificationliul",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-29T15:24:17.000Z"
+  },
+  "company": {
+    "name": "ACloudX",
+    "link": "https://www.linkedin.com/company/acloudx-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "Texas Metropolitan Area",
+    "postal_code": "78723",
+    "street_address": null,
+    "latitude": 30.276316,
+    "longitude": -97.70931
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer (SRE)",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brApple is looking for a Senior SRE with automation tooling experience to drive and be part of a team that is building monitoring and maintaining large scale highly resilient systems Youll be contributing to bare metal OS stack platform and network infrastructure for a critical and unique customerfacing Apple service This is a rare opportunity to design build and control the entire scale end to end infrastructure along with all supporting components such as provisioning logging metrics monitoring deployment and SW development platform from the beginning within a team with a noops culturebrbrbrLocation We are open to Santa Clara Valley Cupertino California OR Austin Texasbrbr brstrongKey Qualificationsbrstrong brExperience in a DevOPS or SRE rolebrbrExperience with modern webscale services including servers VIPs load balancers proxiesbrbrAble to write software needed to build and operate a large scale platform 24x7 including the development and staging platformsbrbrProficient in at least one of these languages Python Golang Rust CbrbrFamiliar with bare metal bootstrap provisioning configuration and orchestrationbrbrHighly experienced with one of these Puppet Chef Saltstack Ansible brbrYoure comfortable testing and rolling new kernels drivers libraries OS changes config sync and building the systems to keep servers at an appropriate level and functionalitybrbrYoure knowledgable running systems for containerized servicesdocker and managing how they interact with network amp system resourcesbrbrYouve implemented and utilized your own metrics TSDB and logging platform with a front end such as GrafanabrbrYouve implemented a monitoring system such as Sensu Zabbix or Nagios even better if youve written your ownbrbrYoure comfortable building and operating infrastructure that employs a Chaos Monkey Bonus Youve written that Chaos Monkey servicebrbrYou enjoy analyzing performance end to end service experience and overall system health You dig and dig at what initially seems like a small oddity until you determine the root cause and drive it to resolution if its a potential issue regardless of whose problem it isbrbrFlexibility and comfort working on a dynamic fastgrowing effort with minimal documentation and process in a small team environment Quick learner Aptitude to deal with ambiguity and enthusiasm to help solve difficult issuesbrbrbrBonus Native Kubernetes implementation including CNI Kafka etcd experiencebrbrBonus Youre familiar with distributed orchestration systems brbrBonus Experience with Cisco Juniper or Arista routing and switching hardware OS including wirelessbrbr brstrongDescriptionbrstrong brYou will build and run an Apple service that millions of customers use every day Youll also build and run the infrastructure that powers those services Were looking for people who like to solve operational problems using software rather than shell prompts as we scale Apples services for customers around the world Help us build the Apple experience on a global scalebrbr brstrongEducation amp Experiencebrstrong br  Networks Computers Electronics and Software have been your hobby since you were in grade schoolbrbr  Technical engineering BS would be nice though not requiredbrbr  MS in CS CE or EE is even betterbrbr brRole Number 200282720brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T08:58:49.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

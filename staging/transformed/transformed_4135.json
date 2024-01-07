@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer : Backend",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "strong100 Remote  Hiring in Canada and Latin America OnlybrbrstrongAt Urbint our mission is to make communities more resilient We do this by pairing external data with artificial intelligence to identify areas of high risk and prevent catastrophic loss for utilities and infrastructure operators across the country We are a team of closeknit engineers entrepreneurs and data geeks who obsess over problemsolving new technologies and making a positive impact in our communitiesbrbrWe build software which assists utilities and infrastructure operators in working safely and efficiently These software solutions combine userfriendly interfaces with large amounts of external data and machine learning models to drive the best possible decisions while maintaining high security and data privacy standardsbrbrOur Application Team partners closely with product managers user interface designers and our other engineering teams to develop performant easy to use full stack web applications which drive the workflows and decisions of our customersbrbrWe encourage people from underrepresented groups to applybrbrstrongOur Tech StackbrstrongulliPython DjangoliliTypeScript React IonicliliPostgreSQL Redis KafkaliliKubernetes GCP Terraformbrliulstrong Who You Are brstrongulliSignificant backend experience designing building and maintaining enterprise web applications andor APIsliliExperience working closely with product and account support personnel to help prioritize the best solutions to the largest problemsliliExperience designing and architecting systems to meet high standards of reliability and ease of useliliAttention to detail in work and ability to identify ambiguities in specificationsliliAble to effectively communicate ideas and concepts within your team across teams and throughout the organization even with nontechnical audiences in both written and verbal formsliliEagerness to work in a cross functional team to help build endtoend featuresbrliulstrongNice to HavebrstrongulliFamiliarity with modern DevSecOps techniques CICD TDD Infrastructure as code IaC etcliliHigh proficiency with relational databases and ability to profile and optimize queriesliliProduction experience with Django Rest Framework FastAPI or other API frameworksbrliulstrong Benefits brstrongulliMission Driven  Some companies use AI to serve better digital ads and trade stocks we seek to make our communities safer and more resilientliliTop Compensation  Competitive compensation packageliliWe are 100 Distributed  work from anywhere liliYour health matters to us so we offer 100 employerpaid premium optionliliDistributed work monthly stipendliliOffice Space Stipend for coworking space expensesliliWellness reimbursementliliEducational AllowanceliliWeekly lunch stipendbrliulWere an equal opportunity employer All applicants will be considered for employment without attention to race color religion sex sexual orientation gender identity national origin veteran or disability status",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:36:26.000Z"
+  },
+  "company": {
+    "name": "Urbint",
+    "link": "https://www.linkedin.com/company/urbint"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 71200,
+    "max_value": 127000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

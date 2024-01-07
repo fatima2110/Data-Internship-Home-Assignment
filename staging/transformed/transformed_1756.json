@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Cloud Data Engineer",
+    "industry": "Banking,Financial Services,Investment Management",
+    "description": "stronguPosition  Titleustrong Senior Cloud Data EngineerbrbrstronguPretium brbrustrongPretium is a specialized alternative investment manager focused on real estate and credit The Firm was founded in 2012 to capitalize on secular investment and lending opportunities that arose after the Global Financial Crisis as a result of structural changes within the economy the residential housing sector and mortgage finance markets The Firm currently manages 20 billion of AUM across its singlefamily rental 127 billion and mortgage credit 42 billion strategies as well as 32 billion of AUM in Structured and Corporate CreditbrbrstronguPosition ustrongWe are seeking a Senior Cloud Data Engineer in Minneapolis MNbrbrstronguKey Responsibilitiesbrustrongul liDesign develop and support data pipelines to tackle business operations users and product problemsli liCreate extract transform and load ETLs for new data using a variety of traditional as well as distributed data systemsli liMaintain AWS databases including Aurora and Redshift as well as data on S3li liCollaborate and influence stakeholders to ensure our data infrastructure meets constantly evolving requirementsli liWork closely with data analysts to productionize applications and financial reportsli brbrulstronguRequirementsbrustrongul li3 years building cloud solutions in AWSli li5 years experience with SQL databasesli li7 years experience as software engineer with breadth of experience that covers software development database administration and devopsli brulstronguPreferred Qualificationsbrustrongul liAWS Associate Level Certificationsli liExperience with Athena Glue Redshift spectrum and other AWS analyticsli liExpert at SQL databasesli liETL pipeline development experience using SSIS airflow etcli liDevelopment experience in python pyspark or similarli brbrulstronguWhat We OfferbrbrustrongThis position offers the opportunity to join a collegial entrepreneurial firm committed to the personal and professional growth of its team members and to maintaining a positive encouraging work environment where people enjoy working together The company offers a comprehensive benefits and perks package includingbrul liCompetitive base salary and bonusli li401k plan with an employer matchli liPaid Time Off PTO programli liEmployee incentive compensation programliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:14:17.000Z"
+  },
+  "company": {
+    "name": "Pretium",
+    "link": "https://www.linkedin.com/company/pretium-partners-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Minneapolis",
+    "region": "MN",
+    "postal_code": "55440",
+    "street_address": null,
+    "latitude": 44.977486,
+    "longitude": -93.264366
+  }
+}

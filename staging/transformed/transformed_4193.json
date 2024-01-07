@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "pORM Technologies is an Advanced Analytics SaaS company located in Dallas Texas that delivers innovative software solutions to B2B sales and marketing organizationsnbspThrough our innovative suite of software and consulting services our customers analyze their historic sales and marketing performance predict future sales and optimize for their next best actionppbrppIf you are a data scientist who is up to the challenge of building the future of webbased advanced analytics applications ORM Technologies is the place for you The right fit for this position should be excited about working in a startup environment meticulous in their tasks and highly motivated to accomplish team goals You will have the opportunity to directly contribute to our applications which provide real and measurable value to our customers bottom linenbspppbrppstrongRole and ResponsibilitiesstrongpulliOwn the development lifecycle for machine learning models from ideation to productionliliBuild and maintain both supervised and unsupervised machine learning models Examples of models include customer segmentation propensity to buy and sales forecastsliliExecute on endtoend data science projects ideation data engineering modeling interpretation visualizationliliClean Analyze manipulate and process large sets of Sales and Marketing dataliliCollaborate with software developers data engineers and business stakeholders to build meaningful machine learning models then productize the modelliliKeep up to date on new technologies and trends in data science MarTech and Sales TechliliDevelop data science best practices to enable model consistency accuracy and knowledge transfer among peers and customersliliCommunicate model methodology and results to both technical and nontechnical audiencesliliCompare models using statistical performance metrics such as loss functions or ROCliliTest validate and reformulate models to ensure accurate prediction of outcomes of interestliliSense of urgency necessary to meet goals objectives and deadlinesliliWork as part of a small agile development teamliulpbrppstrongSkills amp RequirementsstrongpulliMS in Statistics Operations Research Applied Mathematics Business Analytics Data Science or another technical fieldliliStrong statistics knowledge with excellent programming skills in Rlili25 years of work experience developing data science projects or productsliliStrong problemsolving skills and intellectual curiosityliliAbility to translate business requirements into technical action itemsliliExcellent oral and written communication skillsliliBasic knowledge of version control tools like gitliulpbrppstrongOther Desirable SkillsstrongpulliPhD in Statistics Operations Research Applied Mathematics or another technical fieldliliKnowledge of GAMS Gurobi or other mathematical programming languagesliliKnowledge of Ruby on RailsliliExperience with B2B sales data from CRM platforms like SalesforcecomliliExperience with B2B marketing data from marketing automation platforms like Marketo HubSpot or EloqualiulpbrppstrongHow to ApplystrongppIf you are interested in joining the team please submit your resume and cover letter to jobsormtechcomp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T12:51:32.000Z"
+  },
+  "company": {
+    "name": "ORM Technologies",
+    "link": "https://www.linkedin.com/company/orm-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

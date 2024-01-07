@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Games",
+    "description": "pstrongWho We Arestrongppbrpp2K Games Dublin is a hub passionate about performance marketing commercial strategy data engineering and data scienceanalytics and is part of the 2K Games group of companiesnbspppbrppFounded in 2005 the 2K label includes some of the most hardworking game development studios in the world today including Firaxis Games Visual Concepts Hangar 13 2K Czech and Cat Daddy Games Our worldclass team of engineers developers graphic artists and publishing professionals are stewards of a growing library of critically acclaimed franchises such as Battleborn BioShock Borderlands The Darkness Mafia NBA 2K Sid Meiers Civilization WWE 2K and XCOM 2K is headquartered in Novato California and is a whollyowned label of TakeTwo Interactive Software Inc NASDAQ TTWOppbrppstrongWhat We are Looking Forstrongppbrpp2K is looking for an experienced and skillful Machine Learning Engineer to join a rapidly growing team at the groundbreaking edge of creativity in the central Data amp Analytics Organization We bring AI machine learning statistics operations research and economics to the design operation and optimization of 2Ks games This covers the application of algorithmic solutions to areas such as matchmaking ingame experience personalization ingame economy content and fraud Our  vision at 2K is to create a diverse and inclusion environment to Come As You Are and feel equipped to do your best work We are dedicated to promoting diversity multiculturalism and equality in all that we do Our communities are focused on increased access and personal growth and their greatness depends on a diversity of race gender sexual orientation religion ethnicity national origin and perspective Were an equal opportunity employer and were excited to build the future of coliving with the worlds most hardworking and passionate peopleppbrppstrongWhat You Will DostrongppbrppThis person will have to be an excellent software engineer On top of that the ideal individual will have a track record of deploying and productizing machine learning models especially experience with deployment as prediction services You should also have exposure and understanding of the machine learning lifecycle including different types and tasks of ML algorithms ML workflow and common modelingcomputing frameworks We are looking for a meticulous creative problem solver a selfstarter with the passion and enthusiasm to get results for meaningful change meet deadlines and build whatever is vital along the way is essential for this role Capable and comfortable making architectural choices when working on sophisticated solutions consisting of multiple componentspulliCollaborate with machine learning scientists data engineers backend engineers and game studios to deploy ML models as productiongrade intelligent decision services and integrate with larger systems or productsliliBuild robust MLOps practices for the team and larger data science group advocate and foster engineering standard methodologies within the data science community Emphasize reliability and qualityliliDesign and quickly prototype AIMLpowered products and services for various applications including recommenders matchmaking cheattoxicity intervention and economy balancingliliWork closely with game studio devs and central tech to plan and execute integrated solutions of AIML applications into games in time for launchliulpbrppstrongWho We Think Will Be a Great FitstrongppbrppThis person is not expected to take prototype code and rewrite it for production but instead build the platform to enable multiple dataML scientists to deploy their code upon Theyll work with our data engineering and DevOps departments to do so not building a stack in a silo Theyll also be encouraged to be a senior collaborator for dataML scientists for coding standard methodologies and more sophisticated eg realtime algorithm development and deploymentpulliAdvanced degree Master in Computer Science Computer Engineering Electrical Engineering or related STEM fieldsliliProficient in Python plus at least one highperformance system programming language C C Java Rust  Skilled with objectoriented and functional programming paradigmsliliFamiliarity with common ML tasks including supervised unsupervised and with reinforcement learning as a plus Understanding of commonly used ML algorithms traditional ML and deep learningliliKnowledge of stack architecture skills experience writing infra as code and deployingliliProven understanding of machine learning modelingcomputation frameworks such as scikitlearn PyTorch Tensorflow or Spark MLliliExperience with big data technologies such as Relational and NoSQL databases Hadoop or Apache SparkliliReadiness for collaboration with machine learning model developers data engineers and game developersliulpbrppstrongBonus PointsstrongpulliRecommender systems search engines information retrieval matchmaking or reinforcement learning technologiesliliCloud computing platforms such as AWS GCP or Azure Containers container orchestration serverless deployment microservice architectureliliStream data processing and related tools such as Apache Kafka Kinesis Spark StreamingliliMajor game engines such as Unreal or UnityliliTechnically not a skill but you are comfortable with working hours 10am630pm enabling greater connection with our US HQliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T08:32:49.000Z"
+  },
+  "company": {
+    "name": "2K",
+    "link": "https://www.linkedin.com/company/2k-games"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "IE",
+    "locality": "Dublin City",
+    "region": null,
+    "postal_code": "$AG-10028",
+    "street_address": null,
+    "latitude": 53.344097,
+    "longitude": -6.267486
+  }
+}

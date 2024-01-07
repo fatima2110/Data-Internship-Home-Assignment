@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Biotechnology",
+    "description": "strongAbout Us brbrstrongOur mission is to cure cancer through high performance accessible early cancer detection That means saving livesbrbrDelfi Diagnostics is a Johns Hopkins spinoff focused on the noninvasive detection of cancer at earlier stages when it is most curable DELFI uses artificial intelligence and whole genome sequencing to detect unique patterns of DNA fragmentation in the blood of patients with cancer These analyses are performed through simultaneous examination of millions of DNA sequences using machine learning to identify tumorspecific abnormalitiesbrbrIn our passionate pursuit to radically improve health outcomes we serve humanity when webrbrLead with Science Anchor in Pragmatism We pioneer lifechanging science by ensuring quality transparency and rigor at all times We explore thoughtfully experiment smartly and deliver impact with convictionbrbrBuild With amp For All We embrace diverse backgrounds to innovate and achieve together We are not just building a product  we aim to disrupt the path of cancer for all  no matter geography or socioeconomic classbrbrPut We over I We are a home for highperforming people Through teamwork we build collective intelligence Each of us wins when those we serve and those who serve with uswin We show up with empathy humility and integrity at every step of the journeybrbrIn this role you will work with a crossfunctional team of Bioinformatics Scientists Clinicians Engineers and other Data Scientists to analyze genomic and clinical data of individuals diagnosed with and at risk of cancer This position will develop and implement machine learning to models to make predictions about a variety of clinical characteristics including optimizing our ability to detect cancer early Results will be communicated to internal and external stakeholders using visualizations This work will culminate in the development of products with the potential for clinical impactbrbrstrong What Youll Do brstrongulliDevelop machine learning models to make accurate predictions about cancer and other clinical characteristicsliliPerform feature engineering by working with researchers to establish representations of whole genome sequencing WGS data that reflect cancerdriven changesliliDevelop reproducible analyses using Rmarkdown Jupyter Notebook etc and version control using GitWork with our lab team to develop experiments to understand impact on classification performanceliliCollaborate with Engineers to implement improvements into our bioinformatics pipelineliliDevelop visualizations to interpret and communicate resultsbrbrliulstrong Required brstrongulliMS or PhD in Biostatistics or a related field with three plus 3 years of experience or equalliliExcellent understanding of machine learning techniques and algorithmsliliExperience with common data science toolkits and libraries such as Rcarettidyverse and PythonscikitlearnpandasliliExperience with data analysis and visualization using R andor python with a demonstrated ability to apply these skills to relevant scientific problemsliliAble to work on a crossfunctional team in a collaborative environmentliliWorking knowledge of Linuxbrbrliulstrong Preferred brstrongulliKnowledge of cancer genomicsliliExpertise in computational analysis of highthroughput technologies in genomics especially with cfDNAliliDemonstrated ability to uncover new biological insights from large genomics datasetsliliExperience with highperformance computingliliFamiliarity with product development is a plusliulAn equal opportunity employerbrbrWe are an equal opportunity employer and value diversity at our company We do not discriminate on the basis of race religion color national origin gender sexual orientation age marital status veteran status or disability status",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T17:12:10.000Z"
+  },
+  "company": {
+    "name": "Delfi Diagnostics",
+    "link": "https://www.linkedin.com/company/delfi-diagnostics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Baltimore",
+    "region": "MD",
+    "postal_code": "21226",
+    "street_address": null,
+    "latitude": 39.290443,
+    "longitude": -76.612335
+  }
+}

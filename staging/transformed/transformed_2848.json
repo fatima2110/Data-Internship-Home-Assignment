@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Ops Engineer",
+    "industry": "Computer Software,Internet,Information Technology and Services",
+    "description": "pThe OpportunitynbspnbspppbrppAs part of the team younbspwouldnbsppulliDesign and build state of the art machine learning solutions at scalenbspliliDevelop optimized and automated ML deployment strategiesliliContribute to development of ML lifecycle management toolsliliCollaborate with and learn from team members across the organizationnbspliulpnbspppVianainbspis looking for experiencednbspdevelopersnbspinterested in furthering thenbspstate of the art of AI democratizing our approaches to the design of thinking systems and promoting our vision to current andnbspprospective clientsnbspppnbspppWhat youll donbspnbsppulliSetup configure deploy upgrade and maintain both internal and cloud hosted landscapes across major cloud platforms eg AWS Azure GCP etcliliDevelop and maintain CICD strategies that facilitate automated ML application deployment and monitoringliliDevelop and maintain containerbased infrastructure to support webbased application hosting lifecycle management etcnbspliliParticipate in development architecture design especially for deployment and maintenance decisionsliliManage resource allocation and support software development activities such as Authentication and permissions configuration Deployment of web applications preferably serverside JavaScript applications Git repository management And SSO configuration and managementliulpbrppAbout YounbspppYou are fascinated by the unknown and curious to understand it Your systems mindset and affinity for diving into code make you a natural explorer of new technology at the bleeding edgenbspppbrppOur ideal colleaguenbsppulliExpert amp Student We want to work with someone who has deep domain expertise and is also open and curious to new ways of doing thingsliliMaker amp Manager Someone whonbspwillnbspbe handson and do the work as well as leadnbspbrainstorming sessions andnbspteams A colleague who will jump in the trenches and lead by exampleliliCollaborative amp Independent Someone who values communication and connection with others andnbspcan collaborate as part of a team and work independentlyliulpnbspppEducation amp Qualificationnbsppulli35 years hands work experience as a ML Ops Engineer or similar software engineering roleliliExpert level knowledge of Kubernetes and all Kprefixes eg Knative Kubeflow etcliliDeep experience in CICD pipeline and toolsliliWorking knowledge of databases and SQLliliExcellent system design and objectoriented design and development skillsliliHands on experience with server based JavaScript application developmentliliGeneral Unix or Linux expertiseliliFaster learner and team playerliliExcellent oral and written communication skillsliliBSBA in Information Technology Computer Science or a related discipline professional certification is a plusliulpbrppPreferred QualificationsnbsppulliExtensive experience in managing the applications on major cloud platform certified preferredliliGood understanding of release managementliliExperience on data management machine learning and application developmentliulpbrppAbout UsnbspppbrppWho we arenbspppWe are a team of engineers designers doers makers and thought leaders We are curious and creative confident and humble We have a passion for technology and believe that when used to amplify our humanity it has the power to do good in the world We are starting small but we believe that wenbsphave the ability tonbspchange the world if we stay focused and remain true to our values Vianaisnbspteam comes with deep expertise in enterprise technologies and landscapes business application development engineering services design thinking and cuttingedge AI research We are a startup but we are founded funded and led by veterans of the industry We think and work like entrepreneurs but weve brought a wealth of experience and expertise that is deeply relevant to our mission and the market opportunitynbspnbspnbspppnbspppHow we WorknbspppWe are professionals and experts focused on building organizational wisdom by activating artificial intelligence and amplifying human minds We are also sisters and brothers fathers and mothers sons and daughters partners and friends Our family comes from around the world We love the environment We believe in science and in spirituality and we honor every living thing that shares the planet with us We are teachers and we are lifelong studentsnbspppnbspppWhile Vianai is a part of each one of us it isnt all of usnbspppnbspppOur company is founded on a culture of trust empowerment and respect We bring our whole self to work  the nonperfect messy sometimes imposter sometimes expert sometimes vulnerable and sometimes superhuman self that contributes to what we believe in We strive to provide everyone regardless of race sex age gender ability or sexual orientation with a safe environment so each person can focus on doing what they donbspbest andnbsphelp us change the worldnbspppnbspppWe are committed to advancing inclusion equity and diversity because we believe that to design more transparent and beneficial AI systems we need architects of all types And to us the more perspectives the better We dont have all the answers but we encourage questions and smart creative people with diverse experience and expertise The combination helps us gain clarity find ideas and move to the best solution fasternbspppnbspppWe ask tough questions to each other and of ourselves We dont shrink from our responsibility to our community and to all of humanitynbspppnbspppConnect with Us How to applynbspppSubmit your resume and a cover letter introducing yourself and why you are interested in joining our teamnbspp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T17:48:32.000Z"
+  },
+  "company": {
+    "name": "Vianai Systems, Inc.",
+    "link": "https://www.linkedin.com/company/vianai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

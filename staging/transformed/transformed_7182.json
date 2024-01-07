@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Developer / DevOps Engineer, Infrastructure",
+    "industry": "",
+    "description": "pBlueciate Inc is lookin for stronguSenior Developer  DevOps Engineer InfrastructureustrongppstronguUS Citizen with Active Secret ClearanceustrongppnbspstrongCustomernbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp DODstrongppstrongLocationnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp Herndon VAstrongppstrongDurationnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp Multi Year assignmentstrongppnbspppstronguEXPECTATIONS AND TASKSustrongppBecause we work on the cutting edge we need someone who is eager to learn a creative problem solver resourceful in getting things to work and productive working independently or collaboratively In your average week you willppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspWork closely with our engineering and operations team to build integrate test and deploy SAP Analytics Cloud into our production systemsppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspCollaborate with colleagues to understand new landscape requirements and help to adapt our solution to meet themppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspDevelop test and maintain build system CICD framework and deployment toolsppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspAutomate and streamline deployment processesppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspDevelop and maintain a monitoring system that overlooks our build landscapeppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspLead efforts in automation continuous deployment build and configuration managementppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspAssess new technology projects and tools or migrate our environment to new versions to keep up with the rapid pace of changeppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspEstablish repeatable process for setup and maintenance of new landscapes in collaboration with the development and operations teamsppnbspppstronguEDUCATION AND QUALIFICATIONS SKILLS AND COMPETENCIESustrongppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp5 years of relevant work experienceppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspBachelors degree preferably in Computer Science or EngineeringppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspExperience building and managing complex build pipelines using tools like Spinnaker JenkinsppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspExperience with AWS GCP or Cloud Foundry ppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspStrong background in LinuxUnix AdministrationppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspExperience in writing software in languages such as Java Python Go JavaScript C or similarppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspExperience with containerization technologies such as Docker dockercompose in a production environment Experience maintaining applications in virtualized environmentsppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspExperience with Source control such as GITppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspAbility to work well in a team as well as independently and have a positive selfmotivated cando attitudeppstronguBonus if you have experience withustrongppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspInfrastructure software tools such as Terraform Ansible and PackerppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspBuilding containerized applications using Kubernetes DockerppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspBuilding software that must scale to thousands of users concurrentlyppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspExperience with monitoring solutions such as Zabbix Prometheus GrafanappnbspppstronguWORK EXPERIENCEustrongpp5 years of relevant work experience developing web applications can include internship or coop experienceppbrppstrongAmber K Business HRstrongppINFOblueciatecompp9726079081ppwwwblueciatecomppbrp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-09-08T03:12:19.000Z"
+  },
+  "company": {
+    "name": "Blueciate",
+    "link": "https://www.linkedin.com/company/blueciate-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Herndon",
+    "region": "VA",
+    "postal_code": "22092",
+    "street_address": null,
+    "latitude": 38.96973,
+    "longitude": -77.38387
+  }
+}

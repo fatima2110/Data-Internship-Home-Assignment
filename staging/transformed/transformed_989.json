@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Entertainment",
+    "description": "strongWhat will be your missionbrbrstrongAt Sony Pictures our mission is to map relevant movie and TV series content to consumers and audiences across transactional subscription and linear viewing platforms Were building data products and visualization tools and insights platform that will predict audience preferences and behaviour for library and new releases to drive growth of engagement and consumption of Sony produced content Sony produces franchise brands such as Spiderman Men in Black and Jumanji through to TV franchises such as Breaking Bad Blacklist and Better Call SaulbrbrOur Data team is responsible for aggregating millions of consumer data points to best in class predictive models consumer trends systems recommendation engines and morebrbrstrongWho are youbrbrstrongIn the role of Data Scientist for Sony Pictures Distribution  Television and Home Entertainment you must possess a passion for pioneering an empirical and datadriven culture The candidate must have a proven track record of developing business model solutions and extracting meaningful business insights from big databrbrYoure a highly skilled commercially focused and motivated Data Scientist looking for exciting projects that will challenge you to demonstrate expertise and leadership in building out our advanced analytics models with the view of mapping relevant content to surprise and delight audiencesbrbrWith a deep understanding of ML frameworks ML pipelines and statistics youll leverage your programming data wrangling and analytical expertise to solve business problems build data products and frameworks track performance automate testing and more Working closely with the rest of our Analytics team and partnering with our BI team youll assist in creating the foundation for how we build datadriven applications tools and experiences for our internal business partnersbrbrstrongWhat youll be doingbrstrongulliExecute the data vision strategy and goals ensuring those are consistent with the Divisions business requirementsliliAs part of the Data Science team help develop analytical capabilities data products and tools to enable data query and deliver solutions to business requestsliliContribute and provide thought leadership to the business and key stakeholdersliliDevelop new approaches to understand the consumer and solve complex business problems such as optimizing product performance gross profit and adoptionliliGenerate actionable audience insights using advanced statistical techniques such as predictive statistical models audience profiling segmentation analysis survey and test design exploratory analysis and data miningliliUnderstand in depth design and inform statistical testing for audience strategyliliDesign user interfaces to overlay ML models and enable business partners to access models query results and scenarios liliBuild presentations and reports to communicate statistical modeling resultsliliCan manage ingestion and cleansing of large unstructured data and developing analytical capability to query the data and respond to user requests using a wide range of technologies includingliliProductionalize codes and models via various tools and technologies such as R Connect and R Studio to deliver scale efficiency and speedliliProfile explore connect and analyze extensive often disjointed and unstructured datasets including product meta data user level data primary research audience profiles social commentary and DMP databrliulstronguQualificationsbrustrongulliMust have an indepth knowledge of advanced statistical techniques machine learning feature engineering and model evaluation techniques including regressions cluster analysis test design variable reduction nonparametric tests and forecasting methodologiesliliExperience with AB testing and test designsliliExperience with big data standardizing and appending variables across disparate data setsliliExperience analyzing user level data PII and anonymized DMP data social data and viewing  transactional or streaming datalili34 years experience developing production ML models to solve problems such as product recommendations audience classification path modelling lookalike modelling and performance optimizationliliBABS degree required with technical focus eg mathematics computer science physicsliliMS or PhD degree preferred but not essentialliliAbility to work with data and platform engineers to implement ML pipelinesliliExperience with R and SQL and preferably a scripting language Perl PythonliliBusiness experience in media industry preferred but not requiredliliResults oriented excel in organizational skills have strong attention to details and be able to effectively manage multiple projectsassignments simultaneouslyliliCurious about data and problem solving intrinsic ability to look at data and identify patterns problems or analysis opportunitiesliliStrong communication skills and the ability to explain complex analyses to both technical and nontechnical audiencesliliEffective data visualization skills with analytical tools such as Tableau ShinyliliCollaborative  a team player who can thrive as an individual but also enjoyliliproviding mentorship learning and being collaborative in crossfunctional teamsliliSony Pictures Entertainment is an equal opportunity employer We evaluate qualified applicants without regard to race color religion sex national origin disability veteran status age sexual orientation gender identity or other protected characteristicsliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-24T00:37:23.000Z"
+  },
+  "company": {
+    "name": "Sony Pictures Entertainment",
+    "link": "https://www.linkedin.com/company/sony-pictures-entertainment"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 80600,
+    "max_value": 166000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Culver City",
+    "region": "CA",
+    "postal_code": "90232",
+    "street_address": null,
+    "latitude": 34.0225,
+    "longitude": -118.39429
+  }
+}

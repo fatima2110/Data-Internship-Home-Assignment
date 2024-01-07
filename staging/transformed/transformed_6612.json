@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "pMZ Development MZD was founded in 2015 by assessment and technology experts with a shared vision for making performance assessment a reality for all Since then MZDs platforms strongOSCARstrong strongOSCAR Classroomstrong and strongADAMstrong have been used by forward looking K12 school districts and leading testing organizations to enhance their assessment programsnbspOur clients expect us to deliver innovative EdTech solutions that make performance assessment a realistic option for themnbspppbrppNow we are looking to add to our talented engineering team This position will be part of a virtual team of engineers who have a love for education and developing technology to improve it Responsibilities include gathering user requirements defining system functionality and writing code in various languagesppbrppUltimately the role of the Software Engineer is to build highquality innovative and fully performing software that complies with coding standards and technical designppbrppstrongResponsibilitiesstrongppbrppThis position reports to the CTO and will have responsibility for new product development and support ppbrppResponsibilities includeppnbspnbspnbspnbspnbspExecute full software development life cycle SDLCppnbspnbspnbspnbspnbspWrite welldesigned testable codeppnbspnbspnbspnbspnbspProduce specifications and determine operational feasibilityppnbspnbspnbspnbspnbspIntegrate software components into a fully functional software systemppnbspnbspnbspnbspnbspDevelop software verification plans and quality assurance proceduresppnbspnbspnbspnbspnbspDocument and maintain software functionalityppnbspnbspnbspnbspnbspTroubleshoot debug and upgrade existing systemsppnbspnbspnbspnbspnbspDeploy programs and evaluate user feedbackppnbspnbspnbspnbspnbspComply with project plans and industry standardsppnbspnbspnbspnbspnbspEnsure software is updated with latest featuresppbrppstrongRequired Skills and ExperiencestrongppbrppnbspnbspnbspnbspnbspBS degree in Computer Science Engineering or relevant experience ppnbspnbspnbspnbspnbspProven work experience as a Software Engineer or Software Developer 24 yearsppnbspnbspnbspnbspnbspExperience with web development 24 yearsppnbspnbspnbspnbspnbspFamiliarity with AWS hosted applicationsppnbspnbspnbspnbspnbspExperience using Go Vue Python TensorFlow or MongoDB desiredppnbspnbspnbspnbspnbspExperience with testdriven developmentppnbspnbspnbspnbspnbspProficiency in software engineering toolsppnbspnbspnbspnbspnbspAbility to document requirements and specificationsppnbspnbspnbspnbspnbspAbility and desire to work as part of a virtual ppnbspnbspnbspnbspnbspExperience with GIT or similar VCS toolsnbspp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T04:19:13.000Z"
+  },
+  "company": {
+    "name": "MZ Development",
+    "link": "https://www.linkedin.com/company/mz-development"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Iowa City",
+    "region": "IA",
+    "postal_code": "52243",
+    "street_address": null,
+    "latitude": 41.66124,
+    "longitude": -91.53013
+  }
+}

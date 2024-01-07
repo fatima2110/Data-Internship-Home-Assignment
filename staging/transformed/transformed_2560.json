@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "pstrongIs this youstrongppbrppLooking for an opportunity that helps you grow and recognize your goalsppLooking to make positive contributions to a technology teamppUnderstands how business drives technologyppHas a prosperity mindset to succeedppIf this sounds like you then please read onnbspppbrppstrongWho we arestrongppbrppKapowby Hello Destination Managementis an industryleading event platform that allows companies to find book and manage memorable scalable and essential corporate events We help companies grow revenue quickly by combining thousands of prepackaged experiences and national partnerships with restaurants retailers and other special event venues and the service and expertise of local event experts Kapow empowers customers to drive stakeholder collaboration boost attendance fill pipeline measure success and produce bottomline results from their event programs Kapow is based in Chicago and Orlando and we operate all over the US and in select international markets However this role will be in ChicagoppbrppstrongOur working agreementstrongppbrppThese are guidelines developed by our team as to how we want to work together They are revisited and revised on a regular basis Our working agreement is deeply ingrained into the culture of everything we do at Kapow polliHave empathy always assume good intentliliBe reasonable do things for a reason listen and hearliliDisagree and commit Everyone commits to the work reflect on mistakes as a team Be enthusiastic about the work we agree to doliliProgress over processliliWhile we have processes they are not hard and fast rules Bend and break them as needed That also means communication is extra importantliliOperate as an owner Be serviceoriented Understand that sometimes we need to drop sprint work to help out our users Its not my job should not be part of your vocabulary We all lend a handliliLean into the unknown embrace ambiguityliolpbrppstrongWhat youll be doingstrongppbrpulliDeveloping features for the Kapow platform on a Mac using RubyRails Git and MySQLliliWriting Javascript using React Webpack NPM Yarn and related librariesliliBuilding APIsliliUsing source version control toolsliliDoing cloud based deploymentsnbspliliWorking in 2week sprints and youll be participating in all Scrum activitiesliliDesigning and architecting software featuresliliReviewing and QAing the work of other EngineersliulpnbspppEven if you dont meet all qualifications below we still encourage you to apply We value openmindedness and flexibility The prerequisites for joining our development team are simple we care more about your attitude and aptitude than the specific tools and technologies you have used in the pastppbrppstrongTechnical requirements and qualificationsstrongppbrppstrongNeedsstrongppbrpolli24 years of relevant software engineering experience on an app framework like Rails Spring Django Expressetclili13 years FrontEnd HTML5CSS3JavaScript experience with a JS frameworklibrary like React Angular Ember VueetcnbspliliComfortable developing APIs GraphQL RESTful JSONliliFamiliarity with thirdparty API integrationsliliProficient with SQL and databases like MySQL PostgreSQLetcliliFluent in Unit Testing RSpec Cucumber or equivalent in your favorite languageliliComfortable working in an agile environment in 2week sprintsliliProblem solver and an executor who can thrive in an agile environmentliolpbrppstrongNice to havesstrongppbrpulliExperience with Ruby on RailsliliExperience with ReactliliExperience with Sidekiq or other job queueing systemsliliExperience working in cloud environment like AWS EC2 S3 Elasticsearch ElasticBeanStalk CloudFormationliliExperience with continuous integration environments and deployment tools Jenkins Travis CIetcliliBest practices around system security and encryption schemesliliProgramming structures multithread single threadetcliliExperience developing microservicesliliExperience developing and improving ecommerce platformsliliExperience with distributed systemsliulpbrp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T14:50:10.000Z"
+  },
+  "company": {
+    "name": "Kapow",
+    "link": "https://www.linkedin.com/company/kapow"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

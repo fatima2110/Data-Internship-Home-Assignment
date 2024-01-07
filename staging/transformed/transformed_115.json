@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Scientist",
+    "industry": "Food &amp; Beverages",
+    "description": "pWho we are ppbrppFounded in 2013 Thistle is an earlystage foodtech startup empowering our customers to get and stay healthy while improving our food systems sustainability We deliver delicious organic healthy plantforward meals coldpressed juices and snacks to customers on the West Coast at the elusive intersection of convenience health and sustainabilityppbrppWe dont want to be just another food delivery startup Our focus is on our customers health and happiness and we are revolutionizing how fresh nutritious highquality food is purchased manufactured and delivered at scale  Thistle is headquartered in San Francisco and we are backed by some amazing investors in the Bay Area and beyond  Were headquartered in San Francisco but we are excited to be building out a remote Data team Candidates should be located within California Oregon Washington Nevada Arizona Tennessee or MaineppbrppAbout the RoleppbrppThistle is looking for a passionate Senior Data Scientist to drive decisionmaking through data This position will have the opportunity to collaborate with a multidisciplinary team on a wide array of problems bringing scientific rigor and statistical methods to the challenges of product development customer acquisition operations forecasting and moreppbrppQuestions you might work on includeppbrpulliHow can we optimize ingredient forecasting models to drive efficiency and reduce food wasteliliHow can we leverage meal feedback data to deliver personalized recommendations that delight customersliliWhich marketing channels most efficiently drive new customer acquisition Where can we best allocate spendliliWhat are the key measures of business health How can we monitor performance and detect anomaliesliulpbrppWhat youll doppbrpulliBuild a datadriven decision culture throughout the company empower teams to use data daily while partnering on the most important initiativesliliDevelop and deploy machine learningstatistical models to improve the customer experience and drive longterm business healthliliDesign analyze and evaluate experiments Determine appropriate decision criteria and communicate results effectively to stakeholders across the companyliliContribute to Thistles data model including defining appropriate dimensions creating data pipelines and developing appropriate processes to ensure data qualityliulpbrppWhat youll bringppbrpulli3 years of handson data science experienceliliBachelorsMastersPhD in a quantitative discipline or equivalent practical experienceliliStrong statistical knowledge and intuition including causal inference experimentation and statistical modelingliliProficiency in 1 programming languages eg R PythonliliExcellent business  product acumen especially the ability to translate key business questions into an impactful analysisliliSolid SQL and data visualization skillsliliA passion for our mission to make it easy for everyone to get and stay healthy while improving the sustainability of our food systemliulpbrppLife at ThistleppbrpulliJoin a kind diverse passionate amp driven team of all backgroundsliliEnjoy Thistle meals at a substantial discountliliTeambuilding and Frequent Wellness EventsliliComprehensive health benefits medical dental visionliliFlexible time off policy and generous parental leaveliliChoice of PC or Apple equipmentliulpbrppWe understand that everyone is going to have strengths and weaknesses with regard to different aspects of this role We encourage you to apply even if you feel some of the expectations would be challenging to meetppbrppDiversity equity and inclusion are essential values at Thistle We know well do our best and most impactful work when we feel were represented and we belong Were proud to actively recruit and hire talented people from a wide variety of backgrounds and experiences We do not discriminate on the basis of race religion color national origin gender sexual orientation age marital status veteran status or disability statusnbspYou can get some deeper insight into how we approach DEI along with some statistics on the internal demographics of the company and leadership team herenbsphttpswwwthistlecolearnthistlethoughtsthistleondiversityequityandinclusionnbspp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:23:43.000Z"
+  },
+  "company": {
+    "name": "Thistle",
+    "link": "https://www.linkedin.com/company/thistle"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

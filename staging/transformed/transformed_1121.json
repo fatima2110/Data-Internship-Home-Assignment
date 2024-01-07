@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - Travel Inventory",
+    "industry": "Computer Software",
+    "description": "At TripActions Its all about the user All of them Were passionate about providing a seamless onestop experience for business travelers no matter how they travel where they stay or where theyre goingbrbrWe are looking for passionate Senior BackEnd Engineers to lead design and development of core product features and services that power the TripActions app used by thousands of travelers on a daily basis You will work closely with a set of talented engineers product managers designers and data scientists to identify customer needs and build innovative solutions to solve thembrbrstronguWhat Were Looking Forbrustrongulul liStrong programming skills and CS fundamentals combined with 5 years of experience building productsli liDeep architecture and API design skills to build core services and new product featuresli liStrong sense of ownership demonstrated through shipping productionquality code equipped with testing monitoring and documentationli liPassion for solving problems and learning new tools and technologiesli liExcellent communication skills working with stakeholders and domain experts across the company to design solutions to user problemsli liAbility to thrive in a fastpaced environmentli ulul brbrstronguAdditional Awesomenessbrustrongulul liExperience with Java AWS andor distributed systems is a plusli liPrior experience working at startups andor on consumerfacing productsli ulul brbrstronguAbout TripActionsbrbrustrongFast becoming the default for corporate travel and spend management TripActions is the leading cloudbased TampE platform that combines industryfirst technology with bestinclass travel agency service Trusted by travel managers and finance teams alike at more than 5000 companies globally TripActions leverages realtime data to keep traveling employees safe control costs and save timebrbrTripActions investors include such visionaries as Andreeseen Horowitz Lightspeed Ventures GreenOaks Capital Zeev Ventures and entrepreneurs Lee Fixel and Elad Gil In January 2021 TripActions announced its Series E funding of 155M at an upround valuation of 5B to help accelerate future growth plansbrbrAt TripActions were never satisfied with the status quo and we know breakthrough ideas come from diverse perspectives We are committed to cultivating a workplace that reflects the diversity of the customers we serve while fostering leadership and innovation All voices are valued here and youll have the resources tools and training youll need to do the best work of your lifebrbrstronguOur BenefitsbrbrustrongWe realize benefits are important as they support keeping you at your best at all times Our benefits are here for you if you get sick or hurt help you save for now and later encourage you to take time off work and travel and provide perks specific to being a TripActions employee both in and out of the officebrbrstrongEqual OpportunitybrbrstrongTripActions is an equal opportunity employer We make all employment decisions based solely on merit We provide equal employment opportunity to all applicants and employees without discrimination on the bases of race religion color national origin gender including pregnancy childbirth or related medical conditions sexual orientation gender identity gender expression age status as a protected veteran status as an individual with a disability or other applicable legally protected characteristics We prohibit any such discrimination or harassment This policy applies to all terms and conditions of employment including hiringbrbrstrongAccommodationsbrbrstrongTripActions complies with the Americans with Disabilities Act ADA as amended by the ADA Amendments Act and all applicable state or local law TripActions will reasonably accommodate qualified individuals with a disability in connection with applications for employment as required by lawbrbrIf you need any assistance or accommodations due to a disability you are welcome to email us at email protected brbrstrongCandidate Privacy NoticebrbrstrongPlease review TripActions Candidate Privacy Notice here ",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T01:55:40.000Z"
+  },
+  "company": {
+    "name": "TripActions",
+    "link": "https://www.linkedin.com/company/tripactions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 127000,
+    "max_value": 220000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

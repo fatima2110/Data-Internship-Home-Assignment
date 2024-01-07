@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps / Site Reliability Engineer",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brImagine what you could do here At Apple great ideas have a way of becoming great products services and customer experiences very quickly Bring passion and dedication to your job and theres no telling what you could accomplishbrbrbrAre you a passionate operations engineer Want to work on solving large scale problems Come join us to help build best in class CICD solutions and in implementing complex software applications across Corporate Systems Engineering at Apple Our DevOps engineering team develops and deploy software which ensures that Apples corporate applications are delivered accurately reliably and with speed We support both open source and homegrown technologies to provide internal Apple developers with the best possible CICD platform In this role you will have the unique opportunity to own and improve tooling for best of the class largescale CICD platform and help build modern software systems  brbrbrThe DevOps engineering team is part of the engineering operations team for corporate systems This team is directly responsible to build manage and expand on tools that enable software releases in a fast paced enterprise environment We operate in onpremise private and public cloud AWS GCP etc environments As a DevOps Engineer you will be partnering closely with software development teams and infrastructure teams And be responsible for building and supporting CICD platforms automating repeatable infrastructure needs environment buildout software build and releases creating automated solutions installing and configuring application software and upkeep of systems through patching upgrades monitoring and maintenance supportbrbr brstrongKey Qualificationsbrstrong brExperience designing and working with modern Continuous integration and deployment solutionsbrbr13 years of experience in DevOpsSRE systems engineering buildreleasedeployment automationbrbrExperience with hosted services in a highvolume enterprise environmentbrbrImplementing applications in privatepublic cloud infrastructure and container technologies like Kubernetes and DockerbrbrExceptional analytical and troubleshooting skills in complex UnixLinux systems environment and applications implementationsbrbrExperience designing and building CICD pipeline with tools such as Terraform CloudFormation Ansible and Kubernetes toolset eg kubectl kustomizebrbrExcellent understanding of microservices architecturebrbrDevelop fullfledged software tooling to deliver programmable infrastructure amp environments infrastructure as codebrbrDemonstrated ability to write programs using a highlevel programming languages or scripting such Java Python Shell GolangbrbrExperience with logging infrastructure and using tools such as Splunk Logstash or KibanabrbrExperience with networking load balancers such as Ngnix Netscaler HAProxybrbrOperational experience with public cloud AWS GCP platforms through migrations scaling operationsbrbrBackground building distributed serverbased infrastructure supporting a high volume of transactions in a mission critical environmentbrbrDemonstrated ability to work on small focused teams to complete critical milestones under pressure with tight deadlinesbrbrExperience with Kafka MongoDB Cassandra and Oracle is highly desirablebrbrPassion for driving automation into how software development and delivery is donebrbrExperience on Mac OS iOS mobile apps desirablebrbrExcellent written and verbal communication skillsbrbrPartner with global teams development teams and infrastructure teamsbrbrInDepth knowledge on AWS services including VPC IAM EC2 EKS CloudWatch S3 RDS Route53  Experience in similar services for GCP is preferredbrbrWorking experience with Spinnaker or Tekton is a plus  brbrAWS Cloud Architect andor Certified Kubernetes Administrator CKA certifications are highly desiredbrbr brstrongDescriptionbrstrong brWorking in DevOps engineering team will expose you to a variety of challenges Our team enables CICD capabilities for large numbers of applications by building tuning and supporting highly available system You will be working closely with US and India based teams and in a multivendor resourcing model As member of this team you will be empowered to work across multiple tools to improve and expand the capabilities the team has to offer This may includebrbrbrDesign and implement new software to streamline manual operationsbrbrbrTriage production issues along with other operational team membersbrbrbrConduct root cause analysis of critical issuesbrbrbrExpand the capacity and performance of the systembrbrbrMaintain primarily Linux and other types of systemsbrbr brstrongEducation amp Experiencebrstrong brBachelors in Computer Science or equivalentbrbr brstrongAdditional Requirementsbrstrong brThe ideal candidate will be a selfmotivated handson dynamic and detail oriented individual with a strong technical backgroundbrbr brRole Number 200281860brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-30T02:28:18.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

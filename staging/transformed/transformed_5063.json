@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Network Engineer",
+    "industry": "",
+    "description": "pNetris is looking for a Senior Network Engineer to join our TAC team to help our customers worldwide operate their missioncritical networks for private cloud edge and local Kubernetes deployments using Netris automatic NetOps softwareppAs a vital member of the TAC team youll collaborate with network and software architecture teams and assist in creating Netris  the new automatic NetOps software that overdelivers expectations of customers and achieves extraordinary efficiency stability empowering networks of the futureppIts an exciting opportunity for Network professionals to work with the latest cloud management technologies such as Kubernetes Terraform and to get exposed to the latest networking hardware from our ecosystem hardware vendors such as NvidiappYou will be expected to iterate rapidly while delivering highquality outputppbrppstrongWhat Youll DonbspstrongpullistrongArchitect SolutionsstrongnbspUnderstand users goals and architect productiongrade networks Support customers during their deployentmigration processlilistrongProblemsolvestrongnbspTroubleshoot complex problems in distributed remote networks Be creative and suggest solutions to avoid and minimize impact Reproduce unique issues in the lab environmentnbsplilistrongCommunicatestrongnbspCommunicate professionally with users over slack email and phone Document customer interactions in ticketing systemslilistrongKnowledge basestrongnbspUse create share learnings and knowledge Create internal and external manuals guides knowledgebasenbsplilistrongGuidestrongnbspMentor less experienced colleagueslilistrongHave funstrongnbspBe part of a vibrant team work with fantastic users create the networks of the futurenbspliulpbrppstrongKey Requirementsstrongpulli5 years of experience in networking engineeringarchitecture experience in TACL3 support teams of a network vendor is huge plusliliSolid understanding of Network FundamentalsliliExperience working with BGP routingliliExcellent knowledge of LinuxliliKnowledge of Linux networking is a plusliliExcellent problemsolving troubleshooting and analytical thinking skillsliliAbility to deliver and passion to challenge the status quoliliAbility to communicate effectively and work collaboratively with the team and internalexternal organizationsliliWilling to learn and deep dive into complex technical thingsliliFluent in written and verbal EnglishliulpbrppWe neednbspstrongamazingstrongnbsppeople likenbspstrongyoustrongnbspto help us challenge the conventional and think differently about the problems were solvingnbspppbrppstrongBenefits at NetrisstrongpulliCompetitive compensationliliStock optionsliliLearning and development assistanceliliHealth dental and vision insuranceliliUnlimited Paid Time Off and Sick Time OffliliPaid Parental LeaveliliWork from anywhere remote work initiativesliulpbrp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:51:44.000Z"
+  },
+  "company": {
+    "name": "Netris",
+    "link": "https://www.linkedin.com/company/netrisai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

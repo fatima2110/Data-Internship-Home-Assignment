@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software,Information Services,Information Technology and Services",
+    "description": "pResponsibilitiesnbsppp Work closely with business partners and engagement managers to translate complex business problems into analytics problems and solutions Ask questions to understand business intent problem statement analytics opportunity and value creationppnbsp Work closely with data engineering team to identify and consume relevant structured and unstructured data sources including IoT sources such as manufacturing sensors systemsppnbsp Identify key hypotheses and data science approaches to answering analytics problems and getting to business outcomesnbspppnbsp Develop statistical and machine learning modelsalgorithms through iterative process and rapid prototypingnbspppnbspppstrongWhat your background should look likestrongpp A masters degree in data science predictive analytics computer science applied mathematics statistics software engineering physics or related quantitative disciplinenbsppp 5 years of handson experience in machine learning and statistical modelling including a demonstrated highlevel of proficiency in applying data science techniques to solving enterprise problemspp High proficiency in conducting analyses using tools like Python R and data visualization tools eg Tableau Power BI Qlik Plotypp Rigorous understanding of the fundamentals of statistics machine learning and artificial intelligence using both structured and unstructured data setspp Experience in developing hypotheses or analytics solutions for business problemspp Experience in presenting complex analytics methodologies analyses and insights in simple and concise manner to the business partners and senior leadersppnbspppWe Valuepp A PhD degree andor additional relevant industry certifications in analytics software platforms cloud environments etcnbsppp Preferred experience in developing data science solutions in marketing pricing andor supply chain domainspp Experience moving prototypes to production environment and optimizing models in production environmentpp Experience mentoring business analysts and other data scientistspp Exposure to distributed computing frameworks as well as cloud technologiesppnbspppstrongCompetenciesstrongppValues Integrity AccountabilityTeamwork Innovationp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T18:58:48.000Z"
+  },
+  "company": {
+    "name": "ManpowerGroup",
+    "link": "https://www.linkedin.com/company/manpowergroup"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

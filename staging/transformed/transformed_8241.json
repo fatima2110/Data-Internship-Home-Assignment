@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Computer Software,Information Technology and Services",
+    "description": "We have an exciting opportunity for a Sr Site Reliability Engineer to join a worldclass team building the high performing infrastructure to support internal Research activities for our premier voice natural language and AIpower technologiesbrbrYou are a selfstarter and will work on supporting DevSecOps excellence and Site Reliability through an automation pipelinedefined approach to operations security and Azure infrastructure You will build various tools systems and infrastructure that enable pipeline driven testing and infrastructure that enables cloud native monitoring continuous integration horizontal and vertical scalabilitybrbrstronguKey Success FactorsbrustrongulliHas the drive to constantly raise the bar to improve how we deliver our portfolio of productsliliBiased towards action capable of time slicing well based on prioritiesliliExcellent verbal and written communication and interpersonal skillsbrliulstronguResponsibilitiesbrustrongulliUse Terraform to build manage secure flexible productive Azure infrastructures that support research development and production projects of the research teamsliliWork to automate detection and resolution of recurring issues in the production environmentliliEnforce compliance with IAM principals including least privilege access password management Audit logging RBAC certificate issuance and revocationbrliulstronguKnowledge Skills And Qualifications brbrustrongEducation Bachelor of computer science or equivalent qualification is requiredbrbrMinimum years of work experience 5 years experience building and operating Azure public cloud solutionsbrbrstronguRequired SkillsbrustrongulliExperience working in a Docker Kubernetes environmentliliExperience with scripting language like Python PowerShell etcliliExperience with Agile Scrum and DevSecOps concepts Configuration Management and Orchestration with ARM templates Terraform and Azure DevOps pipelinesliliEvidence of Experience integrating testing and deploying Azure Cloud Services into production systems eg compute storage Key Vault Azure PaaSbrliulstronguPreferred SkillsbrustrongulliAbility to build use and configure metrics collection reporting and alerting systemsliliExperience working as a Site Reliability Engineer or a similar role operating a highly scalable and distributed platformbrliulRemotebrbrNuance offers a compelling and rewarding work environment We offer market competitive salaries bonus equity benefits meaningful growth and development opportunities and a casual yet technically challenging work environment Join our dynamic entrepreneurial team and become part of our continuing successbrbrNuance celebrates diversity and is proud to be an equal employment opportunity and affirmative action workplace We consider all qualified applicants without regard to race color religion sex including pregnancy sexual orientation gender identity or expression national origin military and veteran status disability genetics or any other category protected by ulawu or Nuance policy If you need an accommodation because of a disability for any part of the employment process please call 7815655086 and let us knowbrbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-18T00:11:32.000Z"
+  },
+  "company": {
+    "name": "Nuance Communications",
+    "link": "https://www.linkedin.com/company/nuance-communications"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 95500,
+    "max_value": 184000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Burlington",
+    "region": "MA",
+    "postal_code": "01803",
+    "street_address": null,
+    "latitude": 42.504986,
+    "longitude": -71.19583
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Full Stack Software Engineer - 100% Remote",
+    "industry": "Financial Services",
+    "description": "pstrongTitle Full Stack Software EngineerstrongppstrongLocation 100 RemotestrongppstrongFull timeDirect HirestrongppbrppstronguWhat Were Looking ForustrongppWe are looking for someone who takes pride in the craft and wants to be part of a team of talented engineers working to further Tills growth Youll partner with engineering teams product managers analysts and customer success to design build and maintain our technology platformppbrppstronguResponsibilitiesustrongpulliOwn one or multiple projects from start to finish and be guided by the support of a dedicated manager mentor or lead engineerliliParticipate in daily team processes and learn all aspects of the software development lifecycleliliTrack data that will allow us to better understand how we can improve our productsliliLearn about the business and engineering practicesliliIncrementally increased the quality and reliability of our payment processing systemliulpbrppstronguAbout YouustrongpulliExcellent written and verbal communication and interpersonal skills able to effectively collaborate with technical and business partnersliliHave the ability to learn quicklyliliEnjoy working independently and as part of a teamliliPossess the ability to solve realtime technology problemsliliAre a selfstarter and possess strong sense of selfmotivationliliAre selfless Ideas dont have to originate from you in order for you to commit to a path forwardliliValue ownership and autonomyliliFluency in at least one nonBash programming language such as Python Ruby Go JavaScript  Nodejs Java C or CCliliExperience with or a willingness to learn at least one major front end development framework React Vue AngularliliExperience with at least one cloud platform such as AWS Azure or GCPliulpbrppstronguBonus PointsustrongpulliExperience with CloudFormation or TerraformliliFamiliarity with at least one CI  CD tool such as Harness GitHub Actions Spinnaker Jenkins or CircleCIliliExperience with at least one logmetricsalerting tools such as DataDog Sumologic FluentD Prometheus ELK or SplunkliliExperience with DynamoDB Security Scanning Tools AWS MultiRegion configuration SnowflakeliulpbrppstronguOur Tech StackustrongppstrongExperience with some of these would be helpful Well teach you the reststrongpulliAWS Lambda  DynamoDB  ECS  Docker  SQS  CloudFormation JavaScript  PythonliliVuejsliliSnowflakeliulpbrppstronguBenefitsustrongppHealth insurance with 100 premium covered for employee FlexibleUntracked PTO  sick leaveppChild care and health FSAppPaid parental leavepp401KppnbspppInterested candidate please send your latest resume at strongusarathmindsourcecomustrongp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:31:43.000Z"
+  },
+  "company": {
+    "name": "MindSource",
+    "link": "https://www.linkedin.com/company/mindsource"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Alexandria",
+    "region": "VA",
+    "postal_code": "22336",
+    "street_address": null,
+    "latitude": 38.804665,
+    "longitude": -77.04362
+  }
+}

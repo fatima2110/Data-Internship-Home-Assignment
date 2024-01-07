@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Hospital &amp; Health Care",
+    "description": "pOur mission is to deliver critical healthcare analytics that positively impact every care path In America As we continue to grow we are looking for anbspstrongSoftware Engineer strongto join our team to help postacute providers better partner with referral sources  so that more patients receive the care they need where they needppbrppYou as the Software Engineer will be responsible for developing innovative solutions and highquality products We are looking for the highest levels of technical talent and programming skills as well as a keen desire to deeply understand our products and services to push our technology forward with respect to functionality performance reliability and scalabilityppbrppAre you ready Join us as we empower meaningful change in healthcareppbrppstrongLocation strongPhiladelphia PAppstrongReports to strongLead Software EngineerppstrongnbspstrongppstrongAs a member of the Technology team at Trella you willstrongpulliBe a core contributor to Trellas software applicationsliliCreate modern web applications using TypeScript Sass and Angular 10liliCreate backend services using C SQL ReST Nodejs andor JSONliliBuild and develop new userfacing experiencesliliPartner closely with crossfunctional teams in design product and other business unitsliliTake ownership in product features that drive Trellas missionliliGrow the companys everevolving architectureliliImprove the team through the process andor technical contributionsliliBe resultsdriven  We prosper by delivering value to our customers We need each team member to be customercentric and focusing on actions that provide value to the customerliulpbrppstrongThis job might be a fit for you if you havestrongpulliStrong applied experience Youve built broken and rebuilt software applications Were looking for creative thinkers who also know how to create realworld productsliliWorking knowledge of web technologies such as HTTP HTMLDOM JavaScript Sass Angular 10 a modern Javascript frameworkliliWorking knowledge of C JSON and SQLliliUnderstanding around concepts like Web Services SOA REST APIs design patterns best practicesliliA constant desire to grow learn and explore new thingsliliAn ability to work pragmatically  balancing business needs with engineering needs and understanding what overengineering is and what good design isliliAn understanding andor working knowledge of microservicesliliWorking knowledge with at least one modern cloud service provider such as AWSliliA burning desire for continually improvingnbspliulpstrongnbspstrongppstrongAbout Trella HealthstrongppTrella Health is a rapidly growing VCbacked healthcare technology company dedicated to improving healthcare By empowering postacute care providers and their patient referral sources to advance the way they work together were paving the way for healthier more costeffective outcomes Our clients range from the largest national providers down to small standalone agencies ppbrppOur solutions give business leaders an active picture of the care continuum so they can better understand peer and provider performance metrics in their market Our customers use analytics and insights to improve growth and performance in their business ppbrppstrongThe Trella Health ExperiencestrongppTrella Health encourages diverse perspectives and celebrates curiosity initiative drive and a passion for making a difference Our collaborative culture is anchored by trust transparency and inclusion  and we also have a lot of fun Other benefits includeppbrpulliMedical dental and vision healthcareliliCompetitive salary and bonus structureliliUnlimited Paid Time OffliliFlexible work hoursliliShare optionsequityliulpbrppstrongEqual Opportunity EmployerstrongppTrella Health is an equal opportunity employer All persons will receive consideration for employment without regard to race color gender sexual orientation gender identity or expression religion national origin marital status age disability handicap veteran status genetic information or any other protected status as recognized by federal state or local lawsp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T17:06:31.000Z"
+  },
+  "company": {
+    "name": "Trella Health",
+    "link": "https://www.linkedin.com/company/trellahealth"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Philadelphia",
+    "region": "PA",
+    "postal_code": "08051",
+    "street_address": null,
+    "latitude": 39.95106,
+    "longitude": -75.16562
+  }
+}

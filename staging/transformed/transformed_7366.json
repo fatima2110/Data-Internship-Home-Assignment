@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "pMada is a startup powering inspired shopping experiences Our AIbased marketplace app The Mada App uses proprietary technology to recommend personalized and shoppable outfits for each user Dubbed Tinder for Outfits the app curates millions of products from thousands of brands and retailers like Bloomingdales Shopbop Urban Outfitters and more to revolutionize the way Gen Z shops Now we are working with some of the worlds largest brands on a new venture and are looking for an ubertalented data scientist to join our team to help us push the boundaries of whats possible for product recommendationppbrppstrongMajor responsibilities includestrongppbrpulliBuild and deploy ML models and applications in the cloudliliMaintain and improve existing ML models and applicationsliliDiagnosing and resolving bugs and issues promptlyliliCreate ETL pipelines tofrom various types of data structuresliliResearch and validate new approaches to ML for use within our apps and interfacesliliInterface closely with our product tech and other teamsliliCreate project plans for and estimate level of effort for ML initiativesliliParticipate in full group project planning and sales engineering meetingsliliAutomate analytics and business intelligence reportingliulpbrppstrongRequired ExperiencestrongpulliBachelors degree in Computer Science Machine Learning Statistics Mathematics etc or equivalentlili3 years of industry experience in an ML engineer or data scientist role building ML models or hands on experience developing deep learning modelsliliExperience writing Python and SQLliliExperience with computer visionliliExperience creating ETL pipelinesliliExperience in deploying models to production environments at scale behind an APIliliExperience handling very large size datasets tens of gigabytesliliAbility to break down problems and create solutions in an organized and clear mannerliliClear written and verbal communicator to technical and nontechnical audiencesliliStrong business acumen empathy for customer needsliliExperience working remotely selfmotivatedliulpbrppstrongOur ideal superstarstrongpulliImpeccable communication and interpersonal skillsliliThrives in a fastpaced and constantly changing environmentliliExpert in creative problem solvingliliOutgoing friendlyliliExtremely organized Marie Kondo levelliliHandles pressure in a cool calm and collected mannerliliEntrepreneurial selfstarter independent doesnt require hand holdingliulpnbspppIf this sounds like you please send your resume and a quick video introducing yourself and explaining why youd be a great fit for the role to careersthemadaappcomp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T19:36:23.000Z"
+  },
+  "company": {
+    "name": "Mada",
+    "link": "https://www.linkedin.com/company/the-mada-app"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "pstrongAbout JitsustrongppJitsu delivers the power of AIML transparently for high quality decision making Ad hoc querying large amounts of data is expensive and slow cloud TCO is high and existing solutions have scaling challenges Cloud data warehouses are expensive proprietary silos There is a need to query data directly from the data lake without having to make a data copy into a DWppbrppstrongAbout The RolestrongppWe are looking to hire a Software engineer to join our earlystage team In this role you will be a critical part of our engineering team developing in the Jitsu Server Jitsu ManagementControl plane and developing on cloud and onprem infrastructureppbrppstrongRoleResponsibilitiesstrongpulliLead and drive projects that span our stack including C Java Scala Node services and a Web UI written in Typescript and ReactliliDevelop and automate the infrastructure to deploy and upgrade Jitsu software in various environments such as AWS and Onpremises platforms in a scalable and robust mannerliliIntegrate deployment with security infrastructure such as LDAP AD and IAMliliWork on the Containerization of services via Docker eg DockerHubHarbor YAML files and Docker orchestration software eg KubernetesliliDevelop operational tools to monitor and control cloud instances running Jitsu softwareliliTake ownership of internal systems CI Source code control amp review artifact management etcliliPromote strong collaboration within a cross functional teamliliBuild for scale and high performanceliulpbrppstrongDesired SkillsExperiencestrongpulli35 Years of relevant experienceliliBSMS in Computer Science or equivalent experienceliliSignificant software development experienceliliDistributed system development experience is a big plusliliDeep understanding of algorithms and datastructuresliliDemonstrated technical leadership experience such as being an architect or tech lead for high impact customer facing projects is a big plusliliDeep understanding of modern web applications design architecture good API design patterns performance and scaleliliExperience in modern technologies such as Javascript Typescript React Angular Node Java Scala Kubernetes and SQLliliAt least 1 years in cloud computing AWSliliAWS infrastructure development experienceliliWorking knowledge of AWS security IAM Cloudformation Lambdas and other servicesliliExperience and knowledge of Git Github Gitlab etcliliExperience with Cloud computing toolsets  Terraform Vault Packer etcliliExperience with configuration management tools Ansible Chef PuppetliliInterest and ability to learn other coding languages as neededliliTremendous attention to details and ability to build reliable and scalable software systemsliliExcellent communication skills and experience working in highperformance teamsliliInterest in working in a small fastmoving early stage startup environmentliulpbrppstrongContactstrongpulliIf interested in the position please send your resume to jobsjitsuai Principals onlyliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T18:16:34.000Z"
+  },
+  "company": {
+    "name": "Jitsu, Inc.",
+    "link": "https://www.linkedin.com/company/jitsuai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

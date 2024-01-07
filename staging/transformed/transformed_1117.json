@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Machinery,Staffing and Recruiting,Financial Services",
+    "description": "Edina MNbrbrAs a member of the WEX Health Platform Services team the Software Engineer role will work closely with the Application Security Architect and Enterprise Architecture to enhance the security of our systems by analyzing design and architecture of existing systems with an eye to security gaps issues and potential improvements Additionally will perform ethical hacks design reviews security code reviews and analyze security assessments from external security firms Confirmed issues will be reported as bugs and issues will be researched and analyzed to propose solid fixes via documented solutions andor example code This individual will see resolution of issues through to completionbrbrIn addition this role will work with project teams during all phases of projects where application development may be required from a Platform Services perspective One example is platform solutions that interface with third party Vendor SAAS solutions such as Sengrid and TwiliobrbrThis role will also keep current with security industry best practices and use such knowledge to contribute to security policies procedures and development team training programs Members of this team are expected to actively participate in all stages of the development lifecycle and work closely with representatives from other teams such as QA Product Development Database and ITbrbrstronguWe Look For The Following In Our Engineersbrustrongulli Solid understanding of software development principles and design patterns and strong knowledge of programming languages lili Solid understanding of coding practices and design principles lili Fix and test reported issues lili Ability to create new software designs and evolve existing designs to meet customer requirements and deliver products and solutions effectively lili Collaborate with senior team members to understand and execute on software projects lili Be an owner of our process and team culture continually iterating on and improving how we build products lili Passionate about technology and security and always expanding their knowledge of future technologies brliulstronguMinimum Requirements And Qualificationsbrustrongulli Bachelors degree in Computer Science or related area or equivalent education or work experience lili 57 years of development experience in web technologies objectoriented languages web services and unit testing lili 7 years of experience in SQL Server TSQL lili Experience troubleshooting customer problems and responding to customer requests lili Experience developing in NET frameworks eg ASPNET C WCF preferred lili Common JavaScript frameworks jQuery etc lili Excellent communication skills brliulstronguExtra Consideration Given To The Followingbrustrongulli Application Security Frameworks and Principles lili Prior experience in security features or defensive measures such as OWASP recommendations lili Web Application Security practices OWASP etc lili Experience developing in the agile process lili Unit testing lili Domaindriven design lili ORM Frameworks NHibernate Active Record etc lili Application Architecture experience lili Mobile development experience lili Experience with SSOFederation  SAML OpenID ConnectOAuth WSFederation brliulPosted Today Full time R4771brbrWEX is a leading financial technology service provider across a wide spectrum of sectors including fleet travel and healthcare We hire people who share our passion for continuous innovation and client service that is unparalleled in the industry Offering comprehensive and market competitive benefits our offerings are designed to support your personal and professional wellbeing If youre looking for a growing career  come be part of WEX today To learn more about ourbrbremployee benefits please click here brbrWEX is an equal opportunity employer committed tobrbrdiversity and inclusion in the workplacebrbrAll qualified applicants will receive consideration for employment without regard to sex racebrbrcolor age national origin religion sexual orientation gender identity protected veteran statusbrbrdisability or other protected status WEX promotes a drugfree workplacebrbrQualified individuals with a disability have the right to request a reasonable accommodationbrbrIf you require a reasonable accommodation as a result of your disability at any point in the jobbrbrapplication process please submit your request through our Reasonable Accommodation Request Form brbrThis form is for accommodation requests only and cannot be used to inquire about the status of applicationsbrbrSenior Full Stack NET Developer  Edina MN",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:00:24.000Z"
+  },
+  "company": {
+    "name": "WEX",
+    "link": "https://www.linkedin.com/company/wexinc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 77600,
+    "max_value": 169600,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Edina",
+    "region": "MN",
+    "postal_code": "55340",
+    "street_address": null,
+    "latitude": 44.91049,
+    "longitude": -93.34866
+  }
+}

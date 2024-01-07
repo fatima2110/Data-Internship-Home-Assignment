@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Developer - Web Applications II",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "stronguResponsibilitiesbrustrongulliDesign develop and maintain the UX for various applicationsliliEnsure responsive implementationliliApply clientside design approaches that enables applications to be scalable on the dimensions of data and usersliliDesign clientside solutions using established brand and design guidelines to ensure UX consistencyliliEnsure clientside product quality by doing comprehensive UI testing with automationliliDefine the WEB APIs necessary to support the UXliliSource ideas from the open source community to help keep the product suite currentliliEnsure that clientside applications adhere to security standards and guidelinesliliEnsure that clientside applications adhere to coding standardsliliCollaborate with fellow developers designers and analysts to solve problemsbrbrliulstronguExperiencebrbrustrongThe ideal candidate would possess the followingbrulliMinimum 5 years of industry experience working with complex web tiers in JavaScript HTML CSS SVGliliExtensive experience using TypeScript with Angular 11 and Bootstrap liliExperience applying design patterns to develop and support web pages that run on multiple browsers including mobilehandheld devicesliliExperience building hightraffic scalable and highperformance Web sitesliliExperience developing solutions using an Agile approach like ScrumliliExperience apply security technologies such as TLS SAML and OAuth2 and OpenIDbrbrliulstronguSkills And QualificationsbrbrustrongThe ideal candidate would have some experience or familiarity with the following frontend technologiesbrulliExcellent Web development skills using JavaScript HTML HTML5 CSS CSS3 lessliliStrong knowledge of TypeScript with Angular liliResponsive UI design and development using BootstrapliliKnowledge of RESTful services and Web APIsliliBuild tooling Grunt Bower NPMliliTesting mocha karmaliliFamiliarity with API frameworks such as Swagger or RAMLbrliulPowered by JazzHRbrbr6PaMW6WOuV",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-20T07:02:55.000Z"
+  },
+  "company": {
+    "name": "Zealogics LLC",
+    "link": "https://www.linkedin.com/company/zealogics-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Montvale",
+    "region": "NJ",
+    "postal_code": "07645",
+    "street_address": null,
+    "latitude": 41.04014,
+    "longitude": -74.03271
+  }
+}

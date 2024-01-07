@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer",
+    "industry": "Financial Services,Information Technology and Services,Information Services",
+    "description": "strongJob DescriptionbrbrstrongIf you are an experienced Software Engineer with a passion for crafting and delivering big data solutions using leadingedge technologies looking for a collaborative team environment where there is a wealth of opportunities to innovate and have intellectual curiosity to learn a career in Personalization Chapter with in WI Technology will be the right fitbrbrThe WI Technology organization is seeking a Senior Data Engineer to build and maintain large scale data processing systems In this role you will apply variety of technologies to develop innovative big data solutions This position is a critical element to delivering Fidelitys promise of crafting the best customer experiences in financial servicesbrbrThe Senior Data Engineer in Personalization is responsible for design and development of highly available scalable and distributed data platforms using open source frameworks to process high volume high velocity and wide variety of structured and unstructured data The Senior Data Engineer will play active role in solution design solving key technical challenges and mentoring the teambrbrstrongThe Expertise You HavebrstrongulliBachelors in a technology related field eg Engineering Computer Science etc requiredlili5 years of overall experience in implementing back end and middle tier applicationslili3 years of experience in implementing Big data solutions in data analytics spaceliliProven understanding of developing highly scalable distributed systems in Cloud AWS Azure Google CloudliliExtensive experience in Object Oriented Programming Java Scala Python Messaging Technologies Kafka Kinesis SNS SQS Relational and NoSQL databases DynamoDB Elastic search Graph DB Stream Processing Flink Kinesis Analytics Spark data movement technologies ETLELT REST APIs and inmemory technologiesliliExperience with DevOps Continuous Integration and Continuous Delivery Maven Jenkins Stash Ansible DockerliliExperience in deploying Machine Learning models with reinforcement learning in highly scalable environments will be a plusliliData Analysis and Modeling skills will be plusliliExperience in Agile methodologies Kanban and SCRUMbrbrliulstrongThe Skills You BringbrstrongulliStrong technical design and analysis skillliliAbility to take care of ambiguity and work in fast paced environmentliliDeep experience supporting mission critical applications quicklyliliExcellent communication skills both through written and verbal channelsliliExcellent collaboration skills to work with multiple teams in the organizationliliAbility to understand and adapt to changing business priorities and technology advancementsliliSolid understanding and technology trends in implementing of Big data ecosystemliliStrong standout colleague and able to mentor junior team membersliliSolid understating of data architecture patterns such as Lambda Kappa Event driven Architecture Data as a Service Microservice etcliliCritical thinking and problem solving skillsbrbrliulstrongThe Value You DeliverbrstrongulliCrafting Building and supporting mission critical applications to provide the best customer experienceliliExploring new technology trends and using them to simplify our data ecosystemliliDriving Innovation and leading the team to implement solutions with future thinkingliliCollaborating with internal and external teams to deliver technology solutions for the business needsliliGuiding teams to improve development agility and efficiencyliliResolving technical roadblocks to the team and mitigating potential risksliliDelivering system automation by setting up continuous integrationcontinuous delivery pipelinesliliActing as a technical mentor to the team and bringing them up to speed on the latest data technologies and promoting continuous learningbrbrliulstrongCertificationsbrbrstrongCompany OverviewbrbrAt Fidelity Investments our customers are at the heart of everything we do As a privately held company with a rich 75year history our mission has remained the same since our founding emto strengthen the financial wellbeing of our clientsem We help people invest and plan for their future We assist companies and nonprofit organizations in delivering benefits to their employees And we provide institutions and independent advisors with investment and technology solutions to help invest their own clients moneybrbrJoin UsbrbrAt Fidelity youll find endless opportunities to build a meaningful career that positively impacts peoples lives including yours You can take advantage of flexible benefits that support you through every stage of your career empowering you to thrive at work and at home And you dont need a finance background to succeed at Fidelitywe offer a range of opportunities for learning and growth so you can build the career youve always imagined We welcome associates from different backgrounds and with different perspectives to help us innovate and make a difference for our customers and our communitiesbrbrWe invite you to strongFind Your Fidelitystrong at fidelitycareerscombrbrFidelity Investments is an equal opportunity employer We believe that the most effective way to attract develop and retain a diverse workforce is to build an enduring culture of inclusion and belongingbrbrFidelity will reasonably accommodate applicants with disabilities who need adjustments to participate in the application or interview process To initiate a request for an accommodation contact the HR Leave of AbsenceAccommodation Team by sending an email to accommodations fmrcom or by calling 8008355099 prompt 2 option 2brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:27:19.000Z"
+  },
+  "company": {
+    "name": "Fidelity Investments",
+    "link": "https://www.linkedin.com/company/fidelity-investments"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Westlake",
+    "region": "TX",
+    "postal_code": "76299",
+    "street_address": null,
+    "latitude": 32.99391,
+    "longitude": -97.19771
+  }
+}

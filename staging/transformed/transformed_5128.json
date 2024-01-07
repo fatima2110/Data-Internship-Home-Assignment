@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Games,Computer Software",
+    "description": "pElectronic Arts Inc is a global interactive entertainment software company EA delivers games content and online services for Internetconnected consoles personal computers mobile phones and tabletsppbrppOur Worldwide Customer Experience WWCE team exists to help the world play We support players across the globe in 13 languages and value employees that will bring new ideas to help make WWCE a great place to be and be from We celebrate diversity and inclusion and aim to create great experiences for our employees as often as our playersppbrppAnd we want you to join us Were hiring a Software Engineer Sr Prototyper You will be part of the Innovation Labs within the EAs Customer Experience organization The Customer Experience organization strives to make EA known for taking care of its playersppbrppYou will explore new technologies and develop proofofconcept demonstrations You have a firm grasp of programming concepts and are comfortable with multiple programming languages and learning new ones You will report to the Sr Manager WWCE Innovation Labs within Customer Experience organizations Insights teamppbrppuYou Will Spend Most Of Your TimeupulliWork with Innovation Labs providing technical expertisedirection for experiment designliliResearch new technology areas that can improve the EA Customer experienceliliDevelop technical proof of concepts to test new services frameworks and programming languagesliliExperiment with different combinations of our existing technology to prove or disprove hypothesesliliWireframing UIUX for new POCsliliCreate technical architecture designs for new POCsSystemsliliHelp manage the Innovation Labs Tech stack internal VMs External cloud providersliliParticipate in brainstorming sessions about research and experimentsliliDocument and write up research notes on POC findingslilibrliulpuIf Youre Interested Youll Need These Skills Or ExperiencesupulliBABS in Computer Science or similar fieldlili2 years of programming experience Experience with HTML5 CSSSASS JavaScript JS Frameworks ReactVue NodeJS Python SQL and Java liliInterest in understanding and designing UXUIliliExperience with open source software MySQL Linux and so onliliExperience with unitintegration testing frameworksliliFamiliarity with virtualization technologies EC2 VMwareliliAwareness of container technologies Docker KubernetesliliWorking knowledge of git GitHubGitlab CICD setups and so onliliTalent for taking abstract and theoretical ideas and converting them into clear requirementsliliFamiliar with new technologies AIChatbots Machine Learning Toxicity moderation Image detection Text Analyticsliulpp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T13:47:10.000Z"
+  },
+  "company": {
+    "name": "Electronic Arts (EA)",
+    "link": "https://www.linkedin.com/company/electronic-arts"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 62500,
+    "max_value": 83200,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "Texas Metropolitan Area",
+    "postal_code": "78723",
+    "street_address": null,
+    "latitude": 30.276316,
+    "longitude": -97.70931
+  }
+}

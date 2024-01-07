@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Backend) - North America",
+    "industry": "Computer Software,Internet,Computer Games",
+    "description": "stronguAbout UsbrbrustrongGravity Sketch is a VC backed Londonbased startup transforming the future of digital creation Our vision is to revolutionise 3D design and the way products are brought to life We are developing the first 3D digital design platform focused on creative designers We aim to positively disrupt the current design and engineering workflows placing the user at the center of the creation process in hopes of accelerating the full development process The platform is used by thousands of designers across the globe in industries such as transportation industrial design media and entertainment and apparelbrbrstrongLife At Gravity SketchbrbrstrongWere a small team of 33 We move quickly take pride and ownership in our work and aim to leave a real impact on the industry Our culture is one of innovation collaboration and creativity Were looking for ambitious passionate and empathetic people who want to join us on our journey As a fastgrowing startup were processlight and with a heavy focus on innovating If youre resourceful by nature and a great team player youll fit right inbrbrAt Gravity Sketch youll drive your own projects and career development Well support you in your individual growth goals so youll have access to unparalleled learning if youre up for the challengebrbrWe work hard and we play hard too whether were finding new ways for the whole team to listen to our company Spotify while remote or playing Jackbox with colleagues theres something for everyone from Beat Saber to pub quizzes to board game nights to Zoom workouts to collaborative fun sketching sessions in GS Were always open to trying new things if you want to share your hobby with the teambrbrstronguWhat Youll Be DoingbrbrustrongThis role will involve designing and developing large scale distributed systems to support realtime multiuser interactions in an Immersive Product yes even more complex than an MMO with 3D collaborationbrbrAs a Backend Engineer in an immersive technology company you will need to understand our products and have empathy with our users You must have a passion and motivation to improve propose design and develop scalable backend systems to support low latency interactions across multiplatform applications such as desktop mobile devices design tablets AR VR and so on Youll work on PoC MVP and production development and properly address and balance the quality scalability reliability extensibility flexibility etc of the systems you are going to deliver within set timeframesbrbrThe role would suit someone with a solid engineering foundation and strong motivation to learn new skills and knowledge in cutting edge technologies Ideally youre always willing to try propose redesign and refactor alternative solutions to be more efficient while reducing errors and minimising human interactions for easier maintenancebrbrstronguRequirementsbrbrustrongstrongWhat we look forbrstrongulliCompatible to work within Pacific timezone this is a fully remote roleliliBachelors degree in fields related to Computer Science Physics Mathematics or EngineeringliliDevelopment experience in at least one of the languages C C Java Golang RustliliUnderstand and adopt rigorous industrystandard coding and design pattern best practices including SOLIDliliExperience with distributed systemsliliStrong understanding of distributed databasesliliKeen interest in continuously learning new and emerging technologiesliliWilling to get hands on with devopsbrliulstrongBonus points if you havebrstrongulliExperience in large scale projects and working as part of a teamliliExperience with a large scale distributed systemliliExperience using Redis Apache Cassandra DynamoDB ElasticSearch Docker KubernetesliliUnderstand concurrency highmulti threading and low latency interactionsliliUnderstand and know how to build a scalable systemliliExperience deploying to AWS or Google cloudliliReact Javascript HTML or other frontend development experiencebrliulustrongBenefitsbrstronguulliMedical dental amp vision insurance lili25 days paid holidayliliEmployee stock optionslili1000 personal budget per year for professional developmentliliEnhanced parental leave policy maternity and paternityliliTop spec IT equipmentliliRegular team socials team lunchesliliChance to work at a fast growing startup disrupting the Createch industryliliReal work ownership  you drive your own initiativesliliGreat work culture and environment  we work hard but also know how to have funbrliulemWe are committed to equality of opportunity for all employees Applications from individuals are encouraged regardless of age gender sexual orientation background and nationalityem",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T04:05:38.000Z"
+  },
+  "company": {
+    "name": "Gravity Sketch",
+    "link": "https://uk.linkedin.com/company/gravitysketch"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

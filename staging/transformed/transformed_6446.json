@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Equipment Data Analyst",
+    "industry": "Machinery",
+    "description": "strongCustomer First  Integrity  Excellence  Teamwork  Fun brbrstrongAt Peterson our Vision is to be our strong customers first choice strong We put our customers first and continually strengthen our partnerships through our employees hard work ingenuity and determination Our 85 year history is a reflection of our collective efforts and focusbrbrWe provide a family oriented environment that promotes safety personal growth and professional achievement Critical to our continued success is strong hiring and developing exceptional employees strong We are deeply committed to providing an environment necessary to attract and retain engaged employees who will relentlessly strive to reach Petersons strategic goals and vision We have high standards for our employees with good reason They represent Peterson our family our brand and our values to customers and our team membersbrbrWhy PetersonbrbrWe have high expectations and so do you strong You are exceptionally motivated have outstanding skills and are looking for more than just a job strong We offer competitive wages generous benefits and promotional opportunities at a family owned and operated business that really cares about employees If you want to work sidebyside with others who are passionate about customer service consider joining our team You can help us write more chapters in our success story as we move towards celebrating our 100 year anniversarybrbrstronguJob DescriptionbrbrustrongstrongPeterson Cat has an immediate need for an Equipment Data Analyst located at our San Leandro CA location brbrstrongstronguSummarybrbrustrongThe person in the position organizes and performs MachinesEngines InventoryPopulation data cleanup and maintenance in DBSOLGAEDCRM for all Peterson CAT locations CA and OR Responsible to review and perform monthly cleanup and update duties for all DBSOLGAEDCRM DealerBusiness Systems  Opportunity Lead Generation Analyzer  Equipment Data specific system maintenance and reports Responsible to update customers MachinesEngines population records as requested by Product Support Reps MachinesEngines Salesman and Sales Managers and other Peterson CAT employees as defined by the Product Support Analytics amp Program ManagerbrbrstronguEssential Job FunctionsbrbrustrongThe following reflects managements definition of essential functions for this job but does not restrict the tasks that may be assigned Management may assign or reassign the functions to this job at any time due to reasonable accommodation or other reasons Job functions include the following Other duties may be assignedbrulliWorks under the direction of the Product Support Analytics amp Program Manager to perform duties in cleaning up and maintaining Customers Equipment Population records MachinesEngines with valid and accurate dataliliCommunicates on a dailyweekly basis with Product Support Analytics amp Program Manager to resolve issues or problems related to Machines and Engines Customers inventorypopulation record accuracy and updates and on a monthly basis resolve issues and problems in relation to error and exception reportsliliPrepare and create analysisreports presentations graphs and other analysis reports on Equipment data including CAT nonCAT T200 for customers and machinesliliPrepare and create analysisreports presentation graphs and other analysis report on OLGA and COGNOS including Opportunity Sales Lost Opportunities POPS and POLS and all related subjects found in OLGA web reportsliliUpdates guidelines and other reference material for DBS ED Equipment Data and other systems manualsguidelinesliliWorks directly or indirectly as defined by the Product Support Analytics amp Program Manager with Product Supports Reps MachinesEngines Salespeople and Sales Managers and other Peterson CAT employees to update customers machinesengines inventorypopulation recordsbrliuluOrganizes data and performs cleanup duties for the following OLGA reports and configurationsuulliOpportunitySalesliliPast And Future OpportunityliliCustomer Exclusion ReportliliDuplicate Serial Number ReportliliParked Equipment Conflict ReportliliProcessing ErrorsliliCalculations ErrorsliliData ErrorsliliConfigurationsliulliBranch StoresliliGeneric PartsliliLabor RatesliliSource Supply CodesliliExclusions and InclusionsliliCRM ExportsliliDealer PartsliliDealer BUILDER File UploadliliBUILDER FilesbrliululuCustomers Equipment Population MaintenanceuulliRemove or Add units  Equipment that have been sold no longer in service or purchasedliliUpdate prime product record  Equipments units that are out of territory or will be parked for extended periods of timeliliVerifyUpdate Customers Population unit accuracyliulliEquipment Population accuracyliliSerial NumberliliDisplay ModelliliPrincipal Work CodeliliApplication CodeliliYear of ManufactureliliAnnual HoursliliCustomer Assigned Industry SegmentliliCustomer Assigned StoreliliAnd other information as requestedneededbrliululstronguCustomerEquipment Association InformationbrustrongulliVerify association between Customer and EquipmentliliPerform Customer InclusionExclusion in and from OLGAliliCustomerEquipment accuracy between DBS and OLGAlili Maintains punctual regular and predictable attendance lili Respectfully takes direction from supervisor manager brliulstronguQualificationsbrbrustrongAssociates degree A A or equivalent from twoyear College or technical school and at least two years of work experience with data analysis and inputs or equivalent combination of education and experiencebrbrExperience with DBS CAT MachinesEngines Equipment database and Tableau knowledge is strongly preferred Knowledge and working experience with Microsoft Office ExcelWordPowerPoint programs is a requirementbrbrPeterson Holding Company is committed to equal employment opportunity and affirmative action Minorities females veterans and individuals with disabilities are encouraged to apply A drug screen and background check is required",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T23:55:26.000Z"
+  },
+  "company": {
+    "name": "Peterson Cat",
+    "link": "https://www.linkedin.com/company/peterson-cat"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 54600,
+    "max_value": 82600,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Leandro",
+    "region": "CA",
+    "postal_code": "94577",
+    "street_address": null,
+    "latitude": 37.728363,
+    "longitude": -122.158615
+  }
+}

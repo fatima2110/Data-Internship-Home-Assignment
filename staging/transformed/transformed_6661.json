@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Vehicle Engineering",
+    "industry": "Automotive,Renewables &amp; Environment,Utilities",
+    "description": "The RolebrbrTeslas Vehicle Engineering team is currently seeking a site reliability engineer SRE to focus on improving our inhouse manufacturing and supply chain computer vision platform This role will contribute to many of our other purposebuilt applications that automate and improve the process of designing building and delivering Tesla products globallybrbrTeslas Vehicle Engineering team in general owns the centralized technical aspects of our multicontinent Gigafactory network and product line The systems we work on include Teslas most important programs such as Cybertruck cell production Robotaxi and new factories The software team is responsible for making these systems and operations every bit as intelligent and dynamic as the products themselvesbrbrAs a member of the Supply Chain and Ops Automation team SCOA you will lead our efforts to deploy software in Texas Berlin and beyond We are currently looking for an experienced SRE to scale our infrastructure to multiple datacenters whilebrbrimproving our existing CI pipeline CD flow gitops and other devopsrelated tasks on our highavailability and dataintensive applications In SCOA engineers have thebrbrownership freedom to push forward their recommendations experiment and ultimatelybrbrdrive new technology into the production line to positively impact the company and our customersbrbrstronguResponsibilitiesbrustrongulliDerive functional application and nonfunctional availability performance security and maintainability cost requirements for global deployments and scaling needs liliCollaborate with stakeholders across regions to understand deployment requirements liliDeliver on deployment requirements with proactive monitoring tools and dashboards liliMaintain existing infrastructure deployed both on AWS and private Kubernetes clusters liliRecommend latest ops best practices with a focus on automation liliWrite technical documentation and runbooks brliulstronguRequirementsbrustrongulliBS in Computer Sciencerelated field or equivalent industry experience liliFluency with tools for orchestration in AWS or a private cloud especially with Kubernetes using tools like Terraform Ansible ArgoCD and Docker liliDemonstrated ability to respond to production outages and implement longterm fixes liliFamiliarity with of machinetomachine communication concepts ie TCPIP web sockets and RPC liliUnderstanding of when to use and how to set up message brokers eg Kafka and AWS Kinesis liliAbility to choose the right storage system eg relational DBs AWS RDS for Postgres CockroachDB cache Redis Elastic Search S3 public and private clouds timeseries DBs InfluxDB Prometheus based on the application need liliRelevant experience with the GoPythonJS or other programming languages brliulemEmployee Benefits bremulliAs a full time Tesla employee you will receive full benefits from day 1 for you and your dependents liliKaiser and UnitedHealthcare PPO and HSA plans including infertility coveragelili3 medical plan choices with 0 paycheck contribution liliVision amp dental plans including orthodontic coverageliliCompany paid Life ADampD shortterm and longterm disability lili401k Employee Stock Purchase Plans and other financial benefits liliEmployee Assistance Program Paid Time Off and Paid HolidaysliliBackup childcare and employee discountsliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T21:30:43.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 74200,
+    "max_value": 106000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

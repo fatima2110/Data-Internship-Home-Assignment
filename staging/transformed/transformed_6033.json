@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Games",
+    "description": "pstrongWho We Are strongppbrpp2K develops and publishes interactive entertainment globally for console systems handheld gaming systems and personal computers including smartphones and tablets which are delivered through physical retail digital download online platforms and cloud streaming services 2K publishes titles in todays most popular gaming genres including shooters action roleplaying strategy sports casual and family entertainmentppbrppMass Media is the premier engineering group for 2K Publishings Global Services Since 1995 weve developed deep and multifaceted engineering expertise in video games Whether its platform optimization multiplayernetworking rendering console certification tools and pipelines  weve done it all Because were part of Global Services Technology were at the heart of all our games We provide the engineering to support the matrix of platforms and storefronts of today innovative technical solutions to the problems of tomorrow and connective tissue across 2Ks studios In short when some of the best studios in the world have needs we can answer the callppbrppOur vision at 2K is to create a diverse and inclusive environment to Come as You are and Feel Equipped to do Your Best Work We are dedicated to promoting diversity multiculturalism and equality in all that we do Our communities are focused on increased access and personal growth and their greatness depends on a diversity of race gender sexual orientation religion ethnicity national origin and perspective Were an equal opportunity employer and were excited to build the future of coliving with the worlds most hardworking and passionate peopleppbrppstrongWhat We Need strongppbrppWe are looking for a passionate software engineer who has a high bar for the quality of their code as well as a desire to make outstanding games In this role you will collaborate with fellow engineers and producers to address a wide variety of engineering challenges such as online multiplayer performance optimization and console ports If youre looking to expand your skillset push your limits in taking on the toughest problems that no one else wants to tackle and get your hands on some exceptional IP then this is the right position for youppbrppstrongWhat You Will Dostrongppbrpp Be involved with multiple projects at the same time pp Craft and develop data and code following mentorship from programming leads pp Work independently to implement new ingame functionality  pp Quickly adapt to new coding environments and programming standards pp Collaborate with other programmers to write code fix bugs and implement new features pp Analyze game performance and implement optimizations in both high and lowlevel code to compensate pp Design and build standalone tools as needed to assist project development pp Help design and implement code for multiprocessor environments pp Work with other team members to implement complex systems pp Work with teams in other companies to help them deliver finished productsppbrppstrongWho We Think Will Be A Great Fitstrongppbrpp 4 years advanced programming in CC pp 2 years scripting languages C Lua Perl Python pp 2 years of console development Nintendo Sony Xbox pp 3 years analyticsdebugging PIX RAD Visual Studio pp Shipped one or more AAA titles in a midlevel role pp Proven familiarity with 3D math audio processing graphics and physics pp Familiarity with AI data manipulation file systems networking streaming pp Ability to manage large codebases with multiple branches pp Ability to quickly locate replicate and fix taxing bugs pp Ability to work well in limitedresource environmentsppbrppstrongBonus Pointsstrongppbrpp Passionate video game enthusiastpp Audio experience Fabric FMOD Wwisepp Engine experience CryEngine Unity Unreal Enginepp Physics experience Bullet Havok PhysXpp Source control experience GitHub Perforce SVNpp Postsecondary degreediploma in computer scienceppbrppWe will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process perform essential job functions and receive other benefits and privileges of employment Please contact us to request an accommodationp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T15:50:12.000Z"
+  },
+  "company": {
+    "name": "2K",
+    "link": "https://www.linkedin.com/company/2k-games"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Moorpark",
+    "region": "CA",
+    "postal_code": "93020",
+    "street_address": null,
+    "latitude": 34.285404,
+    "longitude": -118.88088
+  }
+}

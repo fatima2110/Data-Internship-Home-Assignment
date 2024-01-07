@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "COMPUTER VISION / MACHINE LEARNING ENGINEER",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brBe a part of the Machine Vision team We develop defect detection and metrology solution of display camera and touch technology for iPhone iPad Mac and future products You will design and develop computer vision CV and machine learning ML based solutions for automatic optical inspection of displays and cameras in large volume manufacturing Be one of the first people in the world to witness new Apple products being crafted for the first timebrbr brstrongKey Qualificationsbrstrong br3 years of related professional experiencebrbrDeep knowledge and handson experience in image processing and computer vision such as spatialfrequency domain analysis geometric transform feature detection registration segmentation object detection and classification etcbrbrExperience in developing and deploying supervised and unsupervised machine learning algorithms such as CNN GAN for object detection image segmentationclassificationbrbrProficient in COpenCV with familiarity of MATLAB brbrProficient in Keras TensorFlow with familiarity of PythonbrbrA positive outlook towards stepping into uncharted technology space and working hard to deliver solutions in a timely fashionbrbrExcellent written and interpersonal skills clear communication with diverse teamsbrbrbrADDITIONAL QUALIFICATIONSbrbrFamiliarity with ML optimization and acceleration platforms would be a plus eg coreML tools and CUDAbrbrDomain expertise in color science human visual system would be a plusbrbrExperience with characterizing imagingoptical systems would be a plusbrbrExperience in mathematical modeling and simulation for imaging applications would be a plusbrbr brstrongDescriptionbrstrong brYou will be directly responsible for developing defect detection and automatic optical inspection of Apple products with a team of talented engineers and scientistsbrbrbr  Design develop and optimize CV and ML based solutions for defect detectionbrbrbr  Collaborate closely with optical instrumentation scientists software engineers and system design engineers to develop and deploy massproduction friendly metrology solutions for Apple productsbrbrbr  Work with crossfunctional teams to define metrology coverages and specifications Develop and validate corresponding CV and ML algorithms during new product introduction NPI cyclebrbrbr  Study and improve the correlation between algorithm and visual inspectionbrbrbr  Analyze large amounts of NPI data to qualifyimprove algorithm designbrbrbr  Reviewoptimize algorithms from cross functional teams and third partiesbrbr brstrongEducation amp Experiencebrstrong brMSPhD in CSEEImaging Science  3 years experiencebrbr brRole Number 200271339brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-28T07:47:36.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

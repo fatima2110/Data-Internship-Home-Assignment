@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Marketing y publicidad,Servicios y tecnologías de la información ,Recursos humanos",
+    "description": "strongMACHINE LEARNING ENGINEERbrbrstrongstronguDescriptionbrbrustrongKavak is a modern datadriven platform that has helped tens of thousands of customers buy and sell cars We are the top ecommerce platform for cars in Mexico and one of the fastest growing and most highlyrated companies in Latin America We have also been selected as strongVenture of the Year 2018strong by Expansin Magazine and the LinkedInTopStartup 2019 ranked Kavak as the strongSecond Best Startup to work at in MexicostrongbrbrWe are looking for a creative resultsdriven solution builder to fill an strongextremely challenging and excitingstrong role as a member of the strongdata science and machine learning strongteam You will create value for customers by optimizing decisions automating processes and personalizing the user experience using machine learning algorithmsbrbrstronguJob FunctionsbrustrongulliUse machine learning to create new scalable solutions for business problemsliliDesign experiments measure results and provide a point of view in decisionmakingliliWork closely with crossfunctional teams of skilled engineers and product managersbrliulstronguBasic QualificationsbrustrongulliStrong drive to learn experiment and drive outcomeslili2 years of professional experience performing quantitative analysisliliBachelors Masters or PhD in a quantitative field eg Computer Science Economics Statistics liliExpertise in PythonbrbrliulstronguPreferred QualificationsbrustrongulliExperience in price optimization credit risk scoring or recommender systemsliliAn advanced degree Masters PhD in a quantitative field eg Computer Science Economics StatisticsliliExperience with libraries commonly used for machine learning such as TensorflowPytorchMXNet XGBoost pandas numpyliliExperience using AWS or other cloud platformsliliA consistent record of using data to drive product teams to achieve ambitious goals and influence outcomesliliExperience in schema design and dimensional data modeling and building data pipelinesbrliulIf you are motivated to be part of this mission and help us build the rest of this story strongJoin KAVAKstrong",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T11:48:26.000Z"
+  },
+  "company": {
+    "name": "Kavak.com",
+    "link": "https://mx.linkedin.com/company/kavakcom"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "MX",
+    "locality": "Cervantes",
+    "region": null,
+    "postal_code": "98460",
+    "street_address": null,
+    "latitude": 23.390266,
+    "longitude": -102.01451
+  }
+}

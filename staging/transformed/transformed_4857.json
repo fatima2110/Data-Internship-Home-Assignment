@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (SRE), Information Security",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brThis position can be location in Santa Clara Valley CA or Seattle WA  brbrbrImagine what you could do here At Apple new ideas have a way of becoming extraordinary products services and customer experiences very quickly Bring passion and dedication to your job and theres no telling what you could accomplish brbrbrWe are seeking a SRE who is passionate about security and can thrive in a fastpaced environment where both individual drive and team collaboration are the keys to success The SRE will configure tune and troubleshoot multitiered systems to achieve optimal application performance stability and availability The SRE will work closely with software developers infrastructure and network engineers to deploy maintain and support applications and services The SRE will work with users to analyze and resolve issues reported against services and applicationsbrbr brstrongKey Qualificationsbrstrong brA positive and respectful attitudebrbrLinuxUnix system administration experience along with a working knowledge of common Linux and macOS file systemsbrbrBackground using container and container orchestration technologies Docker KubernetesbrbrAt least 3 years of experience supporting RESTful applications using technologies such as Java Ruby Rails Python NginX etcbrbrKnowledge and experience with software version control systems and source code management GitGitHubbrbrAt least 3 years of experience deploying configuring and supporting software in the cloud AWSbrbrExperience working with Atlassian tools Confluence Jira Jira servicedeskbrbrFamiliarity with log aggregation and visualization tools such as ZabbixSplunkbrbrExperience creating and using SQL queries to diagnose problemsbrbrAn understanding of CICD technologies such as JenkinsbrbrFamiliarity with Agile development methodologybrbrExcellent written and verbal communication skills ability to work effectively with technical and nontechnical usersbrbrThe desire to provide a great customer experiencebrbr brstrongDescriptionbrstrong brThe successful candidate will be highly selfmotivated with a passion for excellence quality and attention to detail The SRE will be responsible for operating and supporting application environments working on deployments and automation and working closely with the development engineers to assist with implementation and deployment of features Responsibilities of the DevOps engineer will includebrbrbr  Determine optimal configurations for application software servers database connectionsbrbr  Environment monitoring and task automationbrbr  Set up and manage monitoring toolsbrbr  Measure and optimize system performancebrbr  Work with users to gather technical details and better understand issuesbrbr brstrongEducation amp Experiencebrstrong brBachelors Degree or equivalent work experiencebrbr brstrongAdditional Requirementsbrstrong br  Knowledge and experience using one or more programming languages including Swift ObjectiveC Golang Python Shell Java RubyRails for scripting andor developmentbrbr  Familiarity with Networking concepts eg Open Systems interconnection OSI modelbrbr brRole Number 200259709brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T18:03:28.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

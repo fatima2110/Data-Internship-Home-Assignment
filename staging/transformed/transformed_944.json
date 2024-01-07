@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Computer Software,Information Technology and Services,Leisure, Travel &amp; Tourism",
+    "description": "stronguSoftware Engineer IbrbrustrongAs a Software Development Engineer in Expedia Groups Platform amp Marketplaces eCommerce Loyalty team you will translate requirements into code perform testing and debugging tasks and develop software in conjunction with peers and mentors in a small team environment Expect to become an integral part of the team communicating regularly with your teammates and adhere to software engineering processes established by the team As you gain in experience and knowledge you will be expected to propose improvements to designs and processesbrbrstronguWhat Youll DobrustrongulliYou will develop debug and modify components of software applications and toolsliliYou will resolve problems and roadblocks with help from peers andor managers Follow through on details and drive issues to closureliliYou will actively participate as a key team member in code and design reviewsbrbrliulstronguWho You ArebrustrongulliBachelors degree in computer science mathematics or related technical field andor equivalent work experienceliliStrong communication skillsliliExperience using code versioning tools eg GitliliExperience with Agile development methodologylili13 years experience in software development in a team environment work experience or school projectsliliSolid experience in Java or other objectoriented languages eg Python C C etcliliWe work with the following technologies and expect basic understanding or strong willingness to learnbrulliRESTful Micro ServicesliliJava Kotlin and Scala programming languagesliliHTML CSSLESSSASSliliJavaScriptJQuery React NodeJS QUnit or JavaScript Unit testingliliApache Tomcat Spring MVC Spring Boot Maven or GradleliliAWS EC2 S3 Lambda DynamoDB DockerliliWorking knowledge of SQL queriesbrbrliulliulstronguAbout Expedia GroupbrbrustrongExpedia Group NASDAQ EXPE powers travel for everyone everywhere through our global platform Driven by the core belief that travel is a force for good we help people experience the world in new ways and build lasting connections We provide industryleading technology solutions to fuel partner growth and success while facilitating memorable experiences for travelers Expedia Groups family of brands includes Brand Expedia Hotelscom Expedia Partner Solutions Vrbo Egencia trivago Orbitz Travelocity Hotwire Wotif ebookers CheapTickets Expedia Group Media Solutions Expedia Local Expert CarRentalscom and Expedia Cruisesbrbr 2021 Expedia Inc All rights reserved Trademarks and logos are the property of their respective owners CST 202903050brExpedia is committed to creating an inclusive work environment with a diverse workforce All qualified applicants will receive consideration for employment without regard to race color religion gender gender identity or expression sexual orientation national origin genetics disability age or veteran status This employer participates in EVerify The employer will provide the Social Security Administration SSA and if necessary the Department of Homeland Security DHS with information from each new employees I9 to confirm work authorization",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-07T17:30:32.000Z"
+  },
+  "company": {
+    "name": "Expedia Group",
+    "link": "https://www.linkedin.com/company/expedia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 78400,
+    "max_value": 141000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

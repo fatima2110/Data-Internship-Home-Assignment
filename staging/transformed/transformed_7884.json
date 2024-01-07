@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - REMOTE",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "stronguJob DescriptionbrbrustrongstrongSite Reliability EngineerbrbrstrongstrongLOCATION UNITED STATES  REMOTEbrbrstrongstrongNOTE We are unable to provide visa sponsorship for this role at this time No candidates requiring visa sponsorship will be consideredbrbrstrongPassionate about technology and see the world a little differently than your peers Everywhere you look theres possibility Opportunity Boundaries to push and challenges to solve You believe software engineering changes how people livebrbrWe are looking for talented engineers to join our expanding cloud team for food and beverage software You will help build and operate a suite of integrated cloud services that deliver bestinclass features to your favorite restaurants and eateriesbrbrAs a site reliability engineer you will be responsible for helping ensure our systems are reliable and scalable by designing processes automating deployments building tooling and guiding development teams to adhere to best practices for the cloudbrbrWe work with some of the smartest nicest people youll meet People who work here say the problems they work on are enormously challenging and that the team culture is the most supportive they have seenbrbrCurious Read on Were looking for software engineering talent like youbrbrstronguWhat Working On This Team Is LikebrustrongulliWe own our process and were free to improve on itliliWe emphasize quality above all elseliliWe automate everythingbrliulstronguHow do you know if you are right for this jobbrustrongulliYou thrive in a fastpaced environment focused on delivering production code at a regular cadence using Agile techniques tools and methodologiesliliYou have built or want to build automation tools and components to aide in installation and provisioning of cloudbased applications in cloud providers like Oracle Cloud AWS Azure or similarliliYou understand the value of continuous delivery and want to help teams release frequently and often to production with high qualityliliYou have helped develop and manage systems in production environmentsliliYou have the ability to tackle both large and small problemsliliYou have a strong desire to continually learn new technologies tools and methodologies including those out of your comfort zonebrliulstronguExperience And Skills You Will NeedbrustrongulliSolid understanding of core computer science fundamentals including common data structures algorithms and concurrent programmingliliStrong experience with at least one scripting language such as Ruby Python or JavaScriptliliWorking knowledge of containers and supporting tools like Docker Podman etcliliExperience using container orchestration tools like Kubernetes or Docker SwarmliliStrong attention to detail and excellent analytical capabilitiesliliPassion for developing clear robust and testable softwareliliBS in Computer Science Software Engineering Computer Engineering or equivalent experiencebrliulstronguExperience And Skills We Hope To SeebrustrongulliPrior experience solving automation problems such as deployment orchestration continuous integration etcliliFamiliarity working with at least one major cloud platform such as Oracle Cloud AWS Azure GCP etcliliExperience with infrastructure automation with tools such as Terraform CloudFormation etcliliUnderstanding of security principles and how they apply to cloudbased softwareliliBackground working on publicly available production systemsliliSkill with additional programming languages such as Java C C Scala Go Clojure etcbrliulDevelop analyze and maintain tools that support and automate processes for hardware or software product releasebrbrAs a member of the software engineering division you will perform highlevel design based on provided external specifications Specify design and implement minor changes to existing software architecture Build highly complex enhancements and resolve complex bugs Build and execute unit tests and unit plans Review integration and regression test plans created by QA Communicate with QA and porting engineering as necessary to discuss minor changes to product functionality and to ensure quality and consistency across specific productsbrbrDuties and tasks are varied and complex utilizing independent judgment Fully competent in own area of expertise May have project lead role and or supervise lower level personnel BS or MS degree or equivalent experience relevant to functional area Typically four years of software engineering or related experience neededbrbrIf you are a Colorado resident Please Contact us or Email us at oraclesalaryinquiriesusoraclecom to receive compensation and benefits information for this role Please include this Job ID 121470 in the subject line of the emailbrbrstronguAbout UsbrbrustrongInnovation starts with inclusion at Oracle We are committed to creating a workplace where all kinds of people can be themselves and do their best work Its when everyones voice is heard and valued that we are inspired to go beyond whats been done before Thats why we need people with diverse backgrounds beliefs and abilities to help us create the future and are proud to be an affirmativeaction equal opportunity employerbrbrOracle is an Equal Employment Opportunity Employer All qualified applicants will receive consideration for employment without regard to race color religion sex national origin sexual orientation gender identity disability and protected veterans status age or any other characteristic protected by law Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T16:50:36.000Z"
+  },
+  "company": {
+    "name": "Oracle",
+    "link": "https://www.linkedin.com/company/oracle"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Maryland",
+    "region": "United States",
+    "postal_code": "20708",
+    "street_address": null,
+    "latitude": 38.952736,
+    "longitude": -76.701294
+  }
+}

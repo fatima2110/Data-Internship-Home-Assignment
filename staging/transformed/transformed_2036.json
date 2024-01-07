@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer - Mobile Diagnostics",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brApple has a strong dedication to its customers and when customers need help with their Apple products we strive to provide the most comprehensive information we can about the health of their devices The Mobile Diagnostics Engineering team is responsible for the development of diagnostic tools that are deployed to Geniuses and field service technicians globally You will help to craft how technicians and customers provide and receive support advancing Apples extraordinary support even further with tools crucial for helping customers and advising repair solutions We are looking for a creative software engineer to work on a wide range of products and technologies You will be crafting and developing mobile diagnostics that are deployed with major iOS releases The scope of work covers the entire iOS mobile device line up including iPhone iPad Apple Watch Apple TV HomePod AirPod iPod Beats and other accessories This is an ideal role for a software developer who enjoys the challenge of crafting highquality diagnostic apps that benefit everyone who needs support with their Apple devicesbrbr brstrongKey Qualificationsbrstrong br3 years experience designing implementing testing shipping and maintaining softwarebrbrbrProven objectoriented design and programming experience  preferably in ObjectiveC Swift CC or JavabrbrbrGood grasp of multithreaded programming conceptsbrbrbrFamiliar with the software development life cycle and toolsbrbrbrThrives in a multifunctional and diverse team environment that works collaboratively on innovative largescale and fun projectsbrbrbrPassionate for the customer and for providing quality software and experiences to thembrbrbrTackle tough problems creatively and collaboratively and thrive on detailsbrbr brstrongDescriptionbrstrong brAs an engineer on our team you will be responsible for implementing new features and maintaining many different subsystems supporting diagnostics that ship in the operating system for iOS watchOS and tvOS You will work on the production of iOS diagnostic solutions for mobile devices Responsibilities include programming testing and integration of iOS diagnostic tools We work closely with a variety of hardware and software technology teams across Apple on all new products prior to their launch You will contribute to the development process the software design and implementationbrbr brstrongEducation amp Experiencebrstrong brBS or MS degree in Computer Science Computer Engineering or equivalentbrbr brstrongAdditional Requirementsbrstrong br  A track record building iOS andor Mac OS apps is a bonusbrbrbr  Low level andor firmware coding background is a plusbrbr brRole Number 200205147brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:42:52.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 118000,
+    "max_value": 200000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

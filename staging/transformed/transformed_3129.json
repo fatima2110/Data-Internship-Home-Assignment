@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Information Technology and Services,Computer Software",
+    "description": "strongJob Description brbrstrongHeron Systems has developed a software factory for building and optimizing deep reinforcement learningbased solutions The technology has drawn significant interest from DARPA AFRL and the US Navy We are currently working with these customers to investigate modern warfighting problems and develop prototype solutions This position will support at least one of our Machine Learning teams to help build a solution while simultaneously advancing the technology more broadlybrbrstrong What Youll Do brstrongulliWork with a small team that includes senior Machine Learning researchers engineers and subject matter expertsliliPerform research and development activities of one or more projectsliliCoordinate closely with our Government customers and industry partners to ensure that the solutions meet the rigorous demands of defense technologies liliWork on complex and unique datasets brbrliulstrong Projects You Might Work On brstrongulliApplying deep learning computer vision neural network algorithms nonlinear dynamics and complex systems theory in support of UAVs space systems and nextgeneration military aircraftbrbrliulstrong Minimum Qualifications brstrongulliBSMS in Computer Science similar degree or equivalent practical experience lili2 years experience in software development and machine learning liliExperience contributing to software projects with at least 10 contributors liliSoftware development experience in PythonliliExperience with multiple classical methods and neural networks liliStrong experience working with Unix environments liliStrong ability to debug optimize refactor and write tests liliExceptional collaborator and communicator liliFast efficient effective problemsolving approachbrbrliulstrong Preferred Qualifications brstrongulliSoftware development experience in CliliExperience with autonomous systems liliExperience with reinforcement learning liliExperience with GPU programming liliExperience with testdriven developmentliliCurrent SECRET clearance liulIf youre interested in being part of our team apply nowbrbrShield AI is proud to be an equal opportunity workplace and is an affirmative action employer We are committed tobrbrequal employment opportunity regardless of race color ancestry religion sex national origin sexual orientation age marital status disability gender identity or Veteran status If you have a disability or special need that requires accommodation please let us knowbrbrTo conform to US Government regulations applicant must be a US citizen lawful permanent resident of the US protected individual as defined by 8 USC 1324ba3 or eligible to obtain the required authorizations from the US Department of State",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T05:03:32.000Z"
+  },
+  "company": {
+    "name": "Shield AI",
+    "link": "https://www.linkedin.com/company/shield-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Alexandria",
+    "region": "VA",
+    "postal_code": "22336",
+    "street_address": null,
+    "latitude": 38.804665,
+    "longitude": -77.04362
+  }
+}

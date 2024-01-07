@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "REMOTE - Software Engineer - Golang, PostgreSQL, AWS",
+    "industry": "Computer Software",
+    "description": "If you are a Software Engineer with experience please read onbrbrTop Reasons to Work with UsbrbrWe are an innovative fintech trust company with unique access that allows us to create payment and banking platforms with unmatched speed scale and cost We are breaking new ground in the world of B2B payments and just getting started We are looking for an impressive Software Engineer to join our teambrbrWhat You Will Be Doingbrulli Build and maintain highperformance scalable distributed serviceslili Develop integrations to national and international payments networkslili Develop elegant solutions to complex problems primarily using Golili Work closely with risk managers and payment operationslili Operate the platformlili Rapidly fix bugs and solve problemsbrliulWhat You Need for this Positionbrulli Golanglili PostgreSQLlili AWSlili Devopslili CICDlili Dockerlili SSHbrliulWhats In It for Youbrulli Competitve Salarylili Stock Optionslili VacationPTOlili Medicallili Dentallili Visionlili Bonuslili 401klili Home Office StipendbrliulSo if you are a Software Engineer with experience please apply todaybrbrstronguEmail Your Resume In Word TobrbrustrongLooking forward to receiving your resume through our website and going over the position with you Clicking apply is the best way to apply but you may alsobrbrAlisonBarkerCyberCoderscombrulliPlease do NOT change the email subject line in any way You must keep the JobID linkedin  AB121629860  in the email subject line for your application to be consideredbrliulAlison Barker  Executive Recruiter  CyberCodersbrbrApplicants must be authorized to work in the USbrbrstrongCyberCoders Inc is proud to be an Equal Opportunity EmployerbrbrstrongAll qualified applicants will receive consideration for employment without regard to race color religion sex national origin disability protected veteran status or any other characteristic protected by lawbrbrstrongYour Right to Workstrong  In compliance with federal law all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-26T16:18:57.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 63800,
+    "max_value": 116000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Denver",
+    "region": "CO",
+    "postal_code": "80247",
+    "street_address": null,
+    "latitude": 39.738453,
+    "longitude": -104.984856
+  }
+}

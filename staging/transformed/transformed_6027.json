@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "pstrongSoftware EngineerstrongppstrongLos Angeles Santa Monica or Remote US time zonesstrongppstrongFullTime  Salary Range 100K180KstrongppbrppstrongMaximusstrong is a missiondriven consumer telemedicine company that provides men with content community and clinical support to optimize their health amp hormones Maximus has raised 5M from top Silicon Valley VCs such as Founders Fund and 8VC as well as leading angel investorsoperators from companies like Bulletproof Tinder Coinbase Daily Stoic amp ShopifyppbrppstrongMaximusstrong is building an advanced telemedicine platform to help men improve their mental and physical health We iterate on our product rapidly and safely by applying continuous integration and code quality measurements as well as TDD and pair programming when appropriate We work collaboratively emphasizing the productivity of the team first We aim to deliver a robust reliable system by using pragmatic triedandtrue technologies We hone our craft as engineers by applying advanced functional dataoriented techniques that are appropriate to the problemppnbspppstrongResponsibilitiesstrongppnbspppstrongWrite and ship high quality codestrongpulliContribute across the codebase to complete entire features and changes with support from the rest of the teamliliContinuously invest in demonstrable quality and reliability of the system via unit tests automated integration tests TDD and refactoringliliKeep data management and security in mind at all times to protect customer privacyliulpnbspppstrongContribute to a continuously improving engineering organizationnbspstrongpulliIdentify software quality performance and operational issues including impediments to teamwide efficiency and work constructively with the team to address themliliDefine and improve our internal engineering standards and processes and exert positive influence on the objectives and tactics taken by the teamliulpnbspppstrongContribute actively to product iteration and development to ensure the company delivers a compelling experience to its customersstrongpulliGenerate ideas and assess the associated options and tradeoffs for how they impact the growth of the business and customer experienceliliWork across functional teams engineering marketing product etc to translate business and product ideas into software designs and releasesliliProduct amp Project Management skills and experience are a plusnbspliulpnbspppstrongThe ideal candidate will have the followingstrongppstrongExperiencestrongpulli3 years of experience in product software development especially public consumer web applicationsnbsplilistrongBackendstrong RubyonRails  Ruby experiencenbsplilistrongFrontendstrong ReactReduxImmutableJS experienceliliFamiliarity with or interest in Event Sourcing and other immutability  functionalprogramming patternsnbspliliExperience in unit testing integration testing TDD experience is a plusliulpnbspnbspppstrongQualitiesstrongpulliStrong communication and teamwork skills Proven ability to build strong relationships with technical and nontechnical members of the team to solve challenging technical and business problemsnbspliliRelentlessly Resourceful httpwwwpaulgrahamcomrelreshtml Highly proactive does not quit and finds innovative solutions with little guidance Bias for action and ability to thrive in an ambiguous environment with a high degree of autonomyliliA dedication to keeping things simple and pragmaticliliAttitude of shared ownership of the system frequent integration Collaborates proactively in service of the shared highest priorityliliLove of virtue amp health Interest in modernday mens movements and personal development Demonstrates personal dedication and interest in health optimization you should walk the talk when it comes to diet exercise sleep focus and relationshipsliulpnbspppstrongWorldClass BenefitsstrongpulliPremium Blue Shield Platinum PPO amp HMO Plans up to 100 coverageliliFull Suite Medical Dental Vision Life InsurancenbspliliBestinclass 401K optionsliliFlexible vacationtimeoff policiesliliLiquidity of options whenever availableliliExtended options exercise window for loyal employees 3 months for every year of service eg 1 year for 4 year employeesliulpbrppMaximus is an equal opportunity employer which not only includes standard protected categories but the additional freedom from discrimination against your free speech and beliefs as long as they are aligned with company values We celebrate intellectual diversityp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T13:46:28.000Z"
+  },
+  "company": {
+    "name": "Maximus",
+    "link": "https://www.linkedin.com/company/maximustribe"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

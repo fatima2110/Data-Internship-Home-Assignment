@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Warehouse Engineer",
+    "industry": "Information Technology and Services",
+    "description": "pstrongJob Titlestrong Data Warehouse LeadppstrongLocationstrong Vancouver WAppstrongJob Typestrong ContractppstrongVisastrong USC GCppbrppstrongJob DescriptionstrongppExpertlevel knowledge of data warehousing patterns and processesppExpertlevel knowledge of SAP Data Services platform including configuration development testing and administrationppSolid knowledge of ETL patterns and processes including data quality and data privacy managementppSolid knowledge of data integration patterns and processes including batch and streaming architecturesppSolid knowledge of Oracle 12c database or greater and ANSISQL and PLSQL languagesppSolid knowledge of Power BI development and processesppSolid knowledge of testing strategies and automation specific to data pipelinesppFamiliarity with agile development practicesppFamiliarity with Microsoft Azure platform including common data pipeline and automation tools and integration gatewaysppFamiliarity with DataOps principles for driving data quality throughout the application lifecycleppFamiliarity with metadata managementppExperience working with crossfunctional teams in a dynamic environmentppGood documentation habits and judgmentppGood task management status reporting and adaptability to changeppbrppstrongIf you are interested kindly apply through the below linkstrongpphttpsbitly3yWeZQnppbrppstrongRecruiter DetailsstrongppMohamed sheikpp302 3105458ppsheikmdusfalconsmartitcomppbrppstrongFind all current job openings at our Career PagestrongpphttpswwwfalconsmartitcomFalconCareerhtmlppbrppstrongFollow us on LinkedIn for Job Opportunitiesstrongpphttpswwwlinkedincomcompanyfalconsmartitp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-14T17:02:49.000Z"
+  },
+  "company": {
+    "name": "Falcon Smart IT (FalconSmartIT)",
+    "link": "https://uk.linkedin.com/company/falconsmartit"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Vancouver",
+    "region": "WA",
+    "postal_code": "98665",
+    "street_address": null,
+    "latitude": 45.63106,
+    "longitude": -122.67157
+  }
+}

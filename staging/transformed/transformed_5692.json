@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Education Management,Information Services,Information Technology and Services",
+    "description": "stronguAbout EABbrbrustrongAt EAB  our mission is to make education smarter and our communities stronger We harness the collective power of more than 1900 schools colleges and universities to uncover and apply proven practices and transformative insights And since complex problems require multifaceted solutions we work with each school differently to apply these insights through a customized blend of research technology and services From kindergarten to college and beyond EAB partners with education leaders practitioners and staff to accelerate progress and drive results across three key areas enrollment management student success and institutional operations and strategybrbrAt EAB we serve not only our partner institutions but each otherthats why we are always working to make sure our employees love their jobs and are invested in their community See how weve been recognized for this dedication to our employees by checking out our recent awards brbrFor more information visit our Careers pagebrbrstronguThe Role In BriefbrbrustrongSite Reliability EngineerbrbrThe Site Reliability Engineering team is responsible for building and improving EABs information systems dynamic server infrastructure  making it more effective at running efficient highavailability open systems The ideal candidate will have a complementary set of experiences and skills software systems network engineering and systems administration to name a few and the inherent passion to automate systems operations This role collaborates with the Information Technology and Engineering teams to provide a highly scalable and secure infrastructurebrbrThis position location is preferred in Richmond VA and open to full time remote workbrbrstronguPrimary ResponsibilitiesbrbrustrongEngineer Automated Server Provisioning and Maintenance ToolsbrulliDevelop automated deployment methods for provisioning servers and applications that integrate with existing solutionsliliCollaborate with Information Security Information Technology Engineering and Release teams for design requirementsliliDevelop solutions for clustered or HA servicesliliDevelop solutions that are aware of geodiversity needsliliDevelop administration tools to service dynamic server environmentliliDevelop readable code that is tracked in code versioning and logically branchedbrliulSupport OperationsbrulliProvide prompt response communication and support for oncall incidentsliliFunction as escalation point for other administratorsliliPerform routine analysis of log monitoring and alerting systems to ensure a healthy factory floorliliProvide system support to internal and external customersliliPerform routine disaster recovery testingliliPerform indepth troubleshooting collaborate with teams and document resolutionsbrliulTraining Communication and DocumentationbrulliProvide effective cross training to fellow team membersliliFacilitate a mentoring friendly atmosphere among team membersliliProduce effective operational documentationbrliulstronguBasic QualificationsbrustrongulliBachelors degree or equivalent experience lili4 years of handson experience supporting Linux systems in an enterprise environment at least 100 servers including intermediate expertise in Linux preferably Redhat Enterprise Linux or CentOS and scripting experience eg Bash Perl or PythonliliIntermediate expertise in a virtualization platform VMware XenCenter Xen or RHEVliliSome software development experience proficient in one or more programming languages able to read and comprehend software codeliliDetail oriented analytical mindset effective at problem solving and troubleshootingliliDemonstrated ability to work constructively with an organized system administration teamliliFlexible to work after hours and participate in oncall rotationliliExperience with AWS brliulstronguIdeal QualificationsbrustrongulliRedhat CertificationliliPrior automation experienceliliDiverse experience in 247 operational environmentsliliCompetency in data center storage and networking conceptsliliAbility to administer Apache Nginx Postfix MySQL PostgresSQL MongoDB ActiveMQ Java Web Applications Servers bind and other common open source toolsliliAbility to administer common encryption technologies such as OpenSSH OpenSSL and GPGliliDemonstrate strong understanding of Unix programming design conceptsliliExperience with automation tools such as Chef Puppet or Ansible Ansible preferredliliOrganized selfmotivated able to multitask and work independently as well as a team playerliliAbility to effectively communicate written and oral in a customerfocused manner with technical and nontechnical individualsbrliulstronguBenefitsbrbrustrongConsistent with our belief that our employees are our most valuable resource EAB offers a competitive benefits packagebrulliMedical dental and vision insurance dependents and domestic partners eligiblelili401k retirement plan with company matchlili20 days of PTO annually in addition to paid firm holidaysliliDaytime leave policy for community service or fitness activities up to 10 hours a month eachliliPaid parental leave for birthing and nonbirthing parentsliliPhase Back to Work program for employees returning from parental leaveliliInfertility treatment coverage and adoption or surrogacy assistanceliliWellness programs including gym discounts and incentives to promote healthy livingliliDynamic growth opportunities with meritbased promotion philosophyliliBenefits kick in day one see the full details here brliulbrbrAt EAB we believe that to fulfill our mission to make education smarter and our communities stronger we need team members who bring a diversity of perspectives to the table and a workplace where each team member is valued respected and heardbrbrTo that end EAB is an Equal Opportunity Employer and we make employment decisions on the basis of qualifications merit and business need We dont discriminate on the basis of race religion color sex gender identity or expression sexual orientation age nondisqualifying physical or mental disability national origin veteran status or any other basis covered by appropriate law",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T00:41:29.000Z"
+  },
+  "company": {
+    "name": "EAB",
+    "link": "https://www.linkedin.com/company/eab_"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Richmond",
+    "region": "VA",
+    "postal_code": "23284",
+    "street_address": null,
+    "latitude": 37.54076,
+    "longitude": -77.43393
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "pThis is an amazing opportunity to join a rapidly growing company that offers great benefits and growth opportunitiesppbrppstrongMinimum Qualificationsstrongpulli3 years of experience developing and applying deepnbsplearningnbspmodels lili1 year programming experience with Python and Pythonnbspmachinenbsplearningnbspframeworks eg TensorFlow PyTorch Sklearn NLTKnbspliulpbrppstrongNice If You HavestrongpulliGraduate degree or publication record in a relevant fieldnbspliliStrong knowledge of CS fundamentals compilation assembly  lowlevel programming operating systems etcliliFamiliarity with common approaches in NLP word embeddings language models sequencetosequence models syntax parsing etcliliApplied research experienceliulpstrongClearance  US CitizenstrongpulliActive DoD Secret security clearance requirednbspliulpp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T19:47:13.000Z"
+  },
+  "company": {
+    "name": "StevenDouglas",
+    "link": "https://www.linkedin.com/company/stevendouglashq"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Arlington",
+    "region": "VA",
+    "postal_code": "22210",
+    "street_address": null,
+    "latitude": 38.890762,
+    "longitude": -77.084755
+  }
+}

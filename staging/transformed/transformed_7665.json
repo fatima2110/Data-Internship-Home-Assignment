@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer: Biomechanics",
+    "industry": "",
+    "description": "pstrongAbout UsstrongppbrppAutonomous Healthcare is a medical technology company developing the next generation of devices and technologies for healthcare The company has received numerous Government grants NASA DARPA NIH NSF to commercialize new technologies Our companys mission is to commercialize breakthrough medical technologies predicated on stateoftheart frameworks in machine learning and autonomous medical systemsppbrppstrongDescriptionstrongppbrppAutonomous Healthcare has an opening for machine learning engineer with an interest in biomechanics and gait analysis The goal is to implement algorithms signal processing and machine learning to analyze human gait within a clinical setting The ideal candidate has a solid understanding of biomechanics machine learning including activity recognition and pose estimationppbrppstrongMust HavesstrongppbrpulliExperience in PythonliliPrior research and coursework in biomechanics and human gait analysisliliWilling to learn new subjects and collaborate with a small team in a RampD environmentliliSolid understanding of computer vision and machine learning methodsliulpbrppstrongExtra CreditstrongppbrpulliPrior work using the Microsoft Kinect camera or other depth sensing camerasliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T14:42:51.000Z"
+  },
+  "company": {
+    "name": "Autonomous Healthcare",
+    "link": "https://www.linkedin.com/company/autonomous-healthcare"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York City Metropolitan Area",
+    "region": null,
+    "postal_code": "10021",
+    "street_address": null,
+    "latitude": 40.748295,
+    "longitude": -73.98556
+  }
+}

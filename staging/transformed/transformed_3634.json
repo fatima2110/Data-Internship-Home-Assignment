@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "pstrongQualificationsstrongpulliBachelors RequiredliliSoftware Development 3 years PreferredliulpbrppstrongSUMMARYstrongppThe Software Engineer will work closely with other team members on supporting and enhancing the companys software product line utilizing Microsofts technologies and tools The Software Engineer will be involved in all aspects of Software Development LifecycleppstrongPRIMARY RESPONSIBILITIESstrongpulliDesign and develop new application  components primarily in the C language within NETWCF frameworkliliMaintain and enhance Companys existing softwareliliPerform unit testingliliContribute to integration testingliliEvaluate 3rd party software and develop recommendationsliliProvide assistance and training to Professional Services and Support groupsliliFollow Companys source control policies and proceduresliliAssist in development of test scripts and installation programsliliMaintain confidentiality with regard to the information being processed stored or accessedliliResponsibilities may require evening and weekend work in response to needs of the projects being worked onliliTravel to a customer site as requiredliliOther duties as assignedliulpstrongKNOWLEDGE AND SKILL REQUIREMENTSstrongpulliBachelors Degree in Computer Science or related fieldliliMinimum of 3 years of working in Software Development with minimum of 2 years actively working with C and NETliliMust possess strong analytical and problem solving skillsliliMust have strong knowledge of the Software Development Life Cycle SDLC best practicesliliExcellent understanding of C and NET FrameworkliliHTML5 CSS3 and ReactAngular highly preferredliliShould have working knowledge of development technologies including WCF WPF and SilverlightliliMust have experience working with Visual Studio and IISliliKnowledge of relational database and Structured Query Language SQLliliStrong writing and communication skillsliliObject Oriented Design and familiarity with design patterns is a plusliulpbrppBenefitspulli401klili401k matchingliliDental insuranceliliDisability insuranceliliHealth insuranceliliHealth savings accountliliLife insuranceliliPaid time offliliProfessional development assistanceliliVision insuranceliulpSchedulepulli8 hour shiftliulpSupplemental PaypulliBonus payliulpbrppbrp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T13:00:09.000Z"
+  },
+  "company": {
+    "name": "Fairfax Software",
+    "link": "https://www.linkedin.com/company/fairfaxsoftware"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tampa",
+    "region": "FL",
+    "postal_code": "33675",
+    "street_address": null,
+    "latitude": 27.947424,
+    "longitude": -82.45878
+  }
+}

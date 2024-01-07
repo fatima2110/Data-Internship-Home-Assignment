@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Associate Data Engineer",
+    "industry": "Information Technology and Services",
+    "description": "pstrongJob DescriptionstrongppstrongnbspstrongppAs anstrong Associate Data Engineernbspstrongyou will be successful if you excel at designing and building reporting and analytic solutions from complex and dynamic benefits administration data You will support other Technology and Product Team members along with team members from the Customer Success departments to analyze patterns visualize data in effective ways and support client data requests You have a natural curiosity to hypothesize and have the desire and ability to be a gogetter and try to look for the answers in data in different ways You are not satisfied understanding the issues instead preferring to take action communicate your recommendations effectively and drive change using data Working in a fastpaced environment managing through uncertainty and networking across Vimly teams to weave the right data picture are challenges that energize you If you are drawn to the opportunity to reimagine benefits administration and deliver innovation come join usppstrongnbspstrongppstrongJob ResponsibilitiesstrongpulliEnable and support other Vimly team members by developing powerful and insightful reporting that will help guide the businessliliIntegrate qualitative analysis of data with the quantitative method of reportbuildingliliWilling and able to use lowcode solutions for developing featuresliliParticipates in operational tasks bringing a DevOps mindsetliliAble to fully complete tasks that are generally a smaller feature or piece of the systemliliSelfstarter and able to work under the guidance of more senior team membersliliWork closely with other members of the Vimly team to create adhoc reports to support timely business decisions service evaluation and any project workliliAbility to communicate complex quantitative analysis in a clear precise and actionableliliExcel at making complex concepts simple and easy to understand by those around youliliParticipate in stakeholder meetings and present data insights to usersclientsexecutives in a succinct and effective wayliliDemonstrate an understanding of and commitment to Vimlys core values continuous learning innovation adaptability and resilience with all members of Vimlys staff and clientsliliAcquirenbspdata from primary or secondary data sources and create meaningful understanding for internal and external customersliliExtract Transform and Load ETL customer dataliliHighly organizedliliTeam player with strong interpersonal skills and the ability to build effective working relationships throughout all levels of the organizationliliExcellent verbal and written communication skillsliliAbility to be creative and innovative in a fastpaced environment with a lot of ambiguity and constant changeliliAbility to champion quality throughout the organizationliulpstrongnbspstrongppstrongMinimum Qualificationsstrongpullinbsp1 year of experience with data stores such as MySQL Postgresql or similarliliBachelors Degree in Computer Science or equivalent work experience preferredlili1 year software development experience programming with at least one of the following languages Net or Javalilinbsp1 year of experience with data stores such as MySQL Postgresql or similarlilinbspUnderstanding of data structures algorithms and objectoriented designlilinbspGood written and verbal communication skillsliliMastery of MS Excel including the ability to write macros vlookups and pivot tablesliliKnowledge of statistical analysis methodsliliExperience working in a lean entrepreneurial environment where continuous innovation is desired and ambiguity is the normliulpbrppstrongNice to HavestrongpulliExperience with TFS or bitbucket and JIRAliliExperience in Data Mining ie SQL ETL complex data warehousesliliExperience developing software for cloud platforms such as AWS Azure or GoogleliliSupport the building of scalable resilient performant applications and APIsliliAbility to work with and lead teams of stakeholders with differing backgrounds and job functionsliulpbrppstrongWhat Will Help You ExcelstrongpulliYou believe in Vimlys core values and strategic goalsliliThirst for knowledge  you are curious and you enjoy learning new thingsliliCritical thinker  you ask why and are unafraid to question or challenge the answers you hearliliReceptive to change  is flexible Seeks and adopts improved approaches and processesliliInitiates action  is resultsoriented takes responsibility for actions and outcomes Meets commitments and strives for high performance and highquality deliveryliliManages the workload  makes timely decisions prioritizes effectively solves problems monitors results and takes remedial action where necessary Ability to learn new systems andor processes capacity to stay organized while managing competing prioritiesliliTechnically proficient  knows the role and has a solid familiarity with tasks and responsibilitiesliliTakes responsibility for own learning  knows personal strengths and recognizes development needs Is open to feedback and seeks to learnliliCommunicates ideas and listens to views of colleagues and takes in diverse perspectivesliliWorks collaboratively  shares information fosters teamwork and contributes to a positive work environment where people want to come to worknbspliliDisplay ethical character and competence  acts with integrity and intent is accountable for own actions aligns with Vimlys core values and strategic goals Act as a good citizen of VimlynbspliliBuild strong internal relationships  You are emotionally intelligent and know your audienceliliAbility to work effectively in a fastpaced highenergy teamoriented environmentnbspnbspliulpbrppemThis position may be performed remotely anywhere within the United States except the State of Coloradoemp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-12T19:31:35.000Z"
+  },
+  "company": {
+    "name": "Vimly Benefit Solutions",
+    "link": "https://www.linkedin.com/company/vimly"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mukilteo",
+    "region": "WA",
+    "postal_code": "98275",
+    "street_address": null,
+    "latitude": 47.905083,
+    "longitude": -122.29306
+  }
+}

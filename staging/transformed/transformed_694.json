@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Services,Information Technology and Services",
+    "description": "pCore ResponsibilitiesnbspnbsppulliDevelopment and implementation of state of the art statistical and machine learning models to enable predictive and prescriptive strategiesliliDevelop and improve performance models using machine learning for any instrumented piece of equipment and buildings including specific componentssubsystems compressors heat exchangers pumps coils andor fansliliDevelop and enhance data driven models to support building models calibration uncertainty and sensitivity analysesliliDevelop and implement forecasting and prediction strategies to enhance the quality of physics based modelsliliProvide recommendations and selection on the optimized data visualization capabilities for a given data setliliTest and evaluate the quality of algorithms using statistical methodsliliInterface with engineers and modelers to create and improve understanding of predictive and descriptive modelsliliNetwork across the organization to identify and communicate opportunities to apply data science and machine learning to product design and processesliliMentor and guide other team members and colleagues in the domain arealiliPromote the use of data based modeling and simulation within the organization via value benefit analysis and similar demonstrationsliliDevelop and maintain external collaborations to build and leverage cuttingedge capabilities Participate and present in internal and external forums and conferences related to data science and analyticsliliDocument work per established internal standards and suggest improvements to proceduresliliDevelop a clear understanding of customer requirements and meet or exceed those expectationsliliConceptualize amp develop project ideas leading to new advanced capability development in related domain areas to keep TT to the leading edge of technologyliliLead internal tactical and strategic projects and reports project progress for quality deliverables and costliliPotential future travel up to 510liulpQualificationspulliMasters Degree in Mathematics Computer Science Data Science or Statisticslili3 years of experience applying datadriven modelingliliDemonstrated work or educational history in engineering andor engineering related disciplines including but not limited to differential equations heat transfer electrical engineering controls HVAC IoT or embedded technologies highly preferredliliLeadership experience is a plusliulpKey CompetenciespulliIntermediate knowledge in at least two of the following technologies R Python SQL MATLAB and ability to adapt to new technologies as necessarynbspFamiliarity with tools such as Alteryx SAS Tableau RapidMiner is a plusliliUnderstanding of engineering data and physicsbased models and simulationsliliSufficient knowledge of machine learning modeling techniques and experience visualizing model outputs for engineers customers and stakeholdersliliCommunicate compellinglynbspConvert insights from analytics to storiesnbspBe an advocate for data science and machine learning and how to create new capabilities and drive transformationnbspliliExperience in statistical inference unsupervised machine learning supervised machine learning reliabilitysurvivability models andor predictive maintenancenbspBasic experience with neural nets cross validation hyperparameter tuning is desiredliliGood understanding of largescale data mining and machine learning techniques for clustering classification regression and anomaly detectionliliAbility to manipulate and visualize both structured and nonstructured datasetsliliAdvanced knowledge of database systems including relational column store and data martsliliStrong written amp verbal English communication skills to interface effectively with team members customers and stakeholders senior leaders in North America and other parts of the worldliulpp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T17:10:01.000Z"
+  },
+  "company": {
+    "name": "ManpowerGroup",
+    "link": "https://www.linkedin.com/company/manpowergroup"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Minneapolis",
+    "region": "MN",
+    "postal_code": "55440",
+    "street_address": null,
+    "latitude": 44.977486,
+    "longitude": -93.264366
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer &amp; Network Security,Computer Software",
+    "description": "Its fun to work in a company where people truly BELIEVE in what theyre doingbrbremWere committed to bringing passion and customer focus to the businessbrbremstronguCompany OverviewbrbrustrongAt Proofpoint we have a passion for protecting people data and brands from todays advanced threats and compliance risks We hire the best people in the business tobrulliBuild and enhance our proven security platformliliBlend innovation and speed in a constantly evolving cloud architectureliliAnalyze new threats and offer deep insight through datadriven intelliliCollaborate with customers to help solve their toughest security challengesbrliulWe are singularly devoted to helping our customers protect what matters most Thats why were a leader in nextgeneration cybersecurityand why more than half of the Fortune 100 trust us as a security partnerbrbrstrongThe Role brbrstrongProofpoint is seeking a highly skilled programmer with experience in fullstack development   You will be working with several teams across the company in identifying requirements and designing and implementing features for new and existing services to support internal needs You will play a critical role in helping the company achieve its aggressive goals for revenue and market growth The applications engineering team you of which you will be a part has a daily impact through its services on the Proofpoints ability to market sale deliver and monitor our products and servicesbrbrstrongYour daytoday brstrongulli Enhance and maintain services on MEAN stack on Docker in AWSliliDesign and develop new services on MERN or equivalent on Docker in AWSliliWork with individuals and teams across the globe via collaboration tools including chat audio and video conferencingbrliulstronguWhat You Bring To The Teambrustrongulli A passion for developing robust performant and userfriendly systemsliliAn ability to drive the development of features and services from the requirements phase all the way through to deploymentlili57 years experience developing UI HTML CSS JavaScript and frameworks such as Angular or ReactliliFamiliarity with version control tools like Git and issue tracking like JiraliliUnderstanding of continuous integration development and use of build automation tools Jenkins Harness etcliliExperience using and designing RESTful APIs and microservicesliliExperience working with a container toolset Docker Kubernetes etcliliExperience with NodeJS application developmentliliAbility to work with Agile software development methodologiesliliAbility to mentor junior Software EngineersliliEase in working with nontechnical coworkers at all levels and in all areas of a large enterprisebrliulstrongWhy ProofpointbrbrstrongAs a customer focused and driventowin organization with leading edge products there are many exciting reasons to join the Proofpoint team We believe in hiring the best the brightest and cultivating a culture of collaboration and appreciation As we continue to grow and expand globally we understand that hiring the right people and treating them well is key to our success We are a multinational company with locations in 10 countries with each location contributing to Proofpoints amazing culturebrbremIf you like wild growth and working with happy enthusiastic overachievers youll enjoy your career with usem",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:03:11.000Z"
+  },
+  "company": {
+    "name": "Proofpoint",
+    "link": "https://www.linkedin.com/company/proofpoint"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 108000,
+    "max_value": 153000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

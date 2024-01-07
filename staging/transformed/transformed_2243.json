@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Software Engineer",
+    "industry": "Machinery,Industrial Automation",
+    "description": "pstrongJob Descriptionstrong nbspLooking for a talented and selfmotivated Software Engineer The ideal candidate will have experience developing and maintaining software in C andor C ideally for machine controls and novel electromechanical systemsppbrppstrongJob DutiesstrongpulliDesign implement and debug C and C code for machine controls and HMI GUI utilities and backend softwareliliDesign implement and debug PLC andor motion controller codeliliImplement test and simulation code Execute test plans and write test reportsliliSupport maintain and document software functionalityliulpbrppstrongSkillsQualificationsnbspstrongppemRequiredem pulliObjectoriented Design and Development OODliliExperience with CCliliExperience with Winforms andor WPF development in Microsoft Visual Studio or equivalent QtJavaliliExperience with software configuration management and source control systems eg Mercurial or GitliliMust be able to work in a collaborative environmentliliStrong analytical and communication skillsliulpemnbspemppemStrongly Desiredem pulliExperience with or aptitude towards software that controls and interfaces to hardware analog and digital IOliliExperience or understanding of Database systems such as Microsoft SQL or similarliliFamiliar with realtime conceptsliliBackground in or solid understanding of Mechatronics and interfacing conceptsliliExperience with additive Manufacturing  3D PrintingliulpstrongnbspstrongppstrongEducationExperiencestrongppemRequiredem pulliBS degree in Software Physics Mechanical Electrical or relatednbsp 0 years of experience developing softwareliulpemDesired empulliMS degree preferredliulpnbspppstrongTravelstrongppThe expectation is up to 15ppstrongnbspstrongppstrongRelocationstrongppThe relocation package is negotiablep",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T16:02:51.000Z"
+  },
+  "company": {
+    "name": "Seurat Technologies",
+    "link": "https://www.linkedin.com/company/seurat-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": "no requirements",
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Wilmington",
+    "region": "MA",
+    "postal_code": "01887",
+    "street_address": null,
+    "latitude": 42.558285,
+    "longitude": -71.163826
+  }
+}

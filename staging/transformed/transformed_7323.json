@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Frontend",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Magic is an early stage fastgrowing challenger to transform the antiquated user identity space by eliminating the need for passwords with backing from top investors such as Lightspeed Ventures SV Angel Social Capital Placeholder and Naval Ravikant Were looking for an exceptional new team member to own the recruiting pipeline and help scale Magic into a household name for developers worldwidebrbrOur mission is to safeguard the trust between users and Internet services by establishing secure and authentic digital identity Magics vision is to build the passport of the internet We are seeking team members who are not afraid to push beyond the status quo and create the simplest most secure and most longterm sustainable identity solution for app developers and endusersbrbrWe are looking for a Frontend Engineer who will help us disrupt the world of authentication and radically simplify how developers implement passwordless authentication in their applications  uncompromising on userexperience reliability and securitybrbrYou should be able to build highquality innovative and performant web experiences that delight users We are pursuing a vision of bringing about a more authentic internet and are not afraid to embrace the very real challenges that must be overcome in order to achieve it Were big dreamers but also pragmatists As such we rely on stateoftheart web technologies to build products that exist nowhere else in the industry todaybrbremAny sufficiently advanced technology is indistinguishable from magic  Arthur C ClarkebrbremstronguRequirementsbrbrustrongIn this role you willbrulliEmpathy with customers developers and users who rely on our servicesliliA passion for improving developer experience and reducing user frictionliliAttention to detail and the creativity to bring static mockups to lifeliliKnowledge of security best practices especially the pitfalls that come with developing secure applications for the webliliAn ability to write welldesigned testable and efficient code while balancing feasibility with ambitionliliKnowledge and expertise in following the Agile Software Development Life CycleliliStrong opinions loosely heldbrliulWe are looking for someone who hasbrulliIdeally 1 years experience of working within an agile software development teamliliExperience in ES6 JavaScript Bonus points for TypeScript experienceliliExperience in CSS Bonus points for CSS preprocessors like LESS or SCSSliliExperience with React Bonus points for React Hooks and ReduxliliStrong interpersonal skills that demonstrate empathy and the ability to distill technical concepts into digestible piecesbrliulBonusbrulliStrong technical writing skillsliliExperience developing open source software and developer toolsliliKeen awareness of application security and knowledge of Open Web Application Security Project OWASP top 10 vulnerabilitiesbrliulMagic is remotefriendly though we would prefer this role specifically to be in a timezone where we can have more hours overlap with the North American team members due to the need for frequent communication and collaborationbrbremAt Magic were looking for team players with passion empathy perseverance and integrity Youre encouraged to apply to this position even if your experience doesnt precisely match the job description Your talent and merits will stand out At Magic we welcome diverse perspectives and people who arent afraid to challenge assumptions and the status quobrbrem",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-08T06:06:01.000Z"
+  },
+  "company": {
+    "name": "Magic",
+    "link": "https://www.linkedin.com/company/magiclabs-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Staffing and Recruiting,Financial Services",
+    "description": "pFully remote DeveloperEngineer Opportunities ppbrppstrongTitlenbspstrongReactAngular Front End Developerpp         Full Stack Developer Java amp JavaScript OR NET amp JavaScriptpp         Back End Engineer Java Node or NETppstrongLOCATIONstrongnbspRemoteppstrongPAY RATEstrongnbspMarket RateppbrppuQUALIFICATIONSupullistrongBachelor Degree in Computer Science Engineering or similar degree program is a muststronglili3 years experience developing APIs REST APIs and building out microserviceslili3 years of backend programming experience with Java Python andor Gonbspemwe are open for any of the above listed OOP languagesemlili3 years of React or Angular DevelopmentliulpbrppuOVERVIEWuppInsight Global is hiring several Software Engineer positions nationwide If any of the above qualifications fit your background we would love to connect furtherp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T14:20:33.000Z"
+  },
+  "company": {
+    "name": "Insight Global",
+    "link": "https://www.linkedin.com/company/insight-global"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Phoenix",
+    "region": "AZ",
+    "postal_code": "85009",
+    "street_address": null,
+    "latitude": 33.448204,
+    "longitude": -112.072586
+  }
+}

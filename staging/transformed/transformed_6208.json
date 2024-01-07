@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Computer Science / Computer Engineer Co-op (Data Science/Machine Vision)",
+    "industry": "Information Technology and Services,Computer Software,Automotive",
+    "description": "Hunter Engineering Company is a global leader in the development and manufacturing of computer based automotive service equipment Hunters awardwinning research and development team of engineers is responsible for hundreds of patented and exclusive features on our equipment We are in search of a student studying Computer Science or Computer Engineering interested in Data SciencebrbrstronguJob SummarybrbrustrongThis position is primarily responsible for the research and development of various features based on Machine Learning Students work primarily on a Windows PC with Python Much of the actual machine learning training is done on a Linux machine There is a lot of real world data from Hunter equipment making this a unique Data Science jobbrbrstronguResponsibilitiesbrbrustrongThe individual will be involved in a variety of projects which may includebrulli Test and evaluate machine learning models lili Data annotation and manipulation lili Create and use PowerShell and Python scripts to acquire and organize data lili Create and use VBA scripts in Excel as part of data evaluation lili Create and use Python programs to clean and evaluate data lili Work with source control tools like Microsoft TFS and GIT to save and control data lili Annotate data used for training an ML model An example annotation program would be the use of Microsoft VoTT to identify and tag objects in images lili Document frequently used processes such that someone else might be able to complete related tasks lili Update training test and validation data used for a specific ML model as the data changes lili Work with an AI platform like TensorFlow or PyTorch lili Configure and use a Linux PC to shorten ML model training times lili Experiment with ML models and data to improve final results lili Software design and testing brliulstronguWhat To Expectbrbrustrongstrong Qualifications brbrstrongIt will be our intent and purpose to provide the individual with real world experience which includes assisting in the progression of a product from concept stage to production The work done by coops in this position is applied to actual Hunter products The work is normally very individualized even if you are working in a larger group We host many coops annually Our goal is to provide an experience that will be an important effective first step in the career of a future engineerbrbrAlso visit our website for testimonials from previous coopsbrbrhttpswwwhuntercomaboutuscareerscoopbrbrstronguQualificationsbrustrongulli Minimum 30 GPA must be on resume lili Major study in Computer Science or Computer Engineering lili At least some programming experience lili Excellent communication skillsliul",
+    "employment_type": "INTERN",
+    "date_posted": "2021-08-27T05:23:56.000Z"
+  },
+  "company": {
+    "name": "Hunter Engineering Company",
+    "link": "https://www.linkedin.com/company/hunter-engineering"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bridgeton",
+    "region": "MO",
+    "postal_code": "63044",
+    "street_address": null,
+    "latitude": 38.755707,
+    "longitude": -90.4183
+  }
+}

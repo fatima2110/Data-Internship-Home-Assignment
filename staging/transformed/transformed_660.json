@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Software Engineer (Servicenow service portal)",
+    "industry": "Information Technology and Services",
+    "description": "pstrongnbspRolenbspStaff Software EngineernbspstrongServicenow service portalppstrongnbspLocation Santa ClaraRemotestrongppstrongnbspDuration Long termstrongppstrongnbspW2 CandidatestrongppstrongThis position is not open for C2CstrongppbrppstrongMust have nonnegotiablestrongpulli3 yearsnbspexperience with Servicenow service portallili8 years for software development experience Front endliulpstrongWhat youll do in this rolestrongpulliBuild highquality clean scalable and reusable code by enforcing best practices around software engineering architecture and processes Code Reviews Unit testing etcliliWork with the product owners to understand detailed requirements and own your code from design implementation test automation and delivery of highquality products to our usersliliDesign software that is simple to use to allow customers to extend and customize the functionality to meet their specific needsliliContribute to the design and implementation of new products and features while also enhancing the existing product suiteliliBe a mentor for colleagues and help promote knowledgesharingliulpstrongWhat you will need for this role to be successfulstrongpulli4 years of experience in ServiceNows service portal custom applications developmentlili8 years of experience in the development of custom applications using Java JavaScript jQuery AngularJS and ReactJS Both client and service side scriptingliliHas technical knowledge building RESTSOAPbased APIsliliDeep knowledge of AJAX JSON HTML XML CSS REST HighCharts and associated frameworksliliUnderstanding of dependency injection and unittesting principlesliliUnderstanding of functional programming paradigmliliExperience with relational databases and SQLliliDeep understanding of design patternsliliStrong verbal and written communication skillsnbspliul",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-15T22:00:30.000Z"
+  },
+  "company": {
+    "name": "Apptad Inc.",
+    "link": "https://www.linkedin.com/company/apptad"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

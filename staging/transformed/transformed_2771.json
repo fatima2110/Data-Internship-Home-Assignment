@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Consumer Services",
+    "description": "strongua Bit About Us brbrustrongQuinn started as a dream our founders had a long long time ago dreamt up during a free period of middle school Theyre operators at heart and enjoy working with worldclass talentbrbrWere exceptionally proud of the company weve built so far and humbled by the work we have yet to accomplish Our people are Quinns most significant competitive advantage and well continue investing in them as a cornerstone of our culturebrbrstrongTHE OPPORTUNITY brbrstrongAs a Machine Learning Engineer focused on search and recommendations youll help us build out our core product by developing highimpact userfacing features Youll be developing in a fastpaced environment working with a highperforming team touching all parts of the product Youll be learning and growing and youll be doing it quickly This is a highimpact role as youll be working directly with our foundersbrbrYoull design and implement your features to be scalable and resilient That might include hurdles like the complexities of a realtime singlepage web application scaling backend services under high load and developing algorithms to enable unique features Youll develop tools for other teams that will make their lives easier while also advancing the product for our customers As an early hire you will have a significant impact as a positive driver of Quinns engineering culture processes and technologybrbrWe will measure your success by your ability to ship fast learn quickly and contribute to our culture of continuous improvement You will have the opportunity to manage your own projects and fully understand how your work impacts the businessbrbrstrongTHE TEAM brbrstrongYoull have the opportunity to work with an amazing team solving problems that will change the way people use computers We are an incredibly supportive teamwe love to pitch in when difficulties arise and give excellent peer feedback to help each other grow We are passionate about lots of thingsautomation maximizing human potential automation that feels human and a remarkable user experienceand we love sharing those passionsbrbrstrongTHE TECH STACK brbrstrongOur tech stack centers around NodeJS  GraphQL and React However were always open to working with other new and emerging technologiesbrbrstronguThe Skillset brbrustrongstrongRequirementsbrstrongul liStudy and transform data science prototypesli li5 years of experience or a related degreeli liDesign machine learning systemsli liResearch and implement appropriate ML algorithms and toolsli liDevelop machine learning applications according to requirementsli liSelect appropriate datasets and data representation methodsli liRun machine learning tests and experimentsli liPerform statistical analysis and finetuning using test resultsli liTrain and retrain systems when necessaryli liExtend existing ML libraries and frameworksli liKeep abreast of developments in the fieldli liGreat attention to detailli liAn analytical mindli liExperience building productivity software preferredli brulIS THIS ROLE NOT AN EXACT FITbrbrSign up to stay in touch well let you know when we have new positions on the team",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-23T15:30:12.000Z"
+  },
+  "company": {
+    "name": "Quinn",
+    "link": "https://www.linkedin.com/company/usequinn"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

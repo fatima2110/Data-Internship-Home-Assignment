@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Site Reliability Engineer-Citi Technology Infrastructure",
+    "industry": "Banking,Financial Services,Investment Banking",
+    "description": "Job Id 21267690brbrWe are looking for a motivated Junior Site Reliability Engineer who prefers to live on the cutting edge of cloud infrastructure management Application Performance Management APM and InfrastructureasCode IaCbrbrAn ideal candidate would have both software engineering experience as well as DevOpsSysadmin experience however we are open to anyone passionate about creating organized efficient and scalable cloud infrastructure which is easy to deploy and maintainbrbrstronguResponsibilitiesbrustrongulliProvision new infrastructure and monitor existing oneliliSet up automated mechanisms that spot issues earlyliliConfigure alarms and alerts to find any performance issuesliliAssist the team with technology selectionliliFrontline for Production monitoring  response in case of issuesliliWorks on the design of new features  functionality to ensure Security  Resiliency  Monitoring are baked into every releaseliliWorks with the team on releasesbrliulstronguQualificationsbrustrongulli1 year of experience as SRE software engineer or systems administratorliliComfortable working with Docker  ContainersliliExperience with coding in any languageliliContinuous Integration  Continuous Delivery and APM implementation experienceliliConsistently demonstrates clear and concise written and verbal communicationliliDemonstrated problemsolving and decisionmaking skillsliliAbility to work under pressure and manage deadlines or unexpected changes in expectations or requirementsbrliulstronguEducationbrustrongulliBachelors degreeUniversity degree or equivalent experiencebrliulThis job description provides a highlevel review of the types of work performed Other jobrelated duties may be assigned as requiredbrbrbrbrstrongJob Family Group brbrstrongTechnologybrbrbrbrstrongJob FamilybrbrstrongApplications DevelopmentbrbrbrbrstrongTime TypebrbrstrongbrbrCiti is an equal opportunity and affirmative action employerbrbrQualified applicants will receive consideration without regard to their race color religion sex sexual orientation gender identity national origin disability or status as a protected veteranbrbrCitigroup Inc and its subsidiaries Citi invite all qualified interested applicants to apply for career opportunities If you are a person with a disability and need a reasonable accommodation to use our search tools andor apply for a career opportunity review strongAccessibility at CitistrongbrbrView the strongEEO is the Lawstrong poster View the strongEEO is the Law SupplementstrongbrbrView the strongEEO Policy StatementstrongbrbrView the strongPay Transparency Postingstrong",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-01T15:09:46.000Z"
+  },
+  "company": {
+    "name": "Citi",
+    "link": "https://www.linkedin.com/company/citi"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irving",
+    "region": "TX",
+    "postal_code": "75063",
+    "street_address": null,
+    "latitude": 32.813877,
+    "longitude": -96.949936
+  }
+}

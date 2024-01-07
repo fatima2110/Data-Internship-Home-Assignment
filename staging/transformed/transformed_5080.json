@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "",
+    "description": "brpstrongTHIS IS AN INTERNSHIP ROLEstrongppbrppstrongWho we arestrongppAt Paravijjyan we are working to build a platform that would help people do mindfulness practices whenever and wherever they want just by using their mobile phones We have already AI recognition systems that would predict your accuracy while doing yoga better than a physical trainer that too at the comfort of your own home We have several other features including Astrology  Meditation and diet recommendationjust by clicking a snapppbrppstrongQualificationsstrongpulliStrong handson development experience with PythonliliExperience working with FirebaseliliExperience with TensorflowliliWorking knowledge of Git Continuous Integration and other supporting systemsliliAbility to work in an agile work environment where team members are remoteliulpnbspppstrongNice to havestrongpulliExperience using PosenetBlazePosesimilar modelsliliExperience applying machine learning for Gesture and Realtime detectionliliExperience using FlutterliulpbrppstrongPerksstrongpulliLearn and work with likeminded peopleliliLetter of RecommendationliliOpportunity to turn Full timeliul",
+    "employment_type": "INTERN",
+    "date_posted": "2021-08-20T19:04:38.000Z"
+  },
+  "company": {
+    "name": "Paravijjyan",
+    "link": "https://www.linkedin.com/company/paravijjyan"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

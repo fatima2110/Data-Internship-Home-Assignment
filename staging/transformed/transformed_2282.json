@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - New Grad (Summer 2022)",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Every day tens of millions of people from around the world come to Roblox to play learn work and socialize in immersive digital experiences created by the communitybrbrOur vision is to build a platform that enables shared experiences among billions of users This is whats known as the metaverse a persistent space where anyone can do just about anything they can imagine from anywhere in the world and on any device The breadth of opportunities and the evolving demands of this firstofitskind platform ensure that your avenues for growth are always expanding and flexiblebrbrJoin us and youll usher in a new category of human interaction while solving exceptional challenges that you wont find anywhere elsebrbrstrongSoftware Engineer  New Grad Summer 2022brbrstrongThe engineers at Roblox are working on the hardest problems in tech today  distributed systems real time communication 3D coexperience massive data processing social networking rendering physics and more As a strongSoftware Engineerstrong you will have real ownership and impact across one or more of these domainsbrbrstronguYou Arebrustrongul listrongA graduate strongwith a BS or MS from a computer science or similar program graduating in 2022li listrongFamiliar with software engineering strongfrom school internships personal projects or previous jobsli listrongProficient in strongone or more programming languages such as C Lua Java Go Nodejs Ruby Python C or Swiftli listrongPassionate strongabout games community driven content generation and social networkingli listrongAdaptable strongand able to thrive in a fastpaced and dynamic work environmentli brbrulstronguYou Willbrustrongul liDesign code test and debug featuresli liRegularly ship code to productionli liWork collaboratively with Robloxs design product data QA and DevOps teamsli brulstrongLocationstrong San Mateo CAbrbrstronguYoull Lovebrustrongul liExcellent medical dental and vision coverageli liA rewarding 401k programli liFlexible vacation policyli liFree catered lunches five times a week and several fully stocked kitchens with unlimited snacksli liOnsite fitness center and fitness program creditli liAnnual CalTrain Go Passli liA Roblox Admin badge for your avatarliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T04:00:18.000Z"
+  },
+  "company": {
+    "name": "Roblox",
+    "link": "https://www.linkedin.com/company/roblox"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 107000,
+    "max_value": 173000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Mateo",
+    "region": "CA",
+    "postal_code": "94406",
+    "street_address": null,
+    "latitude": 37.54715,
+    "longitude": -122.3144
+  }
+}

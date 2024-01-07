@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Consumer Services",
+    "description": "pSophus IT is looking for dynamic and driven professionals to join a rapidly growing highperformance team Our client is a leading provider of digital Global System for Mobile CommunicationsGeneral Packet Radio Service GSMGPRS wireless voice and data technology standards Site Reliability Engineer ACE Platform Engineering will support critical API Platform DevOps and other activities for the Digital Services Grouppp pulliPosition duties and responsibilities include but are not limited to liliProvide consulting services for improved system stability availability performance and reliabilityliliAssist in determining the impact of operational issues and provide input into their resolution via data extraction and quantificationliliWork through daytoday support issues ensure effective and timely resolution of issues in production environment troubleshoot customer impacting issuesliliForecast and plan for rapidly growing environmentliliSupport multiple applications specifically running Solo GlooKubernetesPCFGCPJava based systems in an enterprise environmentliliSupporting Gloo running on Kubernetes Grafana Prometheus Cassandra Postgres Spring Boot or Java based applications running on PCF and WebLogicliliApply monitoring and creating complex alerts and dashboards for production systemsliliProvide capacity analysis tuning analysis for Cloud applications in a LINUX and container platformliliAvailable to provide 24X7 on call support on a rotating basis with other team membersliliLead efforts in troubleshooting recovery and root cause investigationliliPerform analysis of user requirements and problems to automate or improve systems and review system capabilities workflow and scheduling limitationsliliAble to follow and develop detailed work plans schedules project estimates resource plans and status reportsliliFacilitate DR Disaster Recovery exercises to ensure that the team are fully prepared in any eventliliLead root cause analysis session to understand what causes issues in Production and come up with solutions that will prevent them from happening in the futureliliEnsure documentation is created and remain updated for any related workliliStrong understanding of UNIX operating systems and any scripting languageliliEvaluates product and service solutionsliulpstrong strongppstrongSkill requirements strongpulliStrong experience with infrastructure and supportliliStrong experience with Linux OSliliStrong experience with Kubernetes and Gloo edge soloioliliExperience with Cloud Native ApplicationsliliExperience with REST or SOAP API supportliliExperience with tools like NGINX Docker PostMan SOAP UI ELK App Dynamics CICD tools and GITLabliliGood Experience in performance measures and tuning capacity planning and management contingency and disaster recoveryliliStrong scripting knowledge and experienceliliGood understanding of networking and routingliulp ppstrongPRIMARY REQUIREMENTS strongpulliMasters degree in Information Technology Computer Science Computer Information Systems Computer Applications related field or its equivalent and 3 years of relevant work experienceliliALTERNATIVE REQUIREMENTS Applicant must have Bachelors degree in Information Technology Computer Science Computer Information Systems Computer Applications related field or its equivalent and 5 years of relevant work experienceliliWill accept applicant with any suitable combination of education training or experience Will accept 3 year bachelors degree  3 year masters degree in related field as determined to be equivalent to a USliliMasters degree as determined by a qualified evaluation serviceliul",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-14T21:06:38.000Z"
+  },
+  "company": {
+    "name": "Sophus IT Solutions",
+    "link": "https://www.linkedin.com/company/sophusitsolutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellevue",
+    "region": "WA",
+    "postal_code": "98007",
+    "street_address": null,
+    "latitude": 47.6137,
+    "longitude": -122.19093
+  }
+}

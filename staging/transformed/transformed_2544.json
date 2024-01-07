@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Fullstack Software Engineer",
+    "industry": "Internet,Financial Services,Consumer Services",
+    "description": "pAt Starship were working hard to create the healthy future we all deserve by transforming the way people pay for healthcare Were passionate about empowering our customers to take greater control of their financial health and personal wellness building a better tomorrow through superior technology and user experienceppbrppLaunched in 2018 our team of engineers designers and strategists are redefining the 65 billion health saving industry by building innovative solutions for saving spending and investing for healthcare Were bringing together exceptional talent from various disciplines and industries to shape the future of health savings and improve the lives of our customersppbrppAs Software Engineer youll work alongside our Senior Engineering Manager to take our product to the next level by tightening integration and enhancing compliance with industry standards In this role youd work on architecting designing and implementing a system where delivering secure information in real time is essentialppbrppWe seek out engineers who are hardskilled software pros but also thinkers and tinkerers who find creative solutions for complex problems and challenge the status quo We love automation code review and continuous integration and you should too At Starship were constantly iterating and improving our products to provide our members with the best experience possibleppnbspppstrongWhat youll be doingstrongpulliDesigning scalable and resilient data pipelines and handle exponential member growth with confidenceliliContributing to an event driven software stack to keep auditors happyliliDesigning data models and workflows to make use of health financial dataliliCollaborating with engineers and product managers to make sure were building the right solutions for the right problemsliliDeveloping new userfacing featuresnbspliliBuilding reusable code and libraries for future usenbspliliEnsuring the technical feasibility of UIUX designsnbspliliOptimizing application for maximum speed and scalabilityliliThoughtful communication through code and design reviewliliStriving to build great experiences and putting users ahead of technologyliliCollaborating with engineers and product managers to make sure were building the right solutions for the right problemsliliImproving our current techstack found here httpsstackshareiostarshipstarshipnbspliulpbrppstrongWhat youll bring to the teamstrongpulliA willingness to work in a fastpaced startup environmentliliAbility to dive into complex systems and understand how they workliliExperience in implementing testable business logic that is secure and easy to maintainliliExperience with React React Native JavascriptTypescript and NodejsliliExperience in building and consuming various API endpoints GraphQL and working on payments features or companiesliliFamiliarity with message brokers and event streamseg AWS SNS SQS Azure ServiceBus or similarliliExperience working in high security environmentseg payments healthcarenbspliliExperience in building both web and app productsliliiOS and Android experience is a plusliliMotion experience is a plusliliYou work with a sense of empathy for others both end users and your fellow engineersliulpbrppstrongWhat Starship offersstrongpulliWelcoming diverse and interesting colleagues from all walks of lifenbspnbspliliCompetitive compensation packages including equitynbspnbspliliComprehensive benefits package including medical dental and visionnbspinsuranceliliOf course the best HSAnbspnbspliliFlexible schedules and time offnbspnbspliliNew equipment so you can do your best workliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T14:23:34.000Z"
+  },
+  "company": {
+    "name": "Starship",
+    "link": "https://www.linkedin.com/company/starshiphsa"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

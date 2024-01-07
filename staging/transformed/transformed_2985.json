@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "pA global platform provider based in Berlin Germany is seeking a strongSite Reliability Engineerstrong to help bolsternbspand support their cloudbased service offering Theyre looking for someone with experience in strongLinux CICD pipelines and some codingstrongppnbspppstrongRequirementsstrongpulliA solid background and working experience in Software Development andor Linux Systems Administration roleliliStrong interpersonal written and verbal communication skillsliliAvailable to participate in a scheduled oncall rotationliliProficient as a Linux Systems Engineer Linux Administrator Software Developer Software Engineer with experience managing large scale Web Services infrastructureliliDevelopment experience in one or more of the following programming languages Linux Python Bash Go Java C or RustliulpbrppstrongIn addition experience with one or more of the following would be beneficialstrongpulliDistributed data storage at scale Hadoop CephliliNoSQL at scale MongoDB clusters sharded Redis CassandraliliData Aggregation technologies ElasticSearch KafkaliliScaling and managing traditional RDBMS PostgreSQL MySQL with High AvailabilityliliMonitoring amp Alerting Prometheus Grafana and Incident Management toolsetsliliVirtual infrastructure andor container hosting deployment and management at scaleliulpbrppThis position is remote but once Covid restrictions lift they will look at a hybrid working model and they would like candidates who are based near Berlin to pop in for meetings from time to time and catchupsppbrppstrongPaying between 130 to 140k  Bonus  Benefits strongppbrppstrongApply now to be considered and for more informationstrongp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T16:54:46.000Z"
+  },
+  "company": {
+    "name": "Apollo Solutions",
+    "link": "https://uk.linkedin.com/company/apollo-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "California",
+    "region": "United States",
+    "postal_code": "93266",
+    "street_address": null,
+    "latitude": 37.254673,
+    "longitude": -119.61728
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer, Americas",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "This role is an opportunity for a handson technologist with a passion for Linux to build a career with Canonical and drive the success with those leveraging Ubuntu and open source products If you have an affinity for open source development and a passion for technology then you will enjoy working with some of the best people in the industry at CanonicalbrbrstrongJob SummarybrbrstrongThe IS Team at Canonical supports and maintains all of Canonicals production services Members of the team use reallife operational experiences to contribute to product improvements The team is in charge of running services used by over 60 million Ubuntu usersbrbrAs an SRE youll be in a unique position to improve Canonical products and the opensource technologies theyre based on Youll do this by providing critical feedback to developers on how their products operate at scale as well as writing code submitting bugs and working with other teams within the company You will also be encouraged to develop and submit fixes and enhancements directly and to collaborate with development teams during the design and implementation phasesbrbrYoull be part of a global team of SREs that work together and support each other to provide the best possible services to our company Canonicals customers and the Ubuntu CommunitybrbrstrongAs a Site Reliability Engineer you willbrstrongulliMaintain operational responsibility for all of Canonicals core services networks and infrastructureliliDevelop new features and improve the resilience and scalability of the existing cloud and container portfolio at CanonicalliliAutomate operations for reuse across the worlds largest companies taking into consideration the complexities of distributed systemsliliDevelop skills in troubleshooting capacity planning and performance investigationliliCollaborate with development teams to design service architecture documentation playbooks policies and operational proceduresliliProvide assistance and work with globally distributed engineering operations and support peersliliBe given uninterrupted software development time to focus on larger coding projects and automation of manual tasksliliCarry final responsibility for timecritical escalationsbrliulstrongThe successful Site Reliability Engineer candidate will havebrstrongulliBachelors degree or greater preferably in computer science or related engineering fieldliliA passion for writing sharing and maintaining enterprise opensource software solutionsliliPython software development experience with large projectsliliStrong modern engineering background peerreview unit testing SCM CICD AgileliliPreference for treating configuration as code and automating to reliably solve problemsliliExtensive knowledge of cloud computing concepts and technologiesliliPractical knowledge of Linux networking routing and firewallsliliHandson experience administering enterprise Linux serversliliAble to communicate clearly and effectively in English over email chat video or voice calls and inpersonliliMotivated and able to troubleshoot from kernel to web and willing to ask others when appropriateliliA willingness to be flexible and able to learn new things quicklyliliBe inspired by the needs of fastchanging environmentsliliHappy to work within distributed teamsliliBe passionate and familiarized about opensource especially Ubuntu or DebianbrliulstronguAbout CanonicalbrbrustrongCanonical is a growing international software company that works with the opensource community to deliver Ubuntu  the worlds 1 cloud operating system Our mission is to realize the potential of free software in the lives of individuals and organisations Our services are helping businesses worldwide to reduce costs improve efficiency and enhance security with UbuntubrbrWe offerbrulli100 Workfromhome liliLearning and DevelopmentliliRecognition RewardsliliAnnual LeaveliliPriority Pass for travelliliFlexible working optionbrliulemCanonical believes a diverse workforce enhances our ability to deliver world class software and services which meet the worlds computing needs We are committed to ensuring equal employment opportunities to all qualified persons All qualified applicants will receive consideration for employment without regard to race color religion gender gender identity or expression sexual orientation national origin genetics disability age or veteran statusbrbremem stackbrbrem",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T17:16:28.000Z"
+  },
+  "company": {
+    "name": "Canonical",
+    "link": "https://uk.linkedin.com/company/canonical"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Oklahoma City",
+    "region": "OK",
+    "postal_code": "73118",
+    "street_address": null,
+    "latitude": 35.468494,
+    "longitude": -97.52126
+  }
+}

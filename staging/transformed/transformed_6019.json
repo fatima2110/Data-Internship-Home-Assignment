@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Entry Level)",
+    "industry": "Electrical/Electronic Manufacturing,Defense &amp; Space,Aviation &amp; Aerospace",
+    "description": "Launcher is developing the worlds most efficient rocket to deliver small satellites to orbitbrbrWe are now headquartered in Hawthorne California map Please visit our careers page to learn more about Launchers strategy and benefitsbrbrThe Role Support ongoing propulsion testing and advance the development of our Avionics software platform for our products Launcher Engine2 Launcher Orbiter and Launcher LightbrbrCompensation Above average salary  company equity stock options  competitive benefitsbrbrStart date September 1 2021 or earlierbrbrLocation Hawthorne CAbrbrstrong The Following Software Development Roles Are Available brstrongulliFlight computer role  Required skills C C Linux Kernel TCPIP Embedded SystemsliliGround system platform role  Required skills Web development including NodeJS InfluxDB Redis HTMLCSS Websocket Amazon Web Services Networking liliTesting software role  Required skills National Instruments DAQs Labview Python or C TCPIP able to read hardware datasheets and schematicsbrbrliulstrong Minimum Requirements brstrongulliBachelors degree in Computer Science or other engineering with strong software engineering experience or electivesliulPlease specify your area of expertise and specific role interest in your cover letter Please submit an engineering portfolio with relevant projects for the rolebrbrstrong ITAR Requirement brbrstrongAs we must adhere to the US Government space technology export regulations including the International Traffic in Arms Regulations you must be a US citizen lawful permanent resident of the US protected individual as defined by 8 USC 1324ba3 or eligible to obtain the required authorizations from the US Department of State All applicants must indicate their immigration status on their resume andor cover letterbrbrstrong Equal Opportunity brbrstrongLauncher is an equal opportunity employer We evaluate qualified applicants without regard to race color religion gender national originethnicity veteran status disability status age sexual orientation gender identity marital status mental or physical disability or any other legally protected status",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T05:15:16.000Z"
+  },
+  "company": {
+    "name": "Launcher",
+    "link": "https://www.linkedin.com/company/launcher"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

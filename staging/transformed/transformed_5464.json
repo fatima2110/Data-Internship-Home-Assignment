@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Telecommunications",
+    "description": "pstrongABOUT THE ROLEstrongppWe are looking for our next extraordinarynbspstrongemSite Reliability Engineer emstrongto level up ournbspstrongemTechOps TeamemstrongppAs a SRE you have the mind of a software engineer and the soul of a systems administrator You are the guardian angel of our systems infrastructure You have no trouble communicating your take on problems that arise Enterprise and network administration are in your DNA and you have the blood test to prove it Or maybe just the experience That works too Your time would be split 5050 between writing code and operationalizing infrastructure aka scripting yourself out of a jobppYour usual day of awesomeness includesnbspnbsppulliMaintain the core infrastructureliliDebug software at the code and infrastructure levelliliSoftware development to help support production code and bring automation to routine tasksliliCollaborate with engineers in the deployment and scaling of new product featuresliliArchitect scalable reliable solutions for business requirementsliliMaintain services once they are live by measuring and monitoring availability latency and overall system healthliliCreate documentation and diagrams of systems and processesliliInvestigate production incidents help determine contributing factors implement fixes and write blameless postmortemsliliArchitect create and implement automation into our SDLCliliBe responsible for configuration management tools and monitoring strategyliliUnderstand production call flows to support incident managementliliHelp meet objectives for the business by interacting with other teams within the organizationliulpuTechnologies Youll Work WithupulliNodeJS Golang PythonliliGIT CICD toolsliliDocker KubernetesliliTerraformliliAWS Lambdas EC2 Kinesis S3 Route53 RDS Dynamo and many othersliliELKliliDatadog Bitbucket JiraliliWeb servers ApacheNginxVarnishliliNoSQL DBsliliSQL RDS AuroraMSSQLPSQLliliCM tools like AnsibleliliHTTP TLSSSLliliLinuxliliNetwork routing and firewallsliulpstrongWHAT YOU BRINGstrongpulliSoftware Engineering NodeJS preferredliliScripting in Bash PythonliliExperience with designingmaintaining Linux based systemsliliMonitoring production systemsliliExperience with AWS and Cloud HostingliliUnderstanding of system and network security best practicesliliMonitoringAlarming complex systemsliliAdvanced troubleshooting and fault isolation skillsliliHighly collaborative with effective written and verbal communication skillsliulpbrppstrongOUR VALUES  LETS MAKE LIFE ULTRA TOGETHERstrongpullistrongOwnershipstrongnbspWe are all owners be the outcome and get the job donelilistrongAction BiasedstrongnbspBe brilliant proactive and act with urgencylilistrongEmbrace the AdventurestrongnbspBe agile adaptive and thrive on changelilistrongInvent and SimplifystrongnbspNever accept good enoughliulpp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T04:24:33.000Z"
+  },
+  "company": {
+    "name": "Ultra Mobile",
+    "link": "https://www.linkedin.com/company/ultra-mobile"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Costa Mesa",
+    "region": "CA",
+    "postal_code": "92626",
+    "street_address": null,
+    "latitude": 33.663857,
+    "longitude": -117.90476
+  }
+}

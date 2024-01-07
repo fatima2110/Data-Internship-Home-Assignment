@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Full Stack",
+    "industry": "Financial Services",
+    "description": "strongEmployee Applicant Privacy NoticebrbrstrongstronguWho We ArebrbrustrongShape a brighter financial future with usbrbrTogether with our members were changing the way people think about and interact with personal financebrbrWere a nextgeneration fintech company using innovative mobilefirst technology to help our 2 million members reach their goals The industry is going through an unprecedented transformation and were at the forefrontbrbrWere proud to come to work every day knowing that what we do has a direct impact on peoples lives with our core values guiding us every step of the way strongJoin us to invest in yourself your career and the financial world brbrstrongstrongThe rolebrbrstrongWe are looking for a Full Stack Software Engineer with frontend experience to join our Growth team who will help build a cutting edge technology platform supporting our Growth Referrals Rewards and Experimentation solutionsbrbrOn our team you will be in the middle of it all  implementing new functionality for web and backend squashing bugs maintaining the health of our code and continually growing as an engineer You will be involved in the entire product lifecycle from ideation through building testing deploying monitoring and supporting critical systems Youll face and solve a wide range of challenges technical product and operational shaping your personal growth and career along the waybrbrstronguWhat Youll Dobrustrongul liDelivering resilient and scalable codeli liOwning and ideating on technical solutions for product requirements and user stories with minimal supervisionli liParticipating in code and design reviewsli liGenerating ideas for new initiatives and technologiesli liCommunicating engineering concepts and efforts with outside stakeholders in product marketing operations business legal and complianceli liWorking in a fastmoving highlycollaborative environment across multiple officesli brbrulstronguWhat Youll Needbrustrongul liBachelors Degree in Computer Science or related fieldli liExperience developing Web applications in React or similar technologiesli li2 year programming experience ideally on a modern stackli liOur core stack is Java Kotlin Spring  PostgreSQL ReactJavascript Familiarity with any OOP language and an understanding of relational databases is a great startli liExperience developing backend application in Java Kotlin is a plusli liExperience working in a collaborative coding environment refining designs together working through code reviews and managing pull requestsli liAgile Development Experienceli liAPI Design experienceli liWillingness to roll up your sleeves collaborate with others and get stuff doneli liStrong sense of responsibility driving a project from inception to completionli liAffinity for solving problems and diving deep into the detailsli brbrulstronguWhy Youll Love Working Herebrustrongul liCompetitive salary packages and bonusesli liComprehensive medical dental vision and life insurance benefitsli liGenerous vacation and holidaysli liPaid parental leave for eligible employeesli li401k and education on retirement planningli liTuition reimbursement on approved programsli liMonthly contribution up to 200 to help you pay off your student loansli liGreat health amp wellbeing benefits including telehealth parental support subsidized gym programli liEmployer paid lunch program except for remote employeesli liFully stocked kitchen snacks and drinksli ulliThese benefits are only applicable to full time employeesbrbrliSoFi provides equal employment opportunities EEO to all employees and applicants for employment without regard to race color religion including religious dress and grooming practices sex including pregnancy childbirth and related medical conditions breastfeeding and conditions related to breastfeeding gender gender identity gender expression national origin ancestry age 40 or over physical or medical disability medical condition marital status registered domestic partner status sexual orientation genetic information military andor veteran status or any other basis prohibited by applicable state or federal lawbrbrPursuant to the San Francisco Fair Chance Ordinance we will consider for employment qualified applicants with arrest and conviction records",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T05:12:37.000Z"
+  },
+  "company": {
+    "name": "SoFi",
+    "link": "https://www.linkedin.com/company/sofi"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 82800,
+    "max_value": 124000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Salt Lake City",
+    "region": "UT",
+    "postal_code": "84101",
+    "street_address": null,
+    "latitude": 40.758476,
+    "longitude": -111.888145
+  }
+}

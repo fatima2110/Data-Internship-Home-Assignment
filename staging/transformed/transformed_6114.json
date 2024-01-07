@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Financial Services",
+    "description": "Job SummarybrbrDo you want to be part of a team that creates magic for millions of guests Behind the scenes the Retail Technology Operations team helps provide magical digital and physical experiences applying the latest technology and our Site Reliability Engineers provide expert engineering services in the cloud automation and reliability to support the innovation and operation of The Walt Disney Company We are passionate about ensuring our systems provide the best guest experience You will protect and improve the automation and systems that run Disneys experiences and services with a focus on availability latency and automation while embracing a DevOps culturebrbrYou will report to Senior ManagerTechnologybrbrResponsibilitiesbrbrThe Site Reliability Engineering Team within the Retail Technology Operations focuses on improving our services and systems availability and performance This is done through driving observability around our services designing and implementing tooling and automation and working with our business and development teams to bring datadriven solutions As a Senior Site Reliability Engineer you will create automation for our services expanding observability of the environment participating in infrastructure design discussions working with teams to implement complete solutions and resolving issues across environmentsbrbrulliYou will oversee our current cloud and SaaS services  install upgrade maintain all necessary middleware components work with cloud vendors to integrate APIs and automation toolsliliYou will work to compile a runbook that identifies all known potential risks and incidents and have welldefined procedures to reduce or eliminate the risk if they occur you will also have oncall and incident resolution responsibilitiesliliYou will deploy and manage new modern cloud technologies using infrastructureascode selfhealing security automation patterns instrumented and monitoredliliYou will participate in implementation of complex engineering solutions across Retail TechnologiesliliManage and escalate delivery impediments risks and changes tied to the engineering programs to the partnersliliWork with our development teams to ensure smooth operational transition of solutions and to improve existing solutions post turnoverbrbrliulstrongBasic QualificationsbrbrstrongulliExperience programming in one or more of Python Ruby Java Go Rust CC 3 yearsliliExperience with CloudPaaSSaaS Environments eg AWS Azure Google Cloud Compute 3 yearsliliProficient collaborative and experienced in building reliable scalable enterprise systems 5 yearsliliUNIXLinux administration troubleshooting performance tuning amp security 3 yearsliliLead technical projects working with project managers to ensure smooth delivery 2 yearsliliExperience working with Security Operations teams to design security into solutions and avoid existing issues 2 yearsliliUnderstanding of observability principles monitoring logging tracing alerting tools and practices that promote observability 3 yearsliliExperience with continuous integration tools egGitlab AWS CodeBuild CodeDeploy CodePipeline Azure DevOps 3 yearsliliConfiguration management and orchestration eg Terraform Cloud Formation Ansible Chef 3 yearsliliExcellent written and verbal communications ability to develop presentationsbrbrliulRequired EducationbrbrulliBachelors degree in applicable fieldbrbrliul808309BR",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T12:47:03.000Z"
+  },
+  "company": {
+    "name": "The Walt Disney Company",
+    "link": "https://www.linkedin.com/company/the-walt-disney-company"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81000,
+    "max_value": 117000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Orlando",
+    "region": "FL",
+    "postal_code": "32889",
+    "street_address": null,
+    "latitude": 28.53833,
+    "longitude": -81.378876
+  }
+}

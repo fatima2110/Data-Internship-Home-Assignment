@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "stronguJob DescriptionbrbrustrongMy client is a leading global provider of legal regulatory and business information and analytics that help customers increase productivity improve decisionmaking and outcomes and advance the rule of law around the world They help lawyers win cases manage their work more efficiently serve their clients better and grow their practices They assist corporations in better understanding their markets monitoring their brands and competition and in mitigating business risk They collaborate with universities to educate students and support nationbuilding with governments and courts by making laws accessible and strengthening legal infrastructures This organization serves customers in more than 130 countries with 10000 employees worldwide is part of RELX Group a global provider of information and analytics for professional and business customers across industries They are looking to bring on a Senior SRE to assist in a 50milliondollar project migrating 3 billion dollars worth of products to AzurebrbrstronguRequired Skills amp Experiencebrustrongul liUse of orchestration tools such as Terraform Ansible or CloudFormationli liPrevious Analytic and troubleshooting experience is requiredli liExperience migrating application from onpremises to public cloudli liExperience with BlueGreen deployment methodologiesli liExperience working with containerised workloads such as Docker and Kuebernetesli liExperience with Log Management tools eg  Elastic Stack Graylog or Splunkli liExperience working with an enterprise RDBMS such as MySQL andor Microsoft SQL Serverli liKnowledge of change control and associated proceduresli liUse of Secret Management services eg  Hashicorp Vaultli liExperience with any highlevel programming languageli liConfiguration Management tools  eg Ansible Puppet Chef or equivalentsli liProfessional experience of working within the public cloud  Azure AWS or GCPli liHandson experience of Linux and Windows server including support and troubleshootingli liSystem and application monitoring  eg Prometheus Grafana Nagios etcli liProfessional Experience with common source control tools  eg Git SVNli liCloud Architecture and system design to solve key business problems and facilitate team goalsli liStrong and enthusiastic technologist able to demonstrate a broad technical knowledgeli liAbility to act as a point of expertise advise others in the team on best practise and impart knowledgeli brulDevelopmentbrul liCoding and scripting experience  eg Powershell Bash Python or equivalent li liContinuous IntegrationDelivery Tools  eg Gitlab Github Jenkinsli liCloud Architecture and system design to solve key business problems and facilitate team goalsli brulSecuritybrul liHandson experience performing application staticdynamic security and penetration assessment with tools such as  SonarQube CheckMarx AppScan BurpSuite OWASP ZAP Proxy WebInspect Fortify Veracode Nessus etcli liGood understanding of defensive corrective and detective controls and requirementsli liKnowledge of OWASP Top 10 SANS Top 25 identify vulnerabilities via manual and automated testing methods and how to effectively remediate vulnerabilities associated with each Ability to recognize and escalate Security issuesli liExposure to application security testing source code review and webmobile application penetration testsli liFamiliarity with different types of security vulnerabilities and tools for countermeasureli liThe candidate should be well versed in Information security principles at an Intermediate levelli brbrulstronguDesirable Skillsbrustrongul liDesirable  AWS  Azure Certificationsli brbrulstronguQualificationsbrustrongul li5 years experience and proven background working in a technical Cyber Security related positionli liBSc EngineeringComputer ScienceIT Security or relevant experienceli liIndustry certification such as CSSP AWS Certified Security CSSLP desirableli brulThe Offerbrul liCompetitive Salary Up to 6080hour DOEli brbrulstronguYou Will Receive The Following Benefitsbrustrongul liMedical Insurance amp Health Savings Account HSAli li401kli liPaid Sick Time Leaveli liPretax Commuter Benefitli brulApplicants must be currently authorized to work in the United States on a fulltime basis now and in the futurebrbrstrongPosted Bystrong Noah Mackeprang",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T00:25:23.000Z"
+  },
+  "company": {
+    "name": "Motion Recruitment",
+    "link": "https://www.linkedin.com/company/motion-recruitment-partners"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 97200,
+    "max_value": 144000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irvine",
+    "region": "CA",
+    "postal_code": "92717",
+    "street_address": null,
+    "latitude": 33.68591,
+    "longitude": -117.82472
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (REMOTE)",
+    "industry": "Computer Software,Information Services,Information Technology and Services",
+    "description": "Logic2020 is looking for an experienced Site Reliability Engineer to join our team to support the development and operations of a largescale application running in Kubernetes and using Angular 8 NodeJS MS SQL CbrbrThe work will include both ongoing operational support and technical dept reductionbrbrWithin the team structure you will be increasing the systems reliability scalability and operational efficiency through automationbrbrIn this role you will use a diverse set of technical expertise including backend frontend development DevOps tooling troubleshooting and debugging skills cloud computing codingscripting Beyond your technical qualification you will also have a healthy combination of crossgroup collaboration skills communication and relationship building skillsbrbrstrongService DeskbrstrongulliKnowledge of incident management release management liliResponsible for analyzing and triaging user identified issuesliliResponsible for triggering first line services repair actions liliComplete Root Cause Analysis RCA investigationsliliResponsible for communicating incident postmortem process to TPM and stakeholders liliImprove team practices in handoffs of work and incidents liliGenerate incidents data including liulliRecommendations for development team liliRunbooks for future incident response liliNew monitoringalerting thresholds liliAdditional logging required liulliExperience with Jira Compass PagerDuty or xMatters brliulstrongMonitoring and Incident ResponsebrstrongulliApplication level monitoring SPLUNK AppDynamics liliInfrastructure Monitoring Grafana liliRespond to automated reporting notificationsliliResolve identified problems notify stakeholders about progress liliEscalate application issues not directly related to application liliResponsible for creating implementing and monitoring alert mechanisms and thresholds brliulstrongBacklog Management brstrongulliProvide identified issues to team for prioritization liliUpdate tickets based on progress and log final resolution sliliIdentify production issue patterns and propose solutions to address problems brliulstrongDevOps brstrongulliHandson experience with GitLab liliExperience with Kubernetes Mesos and Marathon liliSome knowledgeexperience with microservices and use of containers brliulstrongAdministration brstrongulliSupport access administration liliMaintain and manage security and access to the application liliMaintain Kubernetes GitLab CICD pipeline including capacity management brliulstrongDevelopmentbrstrongulli35 years of Database Experience MS SQL building stored procedures troubleshooting query execution analyzing data flow lili35 years software development experience with C Angular 8 and NodeJS liliBABS degree in Computer Science or related software engineering field or equivalent practical experience liliExperience implementing test automation liliExperience working with Azure brliulstrongCommunicationbrstrongulliGood communication skills both verbal and written are essential liliSelfstarted capable of dealing with ambiguity and minimally defined requirements liliComfortable talking about technical things with business people and business things with technical people Able to express complex concepts in plain language to reach broader audiences liliAbility to craft a compelling message and tailor it for a given audience Ability to mix deep technical expertise with simple everyday language to deliver a story that is memorable and useful brliulDo you also have a demonstrated ability to learn new technical concepts combined with a high degree of intellectual curiosity Come join usbrbrstronguAbout Logic2020   brbrustrongLogic2020 is one of Seattles fastestgrowing consulting firms We hire remarkable people to create simple efficient solutions for complex problemsbrbrAlthough we make it look like magic our success is due to our approach methodical and structured and the people we hire smart motivated and team oriented Together these enable us to consistently exceed client expectationsand our reputation is growingbrbrFor the past five years weve placed in the top ten of Seattle Business magazines Best Companies to Work For From engaged leadership and wideranging benefits to career mentorship and diverse internal opportunities we pride ourselves on being one of the best companies to work with and work forbrbrWe hire people that are selfmotivated comfortable conceiving strategies on the fly and enjoy working individually and as part of a team Our work is highenergy and demanding but new hires will quickly feel at home among colleagues as friendly and focused as they are We bring our best to every opportunity driving change in industries across the West Coast Join us and you can too",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T04:20:35.000Z"
+  },
+  "company": {
+    "name": "Logic20/20, Inc.",
+    "link": "https://www.linkedin.com/company/logic20-20-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

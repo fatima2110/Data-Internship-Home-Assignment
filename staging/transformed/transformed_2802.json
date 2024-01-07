@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Enterprise",
+    "industry": "Computer Software",
+    "description": "pstrongABOUT JOTFORMstrongppnbspppJotForm is a San Franciscobased SaaS company with more than 9 million users worldwide We are thriving and growing and weve never needed outside funding Thats because we like keeping things agile independent and fun JotForm believes everyone should be able to create their own online forms Our 10000 readymade form templates 100 integrations and more than 380 widgets have made us one of the most popular online form builders for organizations of all sizes  from small businesses to enterprisesnbspppnbspppSince our inception in 2006 our mission has been to help users create manage and share online forms and receive responses in the easiest way possibleppnbspppReleased in 2018 JotForm Enterprise helps organizations with multiple JotForm users to automate workflows and business processes as well as collect internal andor external data in a structured mannerppbrppAs a rapidly growing company JotForm is seeking a Site Reliability Engineer SRE  Enterprise located in the western US This is a strongfulltime fully remote opportunity in the Pacific time zonestrong though an strongexceptionstrong can be made for astrong great fit located elsewhere in the US who is willing and able to work during Pacific time zone business hoursstrongppbrppstrongRole SummarynbspstrongppbrppWere looking for an experienced SRE who possesses a strong understanding of how to leverage SRE best practicesnbspAs a critical member of our Engineering team the ideal candidate will combine engineering experience and an innate drive to improve existing systems and processes with the creativity to develop novel solutions to evolving challenges Youll be responsible for availability latency performance efficiency change management monitoring emergency response and capacity planningppbrppstrongHeres what you will be doingstrongppbrpulliCollaborate with software developers to design solutions for hosting and maintaining custom business applications in Google Cloud and AWSliliWhen CICD deployment pipelines fail or monitoring systems indicate performance degradation troubleshoot these issues working closely with product owners until the problem is resolvedliliContribute to ongoing efforts to develop standardized and compliant infrastructure servicesliliParticipate in a morning standup or team meeting to report your accomplishments plans for the day and any roadblocks you encountered Your team will do the same giving you an opportunity to understand and contribute to other ongoing initiativesliliResearch and present new ideas to your colleagues and leadership to further our digital transformation and contribute to continuously improving our enterprise hosting servicesliulpbrppstrongEducationWork ExperienceTechnical RequirementsstrongppbrpulliExpert knowledge of LinuxUnix variants especially Ubuntu and its derivatives including best practices for deploying applicationsliliExperience with Google Cloud services examples include commonly used services such as Compute Engine Cloud LB and Cloud SQLliliExperience with infrastructure as code and automationconfiguration management using PuppetliliThe ability to use a wide variety of technologies including hosting services continuous deployment and continuous integration services code repositories and security vulnerability identification tools to support our cloud infrastructure examples include GCE PHP MySQL Nginx Gearmand Docker GitHub Actions and JenkinsliliGood understanding of programming languages like PHP Python andor GoliliExperience analyzing solutions components understanding systems integration challenges and identifying technology gaps in current components that must be resolved to reach future performance targets and functionality requirements in cloud infrastructureliliAdvanced automated script design coding debugging and maintenance skills using Bash Python etcliliExperience with HIPAAPCI complianceliulpbrppstrongPersonal CharacteristicsSkillsstrongppbrpulliPatience and tolerance when things go wrongliliThe skill and discipline to work remotely with a distributed teamliliExcellent communication skills written verbal and virtualliliSelfmotivated logical and detail orientedliliPassionate about new technologies software and processesliliThe ability to multitask in a fastpaced environment with multiple deadlines is essentialliulpnbspppstrongJotForm PerksstrongppbrpulliFulltime role with competitive base salary in a fastgrowing companyliliFlexible remote work from anywhere in USnbspliliFully paid medical dental vision and life insurancelili401k with company matchliliAdditional company benefits include 10 vacation days per year holidays and office closure during the holiday seasonliulpbrppJotForm is an Equal Opportunity Employer Employment decisions are made without regard to race color religion national or ethnic origin sex sexual orientation gender identity or expression age disability protected veteran status or other characteristics protected by lawp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T16:51:42.000Z"
+  },
+  "company": {
+    "name": "JotForm",
+    "link": "https://www.linkedin.com/company/jotform"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

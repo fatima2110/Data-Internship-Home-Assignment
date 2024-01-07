@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Biotechnology,Information Technology and Services,Computer Software",
+    "description": "pThe ideal candidates favorite words are learning data scale and agility You will leverage your strong collaboration skills and ability to extract valuable insights from highly complex data sets to ask the right questions and find the right answersnbspCollaborate with data scientists engineers stewards on data extraction cleaning and visualizationppImplement and optimize decision science models based on structured and unstructured data And work in cross geography team environment in the delivery of analytic software prototypesppnbspppstrongResponsibilitiesstrongpulliDevelop test and produce advanced analytical methods in the agricultural domainliliCollaborate with data scientistsengineersstewards on data extraction and data cleaningliliDesign implement and optimize statistical and machine learning models based on structured and unstructured dataliliWork closely with the software engineering team data engineers and business representative in the delivery of analytic softwareliulpbrppstrongQualificationsstrongpulliFluency in strongPythonstrong or another highlevel programming languageliliExperience developing statistical and machine learning modelslilistrongPhDstrong in related field Statistics Geostatistics Mathematics or closely related fieldliulpbrpullistrongPreferred Skills strongliliPrevious exposure in agriculturalbiological scientific dataliliExperience working with environmental dataliliFamiliarity working with geospatial dataliliFamiliarity with deep learning architectureslilibrliulpbrppIdeally  we would like someone who can work in person after offices reopen and it is deemed safe to do so but we WILL consider remote working for the right candidatep",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-02T22:00:21.000Z"
+  },
+  "company": {
+    "name": "neteffects",
+    "link": "https://www.linkedin.com/company/neteffects"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater St. Louis",
+    "region": null,
+    "postal_code": "63101",
+    "street_address": null,
+    "latitude": 38.62262,
+    "longitude": -90.192986
+  }
+}

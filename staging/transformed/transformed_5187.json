@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "REMOTE Lead Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "If you are a Lead Site Reliability Engineer with experience please read onbrbrTop Reasons to Work with UsbrbrOur mission is to replace classic collegelevel textbooks homework and lab assignments with interactive and animated online textbooks that allow instructors to modify content and monitor student participationperformance Currently we are used in over 600 universities by over 4500k students and offer the excitement of a young energetic startup environment with a masterfully engineered platform and highdemand content for the STEM college marketbrbrWhat You Will Be DoingbrbrAs the Lead Site Reliability Engineer on our team you will be responsible for creating and owning production infrastructure and services This infrastructure includes multiple Kubernetes clusters CICD solutions and deployment of security tooling to protect student data You will be critical in the scaling of our educational products to hundreds of thousands of studentsbrbrstronguResponsibilitiesbrustrongulli Hands on work with production Kubernetes clusters Upgrades deployment networkconfiguration tooling etclili Own the infrastructure projects endendlili Build observability into our applications to monitor and selfheallili Work directly with application engineers to support enhance and maintain endtoend CICD test driven deployment pipelineslili Improve internal and external security infrastructure audit trails etcbrliulWhat You Need for this PositionbrbrstronguMust Havebrustrongulli BS in related field OR equivalent professional experiencelili 5 years of site reliability engineering experience in a production Kubernetes environmentlili Team leadership experiencelili Programming Python Go or Javalili Distributed Systems experiencelili AWS infrastructurelili DevOps tools docker terraform helmbrliulstronguNice To Havebrustrongulli Infrastructureascodelili cybersecurity experiencebrliulWhats In It for Youbrulli Competitive Salary DOElili Comprehensive Benefits Packagelili Very Flexible Hourslili Generous PTOlili 401Klili Remote workbrliulSo if you are a Lead Site Reliability Engineer with experience please apply todaybrbrstronguEmail Your Resume In Word TobrbrustrongLooking forward to receiving your resume through our website and going over the position with you Clicking apply is the best way to apply but you may alsobrbrKurtHolzmullerOptellocombrulliPlease do NOT change the email subject line in any way You must keep the JobID linkedin  KH41643257  in the email subject line for your application to be consideredbrliulKurt Holzmuller  Associate Manager  OptellobrbrApplicants must be authorized to work in the USbrbrstrongOptello is proud to be an Equal Opportunity EmployerbrbrstrongAll qualified applicants will receive consideration for employment without regard to race color religion sex national origin disability protected veteran status or any other characteristic protected by lawbrbrstrongYour Right to Workstrong  In compliance with federal law all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T13:09:55.000Z"
+  },
+  "company": {
+    "name": "Optello",
+    "link": "https://www.linkedin.com/company/optello-us"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Lead"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Gatos",
+    "region": "CA",
+    "postal_code": "95030",
+    "street_address": null,
+    "latitude": 37.22134,
+    "longitude": -121.97964
+  }
+}

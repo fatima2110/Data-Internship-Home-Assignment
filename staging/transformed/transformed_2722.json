@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (SRE)",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "strongWhos ClearcoverbrstrongClearcover is the smarter car insurance company We use powerful technology to offer everyday drivers better coverage for less money Were proud to be one of the fastest growing startups in Chicago and were currently looking to add a few more extraordinary people to our teambrbrstrongWhat is a Site Reliability Engineer brstrongClearcover is looking for an energetic experienced and highly motivated Site Reliability Engineer SRE to join our team SREs build maintain and monitor the platform that powers Clearcovers API products applications and machinelearning applications We work every day to improve our build automation strengthen our AWS and Kubernetes infrastructure shift left on security and quality and improve our reliability The Site Reliability Engineer SRE role is an integral part of our Product and Technology organization and requires a passion for technology and cloud architecture Pragmatic and driven you thrive in collaborative environments with high degrees of autonomy If youre an expert generalist with an appetite for a variety of projects a yen for automation and a zeal for driving out toil wed love to talk to youbrbrstrongWhat will you dobrbrstrongul liDevelop deploy and operate our secure AWS infrastructure EKS S3 EC2 RDS Lambda etcli liEnsure the high availability resiliency performance business continuity and compliance capabilities of our cloud servicesli liBuild dashboards and alerting to monitor our apps and infrastructureli liDefine standards for our containerized environments and Kubernetes clustersli liWork with our engineering teams to deploy and operate cloud servicesli liHelp develop and operate our build automation and continuous delivery systemsli liParticipate in an oncall rotation drive incident resolution and improve platform resiliencyli brulstrongWhat do you needbrbrstrongul liExperience with cloud IaaS offerings in AWS strongly preferred GCP or Azureli liExperience with automationconfiguration management using Terraform Ansible or similar solutionsli liExperience with Kubernetes strongly preferred or other container orchestration platformsli liExperience with continuous integrationdeployment tools such as Jenkinsli liExperience with operational monitoring tools such as Datadog CloudWatch Sumo Logic and Prometheusli liProficient in Linux tools and shell scripting or other Linux automation li liAn interest in designing analyzing and troubleshooting largescale distributed systemsli liWellversed with the entire software development lifecycle devops and SRE practicesli brulstrongNice to havesbrbrstrongul liExperience with automated unit and integration testing of infrastructure codeli liExperience with container securityli liExperience in one or more languages such as Python Go Ruby or JavaScriptli brulstrongWhats in it for youbrbrstrongul liUnlimited PTO we hire adultsli liEquity for all employees so you own a piece of the pie tooli liDental and Vision weve got you covered 100li liMedical we cover the vast majority of your premiums to make the cost of you and your familys coverage affordable Plus we contribute to your HSA and HRA chachingli liWe invest in your future by contributing 3 of your salary to a 401K even if you dontli liCome to work pretaxed through our FSA commuter benefitsli liand yes we have unlimited LaCroix beer snacks and the occasional ice cream social for once were back in the office li brbrulClearcover is an Equal Opportunity Employer EOE that welcomes and encourages all applicants to apply regardless of age race color religion sex sexual orientation gender identify andor expression national origin disability veteran status marital or parental status ancestry citizenship status pregnancy or other reasons prohibited by law",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T05:12:47.000Z"
+  },
+  "company": {
+    "name": "Clearcover",
+    "link": "https://www.linkedin.com/company/clearcover-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 97500,
+    "max_value": 212700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

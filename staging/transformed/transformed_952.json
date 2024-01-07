@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - LT Workbench Backend",
+    "industry": "Computer Hardware",
+    "description": "At Lightelligence our engineers have opportunities to grow and develop cuttingedge technology at the forefront of photonic computing With a culture of internal mobility theres opportunity to thrive in a variety of disciplines This is a place for dreamers and doers to succeedbrbrBecome a part of the AI revolution at Lightelligence where were building computational machines that are solving problems in ways that have never been done beforebrbrAs a Backend Software Engineer on LT Workbench you will be an integral part of Lightelligences growing engineering organization and will drive the adoption of our accelerators and ML modeldeployment best practicesbrbrAs part of the LT Workbench team you will help build out a platform to allow other internal teams to quickly develop experiment iterate and deploy new projects and ideas The workbench will be a cloudnative web application and API that enables our scientists and engineers tobrul liPerform driver and hardware benchmarks and compare and contrast results li liAnalyze AI workloads from theoretical software and hardware perspectives li liExplore hardware architectures and provide performance estimates li liProvide informative and flexible visualizations for both models and hardware li liProvide easy access to an array of models and datasets for all of the above li brbrulstronguWhat Youll Do At Lightelligencebrustrongul liWork with a team to build our cloudnative LT Workbench API and CLIli liParticipate in all phases of development from requirement gathering to deploymentli liWrite unit tests integration tests and documentation for your codeli liAssist in buildingoptimizing our CICD pipelinesli liDesign and deploy AWS cloud infrastructureli liShape the feature map of the LT Workbench projectli brbrulstronguRequirementsbrbrustrongstrongPreferred Qualifications brbrstrongIf you meet 80 of the qualifications below or have other strengths that you think would benefit our team we still encourage you to applybrul liBachelors Degree in a relevant discipline such as Computer Science or 3 years relevant experienceli liExcellent coding skills in at least one modern language eg C Java JavaScript Pythonli liHandson experience with cloudbased development any major cloud providerli liHandson experience with Database development SQL andor NoSQLli liExperience using Agile and testdriven developmentli ulul liExperience with PyTorch TensorFlow ONNX or other ML frameworksli brulstrongBonusbrstrongul liHandson experience developing with AWSli liProficiency with Pythonli liProficiency with Docker Git Unix andor Bashli liML Infrastructure experienceli liModern frontend development experience eg Javascript HTML CSS React Flaskli liExperience delivering and maintaining opensource packagesli brbrulustrongBenefitsbrbrstrongustrongWe offer the following benefits brstrongul liCompany subsidized health vision and dental benefitsli li3 weeks PTO and 1 week of paid sick leaveli li401 k with an employer contributionli li9 Paid holidaysli liFlexibility  we offer a hybrid work environmentli liA great place to workli brbrulLightelligence is an Equal Opportunity Employer and does not discriminate against any employee or applicant for employment because of race color sex age national origin religion sexual orientation gender identity andor expression status as a veteran and basis of disability or any other federal state or local protected class",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-24T15:22:38.000Z"
+  },
+  "company": {
+    "name": "Lightelligence",
+    "link": "https://www.linkedin.com/company/lightelligence-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 73900,
+    "max_value": 159000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

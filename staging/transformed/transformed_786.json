@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Hospital &amp; Health Care",
+    "description": "pstrongDescriptionstrongppCirrusMD is a textfirst enterprise solution that connects people with nobarriers access to a live doctor realtime who can always help CirrusMD was founded in 2012 and is headquartered in Denver CO We are partnered with major national payers employers and healthcare systems to deliver extraordinary virtual care to millions of lives across the nation If you are looking to make a lasting impact where your voice matters consider joining our teamppbrppstrongWho Were Looking ForstrongppWe are looking for anbspfullnbspstack engineernbspemwith at least 2 years of production experience using Ruby Rails  JS framework  React preferred emwho can confidently contribute to our mission of redefining the healthcare experience for patients and providers You are a craftsperson taking significant pride in both the process and the outcomes of your work You are comfortable breaking larger tasks down into an executable action plan for yourself We seek a motivated selfstarter who is confident enough to buckledown and deliver and humble enough to recognize when you need another set of eyes to work through a problemppbrppstrongThis position can sit remote anywhere in the US with the flexibility to work from our Denver HQ as youd like strongPlease note that no matter where you are located all employees should be available during our core working hours from 9 am to 4 pm MDT Monday through Friday The salary range for this role is 90000120000year Actual pay may vary based on jobrelated skills qualifications certifications and experience This role may also be eligible for a discretionary bonus in addition to equity incentives and a comprehensive benefits packageppbrppstrongWhat Youll AccomplishstrongpulliBuilding performant APIs and end user experiencesliliA reputation for reliably delivering well considered well tested and performant code productsliliContributions to our evolving development and testing standards and best practicesliliHigh collaboration with Design  Product ensuring balanced code complexity and UXliulpbrppstrongRequirementsstrongpulli2 years of experience shipping full stack features usingnbspRuby on Rails amp JavaScript Frameworks React preferredliliProficiency with semantic markup and modern Javascript and CSS patternsliliExperience designingnbspREST APIsliliProficiency with modern developer workflows and tools GitGithub CI etcliliExperience writing tests for your code at all layers Rspec JasmineJestliliProficiency with SQL and relational databasesliliSolid understanding of foundational software design patternsliliYour philosophy aligns with Agile methodologies and processesliliSignificant experience giving and receiving feedback in code reviewsliliConfidence pairing with other engineersliulpbrppstrongWhat Will Make You Stand OutstrongpulliStrong command of SQL and experience optimizing query and application performanceliliKnowledge of static typing using TypeScript or FlowliliExperience with Apollo  GraphQL  Jest  StorybookliliYou maintain a high level of craftsmanship about your workliliYou firmly understand how to be a successful team playerliliStrong engagement within the Ruby andor JS ecosystemsliulpbrppBenefitsppstrongWho We ArestrongppBased in Denver CirrusMD is the nations leading virtual care platform that delivers a chat first multimodal data driven experience to enable providers payers and employers the ability to offer high touch personalized healthcare to their members or employees Founded in 2012 CirrusMD helps our customers create happier healthier and more engaged patients by giving them access to ondemand virtual care solutions that they love to engage with Our chatpowered care delivery platform connects patients to a dedicated boardcertified physician in under 60 seconds from any webenabled device with no cost and no time limits attached CirrusMD enables a stressfree human care conversation that doesnt end until members get the answers and peace of mind they need to manage their wellnessppbrppstrongWhy Work at CirrusMDstrongppCirrusMD is quickly transitioning from a startup to a highly recognized healthcare industry disruptor If you are looking to make a lasting impact where your voice matters consider joining our team and help us deliver care without barriers We offer an exceptional benefits package including health dental and vision 401k with match flexible vacation and remote work policies competitive salaries stock options and moreppbrppCirrusMD is committed to creating a diverse and inclusive workforce and is proud to be an equal opportunity employer We aim to create a workplace that celebrates the diversity of our employees users and customers We strive to deliver products and services that work for everyone by including perspectives from backgrounds that vary by race ethnicity social background religion gender age disability sexual orientation veteran status and national origin We are particularly focused on ensuring women and BIPOC are equally represented across all positions including management Our focus is on advancing cultivating preserving a culture of diversity and inclusion as it directly aligns with our mission to provide access to affordable and personalized health care for everyoneppbrppemNotice to recruiters and placement agenciesnbspemIf you are a recruiter or placement agency please do not submit rsums to any person or email address at CirrusMD prior to having a signed agreement with Human Resources CirrusMD is not liable for and will not pay placement fees for candidates submitted by any agency other than its approved recruitment partners Also any rsums sent to us without an agreement in place will be considered your companys gift to CirrusMD and may be forwarded to our Talent Acquisition teamp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-16T15:20:01.000Z"
+  },
+  "company": {
+    "name": "CirrusMD Inc.",
+    "link": "https://www.linkedin.com/company/cirrusmd"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

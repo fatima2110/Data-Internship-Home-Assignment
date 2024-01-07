@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software,Banking,Computer &amp; Network Security",
+    "description": "pWe are searching for a quality C developer to develop code and NET solutions for our business In this role you will be required to design write and maintain C coding for our future and ongoing projects You will also be required to contribute to design and planning sessions as well as formulate approaches for current coding tasksppTo ensure success as a C developer you must have an excellent grasp of C and the NET framework prolific coding abilities and be able to problemsolve on a daily basis A topquality C developer will be able to perform fullstack development as well as handle the creation maintenance and further development of NET applications and programsppbrppstrongspan classqlcursorspanC Developer ResponsibilitiesstrongpulliDeveloping C NET solutions for the organizationliliCreating inhouse applications using the NET frameworkliliDebugging and maintaining written codeliliDefining and organizing projects on an ongoing basisliliReporting and resolving issues related to NET projectsliliIdentifying and handling technical risks and issuesliliWorking in a project team alongside other developersliliProviding technical support to stakeholders in the organizationliliReporting on project statuses and developments to senior team membersliliParticipating in project meetings with management and other team membersliulpbrppstrongC Developer RequirementsstrongpulliA bachelors degree in computer programming computer science or information technologyliliC NET 35 or higher and Microsoft Visual Studio certification and experienceliliA minimum of 2 years of experience as a C programmer or developerliliKnowledge of other codinglanguages PHP C Java etcliliAbility to write clean easy to understand codeliliOutstanding analytical and problemsolving capabilitiesliliExcellent written and verbal communication skillsliliAbility to work independently and complete projects with minimal supervisionliliSound understanding of coding and development processesliliExperience with working in an agile environmentliulpp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-20T00:02:51.000Z"
+  },
+  "company": {
+    "name": "Applied Resource Group",
+    "link": "https://www.linkedin.com/company/applied-resource-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Alpharetta",
+    "region": "GA",
+    "postal_code": "30022",
+    "street_address": null,
+    "latitude": 34.075615,
+    "longitude": -84.29455
+  }
+}

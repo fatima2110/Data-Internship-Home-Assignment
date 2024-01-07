@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Environmental Services,Information Technology and Services,Staffing and Recruiting",
+    "description": "Mackin Talent is seeking a Data Scientist in Seattle WA to support our tech client The main function of this role is to produce innovative solutions driven by exploratory data analysis from complex and highdimensional datasetsbrbrstronguResponsibilitiesbrustrongulliApply knowledge of statistics machine learning programming data modeling simulation and advanced mathematics to recognize patterns identify opportunities pose business questions and make valuable discoveries leading to prototype development and product improvementliliUse a flexible analytical approach to design develop and evaluate predictive models and advanced algorithms that lead to optimal value extraction from the dataliliGenerate and test hypotheses and analyze and interpret the results of product experimentsliliWork with product engineers to translate prototypes into new products services and features and provide guidelines for largescale implementationliliProvide Business Intelligence BI and data visualization support which includes but limited to support for the online customer service dashboards and other adhoc requests requiring data analysis and visual supportliulstrongMinimum RequirementsbrstrongulliMaster of Science degree in computer science or in a relevant fieldliliExperienced in either programming languages such as Python andor R big data tools such as Hadoop or data visualization tools such as TableauliliThe ability to communicate effectively in writing including conveying complex information and promoting indepth engagement on course topicsliliExperience working with large datasetsliulMackin Talent offers an attractive benefits package which includes choice of major medical carriers like Aetna Kaiser and BCBS 15 days of PTO plus Holiday and Sick pay paid volunteer hours paternitymaternity leave and many more We pride ourselves on our company values the top one being that Relationships Matter Come experience the Mackin Difference and our welcoming company culture with a focus on teamwork and family Learn more about Mackin and apply online at MackinTalentcom",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T04:11:52.000Z"
+  },
+  "company": {
+    "name": "Mackin Talent",
+    "link": "https://www.linkedin.com/company/mackintalent"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Development Engineer in Test",
+    "industry": "Financial Services,Information Technology and Services,Internet",
+    "description": "strongOur PurposebrbrstrongWe work to connect and power an inclusive digital economy that benefits everyone everywhere by making transactions safe simple smart and accessible Using secure data and networks partnerships and passion our innovations and solutions help individuals financial institutions governments and businesses realize their greatest potential Our decency quotient or DQ drives our culture and everything we do inside and outside of our company We cultivate a culture of inclusion for all employees that respects their individual strengths views and experiences We believe that our differences enable us to be a better team  one that makes better decisions drives innovation and delivers better business resultsbrbrstrongJob TitlebrbrstrongSenior Software Development Engineer in TestbrbrstronguOverviewbrustrongulli Analyze code review reports and development quality to make sure best practices are being followedlili Developsmonitors quality gating and automation strategy for a given project looking at code coverage and API vslili UI level functionalitylili Possesses a strong knowledge of programming tools architecture patterns and BDDlili Ensures Performance and Scalability for applications and platformsbrliulstronguResponsibilitiesbrustrongulli Works closely with software engineers to build quality by ensuring proper test and code coverage configuration quality monitoring early performance testinglili Develops and implements QA standards processes tools and methodologies partners with other functions to establish testing requirementslili Documents performance test strategies and test plans translates complex system requirements and specs into test requirements and testing methodslili Participates in requirements review and performance testing activities monitors resolutions and retains documentationlili Identifies and implements complex automation efforts replicates and resolves production issues for single applicationlili Defines and implements best practices for endtoend application performance management solutions focuses on emerging technologieslili Assists in vendor assessment and evaluates and recommends software development toolslili May manage mediumsized projectinitiatives as an individual contributor with advanced knowledge within discipline leading a segment of several initiatives or a larger initiative and assigns daytoday worklili Translates complex system requirements and specs into test requirements and testing methodslili Acts as firstreview for projectlevel reviews walkthroughs and inspectionslili Directs evaluation of manual testing tools for automation opportunitiesbrliulExperiencesbrulli Experience overseeing the coding testing and review process for unit and integration testinglili Successfully led multiple test paths simultaneouslylili Successfully ensured quality of one or more application codebases and alignment with development standardlili Experience in building automation frameworks acceptance and integration test automation scripts integrating with other toolsbrliulDue to COVID19 most of our employees are working from home Weve implemented a virtual hiring process and continue to interview candidates by phone or video and are onboarding new hires remotely We value the safety of each member of our community because we know were all in this togetherbrbremMastercard is an inclusive Equal Employment Opportunity employer that considers applicants without regard to gender gender identity sexual orientation race ethnicity disabled or veteran status or any other characteristic protected by law brbrememIf you require accommodations or assistance to complete the online application process please contact ememreasonableaccommodationmastercardcomemem and identify the type of accommodation or assistance you are requesting Do not include any medical or health information in this email The Reasonable Accommodations team will respond to your email promptlybrbremstrongCorporate Security ResponsibilitybrbrstrongstronguAll Activities Involving Access To Mastercard Assets Information And Networks Comes With An Inherent Risk To The Organization And Therefore It Is Expected That The Successful Candidate For This Position MustbrbrustrongEvery person working for or on behalf of Mastercard is responsible for information securitybrulli Abide by Mastercards security policies and practiceslili Ensure the confidentiality and integrity of the information being accessedlili Report any suspected information security violation or breach andlili Complete all periodic mandatory security trainings in accordance with Mastercards guidelinesliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:22:35.000Z"
+  },
+  "company": {
+    "name": "Mastercard",
+    "link": "https://www.linkedin.com/company/mastercard"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "O'Fallon",
+    "region": "MO",
+    "postal_code": "63304",
+    "street_address": null,
+    "latitude": 38.808643,
+    "longitude": -90.69996
+  }
+}

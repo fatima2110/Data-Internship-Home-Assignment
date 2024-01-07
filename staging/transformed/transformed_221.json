@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Frontend",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "DataVisor is the worlds leading AIpowered Fraud and Risk Platform that delivers the best overall detection coverage in industry With an open SaaS platform that supports easy consolidation and enrichment of any data DataVisors solution scales infinitely and enables organizations to act on fastevolving fraud and money laundering activities in real time Its patented unsupervised machine learning technology advanced device intelligence powerful decision engine and investigation tools work together to provide guaranteed performance lift from day one DataVisors platform is architected to support multiple use cases across different business units flexibly dramatically lowering total cost of ownership compared to legacy point solutions DataVisor is recognized as an industry leader and has been adopted by many Fortune 500 companies across the globe Our awardwinning software platform is powered by a team of worldclass experts in big data machine learning security and scalable infrastructure Our culture is open positive collaborative and results drivenbrbrAt DataVisor we are working hard to find excellent web frontend engineers who can constantly challenge ourselves and surpass ourselves We hope that candidates have a solid development foundation and broad frontend or fullstack development experience Mature experience in frontend framework early startup technology company experience is preferred we look forward to furthering communication with youbrbrResponsibilitybrulli Develop DataVisor user analysis interface including data visualization and database interface functionality and complete the development efficiently taskslili Constantly participate in the development of the Web frontend backend development API interface etc of the DataVisor big data analysis platformlili Focus on business business goals and exert selfcreativity and productivity to achieve business needsbrliulstronguRequirementsbrustrongulli Minimum two years of web development experience proficient in HTML CSS Javascript Typescript and other related knowledgelili Minimum two years of experience in frontend frameworks such as Angular React etc experience in data visualization is preferredlili Familiar with web testing framework Java Selenium experienced in write E2E test casestest suites and Unit Test for frontend code and also to be able to extend existing applications and have certain experience in performance tuninglili Experienced in JavaSpring programming familiar with Web backend development and big data analysis experience is preferredlili NodeJS serverside development database interface development experience and SQL proficiency are preferredlili Proficiency in using git Jenkins and other toolslili Good English reading and writing skills good at communicationlili BS is requiredbrliulustrongBenefitsbrbrstronguWe offer a flexible schedule with competitive pay equity participation and health benefits along with catered lunch company offsites and game nights as well as the opportunity to work with a world class team",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-01T23:13:42.000Z"
+  },
+  "company": {
+    "name": "DataVisor",
+    "link": "https://www.linkedin.com/company/datavisor"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 91100,
+    "max_value": 199100,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

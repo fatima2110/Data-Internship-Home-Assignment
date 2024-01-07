@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Software Engineer - Microsoft Azure",
+    "industry": "Construction,Food &amp; Beverages,Retail",
+    "description": "Today with our current team members we have the strength to help you grow in any career direction you want whether in our stores distribution centers manufacturing facilities or our Midwest corporate offices Its your future maybe it starts with MeijerbrbrPlease review the job profile below and apply todaybrbrMeijer is investing in digital technologies with a large amount of growth planned for talent Were hiring in several key areas  Digital eCommerce mobile Native iOS and Android Cloud technology Full stack development User Experience design and LeadershipbrbrMeijer is currently seeking a Senior Software Engineer with Microsoft Azure development experience NOT DevOps Logic Apps Function Apps CosmosDB Storage Account The Senior Software Engineer will design develop test maintain and enhance APIs The focus of this digital development team is to advance our digital shopping and loyalty program capabilities within the Meijer mobile app and our eCommerce website MeijercombrbrstronguWhat Youll Be Doing ResponsibilitiesbrustrongulliDesigns codes tests and implements applications Microsoft Azure Logic Apps Function Apps CosmosDB Storage AccountliliPerforms unit tests monitors results and takes required corrective actions as neededliliOptimizes and enhances applications and interfaces to meet SLAfunctional requirementsliliWorks within the SAFe Agile framework and utilizes CICD best practicesliliAssists product owners in systems analysis and creation or updating of documentation for all business processesliliInterfaces with the Product Owner and IT partners to develop acceptance criteria for features and user stories and ensures acceptance criteria are metliliParticipates with other IT members customers and other stakeholders in new product reviews tests and pilotsliliPerforms feasibility studiesproofs of concept to evaluate solutionsliliParticipates in structured walkthroughs secure coding and technical reviews ensuring application coding and design follows secure coding and design principlesliliAssists in the production support and maintenance of applicationsliliActively participates in all team Agile ceremoniesbrliulThis job profile is not meant to be all inclusive of the responsibilities of this position may perform other duties as assigned or requiredbrbrstronguWhat You Bring With You QualificationsbrustrongulliBachelors degree or equivalent combination of education training and experienceliliExperience on Agile teams in Agile development environment SAFe certification or training is preferredliliMinimum 2 years of experience in systems development and programming NET C Azure Logic Apps Function Apps CosmosDB Storage Account and Restful APIsliliExperience with POSTman Swagger GIT source code control and experience a variety of design patternsliliExperience developing unit test cases preferredliliKnowledge and understanding of structured analysis and technical design techniquesliliStrong technical communication and collaboration skillsliliKnowledge of agile practices in a crossfunctional environment preferredliliAbility to effectively adapt to rapidly changing technology and apply it to business needsliliAbility to establish and maintain a high level of customer trust and confidenceliliAbility to provide high level of quality and productivityliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:09:47.000Z"
+  },
+  "company": {
+    "name": "Meijer",
+    "link": "https://www.linkedin.com/company/meijer"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": "Sr."
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 75100,
+    "max_value": 105000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Grand Rapids",
+    "region": "MI",
+    "postal_code": "49516",
+    "street_address": null,
+    "latitude": 42.96546,
+    "longitude": -85.67017
+  }
+}

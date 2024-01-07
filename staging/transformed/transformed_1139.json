@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Software Engineer, Marketplace Apps",
+    "industry": "Information Technology and Services",
+    "description": "stronguOverviewbrbrustrongTop MustHave Skills for this jobbrulli 8 years of professional experience building backend web applicationslili Strong knowledge and experience with the web requestresponse lifecycle an API designlili Handson experience with NodeJS and TypeScriptlili Software development experience with transactional systems trading systems ecommerce or marketplaceslili Experience deploying and monitoring software in the cloud AWSlili Strong communicator with both technical and nontechnical professionalslili Bachelor or Masters Degree in Computer Science Engineering or a Related FieldbrliulstronguSelling Pointsbrustrongulli Full Benefits Medical Dental Visionlili 401K Planlili PTO Sick Dayslili Parental Leavelili Ability to work Remotelili Catered Luncheslili And much moreliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T01:48:47.000Z"
+  },
+  "company": {
+    "name": "Healthtalentpro",
+    "link": "https://www.linkedin.com/company/healthtalentpro"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": "Principal"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

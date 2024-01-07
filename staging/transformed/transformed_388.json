@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Principal Cyber Software Engineer",
+    "industry": "Civil Engineering",
+    "description": "Peraton drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy As the worlds leading mission capability integrator and transformative enterprise IT provider we deliver trusted and highly differentiated national security solutions and technologies that keep people safe and secure Peraton serves as a valued partner to essential government agencies across the intelligence space cyber defense civilian health and state and local markets Every day our 22000 employees do the cant be done solving the most daunting challenges facing our customersbrbrPeraton is seeking a Senior Principal Cyber Software Engineer to join our teams of diverse individuals in the Annapolis Junction MD areabrbrstronguRoles And Responsibilities May IncludebrustrongulliPerforming reverse engineering on firmware and documenting findings and recommendations to the customer to solve their mission needsliliDiscover critical vulnerabilities in firmware and software products and develop proofofconcept exploitations or modifications based on identified vulnerabilitiesbrliulThis position is located in Annapolis Junction Maryland A TSSCI with Polygraph clearance is requiredbrbrstronguBasic QualificationsbrustrongulliBachelors degree and nine 9 years of experience and related skills in software architecture software requirements definition design of computer software projects software interface specifications software coding and software testingliliDemonstrate a thorough understanding of the principles theories methods and techniques of computer science as well as knowledge of the concepts factors and conditions which influence the design development and operation of related productsliliAt least nine 9 years of experience and related skills in lowlevel software languages machine and assembly and high level software languages CC Java FORTH This position requires expertise in the C programming languageliliExperience conducting vulnerability researchliliActive TSSCI clearance with polygraph required brliulstrongPreferred QualificationsbrstrongulliStrong aptitude for problem solvingliliExtreme attention to detailliliAbility to work alone or in small teamsliliExperience writing and presenting concepts to colleagues and customersliliExperience with Microsoft Word PowerPoint and ExcelbrliulemWe are an Equal OpportunityAffirmative Action Employer We consider applicants without regard to race color religion age national origin ancestry ethnicity gender gender identity gender expression sexual orientation marital status veteran status disability genetic information citizenship status or membership in any other group protected by federal state or local lawbrbremAJ2021",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T17:08:07.000Z"
+  },
+  "company": {
+    "name": "Peraton",
+    "link": "https://www.linkedin.com/company/peraton"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 108,
+    "seniority_level": "Principal"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Annapolis",
+    "region": "MD",
+    "postal_code": "21403",
+    "street_address": null,
+    "latitude": 38.97829,
+    "longitude": -76.49568
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Test Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Construction,Computer Software",
+    "description": "Aeroseal is hiring a Software Test EngineerbrbrThe Software Test Engineer will be primarily responsible for testing of and developing test tools for new and existing Aeroseal software applications on Windows Linux and web platforms Secondarily this role will be responsible for supporting andor developing products and business processes providing IT support to users of various Aeroseal technologies writing software manuals training material and other software and support documentationbrbrstronguWhat Youll DoustrongulliWork within a defined Product Development Process toliulliDevelop DFMEA and DVP documents for the designliliAssist Manufacturing and Quality Engineering as they develop Process Process FMEA Production test tools Control Plans Quality plan and metricsliliTest as per the design DVP and document results with clear concise reportsliulululliWork within a defined Product Development Process toliulliContribute to ProductSystem Requirements DocumentsliliDocument all productrelated specifications in an executable and testable formatliliDesign software according to these requirements and document for later maintenanceliliRecognize analyze and document risks associated with executed designliliTest software under revision controlliliActively participate in distribution of software to customers and support as necessaryliliResearch new tools methods techniques etc to advance the state of the artbrliulstronguExperience Youll Needbrustrongulli Minimum 4year degree in Computer Science or equivalent demonstrated experiencelili Graduate or Postgraduate degree in Software Engineering Computer Science or Computer Engineeringlili Proficiency in objectoriented software design and implementation experience with VBnet C C andor Java a pluslili Proficiency in web design a plus Web frameworks egReact Angular jQuery HTTP amp Pythonlili Linux experience a pluslili Experience with both MongoDB amp relational databases a pluslili Experience with communications protocols a pluslili Technical WritingbrliulWho are we A fastgrowing company with awardwinning technology that has created new products that are disrupting the HVAC industrybrbrYes we have fun company amenities including a ping pong table popcorn machine and company happy hours Our team members play as hard as they work But it takes more than amenities to be a great place to workbrbrstrongHow is Aeroseal differentbrbrstrongstronguWe ArebrustrongulliRestless with curiosity and always asking if theres a better wayliliPassionate about serving our dealers and customersliliConstantly learning because we understand we must try new approaches to get new and better outcomesbrliulThere is more to our culture of innovation But we also have a sense of urgency so we wont list them all herebrbrWhats the rush Well our company has an ambitious missionbrbrAeroseal wants to make a lasting impact on people and the world around us improving peoples lives and making the world a better place in which to live And we need your help to make it happenbrbrstrongemJob Posted by ApplicantProemstrongul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Aeroseal",
+    "link": "https://www.linkedin.com/company/aeroseal-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Miamisburg",
+    "region": "OH",
+    "postal_code": "45342",
+    "street_address": null,
+    "latitude": 39.641254,
+    "longitude": -84.27778
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "strongWe are currently looking for a Senior Machine Learning EngineerbrWe have one open position Please apply and we can discussbrbruLocationu strongSan FranciscobrstronguSalaryu strong150000  depending on experiencebrstronguBenefitsu strongFull benefitsbrstronguTypeustrong Full Time Direct HirebrstronguSponsorship Availableustrong YesbrbrstronguMost Importantbrustrongul li5 years overall experienceli li3 years w Machine Learning NLUNLPli liProficient Pythonli brbrulstronguResponsibilitiesbrustrongul liBuild an maintain the SaaS application platformli liDesign implement and maintain functionality and enhancements of the Applicationli liPlay a leading role in all phases of software development from planning designing implementation testing deployment to daytoday operationsli brbrulstronguMust Have Skillsbrustrongul li5 years of overall experience with at least 3 in Machine Learningli liPython experienceli liExperience w reinforcement learningli liExperience w AWS GCP and or Azureli brulemIf the above seems like a fit then applybrbrCRB Workforce LLC provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race color religion age sex national origin disability status genetics protected veteran status sexual orientation gender identity or expression or any other characteristic protected by federal state or local lawsbrememThis policy applies to all terms and conditions of employment including recruiting hiring placement promotion termination layoff recall transfer leaves of absence compensation and trainingem",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-08T01:56:09.000Z"
+  },
+  "company": {
+    "name": "CRB Workforce",
+    "link": "https://www.linkedin.com/company/crbworkforce"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

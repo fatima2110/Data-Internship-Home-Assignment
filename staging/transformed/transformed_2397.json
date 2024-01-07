@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Remote Application Support /Site Reliability Engineer",
+    "industry": "Information Services,Information Technology and Services,Financial Services",
+    "description": "pstrongWhat you have strongpulli23 years of systems andor applications support in an enterprise environmentliliPassion for learning reliability automation orchestration and continual improvementliliBachelors degree in computer science or a related discipline or equivalent experienceliliFirm current Linux and Windows Server Administration experienceliliStrong verbal and written communication skillsliliExperience supporting middleware infrastructure IIS TomcatWebsphere etcliliExperience with Enterprise batch scheduling tools is a plusliliExperience with Continuous DeliveryIntegration Infrastructure as Code Splunk AppDynamics and Salt Stack a plusliliExperience in Agile methodologies Kanban CICD Definition of Done and use of Atlassian Tools Confluence and Jiraliul",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-02T23:26:18.000Z"
+  },
+  "company": {
+    "name": "Mindlance",
+    "link": "https://www.linkedin.com/company/mindlance"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas-Fort Worth Metroplex",
+    "region": null,
+    "postal_code": "75049",
+    "street_address": null,
+    "latitude": 32.7513,
+    "longitude": -97.08263
+  }
+}

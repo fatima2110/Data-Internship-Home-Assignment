@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Quality Engineer",
+    "industry": "Medical Devices,Biotechnology,Pharmaceuticals",
+    "description": "An invitro diagnostic medical device organization who are scaling at a rapid rate are looking for a motivated Senior Software Quality Engineer to join their talented team on a remote basisbrbrstronguSenior Software Quality Engineer Responsibilitiesbrustrongulli Establish endtoend automated tests using JavaScript Selenium WebDriver Appium and other technologieslili Independently work through developing executing and reporting of VampV plans and complex test protocolslili Work with team to create and execute an SDLC with automated traceabilitylili Create detailed comprehensive test cases and planslili Execute manual system integration testslili Identify and thoroughly document bugslili Assure that our product matches or exceeds our patients and clinicians expectationsbrliulstronguSenior Software Quality Engineer Skills And Qualificationsbrustrongulli BS in computer science or related discipline or equivalent work experiencelili 6 years experience in the software quality industrylili 3 years experience in medical deviceslili Expertise in test methodologies writing test plans and cases and debugginglili 2 years exposure to automation testing frameworks and paradigmslili Prior experience developing or testing in compliance with recognized regulatory standards 21 CFR Part 820lili Demonstrable aptitude towards learning new technologiesliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-11T22:49:40.000Z"
+  },
+  "company": {
+    "name": "X4 Life Sciences",
+    "link": "https://uk.linkedin.com/company/x4-life-sciences"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 76900,
+    "max_value": 129000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

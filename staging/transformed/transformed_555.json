@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer In Test",
+    "industry": "Publishing,Computer Software,Online Media",
+    "description": "pstrongJob Summary strong emMajor goals and objectivesemppMeredith Corporation seeks an experienced detailoriented strongSDET IIstrong to join our Consumer Engineering team As a trusted partner to the developers product owners and project managers you will ensure that devotees of Merediths iconic brands  including People AllRecipescom InStyle Martha Stewart Living Better Homes amp Gardens and dozens more  are engaged and delighted by our web sitesppbrppThe strongSoftware Development Engineer in Test II strongSDET II helps deliver the quality and performance of large scale big data custom hardware multiplatform software products that includes web API micro service and mobile application interfaces Incumbents in this position are experienced hands on and selfmotivated engineer who can work collaboratively in a continuous integration environment This role involves working closely with Software Developers that includes leveraging shiftleft methods to understand a complex domain and product The SDET II focuses on contributing to the development of automated Functional Integration tests and endtoend tests through opensource test frameworks for overall system testing within an Agile environment This position typically works under limited supervision and direction Incumbents of this position will regularly exercise discretionary and decisionmaking authoritypulliTests API web micro service and mobile based applications that reference large and complex backend systemsliliCreates and maintains automated test cases executes test suites reviews and diagnoses reported bugs and ensures overall system quality prior to a customer releaseliliDesigns develops maintains and troubleshoots automated suites of tests through continuous integration for value added feedbackliliWorks with the engineering teams to derive testing requirements throughout the development cycleliliReproduces debugs and isolates problems and verify fixesliliWorks closely with software developers to create software artifacts including test plans test cases test procedures and test reportsliliWorks cross functional areas with internal partner engineering teams in a disciplined agile environmentliliEstimates own testing tasks and works productively with minimum supervision while showing excellent team attitudeliulpbrppstrongEssential Job FunctionsstrongppstrongAccountabilities Actions and Expected Measurable Resultsstrongppstrong35strongnbspDesigns develops maintains and troubleshoots automated suites of tests through continuous integration for value added feedbackppstrong35strongnbspDefine testable user stories and acceptance criteria and to resolve any defects that may ariseppstrong15strongnbspPrepare and present test reports to include status and coverageppstrong10strongnbspReproduces debugs and isolates problems and verify fixesppstrong5strongnbspActively collaborate with stakeholders to clarify requirements and define test casesppstrong100strongppbrppstrongMinimum Qualifications and Job Requirements strong emAll must be met to be consideredemppEducationpulliFouryear college degree in Software Engineering Computer Science or related technical discipline such as Science or EngineeringliulpbrppExperiencepulli6 years of experience preferably in either a Software Development Engineer or SDET Software Development Engineer in Test roleliliMust have an understanding and ability to develop code in Java Python PHP or CliliStrong experience in API testingliliStrong experience with XML Databases and SQLliliHandson experience with Linux Windows andor mobile devicesliliMust have strong analytical and problemsolving skills as well as the ability to analyze complete problems in large systemsliliExperience with Test processes opensource test frameworks test design strategies writing test cases and automating tests in Java with frameworks like JUnitTestNG Selenium JMeter and Appium is preferredliliExperience with Jenkins or other continuous integration systemsliliExperience with tools amp applications such as JIRA Confluence Bitbucket Git and ArtifactoryMavenliliMust have previous experience with requirements defect functional and performance management systemsliulpbrppSpecific Knowledge Skills and AbilitiespulliAbility to develop automated test for a set of storiesliliAbility to apply creative solutions to automate the application andor a serviceliliUtilize a variety of testing tools and able to use existing frameworkliliDemonstrates exemplary teamwork and maintains the respect of othersliliDemonstrates a strong drive and intellectual curiosity to investigate complex technical issuesliliAbility to collaborate effectively with all team members and with crossfunctional teamsliliUtilizes a variety of testing tools and able to instruct others on their useliliAbility to switch context quickly and easilyliliMust be detail oriented analytical and creative thinker with passion for quality and test automationliulp Travel Required emApproximateem 0p",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-08T20:57:37.000Z"
+  },
+  "company": {
+    "name": "Meredith Corporation",
+    "link": "https://www.linkedin.com/company/meredith"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York City Metropolitan Area",
+    "region": null,
+    "postal_code": "10021",
+    "street_address": null,
+    "latitude": 40.748295,
+    "longitude": -73.98556
+  }
+}

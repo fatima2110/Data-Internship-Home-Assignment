@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer, Applied ML",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "strongJoin a leading fintech company thats democratizing finance for all brbrstrongRobinhood was founded on a simple idea that our financial markets should be accessible to all With customers at the heart of our decisions Robinhood is lowering barriers removing fees and providing greater access to financial information Together we are building products and services that help create a financial system everyone can participate inbrbrstronguWe Are Proud Of The World Class Products And Company Culture We Continue To Build And Have Been Recognized AsbrbrustrongJust as we focus on our customers we also strive to create an inclusive environment where our employees can thrive and do impactful workbrul liA Great Place to Workli liA CNBC Disruptor 50 in 2019 and 2020li liA LinkedIn Top Startup in 2017 2018 2019 and 2020li brulRobinhood is backed by leading investors that include DST Global Index Ventures NEA Ribbit Capital Thrive Capital and SequoiabrbrCheck out life at Robinhood on The MusebrbrstronguAbout The RolebrbrustrongInsights from data power most decisions at Robinhood The Core ML team works with a simple mission of making it easy to use machine learning at Robinhood The team is executing the mission by building the core infrastructure eg training and serving platform feature platform and a number of modelasaservice solutions eg embedding service multiarm bandit service The team works closely with data scientists who are applying ML in various spaces such as risk and fraud growth customer understanding etc to ensure that they are able to ship their solutions to create business valuebrbrAs a strongmachine learning engineer focused on applied MLstrong you will work closely with other teams to identify critical problems that can be solved using ML You will codevelop a model sometimes an ML system with them and then whenever possible build and deploy the solution as a reusable and generalizable ML service You will continue to build such services and onboard new applications to existing services over timebrbrstronguWhat Youll Do Day To Daybrustrongul liDive into data to understand business problems that may benefit from MLli liTrain novel machine learning models and take them to productionli liInvest in feature engineering and model hyperparameter tuning to improve predictive power and performance of the modelsli liAfter deployment closely monitor the model and take recourse to model interpretability to understand how its impacts on usersli liWork crossfunctionally with data scientists product managers operations and other engineering teams to build generalizable and reusable modelsli liCollaborate with our data infrastructure teams to build highly scalable services and systemsli liPresent ML success stories to internal and external audiencesli liSurvey the latest and greatest in various areas of ML and bring the benefits of those to the firm whenever possibleli brbrulstronguAbout Youbrustrongul li3 years of experience as machine learning engineer or applied machine learning scientistli liGraduate degree in a quantitative field such as computer science mathematics statistics engineering or natural sciences and some experience in software engineering in a production environmentli liSolid understanding of machine learning and deep learning algorithmsli liExperience of working with large noisy and highly imbalanced datasetsli liExperience of building and shipping ML models that are aligned with product roadmapli liExcellent programming skills including proficiency in Pythonli liPassion for working and learning in a fastgrowing companyli liExcellent communication skills to tell a story through datali liExperience of building relationships and influencing stakeholders across multiple disciplineli brbrulstronguBonus Pointsbrustrongul liIndustry experience of delivering business impact with ML models or systemsli liResearch and publication experience in any field of machine learningli liProof of excellence in Kaggle or similar forumsli brbrulstronguTechnologies We Usebrustrongul liPythonli liScikitlearnli liTensorflow or Pytorchli liKubernetesli liKafkali brulFeeling ready to give 100 to democratizing finance for all Wed love to have you apply even if you feel unsure about whether you meet every single requirement in this posting At Robinhood were looking for people invigorated by our mission not just those who simply check off all the boxes",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T01:08:06.000Z"
+  },
+  "company": {
+    "name": "Robinhood",
+    "link": "https://www.linkedin.com/company/robinhood"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 132000,
+    "max_value": 203000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Menlo Park",
+    "region": "CA",
+    "postal_code": "94029",
+    "street_address": null,
+    "latitude": 37.45322,
+    "longitude": -122.18322
+  }
+}

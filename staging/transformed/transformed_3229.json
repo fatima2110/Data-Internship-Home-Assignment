@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Recent Grad",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "stronguAbout DatadogbrbrustrongWere on a mission to build the best monitoring platform in the world for engineers to understand and scale their systems applications and teams We operate at high scaletrillions of data points per dayproviding alwayson alerting metrics visualization logs and application tracing for tens of thousands of companies Our engineering culture values pragmatism honesty and simplicity to solve hard problems the right waybrbrStudents can sign up anytime for a free Datadog Pro accountbrbrstronguThe OpportunitybrbrustrongWere looking for recent graduates to join us to help collect aggregate visualize and analyze extremely highscale metrics logs and application data Youll join one of Datadogs software teams and work alongside other engineers to help solve complex problems Whether you are writing a new integration building data pipelines or working with the open source community our interns are key contributors to our product This role will be based in our New York or Boston officesbrbrstronguIn This Role You WillbrbrustrongSolve a scaling bottleneck in a critical service deploy a new feature to production and progressively roll it out with feature flags and investigate and fix a production issue from a service your team owns You will also create a way to optimize a service to handle more traffic and in partnership with your team planning the most important projects to work on nextbrbrstronguRequirementsbrustrongulliYou are in the process of receivinghave a degree in Computer Science Software Engineering or a related fieldliliYou are targeting a 2022 fulltime start dateliliYou are comfortable coding in one or more languagesliliYou value code simplicity and performanceliliYou have worked as a software engineering intern or have related industry experienceliliYou want to work in a fastpaced environment that values its employees and customersliliYou are a selfstarter who enjoys partnering with other engineers and solving difficult problemsbrliulstronguBonus PointsbrustrongulliYou have worked at high scale with systems like Redis Cassandra or KafkaliliYou wrote your own data pipelines once or twice beforeliliYou have significant experience with Go or PythonbrliulstronguWhy You Should ApplybrustrongulliMentorship opportunities with team members leadership and beyondliliContinuous career and professional development opportunitiesliliTraining to develop an indepth understanding of our product and spaceliliRelocation stipend and travel benefitsliliIntern cohort and monthly company social eventsliliNetworking opportunities with across all teams at DatadogliliUnlimited snacks amp drinks in our officeliliCatered Lunches on Monday Wednesday and FridayliliCommuter benefitsliliBeautiful offices in convenient locations with amazing viewsbrliulAs the COVID19 crisis continues to change globally our hiring plans will change with it We are following current company safety guidelines with the goal to hire team members who will work within one of our offices NYC Boston Paris once its safe to do so We will update all applicants with the appropriate changes when necessarybrbrstronguEqual Opportunity At DatadogbrbrustrongDatadog is an Affirmative Action and Equal Opportunity Employer and is proud to offer equal employment opportunity to everyone regardless of race color ancestry religion sex national origin sexual orientation age citizenship marital status disability gender identity veteran status and more We also consider qualified applicants regardless of criminal histories consistent with legal requirementsbrbrstronguYour PrivacybrbrustrongAny information you submit to Datadog as part of your application will be processed in accordance with Datadogs Applicant and Candidate Privacy Notice",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-09T23:42:47.000Z"
+  },
+  "company": {
+    "name": "Datadog",
+    "link": "https://www.linkedin.com/company/datadog"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 95200,
+    "max_value": 167000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

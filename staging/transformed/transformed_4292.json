@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Accounting,Information Technology and Services,Management Consulting",
+    "description": "Research amp Insights Deloitte Services LLPbrbrWe are looking for a teammate who will bring a blend of thoughtful data driven curiosity and pragmatism If you want to both design and deploy impactful datadriven research to a global audience then we want you on our teambrbrData Science and Survey Advisory Services Research amp Insights Data Scientists play a key role developing research products that work to change perspectives on major business and government issues Our Data Scientists are involved in all stages of the research process including working with internal clients to define research projects research execution presenting findings and coauthoring public facing research reports Strong candidates will be both thorough and creative in their research approaches comfortable with public speaking precise amp concise writers and able to both deliver and receive candid feedbackbrbrstrongDuties and Responsibilitiesbrstrongulli Executes endtoend research processes working with internal clients to define research topics to conducting rigorous analysis Ensures research utilizes appropriate methodologies multivariate statistical modeling text analytics network analysis time series analysis econometrics psychometrics etc lili Works collaboratively on a serviceoriented team which supports numerous research requests covering multiple industry areas eg consumer energy finance government media technology etc lili Balances the demands of multiple longterm projects simultaneously lili Presents on research findings to senior leadership both within and outside of Deloitte brliulOur Data Scientists play a key role in generating research into pivotal phenomena impacting US businesses and the US government Our Data Scientists are required to occasionally travel a few times a year at most to attend offsite meetings conferences andor training sessionsbrbrRequired Skills and Capabilitiesbrulli Experience with Python andor R lili Prior experience that has involved extensive use of at least two of the methodologies below lili EconometricsStatistical Modeling Linear Regression Time Series Analysis etc lili Interactive Visuals Power BI MarketSight Tableau Qlik etc lili Machine Learning Random Forests Clustering etc lili Text Analytics Topic Modeling Natural Language Processing Sentiment Analysis etc lili Network Analysis Particularly Social lili Neural Networks Artificial Convolutional or Recurrent lili GeostatisticsSpatial Modeling Geographic information Systems Spatial Regression etc lili Bachelors degree in Data Science Statistics Quantitative Behavioral Science other highly quantitative field lili Travel up to 10 While 10 of travel is a requirement of the role due to COVID19 nonessential travel has been suspended until further notice lili Limited immigration sponsorship may be available brliulstrongDesired Skills and Capabilities brstrongulli Masters or PhD in Data Science Statistics Quantitative Behavioral Science or other highly quantitative field lili Ability to work independently with minimal supervision as well as in a collaborative team environment lili Prior publication of work please provide links if possible lili Experience managing datadriven research from project ideation to deployment lili Deep expertise in Python or R lili Working knowledge of SQL Structured Query Language lili Familiarity with data visualization software such as MarketSight Power BI Tableau etcliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-14T18:08:51.000Z"
+  },
+  "company": {
+    "name": "Deloitte",
+    "link": "https://www.linkedin.com/company/deloitte"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Phoenix",
+    "region": "AZ",
+    "postal_code": "85009",
+    "street_address": null,
+    "latitude": 33.448204,
+    "longitude": -112.072586
+  }
+}

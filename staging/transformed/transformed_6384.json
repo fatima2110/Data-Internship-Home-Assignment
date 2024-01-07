@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "pstrongRole Site Reliability Engineer SREnbspstrongppstrongDuration 6 months with possible extensionsstrongppstrongLocationnbspRemotestrongppstrongnbspstrongppstrongNote Immediate fillnbspstrongppnbspppstrongJob ResponsibilitiesstrongpulliBuild highly scalable highperformant infrastructure on Amazon Web Service AWSliliWork with applications to use automated CICD pipelines and build secure cloud environments identities and services Deploy applications into these cloud environments through automated processes and programmatic servicesliliMaintain application reliability and uptime SLAs throughout the application lifecycle using programmatic selfhealing and software automationliliDevelop software to monitor and improve endtoend platform performance identify runtime deficiencies find potential failures and fix production issuesliliBuild deep fullstack knowledge of the complexity of our platforms and applications Work to simplify and automate deployment processes runtime operations and provide nondisruptive releasesliliImprove the durability simplicity performance and maintainability of our integrated landscapeliliApply your expertise to our most complex digital projects Meet with department and business unit clients to understand their application needsliliBe responsible for driving feedback and new design ideas back into the DevSecOps platform team Help identify and remediate architectural problems scalability availability and performance issuesliliBe an integral member of the core DevSecOpsDataOps development team and help develop test deploy and operated the service 24x7x365 globally Must be open to participating in an oncall rotation as neededliliHandson experience with configuration frameworks for deployment such as AWS CloudFormation Templates Ansible Terraform Chef Puppet or SaltliliProven proficiency with scripting languages such as Python Ruby and JavaScript and build tools such as Maven Ant Gradle or IvyliliSolid knowledge of various Linux environments Distros include Ubuntu Centos Debian RedHat and Amazon Linux as well as familiarity with Windows OSsliliUnderstand security and encryption technologies Knowledge of authentication protocols including OpenID OIDC OAuth SAML and LDAPliliKnowledge of Docker containerization and KubernetesEKS cluster management for container orchestrationliliExperience with automated monitoring frameworks such as InfluxDB Grafana Telegraf Fluentd Prometheus etcliliApplication and system level debug and triage experienceliliExperience managing distributed runtime applications using programmatic interfacesliliExperience running full stack application deployments and infrastructure cloud services Storage VMs Network etcliliPractical experience migrating largescale infrastructure onto public cloud technology platforms such as AWS Azure GCP is a plusliliFamiliarity deploying monitoring and running serverless computing and microservices a plusliulpp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-26T21:29:15.000Z"
+  },
+  "company": {
+    "name": "Servsys Corporation",
+    "link": "https://www.linkedin.com/company/servesys"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Phoenix",
+    "region": "AZ",
+    "postal_code": "85009",
+    "street_address": null,
+    "latitude": 33.448204,
+    "longitude": -112.072586
+  }
+}

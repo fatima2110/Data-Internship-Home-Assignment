@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "At Flexa our mission is to make payments more efficient and accessible for everyone Our team is passionate about the transformative power of digital currencies but were also not daunted by starting from scratch to make the world a better place So every day we rebuild and reconsider the very concept of what it means to use money while we enable faster safer and more private payments to help merchants streamline checkout save money and delight customersbrbrOn the Flexa engineering team we trust and support each other to write software that works and that we each fully understand and we encourage continuous selfdeployment We also expect each other to take the time needed to build software thoughtfully and maintainably Were comfortable with modern tool chains technologies and practices and we strive to continuously learn and improve our infrastructure and techniquesbrbrWe are currently looking for a software engineer to help us design develop and deploy the software and services that help make Flexa the leading retail payments network for digital assets Our development process is lightweight and productive and revolves around our mutual respect for each other as well as our individual dedication to building highquality products You may be a fit for this position if you have a strong background or interest in building successful APIs SDKs and other systems you have comfort with the full breadth of the software development lifecycle you practice exceptional attention to detail and youre comfortable learning new technologies and systemsbrbrWhat youll dobrulliCollaborate with a multidisciplinary team to design develop and document APIs SDKs and other services or tooling from inception through to deploymentliliWrite welldesigned reusable and testable service and library code that youand your fellow software engineersare happy to maintainliliExercise ownership and accountability over your own parts of Flexas infrastructureliliTroubleshoot debug and upgrade existing software systems including the development and integration of new components or automation pipelines when necessaryliliEnsure that the appropriate telemetry and other metrics are properly captured and communicated for the services and software to which you contribute andliliParticipate in code review with fellow team members to improve your work as well as theirsbrliulstronguRequirementsustrong ulliExperience with building and documenting testable and publiclydistributed software as part of a team within the financial retail or blockchain technology sectors a plusliliAn analytical approach to problemsolving thats informed by an awareness of evolving technology and software development techniquesliliFamiliarity with or interest in writing Go Rust andor TypeScript codeliliExcitement at the prospects of owning operating and observing your own softwareliliInterest in using wellestablished software interfaces databases tools and approaches such asliulliREST protocol buffers and gRPCliliPostgres and NoSQLliliDocker Kubernetes and TerraformliliContinuous integration and deliverydeployment CICDliliOpensource software development and maintenanceliliPrometheus Grafana and moreliulliExcellent communication and interpersonal skillsliliA passion for learning and growingbrliulustrongBenefitsbrstronguulliFull healthcare and life insurance premier medical dental amp vision plansliliUnlimited paid time off with suggested minimum vacation timeliliPretax commuter benefitsliliPaid parental leavebrliulFlexa was founded in 2018 and is headquartered in New York City To learn more about how Flexa is building a better alldigital payments network visit us at flexanetworkbrbrBuilding a diverse and inclusive workplace where we can all learn from each others experiences is core to our values at Flexa We are an equal opportunity employer and welcome people of different backgrounds abilities experiences and perspectives to our team Women minorities individuals with disabilities and protected veterans are encouraged to apply",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-26T03:29:12.000Z"
+  },
+  "company": {
+    "name": "Flexa",
+    "link": "https://www.linkedin.com/company/flexahq"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

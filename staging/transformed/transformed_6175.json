@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Computer Science / Computer Engineer Co-op (Automotive Wheel Balancing)",
+    "industry": "Information Technology and Services,Computer Software,Automotive",
+    "description": "Hunter Engineering Company is a global leader in the development and manufacturing of computer based automotive service equipment Hunters awardwinning research and development team of engineers is responsible for hundreds of patented and exclusive features on our equipmentbrbrWe are in search of enthusiastic and selfmotivated sophomores juniors or seniors with a major or minor in a field of study cohesive with Computer Science andor Computer Engineering Our goal is to provide an experience that will teach by example how to progress from academicsbased software projects to real world successful productsbrbrstronguJob SummarybrbrustrongThis position is primarily responsible for the writing of new test software to automate data gathering and work with the QA Department and Project Engineers to maintain existing softwarebrbrstrong CSCE C CoOps gain experience in brbrstrongSoftware Quality Assurancebrulli Exposure to Software Version Control and the debugging environment through Visual Studio lili Work with Hunters QA Department and Project Engineers to maintain existing software lili Learn concepts of multiple models varying feature sets support and backwards compatibility lili Write new test software to automate data gathering brliulNew Feature Development  Testingbrulli Learn how mechanical aspects influence software during the design process working directly with Mechanical Engineers and ME CoOps lili Execute test plans under the direction of a project engineer format the results in a useable and effective manner and analyze the results against stated objectives lili Minor analysis and engineering calculations brliulEquipment Evaluationbrulli Gain experience assisting with competitive analysis and equipment operation brliulCapstone Presentation  Exposure to Upper Leadershipbrulli Near the end of the job our Cbalancer CoOp students are well equipped to prepare a compelling Capstone PowerPoint presentation lili CoOps can present their presentations live to all the other CoOps and upper managementleadership brliulstronguResponsibilitiesbrbrustrongThe individual will be involved in a variety of projects which may includebrulli Prototype construction and evaluation lili Test program development and administration lili Shop experience handson work experience lili Minor analysis and engineering calculations lili Analyzing data and using Microsoft Word and Excel to prepare reports lili Design and Fabricate Test Fixtures brliulstronguWhat To Expectbrbrustrongstrong Qualifications brbrstrongIt will be our intent and purpose to provide the individual with real world experience which includes assisting in the progression of a product from concept stage to production The work done by coops in this position is applied to actual Hunter products The work is normally very individualized even if you are working in a larger group We host many coops annually Our goal is to provide an experience that will be an important effective first step in the career of a future engineerbrbrAlso visit our website for testimonials from previous coopsbrbrhttpswwwhuntercomaboutuscareerscoopbrbrstronguQualificationsbrustrongulli Minimum 30 GPA must be on resume lili MajoMinor studies in Computer Scienceand or Computer Engineering lili Experience with C Linux andor Microsoft VS a plus lili Working knowledge of Microsoft Excel and PowerPoint lili Excellent communication skillsliul",
+    "employment_type": "INTERN",
+    "date_posted": "2021-08-27T05:24:58.000Z"
+  },
+  "company": {
+    "name": "Hunter Engineering Company",
+    "link": "https://www.linkedin.com/company/hunter-engineering"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bridgeton",
+    "region": "MO",
+    "postal_code": "63044",
+    "street_address": null,
+    "latitude": 38.755707,
+    "longitude": -90.4183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Financial Services",
+    "description": "brbrIn a world of disruption and increasingly complex business challenges our professionals bring truth into focus with the Kroll Lens Our sharp analytical skills paired with the latest technology allow us to give our clients claritynot just answersin all areas of business We value the diverse backgrounds and perspectives that enable us to think globally As part of One team One Kroll youll contribute to a supportive and collaborative work environment that empowers you to excelbrbrKroll is the premier global valuation and corporate finance advisor with expertise in complex valuation disputes and investigations MampA restructuring and compliance and regulatory consulting Our professionals balance analytical skills deep market insight and independence to help our clients make sound decisionsbrbrAt Kroll your work will help deliver clarity to our clients most complex governance risk and transparency challenges Apply now to join One team One KrollbrbrstrongRESPONSIBILITIESbrbrstrong ulliDevelop high quality software in an enterprise environmentli liWork in an agile team environmentli liDevelop a custom highly interactive Web Applicationli liDevelop custom restful APIs and servicesli liUtilize SQL Server to develop a custom databaseli liWrite and review documentation technical process project requirements etcli liExecute unit tests for all code developed and deployedli liProvide support for custom applications currently in productionli brbrulstrongREQUIREMENTSbrbrstrong ulliExcellent analytical and troubleshooting skillsli liKnowledge ofli liLanguage JavaScript C Pythonli liFront End Framework Angular React or Viewli liDatabase SQL MySQL Mongo DBli liProcess Agile Scrum SDLC Software Development Lifecycleli liDemonstrated outstanding written amp verbal communication skills time management and documentation skillsli liDetail oriented work effortsli brbrulstrongPreferred Qualificationsbrbrstrong ulliExperienceli liDeveloping websites  applicationsli liPerforming testing maintenance and enhancements on web applicationsli liLearning and applying new technical skillsli liAttitudeli liDesire to learnli liTake ownership of workli liWelcome feedbackli brbrulIn order to be considered for a position at Kroll you must formally apply via careerskrollcombrbrKroll is committed to creating an inclusive work environment We are proud to be an equal opportunity employer and will consider all qualified applicants regardless of gender gender identity race religion color nationality ethnic origin sexual orientation marital status veteran status age or disabilitybrbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T21:30:42.000Z"
+  },
+  "company": {
+    "name": "Kroll",
+    "link": "https://www.linkedin.com/company/kroll"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 47700,
+    "max_value": 88000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Nashville",
+    "region": "TN",
+    "postal_code": "37221",
+    "street_address": null,
+    "latitude": 36.166344,
+    "longitude": -86.77907
+  }
+}

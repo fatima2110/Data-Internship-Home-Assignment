@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "pstronguSite Reliability Engineer II ONLY W2 ustrongppnbsp 100 Remote ppnbsp 6 month contract with likely extensionppRate is 50hr on W2ppnbspppskills that are REQUIREDppnbsp Heavy Service Mesh exp strongIstiostrongppstrong nbspnbspstrongExp with cloud service provider strongGCPstrongppnbsp strongKubernetesstrongppnbsp CICD exp strongGitlabstrongppnbsp strongDevOpsstrong expppbrppMost important musthavespulliSomeone with experience with cloud providers GCP and AWSliliSomeone having configuration management softwarescripting experience with Ansible Chef or PuppetliliFamiliarity with automation and proficient with programming language PythonGoliliFamiliarity with Google cloud platformKafkaliliemLooking for candidates with a background in networking and Istioemliulpbrpp pp Site Reliability Engineers SREs at Frontdoor are responsible for maintaining the availability and uptime of infrastructure SREs use software engineering principles to solve operational challenges to create reliable infrastructure We try to reduce the toil from our everyday work using as much automation as possiblepp pp stronguResponsibilitiesustrongpp  Implement SRE principles and practices across organization to improve performance and efficiencypp  Research and implement solutions to build an alwaysup alwaysavailable resilient servicespp  Integrate and automate existing manual solutions and processespp  Participate in an oncall rotation for availability incidentspp  Plan for growth and capacity of the infrastructurepp  Troubleshoot and support productions issuespp  Participates on cross functional company project teams responsible for implementing technologypp  Investigates anomaliesoutages and determines steps to reproduce root cause and solutions optionspp  Monitors environment performance and provides all necessary reporting analysispp  Attends relevant conferenceseminars to remain current on new and upcoming technologypp pp stronguSkills Requirementsustrongpp  Handson experience with cloud service providersat least one of GCP AWSpp  Handson experience with at least one configuration management software AnsibleChefPuppetpp  Experience with setting up Logging eg ELK and Monitoringeg Prometheus solutionspp  Working knowledge of containers and any one container orchestration platformKubernetesNomadMesosSwarmpp  Understanding and experience in at least one CICD pipeline JenkinsTravisCircleCIGitlab etcpp  Good understanding of UnixLinux operating systems and its internalspp  Wellversed with Linux CLIpp  Apart from shell scriptingshbash proficient with one other programming languagePythonRubyGoPerlpp  Working knowledge of any one distributed version control systems gitbzrhgpp  Ability to write good technical user documentpp  Exposure to managing Infrastructure as Code with tools like TerraformCloudFormation or using Cloud Provider SDKspp pp stronguExperience Requirementustrongpp  At least 46 years of handson DevOpsSRE experiencepp  At least 12 years of experience developing code either maintaining scripts or applicationspp  Bachelors degree in Engineering or related technical or quantitative degree eg mathematicsnbspp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-12T19:51:39.000Z"
+  },
+  "company": {
+    "name": "TALENDICA",
+    "link": "https://www.linkedin.com/company/talendica"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

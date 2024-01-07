@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Data Protection Security Engineer",
+    "industry": "Computer Software",
+    "description": "pstrongAbout the TeamstrongppWorkday is looking for an experienced Security Engineer who has an ability to independently research and tackle technical issues and handle events The main responsibility of the role will be to lead an enterprise Data Loss Prevention DLP solution  CASB Email and Endpoint  with integrated tools and applications across an array of corporate environmentsppbrppstrongspan classqlcursorspanAbout the rolestrongpulliManage the enterprise Data Loss Prevention DLP tools environment including but not limited to configuring policies anomaly detection and patchingnbspliliMonitor the use of DLP tools and ensure a consistent process of improvement is in placeliliCreate and maintain platform specific documentationliliMaintain DLP audit and compliance dashboards supporting continuous process improvementliliDiagnose and analyze technical information from multiple sourcesliliWork with internal stakeholders and business partners to support the DLP technology troubleshooting upgrades etcnbspliliCollaborate with the business to identify sensitive high value data eg customer data sensitive data IP amp source code and ensure appropriate controls are in place to protect itliliDefine implement and support process and technology improvements related to preventing unauthorized disclosure modification removal or destruction of informationliliDevelop new rules and processes to enhance detection capabilities mitigating the risk of the insider threat and data lossliliAnalyze and aggregate data loss prevention data to support the enhancementtuning of existing policies and determine additional controlsliliInvestigate host network and logbased security eventsliliAnalyze global data loss prevention data to provide metric reportingliliCommunicate security data protection data loss prevention related concepts to a broad range of technical and nontechnical staff at multiorganizational levelsliulpbrppstrongAbout youstrongpulliBachelors degree or higher in computer science or a related disciplinenbspliliMinimum 5 years experience working in a Security Operations or related roleliliData Loss Prevention andor Cloud Access Security Broker CASB implementation andor management experience desirablenbspliliExperience deploying data protection solutions in the cloud and onpremiseliliProven background in security engineering data protection data lifecycle management data loss prevention or experience supporting these securityrelated solutionsliliProven experience with creating regular expressions encoding and encryptionliliExperience with RESTful APIs and automationnbspliliExperience identifying threats IoCs and TTPs vulnerabilities and exploitationsliliKnowledge of cryptographic implementations at media file and application levelsliliCodingScripting experience eg PythonnbspliliStrong problem solving with demonstrated proactive correction capabilitiesliliComprehensive understanding of industry leading Data Loss Prevention technologiesliliSelfstarter with an ability to navigate and collaborate effectively within a geographically complex and dispersed global corporationliliAbility to work independently manage work to ensure quality ontime deliveryliliExperience in data analysis anomaly detection eg UEBA preferrednbspliliExperience andor certification in cyber forensics desirableliliCISSP CISA CEH OSCP GIAC GSEC or other industry recognized security certifications preferred but not essentialliulpbrppstrongAdditional Job DescriptionstrongppAt Workday we believe every potential recruit brings value to the table Believe you are missing some of the skills and are hesitant to apply We do not believe in the perfect candidate and are happy to teach So however you identify and whatever background you bring with you apply and see what we are all aboutp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T23:53:48.000Z"
+  },
+  "company": {
+    "name": "Workday",
+    "link": "https://www.linkedin.com/company/workday"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Sr."
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "McLean",
+    "region": "VA",
+    "postal_code": "22101",
+    "street_address": null,
+    "latitude": 38.93759,
+    "longitude": -77.18378
+  }
+}

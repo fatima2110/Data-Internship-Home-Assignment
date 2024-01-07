@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Apple Pay",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brAt Apple new ideas have a way of becoming phenomenal products services and customer experiences very quickly You bring passion and dedication to your job and theres no telling what you could accomplishbrbrbrWe are building the next generation systems powering Apple Pay Working alongside a talented team of engineers our initiative is to build the strategic elements of the Apple Pay stack enabling first to market features that differentiate our productsbrbr brstrongKey Qualificationsbrstrong brSignificant experience 5 years in designing implementing amp supporting highly scalable systems and services in Java Scala andor other JVMbased languagesbrbrAt least 4 years experience with SQL NoSQL or NewSQL technologies see Additional Requirements belowbrbrSelfstarter with strong customer and product focusbrbrAbility to communicate thoughtfully leveraging problemsolving skills and a learning mindset to build longterm relationshipsbrbr brstrongDescriptionbrstrong brWe are looking for a team member with a strong foundation in computer science theory and industry experience In this role you will design develop and deliver components of a distributed system that is key to the Apple Pay stackbrbrbrYou will have a proven ability to solve problems interest in continuous learning and digging deep into the domain when necessary brbrbrJob functions include brbrbr  Crossfunctional collaboration throughout the entire software lifecyclebrbr  Scoping design and implementation of scalable resilient distributed systemsbrbr  Participating in design sessions and code reviews with peers to elevate the quality of engineering across the organizationbrbr brstrongEducation amp Experiencebrstrong brBS or MS in Computer Science or related technical field equivalent work experience will be consideredbrbr brstrongAdditional Requirementsbrstrong brAny of the following is an advantagebrbrPractical experience with CockroachDB Cassandra FoundationDB DynamoDbrbrPublic cloud platforms AWS GCP etcbrbrDeployment experience using Docker and KubernetesbrbrRelational data modeling amp practical experience with RDBMS Oracle Postgres MySQL etcbrbrPractical experience with Apache KafkabrbrFintech experiencebrbrPayments experiencebrbr brRole Number 200266172brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T16:26:41.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

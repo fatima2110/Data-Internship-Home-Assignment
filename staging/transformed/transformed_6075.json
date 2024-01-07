@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "R&amp;D Data Scientist",
+    "industry": "Chemicals,Mechanical or Industrial Engineering,Research",
+    "description": "strongDowstrong has an exciting opportunity for astrong Data Scientist strongin RampD supporting the Polyurethane Business artificial intelligence and machine learning initiative located in strongLake Jackson TX or Midland MIstrong The Data Scientist will be working with a cross functional team whose objective is to create machine learning algorithms and interfaces that enhance the ability of lab personnel to predict formulations based on historical data and customer preferences structure property relationships Initially the scientist will be working with a group of other RampD scientists to identify new descriptors for polyols isocyanates and formulated systems that could be used to improve the accuracy of polyurethane PU predictive models Future projects could include deployment of new tool and development of advanced models in new chemistry and material domainsbrbrWe are seeking candidates who have expertise in one or more of the following areas chemical engineering materials science chemistry polymer science theoretical modeling mechanical engineering as well as data science and programming experience The individual will work with project teams to solve chemical and materialrelated problems through both fundamental and applied research The types of projects span from product research to process research to application development Examples include new molecule or material synthesis process scaleup reaction engineering and study and application of structureproperty relationships to new product development The specific opportunities including project type geography and timing are variablebrbrstrongKey TraitsbrstrongulliFamiliar with polymer propertiesliliAn exposure to the safety culture of an industrial company and its implicationsliliFamiliarity with machine learning its applicability to industry and potential for value creationliliManaging confidential information and property access to systems properlyliliAble to work independently but also in teamsliliEffective communicatorliliAbility to quickly assimilate and understand new technologyliliAgile and adaptable with an ability to drive results in the face of ambiguityliliExcellent timemanagement skills and ability to work under tight deadlinesliliEffective stakeholder management relationship building and trust buildingliliStrong negotiations skills with the ability to resolve conflictliliOrganized and detailedliulstrongRequired QualificationsbrstrongulliBachelors degree in Chemistry Chemical Engineering Mechanical Engineering Materials Science Polymer Science or other related disciplinesliliMinimum 2 years of experience in data analytics modelling or machine learningliulstrongPreferred QualificationsbrstrongulliPhD in Chemistry Chemical Engineering Mechanical Engineering Material Science Polymer Science or other related disciplinesliliProficient in python and developing regression and classificationbased machine learning models using Scikitlearn and TensorflowPytorchliliExperience with cheminformatics tools such as RDKit DeepChem to generate numerical representation fingerprintsdescriptors of moleculesliliKnowledge about AWS  Azure AutoML Manage DevOps based pipelinesliliExperience in SQL Pandas Jupyternotebook and GitbrliulDomestic relocation assistance is available for this role and may be provided based on eligibilitybrbrDow OffersbrulliA robust total rewards program including competitive base pay variable pay that rewards individual team and Company performance and comprehensive benefitsliliOngoing learning opportunities within a diverse inclusive and rewarding work environment liliCareer experiences that can span different Dow businesses and functions with opportunities for personal and professional growth liliThe chance to work within a global company and interact with colleagues from around the world liliOpportunities that spark your imagination and ignite your passion to help others brliulstronguAbout DowbrbrustrongDow NYSE DOW combines global breadth asset integration and scale focused innovation and leading business positions to achieve profitable growth The Companys ambition is to become the most innovative customer centric inclusive and sustainable materials science company with a purpose to deliver a sustainable future for the world through our materials science expertise and collaboration with our partners Dows portfolio of plastics industrial intermediates coatings and silicones businesses delivers a broad range of differentiated sciencebased products and solutions for its customers in highgrowth market segments such as packaging infrastructure mobility and consumer care Dow operates 106 manufacturing sites in 31 countries and employs approximately 35700 people Dow delivered sales of approximately 39 billion in 2020 References to Dow or the Company mean Dow Inc and its subsidiaries For more information please visit wwwdowcom or follow DowNewsroom on TwitterbrbrAs part of our dedication to the diversity of our workforce Dow is committed to equal opportunities in employment We encourage every employee to bring their whole self to work each day to not only deliver more value but also have a more fulfilling career Further information regarding Dows equal opportunities is available on wwwdowcom brbrDow is an Equal Employment Opportunity employer and is committed to providing opportunities without regard for race color national origin ethnicity gender protected veteran status disability sexual orientation gender identity or religion We are also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures If you need assistance or an accommodation due to a disability you may contact us at httpwwwdowcomenuscontactus or you may call us at 1833My Dow HR and select option 0 then press ",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T00:20:44.000Z"
+  },
+  "company": {
+    "name": "Dow",
+    "link": "https://www.linkedin.com/company/dow-chemical"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 122000,
+    "max_value": 197000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Freeport",
+    "region": "TX",
+    "postal_code": "77542",
+    "street_address": null,
+    "latitude": 28.953726,
+    "longitude": -95.358505
+  }
+}

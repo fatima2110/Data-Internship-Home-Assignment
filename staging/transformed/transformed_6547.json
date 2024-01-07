@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Research Engineer - Uber AI Engagements",
+    "industry": "Computer Software,Consumer Services,Information Technology and Services",
+    "description": "stronguAbout The TeambrbrustrongUber AI Engagements collaborates with partner teams across Uber to deliver innovative MLAI solutions for core business problems You will work closely with engineering product and data science teams to understand business problems and the potential for MLAI solutions You will deliver these solutions from inception to enduring software components Machine Learning Engineers have deep domain knowledge in MLAI and the ability to apply that knowledge to diverse problem domains involving multiple stakeholdersbrbrstronguWhat Youll DobrustrongulliAlgorithm and model prototypingliliModel optimizationliliModel productionization and monitoringliliStay up to date with the recent advancements in the field of machine learning and deep learningbrliulstronguBasic QualificationsbrustrongulliMasters in Computer Science with a specialization in ML related field or equivalent industry experiencelili2 years of industry experience in applied ML or a PhD with some industry experience obtained through eg internshipsliliProficiency in PythonliliExperience with ML frameworks such as PyTorch and TensorFlowbrliulstronguPreferred Qualificationsbrustrongulli4 years of industry experience in applied ML or a PhD and 2 years of industry experienceliliExpertise in deep learning Strong understanding of deep learning fundamentals layer details loss functions backpropagation etcliliAbility to read academic papers and implement state of the art deep learning modelsliliExperience applying deep learning techniques to problems in the spatiotemporal domainliliExperience dealing with real world largescale datasetsliliAbility to innovate as demonstrated by a track record of software artifacts or publicationsliliAbility to deliver endtoend solutions including data preparation training and deploymentliliExperience working with product teamsliliAbility to work with ambiguous problem definitionsliliProve ability communicating technical knowledge to a business audienceliliCollaborative attitude and constructive approachbrliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T09:40:05.000Z"
+  },
+  "company": {
+    "name": "Uber",
+    "link": "https://www.linkedin.com/company/uber-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

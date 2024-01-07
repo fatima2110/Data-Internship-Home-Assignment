@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Hospital &amp; Health Care",
+    "description": "Abbott is a global healthcare leader that helps people live more fully at all stages of life Our portfolio of lifechanging technologies spans the spectrum of healthcare with leading businesses and products in diagnostics medical devices nutritionals and branded generic medicines Our 109000 colleagues serve people in more than 160 countriesbrbrstrongEmbedded Software Engineer  Heart Failure Therapy Burlington MA brbrstrongLeading an active lifestyle is important to the many people we serve In Abbotts strongElectrophysiology and Heart Failure EPHFstrong division were advancing the treatment of heart and vascular disease through breakthrough medical technologies As a global leader in strongMechanical Circulatory Support Therapystrong our breakthrough medical device technologies help restore peoples health so they can get back to living their best lives faster We focus on innovative technologies that can improve the way doctors treat people with heart failure HFbrbrstrongAs Embedded Software Engineerstrong you will be part of our strongMechanical Circulatory Supportstrong strongTherapy strongproduct development team focused on planning and delivering of custom inhouse embedded software applications developed for Implantable Devices meeting both short term and longterm goals of our patients Located at our Burlington MA site you will contribute to embedded software projects that meet customers needs in terms of functionalities performance time and costbrbrstronguDuties And ResponsibilitiesbrustrongulliParticipate in developing embedded software and contribute towards developing class III implantable medical device that has been awarded breakthrough technology designationliliWork from requirement specifications designs develop maintain and update embedded softwareliliContribute to other developers in software design implementation unit testing and debuggingliliParticipate in cybersecurity risk assessment requirements development and implementation of cybersecurity features and best practicesliliParticipate in and support implementation new creation enhancements and modifications to embedded software source code scripts and proceduresliliDebug troubleshoot and isolate software problems and offer strategic advice regarding identified issues for future developmentliliContribute to developing design concepts ie parameters structure and core componentsliliMay present or contribute to presentations at design reviews document and resolve issues as directedliliContribute to and support a variety of development and test phase effortsliliMay write and update requirement specifications for an assigned arealiliContribute to project deliverables such as specifications code and testtool procedures for feasibility thoroughness clarity correctness and accuracyliliComply with US Food and Drug Administration FDA regulations other regulatory requirements company policies operating procedures processes and task assignments liliMaintain positive and cooperative communications and collaboration with all levels of employees customers contractors and vendorsliliPerform other related duties and responsibilities on occasion as assignedbrliulstronguExperience And Education RequirementsbrustrongulliBachelors degree Major in CS EE or related field preferredliliUnderstanding of CC  understanding of CC in an embedded environment for microcontrollers preferredliliSolid understanding of visual modeling graphical user interfaces using QT multithreading networking relational databases formal software development methodologies and source code managementliliExperience in programming languages such as C C and PythonbrliulstronguPreferred Qualifications  EducationbrustrongulliMasters degree in related field education may substitute for some years of experienceliliDevelopment experience using CC in an embedded environment for microcontrollersliliExperience with visual modeling graphical user interfaces multithreading networking relational databases formal software development methodologies and source code managementliliExperience with unit and integrationlevel testing and automated testingliliAbility to plan for project deliverables and manage the project team towards meeting schedule and cost as well as delivering product of high qualityliliAbility to communicate technical solutions and issues clearly and adequately to management as well as members on the projectliliExperience with Embedded Software Development within the regulated medical fieldliliExperience analyzing and debugging embedded system using oscilloscopes logic Analyzers and any other appropriate equipment liliExperience in working in an iterative Scrum Kanban development processliliAbility to capture and analyze customers needs to understand design and solution towards solutionsliliExperience in Implantable technologiesliliExperience of multitasking systems and realtime application development ex threading semaphores processes etcliliExperience of lowlevel real time system development such as interrupts and device driversliliKnowledge of hardware breadboards and PC hardware system interfaces and embedded systemsliliExperience with BLE 50 a plusbrliulstronguWhat We OfferbrbrustrongAt Abbott you can have a good job that can grow into a great career We offerbrulliTraining and career development with onboarding programs for new employees and tuition assistance liliFinancial security through competitive compensation incentives and retirement plans liliStudent Loan Repayment Assistance liliHealth care and wellbeing programs including medical dental vision wellness and occupational health programs liliPaid time off lili401k retirement savings with a generous company match liliThe stability of a company with a record of strong financial performance and history of being actively involved in local communities brliulstrongemLearn more about our benefits that add real value to your life to help you live fully  emstrongemwwwabbottbenefitscombrbrememFollow your career aspirations to Abbott for diverse opportunities with a company that provides the growth and strength to build your future Abbott is an Equal Opportunity Employer committed to employee diversitybrbrememConnect with us at ememwwwabbottcomemem on Facebook at ememwwwfacebookcomAbbottemem and on Twitter AbbottNews and AbbottGlobalem",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Abbott",
+    "link": "https://www.linkedin.com/company/abbott-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Burlington",
+    "region": "MA",
+    "postal_code": "01803",
+    "street_address": null,
+    "latitude": 42.504986,
+    "longitude": -71.19583
+  }
+}

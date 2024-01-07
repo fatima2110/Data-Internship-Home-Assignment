@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "[Seattle] Machine Learning Engineer, NLP (Junior &amp; New Grad)",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "stronguAbout News BreakbrbrustrongstrongDescriptionbrbrstrongNews Break defines a new way for users to engage with local news Since its founding in 2015 it has grown by leaps and bounds Were the nations largest intelligent local news platformbrbrNews Break is ranked the 1 news app on both iOS and Android in 2020 with 45M monthly active usersbrbrWere a seriesC startup headquartered at Mountain View CaliforniabrbrFor more information visit wwwnewsbreakcomaboutbrbrstronguAbout The RolebrbrustrongstrongResponsibilitiesbrstrongulliDevelop highly scalable tools leveraging machine learning models to solve problems such as text classification document clustering topic modeling text generation and recommendationliliDevelop inhouse machine learning tools and pipelines to support fast experimentation of machine learning modelsliliWork with other engineers to identify and solve machine learning problemsbrliulstronguMinimum QualificationsbrbrustrongstrongRequirementsbrstrongulliExperience in one or more of the following areas deep learning natural language processing recommendation systems and data miningliliExperience with machine learning frameworks such as TensorFlow PyTorch or MXNetliliExpert knowledge in CC and PythonbrliulstronguPreferred QualificationsbrustrongulliMS degree in Computer Science or related quantitative field with 3 years of machine learning related work or research experience or PhD degree in Computer Science or related quantitative fieldliliContributions to research communitiesefforts including publishing papers in machine learning AAAI ICLR NeurIPS ICML KDD CVPRbrliulstronguBenefitsbrbrustrongWe provide a highly competitive compensation package including base salary bonuses and stock options Benefits include great Medical Dental and Vision A flat organization and familylike culture makes this a perfect environment to make huge impact on our product and grow your skill set",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T12:53:18.000Z"
+  },
+  "company": {
+    "name": "NewsBreak",
+    "link": "https://www.linkedin.com/company/particle-media-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellevue",
+    "region": "WA",
+    "postal_code": "98007",
+    "street_address": null,
+    "latitude": 47.6137,
+    "longitude": -122.19093
+  }
+}

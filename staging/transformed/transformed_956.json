@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "stronguCompany Descriptionbrbrustronginsightsoftware is a growing dynamic computer software company that helps financial reporting solutions At insightsoftware you will learn and grow in a fastpaced supportive environment that will take your career to the next level We are looking for future insighters who can demonstrate teamwork results orientation a growth mindset disciplined execution and a winning attitude to join our growing teambrbrstronguOverviewbrbrustrongstrongJob DescriptionbrbrstrongWere looking for a creative talented strongSenior Software Engineerstrong to join our fastgrowing Software Engineering group Working on an Agile development team you will be responsible for developing and supporting our classleading suite of Financial Reporting ProductsbrbrWe enjoy our work as much as we enjoy working together and want Engineers who can get things done while having a positive influence on our workplace environment The successful candidate must have a passion for software development deeply care about code quality and be committed to craftsmanshipbrbrstronguResponsibilitiesbrustrongulliOperate in an agile development team and participate in the design development testing and debugging of applicationsliliWork with a technical lead and product manager to clearly define product requirementsliliWork with colleagues and engineering leadership to define technical solutions that meet business requirementsliliDevelop clean elegant and reusable code that is easy to maintain and extendliliEnsure that the architectural integrity of the source code is maintained and improvedliliIdentify improvements to reduce technical debtliliConduct efficient code reviews and enforce team coding standardsliliProvide technical mentoring to junior engineersbrbrliulstronguQualificationsbrbrustrongstrongCompetenciesbrstrongulliDiscipline and Perseverance  Focus and commitment to solving complex issues through to completionliliFlexibility and Hard Work  Operate in a fastpaced iterative development environment learn and adapt to new technologiesliliProblem Solving  Strong critical thinking and problemsolving capabilitiesliliQuality  Dedicated to producing highquality software and implementing development best practicesliliTeam Work  Communicate effectively and operate in a team environmentliliEffective Communicator  Strong written and oral communication skillsliliExcellent time management skills  a proven ability to utilize your sense of urgency to prioritize tasks effectivelyliliSelfImprovement  actively selfimproves through individual learning coursework or otherwisebrbrliulstronguQualification And ExperiencebrustrongulliBS in Computer Science Computer Engineering or related technical disciplinelili5 years experience designing and developing SaaS applications using Net C AngularReactliliStrong in frontend technologies  CSS JavaScript and related frameworksliliExperience developing REST APIliliExperience using Oracle databases including writingoptimizing complex queries stored procedures and scriptingliliExcellent teamwork skills and the ability to excel in a fastpaced and collaborative environmentliliStrong communication skills in English  written and verbalbrbrliulstronguPreferred QualificationsbrustrongulliFamiliarity with Jira and GitliliExperience working in an Agile environment comfortable with iterative SDLC Scrum basedliliExperience with cloud technologies AzureAWS and Net Core brbrliulstronguAdditional InformationbrustrongulliAll your information will be kept confidential according to EEO guidelinesbrliul strongAt this time insightsoftware is not able to offer sponsorship to candidates who are not eligible to work in the stated work locationstrong brbr strongAt this time insightsoftware is not able to offer sponsorship to candidates who are not eligible to work in the stated work locationstrong ",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T03:38:47.000Z"
+  },
+  "company": {
+    "name": "insightsoftware",
+    "link": "https://www.linkedin.com/company/outcomes-by-insightsoftware"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 70600,
+    "max_value": 126000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

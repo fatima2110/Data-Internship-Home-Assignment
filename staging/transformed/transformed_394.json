@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior, Software Engineer, Linux/Android OS",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "strongJob DescriptionbrbrstrongWe are looking for an OS developer interested in building the next generation Augmented Reality operating system using industrystandard tools and technologies This is an opportunity for you to contribute to the development of a new class of mobile computing devices that will transform the enterprisebrbrstrongResponsibilitiesbrstrongulliWork on multiple levels of the OS stack from drivers to frameworksliliLeverage native APIs for deep integration with all platformsliliDiagnose and fix bugs liliMaintain code and write automated tests to ensure the product is of the highest qualityliliWrite documentationliliMentor and guide other engineersbrliulstrongQualificationsbrstrongulliStrong knowledge of embedded software developmentliliStrong knowledge of Linux or AOSPliliThorough knowledge of modern CC standards libraries and best practicesliliStrong knowledge of at least one scripting language among the following Python JavaScriptliliProficient knowledge of CC build toolchainsliliFamiliarity with build scripting languages eg CMake Ninja GYP GN GNU Autotools MesonbrliulstronguEducationbrustrongulli7 years experience with Embedded Linux Developmentlili5 years experience with CClili3 years experience with AndroidliliOpen Source experience strongly recommendedliliAOSP development is a plusliliBachelor of Science in Computer Science or Engineering required Masters Degree preferred liul strongAdditional InformationbrstrongulliAll your information will be kept confidential according to Equal Employment Opportunities guidelinesliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T17:02:24.000Z"
+  },
+  "company": {
+    "name": "Magic Leap",
+    "link": "https://www.linkedin.com/company/magic-leap-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 109000,
+    "max_value": 176000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

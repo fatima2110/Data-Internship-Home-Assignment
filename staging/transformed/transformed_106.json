@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "",
+    "description": "Would you like to join an awardwinning company which is changing and building the future telecom providing ALLG cloudnative OpenRAN portfolio in their bestinclass products Read on if your answer is YESbrbrMy client a world leading Telco vendor is currently seeking a Sr Layer23 Stack SW Engineer with 7 years of CC development of embedded realtime components and good understanding of 5GLTE standard exposure to help expand my clients offering across the globe This is a great opportunity to join an organization dedicated to its customer base through its desire to deliver disruptive Radio productsbrbrWhat you MUST bring to the teambrbr\tMUST 7 plus years experience in CC programming language development of embeddedrealtime components of a multithreaded systembr\tPossess strong foundation in troubleshooting and debugging activities in endtoend software development cyclebr\tAbility to work independently without close supervision and act as a part of a global team in a multisite organizationbr\tDemonstrates good understanding of communication protocols  Ability to translate L2L3 standards and specifications towards efficient implementationbr\tSolid handson experience with SW development methodologies Design documentation SW implementation unit testing etcbr\tEssential to have strong communication skillsbr\tMUST BSc in Computer Science  Computer Engineering or top IDF SW development unitbrbrbrbrNice to havebr\tExperience in Linux OS user application developmentbr\tPast experience with telecom communication standards preferable 4G5Gbr\tPast experience with ContainersdockersKubernetes K8S technologiesbr\tExperienced with RAN associated test equipments such as UE simulatorsQXDMbr\tExperience with cellular modems  design implementation etcbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:23:39.000Z"
+  },
+  "company": {
+    "name": "First Point Group",
+    "link": "https://uk.linkedin.com/company/first-point-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas-Fort Worth Metroplex",
+    "region": null,
+    "postal_code": "75049",
+    "street_address": null,
+    "latitude": 32.7513,
+    "longitude": -97.08263
+  }
+}

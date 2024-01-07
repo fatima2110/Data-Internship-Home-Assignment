@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "Site Reliability Engineer  Sr DevOps EngineerbrLocation  Seattle WA  Remote OKbrDuration  12 monthsbrRequiredbr\tBachelors degree in CS or a related STEM engineering field strongly preferredbr\tRelevant certifications are a plusbr\t810 years of Site Reliability  DevOps Engineeringbr\tExpertise in AWS  Azurebr\tExpertise in Kubernetes kOps  Helm 3br\tIstio service mesh experience is strongly preferredbr\tExperience with Infrastructure as Code IIAC requiredbr\tSpecifically we are looking for Terraformbr\tFluency in at least one language required Python C JAVA Should have strong API experiencebr\tExperience working in SOA and 12 factor app methodologybr\tStrong leadership initiative taking and capacity for decision makingbr\tExpert knowledge in any or all of these is a huge plus Prometheus Operator Grafana Loki ELK Stack OpenTelemetry JaegerOpenTracingbr\tParticipate in the oncall rotationbrbrWhat Youll Dobr\tWork across teams to completely automate everything we dobr\tDrive and own best practices with automation be passionate and proactivebr\tApproach alerting monitoring and log aggregation with an eye toward flexibility and insightdriven metricsbr\tCollaborate with the teams to ensure ongoing infrastructure managementautomation IAC CICD pipeline construction in collaboration with the Release Engineering team monitoring and maintenancebr\tEnable our engineering teams to deliver high quality software fast well tested in a highly repeatable waybr\tCreate automated tool sets to deploy measure solidify and observe our infrastructure br\tOngoing study and implementation of the industrys latest best practices and drive those within the companybr\tParticipate in the oncall rotationbrbr",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-18T19:20:22.000Z"
+  },
+  "company": {
+    "name": "OrgSpire Inc",
+    "link": "https://www.linkedin.com/company/orgspire-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

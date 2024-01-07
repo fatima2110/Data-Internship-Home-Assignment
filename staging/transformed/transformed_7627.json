@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (full stack)",
+    "industry": "Internet",
+    "description": "Replicated is the modern way to ship multiprem software Replicated helps software vendors quickly and easily deploy their applications to any customer using a single architectureThe Replicated platform provides all of the tools needed to operationalize and scale the distribution of Kubernetes applications into any enterprise environment Those tools include Kubernetesnative versions of release channels customer license management automated troubleshooting and a nextgen endcustomer admin experiencebrbrReplicated is committed to cultivating an efficient respectful workplace We know that innovation thrives on teams where diverse points of view come together to solve hard problems in ways that are just now possible As such we explicitly seek people that bring diverse life experiences diverse educational backgrounds diverse cultures and diverse work experiencesbrbrWe are fully remote and plan to stay that way Most roles are open in any state in the US Were open to candidates in Canada and the UK alsobrbrstrongFull Stack EngineerbrbrstrongFull Stack Engineers bring expertise in front end and Typescript development to a collaborative development team They contribute to every stage of building the Replicated delivery and management platform They implement test and deploy new enhancements and updates to our products They work closely with Core engineers which have a complementary expertise in backend and service developmentbrbrAs a member of the team you will get to use cuttingedge technology and emerging open source tools and standards Our stack includes Go Typescript Kubernetes and more Youll get an opportunity to work across the stack and build software for our highly technical userbase of software developers You wont be locked into legacy products or technology our engineers learn something new every daybrbrWhat youll dobrulliWork with product managers designers and core engineers from prototype to productionliliBuild public and internal APIs often interfacing with core Kubernetes APIsliliWrite and contribute to Kubernetes operators and CLIsliliBuild webbased user interfaces for our vendor dashboards onpremises customer dashboards open source tools marketing pages and moreliliMentor and be mentored based on your experience levelliliParticipate in a team based support and oncall rotation for our productsbrbrliulYou should havebrulli25 years of professional development experienceliliSolid proficiency with Typescript and an interest in learning GoliliExcellent technical communication and collaboration skillsliliStrong sense of responsibility for the experience of your usersbrbrliulNice to havebrulliPassion for and well reasoned opinions on technologyliliSense of design and productliliOpen source contributions code bug reports community supportliliKubernetes experienceliliGraphic design experiencebrbrliulLocation Remote USCanadaUKbrbrNot sure you meet 100 of our qualifications Please apply anywaybrbrWe invest in our team and love candidates who are eager to learn and grow We have a fantastic team of highly collaborative individuals who enjoy learning growing and mentoring othersbrbrustrongOUR VALUESbrbrstrongustrongCuriousstrong We are driven by a passion for solving hard problems and propelled by a shared desire to continuously learnbrbrstrongTrailblazingstrong We have the confidence to pursue new avenues and the courage to zig when so many others zagbrbrstrongHumblestrong We are proud of our accomplishments but understand that we havent solved every problem yet Were on a journey of discovery and improvementbrbrstrongDedicated strongWe take the long view when it comes to how we treat each other how we treat our customers and how we build our technologybrbrstrongTrusting and trusted strongWe inherently trust each other and believe in empowerment and autonomy so people can bring and do their bestbrbrstrongInclusive strongWe strive for diversity and inclusiveness because we know that being diverse and inclusive helps people companies and communities thrivebrbrstrongCare personallystrong We know each member of our team is valuable and deserving of our active listening understanding and supportbrbrstrongBenefitsbrbrstrongWe offer strong benefits to help you stay healthy and productive For the US our benefits are listed belowbrulliHealthDentalVisionliliLifeADampDliliLTDSTDliliFSAlili401KliliPartner perk programsliliGenerous time off we expect you to take a minimum of 3 weeks of per yearliliLaptopaccessories you need to get set upliliGenerous home office set up allowance or coworking space allowance  up to 10000 per yearliliCuriosity Budget to help you keep learning and growingbrbrliulReplicated is an Equal Opportunity Employer We celebrate diversity and are committed to creating an inclusive environment for all employees We encourage applicants of all backgrounds and we work to make sure that all team members have an equal opportunity to succeedbrbremWe do not accept unsolicited assistance from any headhunters or recruitment firms for any of our job openings All resumes or profiles submitted by search firms to any employee at Replicated in any form without a valid signed search agreement in place for the specific position will be deemed the sole property of Replicated No fee will be paid in the event the candidate is hired by Replicated as a result of the unsolicited referralbrbrem",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:47:15.000Z"
+  },
+  "company": {
+    "name": "Replicated",
+    "link": "https://www.linkedin.com/company/replicated"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

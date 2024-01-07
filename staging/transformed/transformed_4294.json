@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "pstrongPositionnbspstrongppData ScientistppbrppstrongLocationnbspstrongppAtlanta GA remoteppbrppstrongJob DescriptionstrongppA42 Labs is a rapidly growing AI and ML startup in Atlanta GA We work with closely with clients all over the United States to change the way they work with data and artificial intelligenceppbrppA42 Data Scientists work sidebyside our clients to build and deploy endtoend artificial intelligence and machine learning solutions at scaleppbrppIf you enjoy working on high impact and challenging data problems that deliver value to clients then we would like to hear from youppbrppstrongResponsibilitiesstrongpulliDesign and develop algorithms and models to use against large datasetsliliApply data science techniques to diverse realworld problems on large and dynamic datasetsliliEndtoend data processing and modeling of large data setsliliWorking collaboratively with clients to develop and optimize models tailored to their dataliliCommunicate analysis and model results to clients stakeholdersnbspliliEducate technical and nontechnical clients on analytics and datadriven decision makinglili30  70 travel annuallyliulpbrppstrongRequired Skillsstrongpulli2 years Data Science experienceliliExperience building training and testing machine learning modelsliliExperience with endtoend data pipelining and modelingliliExperience with Python R andor SASliliExperience with Spark Tensorflow PyTorch type big data and MLDL frameworksliliExperience with common visualization tools eg Tableau QlikviewliliCapacity to quickly understand complex systemsliliWillingness to learn new technologies and an ability to effectively apply themliliStrong communication skillsliliBachelors degree in related field eg Computer Science Physics Mathematics EngineeringliulpbrppstrongDesired SkillsstrongpulliMaster andor PHDliliPrevious consulting experienceliliExposure to the handling of large diverse realworld datasetsliliKnowledge of Spark Greenplum andor HadoopnbspliliExposure to Lean Agile and Extreme Development practicesliliExperience with deep learning tools and packages eg Tensorflow PyTorchliulpbrppstrongA42 Labs OffersstrongpulliCompetitive salaryliliPre IPO equityliliGreat health benefitslili3 weeks paid vacationliliApple laptopsliliStartup cultureliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T07:46:03.000Z"
+  },
+  "company": {
+    "name": "A42 Labs, Inc.",
+    "link": "https://www.linkedin.com/company/a42labs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

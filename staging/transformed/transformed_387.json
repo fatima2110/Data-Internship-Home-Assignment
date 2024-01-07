@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Full Stack Software Engineer",
+    "industry": "Civil Engineering",
+    "description": "Peraton drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy As the worlds leading mission capability integrator and transformative enterprise IT provider we deliver trusted and highly differentiated national security solutions and technologies that keep people safe and secure Peraton serves as a valued partner to essential government agencies across the intelligence space cyber defense civilian health and state and local markets Every day our 22000 employees do the cant be done solving the most daunting challenges facing our customersbrbrPeraton is seeking a strongFull Stack Software Engineerstrong to join our team of qualified diverse individuals This position will be located in McLeanHerndon VA with some remote work possible The qualified applicant will become part of Peratons Department of State DOS Consular Systems Modernization CSM Program for the Bureau of Consular Affairs CA This initiative is intended to modernize and consolidate the operational environment under a common technology framework in order to better support the services provided to CAs customersbrbrIf challenge growth and the ability to have a positive impact on your customer and fellow team members is something that interests you this job is worth your considerationbrbrAs part of the modernization program the Full Stack Software Engineer will be responsible for supporting the full software development lifecycle SDLC including software systems engineering activities requirements definition prototyping software design implementation testing and maintenancebrbrstronguRoles And ResponsibilitiesbrustrongulliWork with the system engineering team to understand customer business needs and prioritiesliliDefine software requirements both functional and nonfunctional as high level epics features and user stories to support SAFe Agile methodologyliliDevelop prototypes to support product andor technology evaluationsliliDesign software using industry standard design patterns and best practices to improve maintainability flexibility performance security and availabilityliliDefine the software design using a modelbased engineering strategy SysMLUMLliliImplement enterprise webbased applications Java technology stack within a SAFe Agile environmentliliDevelop single page applications using a clientside rendering frameworkliliDevelop servicebased solutions RESTbased web services using microservices architectureliliDevelop database solutions for managing structured and unstructured data liliDevelop automated unit and integration tests that can be incorporated into CICD pipelineliliSupport CICD initiatives and utilize static code analyzers to ensure high quality source codeliliSupport software testing activities including IVampV and provide timely software defect resolutionsliliProvide production and operational support as needed to ensure deployed software meets functional and nonfunctional requirements brliulDOSCSMbrbrstronguBasic QualificationsbrbrustrongTo be considered for this position you must minimally meet the knowledge skills and abilities listed belowbrulliBachelors degree in STEM and at least two 2 years experienceliliExperience in software development and maintenance projects with involvement in requirements management technical designdevelopment and deployment steps within SDLCliliExperience supporting software development activities for software projects specializing in development of enterprise web applicationsliliExperience with fullstack development using the Java technology stack to implement enterprise webbased applicationsliliExperience developing 508 compliant solutionsliliExcellent communication skills both verbally and in writingliliMust have a current active Secret or higher clearance Interim clearances are acceptablebrliulstrongPreferred QualificationsbrbrstrongCandidates with these desired skills will be given preferential considerationbrulliExperience in cloud based environments including the development of software that supports architectures that involve publichybrid cloudsliliExperience developing single page applications using a clientside rendering framework React Angular etc and responsive CSS framework Bootstrap Material Design etcliliExperience developing servicebased solutions using the Java technology stack building RESTbased services Spring MVC Spring Boot etc and deploying in a containerbased microservices architecture Docker Spring Boot Kubernetes etcliliExperience with static code analyzers CAST HP Fortify SonarQube etcliliExperience developing high volume highly available and secure software systemsliliExperience in enterprise software system modernization effortsliliExperience developing and deploying software systems in an incremental manner using the SAFe Agile methodologybrliulemWe are an Equal OpportunityAffirmative Action Employer We consider applicants without regard to race color religion age national origin ancestry ethnicity gender gender identity gender expression sexual orientation marital status veteran status disability genetic information citizenship status or membership in any other group protected by federal state or local lawem",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T17:08:10.000Z"
+  },
+  "company": {
+    "name": "Peraton",
+    "link": "https://www.linkedin.com/company/peraton"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "McLean",
+    "region": "VA",
+    "postal_code": "22101",
+    "street_address": null,
+    "latitude": 38.93759,
+    "longitude": -77.18378
+  }
+}

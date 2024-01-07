@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist I",
+    "industry": "Information Technology and Services,Banking,Financial Services",
+    "description": "strongJob DescriptionbrbrstrongCandidate will assist model development groups with review and remediation of model development documentation prior to validation submissionbrulliReview model development documentation identify gaps against the current model development required standards and determine action items to remediate gapsliliCommunicate findings to model development teamsliliWhen required work on champion model review and potential redevelopmentoptimization andor challenger model developmentliliTrack remediation progressliliLiaison with model development and model risk management teamsliliHands on role in tracking and advising on post deployment ongoing monitoringbrliulstronguRequired Skillsbrustrongulli5 years of hands on model risk management or banking model development experienceliliFamiliarity with model risk management standards and regulation eg SR 117liliAttention to detailliliGood communication skillsliliAbility to work across multiple threadsliliGood analytical skills to breakdown requirements and establish remediation plansliliBachelors Degree required in quantitative field preferredbrliulstronguPreferred SkillsbrustrongulliFamiliarity with machine learning techniques and algorithmsliliExperience in at least one of the following Python SAS JavaliliChartered Financial Analyst CFA Financial Risk Manager FRM Project Management Professional PMP or history of AIML related journal publicationsliliMasters Degree in Statistics Mathematics Data Science Engineering Computer Science Economics or related quantitative fieldbrliulstronguRequired Technical SkillsetsbrustrongulliQuantitative skills applied to modellingliliHands on experience with using machine learning techniques and algorithms and getting them to production statistical models ensemble and deep learning modelsliliPrevious data science related work experience and domain expertise within the bankingfinancial sectorliliStrong theoretical understanding behind MLAI modelling techniques and algorithmsliliStatistical computer languages Python preferred R SAS etcbrliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-21T21:42:41.000Z"
+  },
+  "company": {
+    "name": "Bank of America",
+    "link": "https://www.linkedin.com/company/bank-of-america"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Charlotte",
+    "region": "NC",
+    "postal_code": "28241",
+    "street_address": null,
+    "latitude": 35.223785,
+    "longitude": -80.84114
+  }
+}

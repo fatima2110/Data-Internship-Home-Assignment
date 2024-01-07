@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Associate Software Engineer",
+    "industry": "Information Technology and Services,Banking,Financial Services",
+    "description": "At US Bank were passionate about helping customers and the communities where we live and work The fifthlargest bank in the United States were one of the countrys most respected innovative and successful financial institutions US Bank is an equal opportunity employer committed to creating a diverse workforce We consider all qualified applicants without regard to race religion color sex national origin age sexual orientation gender identity disability or veteran status among other factorsbrbrstronguJob DescriptionbrbrustrongBe a part of transformational change where integrity matters success inspires and great teams collaborate and innovate As the fifthlargest bank in the United States were one of the countrys most respected innovative ethical and successful financial institutions Were looking for people who want more than just a job  they want to make a difference US Bank is seeking a Software Engineer who will contribute toward the success of our technology initiatives in our digital transformation journeybrbrThis position will be responsible for the analysis design testing development and maintenance of best in class software experiences The candidate is a selfmotivated individual who can collaborate with a team and across the organization The candidate takes responsibility of the software artifacts produced adhering to US Bank standards in order to ensure minimal impact to the customer experience The candidate will be adept with the agile software development lifecycle and DevOps principlesbrbrstronguEssential Responsibilitiesbrustrongulli Responsible for designing developing testing operating and maintaining productslili Takes full stack ownership by consistently writing productionready and testable codelili Consistently creates optimal design adhering to architectural best practices considers scalability reliability and performance of systemscontexts affected when defining technical designslili Makes sound designcoding decisions keeping customer experience in the forefrontlili Takes feedback from code review and apply changes to meet standards Conducts code reviews to provide guidance on engineering best practices and compliance with development procedureslili Accountable for ensuring all aspects of product development follow compliance and security best practiceslili Exhibits relentless focus in software reliability engineering standards embedded into development standardslili Embraces emerging technology opportunities and contributes to the best practices in support of the banks technology transformationlili Contributes to a culture of innovation collaboration and continuous improvementlili Reviews tasks critically and ensures they are appropriately prioritized and sized for incremental delivery Anticipates and communicates blockers and delays before they require escalationbrliulstronguBasic Qualificationsbrustrongulli Bachelors degree or equivalent work experiencelili Zero to two years of relevant experiencebrliulstronguPreferred SkillsExperiencebrustrongulli Foundational understanding of a feature the users impacted the flows impacted and features purposelili Foundational understanding of algorithms and data structureslili Adept with agile software development lifecycle and DevOps principleslili Able to communicate processes and results with all parties involved in the product team including engineers product owner scrum master third party vendors and customerslili Strong problemsolving and analytical skillslili Excellent communication and interpersonal skillsbrliulstronguBenefitsbrbrustrongTake care of yourself and your family with US Bank employee benefits We know that healthy employees are happy employees and we believe that worklife balance should be easy to achieve Thats why we share the cost of benefits and offer a variety of programs resources and support you need to bring your full self to work and stay present and committed to the people who matter most  your familybrbrLearn all about US Bank employee benefits including tuition reimbursement retirement plans and more by visiting usbankcomcareers brbrstrongEEO is the LawbrbrstrongApplicants can learn more about the companys status as an equal opportunity employer by viewing the federal EEO is the Law posterbrbrstrongEVerifybrbrstrongUS Bank participates in the US Department of Homeland Security EVerify program in all facilities located in the United States and certain US territories The EVerify program is an Internetbased employment eligibility verification system operated by the US Citizenship and Immigration Services Learn more about the EVerify program ",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-16T00:17:51.000Z"
+  },
+  "company": {
+    "name": "U.S. Bank",
+    "link": "https://www.linkedin.com/company/us-bank"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 65400,
+    "max_value": 89700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Portland",
+    "region": "OR",
+    "postal_code": "97268",
+    "street_address": null,
+    "latitude": 45.516018,
+    "longitude": -122.68143
+  }
+}

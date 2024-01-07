@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Infrastructure Software Engineer",
+    "industry": "Construction,Machinery",
+    "description": "stronguCareer AreabrbrustrongstrongDescriptionbrbrstrongEngineeringbrbrstronguJob DescriptionbrbrustrongstrongYour Work Shapes the WorldbrbrstrongWhether it be groundbreaking products best in class solutions or creating a lifelong career you can do the work that matters at Caterpillar With a 95year legacy of quality and innovation and 150 locations in countries around the world your impact spans the globebrbrWhen you join Caterpillar you are joining a team of makers innovators and doers We are the people who roll up our sleeves and do the work to build a better world We dont just talk about progress and innovation We make it happen And we are proud of that because it helps our customers build and power the world we live in  the roads hospitals homes and infrastructure Without a dedicated workforce Caterpillar could not effectively meet our customers needs Join usbrbrstronguSummarybrbrustrongAs a Machine Learning Infrastructure Engineer you will be responsible for developing and deploying a robust fullstack pipeline that can support various perceptionplanningprediction projects In this role you will build up various tools that will optimize efficiency when working with large data sets This includes developing Data Stores implementing Data Visualization utilities and deriving quantifiable metrics to support the Machine Learning pipeline Your actions will directly contribute to the development of safer more efficient machines for Caterpillars customers Basic qualifications includes building and supporting the tools scripts and processes for managing data and training pipelines for machine learningbrbrstronguDescriptionbrbrustrongAs a Machine Learning Infrastructure Engineer you will be responsible for developing and deploying a robust fullstack pipeline that can support various perceptionplanningprediction projects In this role you will build up various tools that will optimize efficiency when working with large data sets This includes developing Data Stores implementing Data Visualization utilities and deriving quantifiable metrics to support the Machine Learning pipeline Your actions will directly contribute to the development of safer more efficient machines for Caterpillars customers Basic qualifications includes building and supporting the tools scripts and processes for managing data and training pipelines for machine learningbrbrstronguResponsibilities Will Include Creating Tools Scripts And Process ForbrbrustrongExtracting processing and organizing raw data images lidarbrbrSubmitting images to external vendors for annotationbrbrRetrieving image annotations from external vendorsbrbrNormalizing and integrating these annotations into our infrastructurebrbrProviding basic analytics such as total number of datasets frames and annotationsbrbrInteractive ML dataset creation and managementbrbrSupport for data visualization toolsbrbrML model training evaluation and deploymentbrbrstronguBasic QualificationsbrbrustrongBachelors in Computer Science Engineering Mathematics or an equivalent disciplinebrbr3 years experience in ML pipeline developmentsetupmaintenancebrbrAWS S3 and SageMakerbrbrExperience in Linux environmentsbrbrScala and scripting languagesbrbrPython and creatingmanaging Jupyter notebooksbrbrDockercontainersbrbrDatabase configuration scriptingbrbrstrongTop Candidates will also havebrbrstrongMasters in Computer Science Engineering Mathematics or an equivalent disciplinebrbrFamiliarity with ROSbrbrExperience with Nodejs and ReactbrbrExposure to with MLdeep learning computer vision perception algorithmsbrbrExperience working with data annotation vendorsbrbrExperience integrating with CIregression testing frameworksbrbrstronguAdditional InformationbrbrustrongThe location for this position is Mossville IL or San Francisco CAbrbrRelocation assistance is not available for this position Any relocation costs would be incurred by the selected candidatebrbrThis position may require less than 10 travelbrbrstrongEmployee benefit detailsbrbrstrongOur goal at Caterpillar is for you to have a rewarding career Our teams are critical to the success of our customers who build a better worldbrbrHere you earn more than just a salary because we value your performance We offer a total rewards package that provides benefits on day one medical dental vision RX and 401K along with the potential of an annual bonusbrbrAdditional benefits include paid vacation days and paid holidays prorated based upon hire datebrbrstrongFinal detailsbrbrstrongPlease frequently check the email associated with your application including the junkspam folder as this is the primary correspondence method If you wish to know the status of your application  please use the candidate login on our career website as it will reflect any updates to your statusbrbremThis employer is not currently hiring foreign national applicants that require or will require sponsorship tied to a specific employer such as H L TN F J E O As a global company Caterpillar offers many job opportunities outside of the US which can be found through our employment website at ememwwwCaterpillarcomCareersemembrbremFor more information visit caterpillarcom To connect with us on social media visit caterpillarcomsocialmediabrbrEEOAA Employer All qualified individuals  Including minorities females veterans and individuals with disabilities  are encouraged to applybrbrNot ready to apply Submit your information to our Talent Network here",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-30T05:36:37.000Z"
+  },
+  "company": {
+    "name": "Caterpillar Inc.",
+    "link": "https://www.linkedin.com/company/caterpillar-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 83800,
+    "max_value": 158000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mossville",
+    "region": "IL",
+    "postal_code": "61552",
+    "street_address": null,
+    "latitude": 40.816647,
+    "longitude": -89.5687
+  }
+}

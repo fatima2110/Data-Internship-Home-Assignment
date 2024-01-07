@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Online Media,Internet",
+    "description": "At Tremor Video we help advertisers deliver impactful brand stories across all screens through the power of innovative video technology combined with advanced audience data and captivating creative content As one of the largest and most innovative video advertising companies our offerings span the rapidly evolving realms of Connected TV CTV crossscreen video and programmatic media Tremor Video is a Tremor International CompanybrbrstrongWhere in the Tremorverse will I be workingstrongstrong brstrongWere seeking a Data Scientist to join our Engineering team As the Data Scientist you have a passion for big data and enjoys applying a variety of data science skills such as statistical modeling machine learning to realworld problems and realizing practical products and featuresbrbrCurrently our teams are working remotely however once it is safe to do so this role will be based in thestrong New York City office strongfor some of the weekbrbrstronguWhat Youll Be Doingbrustrongul liResponsible for the optimization of technologies that are the foundation components of our platformli liWork closely with engineering and product team in the design and implementation of datadriven algorithms that enhance the performance of our systemli liWork with substantial amounts of data and support scientific experiments to improve and validate the performance of algorithmli liConduct Hypothesis Testing Qualitative Researchli liSupport teammates in developing and using machinelearning techniques visualizations and statistical analysis to gain insight into various data sets  some of which are readily available and some of which we create and curate ourselvesli liHelp guide teams in researching designing simulating andor prototyping new algorithmic product features according to business needsli liCreate and Deploy Machine Learning ML Models and algorithms to solve business needsli liWrite codes Python for the product and deploy in the production environmentli liValidate data and modelsli brbrulstronguWho You Arebrustrongul liMasterPhD in a quantitative field such as Computer Science Math Statistics or a related disciplineli li4 years experience in Machine Learning Data Science Computer Science or similar fieldsli liPrevious experience working in the areas of statistics machine learning mathematical optimization predictive modelingli liProven experience coding in Python and SQLli brulPreferred Qualificationsbrul liFamiliarity with bandit algorithms mathematical optimization sequential hypothesis testingli liUnderstanding of programming concepts and deploying data science solutionsli liExperience with big data modeling work Sparkli liCommunicate concisely and persuasively with engineers and product managersli liRelevant adtech experienceli brulHere at Tremor we like to think outside the box so if you dont tick every one of these dont worry We would rather see your application than risk missing out on your potential We also know our strength comes from our differences and varied life experiences so we are committed to the value of diversity and inclusion in all its formsbrbrstrongWhat if I have any questions before I applybrstrongAll applications need to be submitted online however to discuss any adjustments you may require ahead of submitting your application please email atrantremorinternationalcom",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T05:14:19.000Z"
+  },
+  "company": {
+    "name": "Tremor Video",
+    "link": "https://www.linkedin.com/company/tremor-video"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 120000,
+    "max_value": 169000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Internet,Leisure, Travel &amp; Tourism",
+    "description": "pstrongDescriptionstrongppnbspnbspnbspnbspnbspnbspThe Screenings Team aims to increase user safety reduce the frequency of property damage incidents and help maintain our brand ppnbspnbspnbspnbspnbspnbspWe perform background checks and other data searches to score a users riskppstrongnbspstrongppstrongRequirementsstrongppnbspnbspnbspnbspnbspnbsp3 years of data science data analytics or business intelligence experienceppnbspnbspnbspnbspnbspnbspStrong understanding of SQLppnbspnbspnbspnbspnbspnbspExperience conducting data analysis in PythonppnbspnbspnbspnbspnbspnbspExperience building clear and easy to understand dashboards and presentations ppnbspnbspnbspnbspnbspnbspAbility to communicate clearly and effectively to cross functional partners of varying technical levelsppnbspnbspnbspnbspnbspnbspAbility to define relevant metrics that can guide and influence stakeholders to appropriate and accurate insightsppnbspnbspnbspnbspnbspnbspBSBA in CS or related fieldppstrongPreferred Qualifications strongpponbspnbspPrior experience at a major tech company andor in management consultingpponbspnbspFamiliarity with SupersetpponbspnbspFamiliarity with running weblab experiments efficacy studies or product validation testspponbspnbspFamiliarity with machine learning basicspponbspnbspFamiliarity with our infrastructure including Airflow Presto SQL and Hive SQLpponbspnbspExperience creating and maintaining data pipelinespponbspnbspExperience supporting engineering product workpponbspnbspMSMA in CS or related fieldp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-05T17:35:07.000Z"
+  },
+  "company": {
+    "name": "Cypress HCM",
+    "link": "https://www.linkedin.com/company/cypress-hcm"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

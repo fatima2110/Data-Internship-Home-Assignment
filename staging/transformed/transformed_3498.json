@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "pThe ideal candidate will be responsible for developing highquality applications They will also be responsible for designing and implementing testable and scalable codenbspppbrppIf working to bring technology to different industries sounds exciting then wed like to connect with you We are looking fornbspexperienced engineers with a startup mindsetppOur Current TechpulliTechnical stacknbspPythonnbspnbspDjangonbspBackendnbspReactJSnbspFrontendnbspAWSnbspservices Lambda RDS S3nbspPostgreSQLnbspDatabasenbspCircleCInbspand other continuous integration toolsliliTechnical team 4 objective x2 in one yearliulpbrppstronggencys MissionstrongppWe think that not enough engineers get to explore early stage startups that are building amazing companies As engineers we will work with you to understand your technical skillset and will help in finding a role that fits your skills and aspirationsppnbspppstrongResponsibilitiesstrongpulliDevelop quality software and web applicationsliliAnalyze and maintain existing software applicationsliliDesign highly scalable testable codeliliDiscover and fix programming bugsliulpbrppstrongQualificationsstrongpulliBachelors degree or equivalent experience in Computer Science or related fieldliliDevelopment experience with programming languagesliulpbrp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-11T21:19:29.000Z"
+  },
+  "company": {
+    "name": "gency",
+    "link": "https://www.linkedin.com/company/gencyfyi"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles Metropolitan Area",
+    "region": null,
+    "postal_code": "90021",
+    "street_address": null,
+    "latitude": 34.073666,
+    "longitude": -118.23985
+  }
+}

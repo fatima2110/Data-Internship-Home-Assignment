@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Performance Software Engineer",
+    "industry": "Automotive,Renewables &amp; Environment,Utilities",
+    "description": "stronguThe RolebrbrustrongAs a member of the Dojo machine learning team you will be responsible for enabling Teslas neural networks to train efficiently on our upcoming inhouse customsilicon supercomputer systems Join a small team of experienced developers in optimizing and scaling the deployment of our Pytorchderived neural networks on Teslas custom massivelyparallel Dojo accelerators Work with many of the same great engineers who delivered Teslas custom FSD computer The ideal candidate has experience with writing software for large distributed systemsbrbrstronguResponsibilitiesbrustrongulliUnderstand and model the end to end training performance of the Autopilot SW teams Pytorchderived neural networks on the Dojo systemliliDevelop software that scales and improves training performance based on your analysis of bottlenecksliliCollaborate with the Dojo HW team to understand current HW architecture and propose future improvementsbrbrliulstronguRequirementsbrustrongulliBS in relevant field Computer Science Computer Engineering etcliliComfortable with C and PythonliliCapable of delivering results with minimal oversightliliGood communication skillsbrbrliulstronguNice To HavebrustrongulliExperience scaling neural network training systems or other large distributed systemsliliFamiliarity with the internals of PytorchliliPerformance analysis experienceliliExperience coding parallel programsliliAble to work from Deer Creek Palo Alto officeliliReady to start soonliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T23:31:11.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

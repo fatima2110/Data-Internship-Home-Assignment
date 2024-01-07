@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Engineer, Machine Learning, ACOE",
+    "industry": "Pharmaceuticals",
+    "description": "uemstrongJob OverviewbrstrongemuDevelop fit for purpose AIML modelsalgorithmsprocesses to address pharmahealthcare applications and innovative products upon completion of prototypes followed by the building of production grade algorithmsautomation engines for client delivables Test for viability in order to deliver final products to clients Able to bring newly researched ideas to reality quickly and on a large scale Design build test and deliver products from postprototype to client deliverybrbruemstrongEssential Functionsbrstrongemuli Guides the transformation of machine learning research domain expertise in the areas of human data into viable prototypeslili Guides the development of features of models on individual projects andor products with guidance and support from otherslili Develops understanding of the creation of new algorithms through working alongside other Machine Learning Engineers and Machine Learning Research Scientistslili Builds and trains new production grade algorithms that can learn from complex high dimensionality data in order to uncover patterns from which machine learning models and applications can be developedUses a variety of techniques in order to improve the performance of individual natural language processing andor machine learning algorithmslili Uses a variety of techniques in order to improve the performance of individual natural language processing andor machine learning algorithmslili Guides the testing and validation of models to determine viability for deployment with guidance and support from otherslili Guides the creation of fit for purpose experiments and prototype ideas to address pharma questionslili Consult for internal and external clients implement solution development and innovation for complex proposals conducts client AI project technical deliverybrbrliuemstrongQualificationsbrstrongemuli PhD or Masters Degree in Machine Learning Statistics Computer Science Physics Math or related fieldlili 46 years experience working on creating machine learning algorithmslili Programming experience using one or more of the following Java C Python R Go Kubernetes Deep learning or equivalentlili Experience working with large real world datasetsbrbrliAt IQVIA we believe in pushing the boundaries of human science and data science to make the biggest impact possible  to help our customers create a healthier world The advanced analytics technology solutions and contract research services we provide to the life sciences industry are made possible by our 70000 employees around the world who apply their insight curiosity and intellectual courage every step of the way Learn more at jobsiqviacombrbrAll qualified applicants will receive consideration for employment without regard to race color religion sex sexual orientation gender identity national origin disability status as a protected veteran or any other status protected by applicable lawbrbrIQVIA Inc provides reasonable accommodations for applicants with disabilities Applicants who require reasonable accommodation to submit an application for employment or otherwise participate in the application process should contact IQVIAs Talent Acquisition team at workdayrecruitingiqviacom to arrange for such an accommodationbrbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T01:46:28.000Z"
+  },
+  "company": {
+    "name": "IQVIA",
+    "link": "https://www.linkedin.com/company/iqvia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Durham",
+    "region": "NC",
+    "postal_code": "27717",
+    "street_address": null,
+    "latitude": 35.99695,
+    "longitude": -78.899025
+  }
+}

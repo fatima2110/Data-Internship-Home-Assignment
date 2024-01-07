@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "strongJob DescriptionbrbrstrongWe are looking for a Data Scientist for our AIML Practice who will work with clients for problem definition data exploration and solution identification and design for critical business problems of our customers The ideal candidate must have strong experience using a variety of data miningdata analysis methods using a variety of data tools building and implementing models usingcreating algorithms and creatingrunning simulations They must be comfortable working with a wide range of customers from various industriesbrbrstrongRequired Qualificationsbrstrongulli Comfortable with developing endtoend advanced analytics projects using statistical analysis andor machine learninglili Expert with programming for data analysis Python or Rlili Experience with Natural Language Processing techniqueslili Knowledge of Cloud technologies such as AWS SageMakerlili Knowledge of any relational database such as SQLMy SQLlili Ability to integrate data from disparate sources into an efficient and intuitive rational database structurebrbrliulstrongEducationbrbrstrongBachelors or Masters degree in computer science data science statistics mathematics business administration andor related field or the foreign equivalent or relevant work experiencebrulli Minimum 2 years of related work experiencebrbrliulstrongOther Qualificationsbrstrongulli Excellent analytical troubleshooting and problemsolving skills with proven ability to quickly understand a problem determine the significance of the issue and identify a solutionlili Focus on delivering results and work ethic based on a strong desire to exceed expectationslili Demonstrated understanding of product database structure and design principleslili Strong interpersonal skills including written and oral communication skillslili Ability to work within a team environment networking and collaborating crossfunctionallylili Ability to remain flexible in a fastpaced and rapidly changing environmentlili Commitment to continuous improvement and demonstrated the ability to innovatebrliulPowered by JazzHRbrbrt1FRDTkZHx",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-16T07:15:03.000Z"
+  },
+  "company": {
+    "name": "IVY TECH SOLUTIONS INC",
+    "link": "https://www.linkedin.com/company/ivy-tech-solutions-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Virginia",
+    "region": "United States",
+    "postal_code": "23038",
+    "street_address": null,
+    "latitude": 37.512905,
+    "longitude": -78.697624
+  }
+}

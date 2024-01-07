@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - AI Services (JoinOCI)",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "stronguJob DescriptionbrbrustrongAt Oracle Cloud Infrastructure OCI we build the future of the cloud for Enterprises as a diverse team of fellow creators and inventors We act with the speed and attitude of a startup with the scale and customerfocus of the leading enterprise software company in the worldbrbrValues are OCIs foundation and how we deliver excellence We strive for equity inclusion and respect for all We are committed to the greater good in our products and our actions We are constantly learning and taking opportunities to grow our careers and ourselves We challenge each other to stretch beyond our past to build our futurebrbrYou are the builder here You will be part of a team of really smart motivated and diverse people and given the autonomy and support to do your best work It is a dynamic and flexible workplace where youll belong and be encouragedbrbrThis role is available on the strongOCI AICognitive Services strongWe are addressing exciting challenges at the intersection of artificial intelligence and cuttingedge cloud infrastructure We are building cloud services in natural language processing NLP decision support Anomaly detection Forecasting Recommendation Fraud detection etc and computer vision that work out of the box for enterprises Our product vision includes ability for enterprises to be able to customize the services for their business and train them to specialize on their data by creating micro models that enhance the global AI modelsbrbrstronguWhat Youll Dobrustrongulli Build cloud service on top of the modern Infrastructure as Service IaaS building blocks at OCI lili Design and build distributed scalable fault tolerant software systems lili Participate in the entire software lifecycle  development testing CI and production operations lili Balance between product feature development and production operational concerns like writing run books ops automation structured logging instrumentation for metrics and events lili Leverage plethora of internal tooling at OCI to develop build deploy and troubleshoot software lili Participate in oncall for the service with the team lili Resolve issues when they arise brliulstronguQualificationsustrong ulli You have prior experience working on distributed systems at a cloud service provider lili You are proficient in one or more of Java C CC andor Python lili You are experienced at building highly available services possessing knowledge of common serviceoriented design patterns and servicetoservice communication protocols lili You are familiar with components of modern infrastructure like service discovery secret storage softwaredefined networking etc lili You have experience with production operations and good practices for putting quality code in production and troubleshoot issues when they arise lili Preferably production experience with Cloud and ML technologies lili Experience working in the below areas and algorithms will be ideal but not mandatoryliulli Decision Support vertical Anomaly Detection fraud detection time series forecasting Recommendation systems Personalizer lili Algorithms Kmeans Fourier transformation Statistical hypothesis SVM Kernel Regression LSTM State Estimation Technique liulli Take initiative and be responsible for delivering complex software by working effectively with the team and other stakeholders lili You feel at home communicating technical ideas verbally and in writing technical proposals design specs architecture diagrams and presentations lili Data science and machine learning knowledge would be helpful but not required lili Production experience with Cloud and ML technologies lili Take initiative and be responsible for delivering complex software by working effectively with the team and other stakeholders lili You feel at home communicating technical ideas verbally and in writing technical proposals design specs architecture diagrams and presentations lili Data Science and Machine Learning experience brliulOracle is an Equal Employment Opportunity Employer All qualified applicants will receive consideration for employment without regard to race color religion sex national origin sexual orientation gender identity disability and protected veterans status or any other characteristic protected by lawbrbrDesign develop troubleshoot and debug software programs for databases applications tools networks etcbrbrAs a member of the software engineering division you will assist in defining and developing software for tasks associated with the developing debugging or designing of software applications or operating systems Provide technical leadership to other software developers Specify design and implement modest changes to existing software architecture to meet changing needsbrbrDuties and tasks are varied and complex needing independent judgment Fully competent in own area of expertise May have project lead role and or supervise lower level personnel BS or MS degree or equivalent experience relevant to functional area 4 years of software engineering or related experiencebrbrIf you are a Colorado resident Please Contact us or Email us at oraclesalaryinquiriesusoraclecom to receive compensation and benefits information for this role Please include this Job ID 120505 in the subject line of the emailbrbrstronguAbout UsbrbrustrongInnovation starts with inclusion at Oracle We are committed to creating a workplace where all kinds of people can be themselves and do their best work Its when everyones voice is heard and valued that we are inspired to go beyond whats been done before Thats why we need people with diverse backgrounds beliefs and abilities to help us create the future and are proud to be an affirmativeaction equal opportunity employerbrbrOracle is an Equal Employment Opportunity Employer All qualified applicants will receive consideration for employment without regard to race color religion sex national origin sexual orientation gender identity disability and protected veterans status age or any other characteristic protected by law Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T03:12:30.000Z"
+  },
+  "company": {
+    "name": "Oracle",
+    "link": "https://www.linkedin.com/company/oracle"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

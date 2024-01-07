@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "pParker  Lynch is assisting our client to hire a new Sr Software Engineer to their permanent growing team The ideal candidate is a selfmotivated multitasker and demonstrated teamplayer You will be a Senior developer responsible for the development of new software products and enhancements to existing products as well as mentorship of more junior developers on the team You should excel in working with largescale applications and frameworks and have outstanding communication and leadership skillsnbspppnbspppstrong ResponsibilitiesstrongnbspnbsppulliDevelopment of applications in a web services environmentnbspliliWriting clean highquality highperformance maintainable codeliliIntegrationnbspwith 3rdnbspparty APIsnbspliliSystem architecture and designliliUser interface designnbspnbspliliWeb Service design and modelingnbspnbspliliGolive planning and implementationnbspliliSoftware maintenancenbspliliTrouble shooting and resolving problemsnbspliliEnhancing application and system securitynbspliulpstrong strongnbspppstrongQualificationsstrongnbspnbsppulli7 years of software development experiencenbspliliC NET Core or PERLnbspnbspliliStrong software development skillsnbspliliStrong OOP skills ampnbspfluency in an OOP languagenbspliliUnixLinux command line environment skillsnbspliliExperience with version controlnbspnbspliliAgile methodologies preferrednbspliulpbrppThis is an immediate opportunity and will move fast Please apply to this posting or contact Julie Fanshier at 9139053273 for additional information This is a direct hire position will be BASED IN KANSAS CITY and is NOT OFFERING SPONSORSHIPp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:16:54.000Z"
+  },
+  "company": {
+    "name": "Parker and Lynch",
+    "link": "https://www.linkedin.com/company/parker-and-lynch"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": "Sr."
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Kansas City Metropolitan Area",
+    "region": null,
+    "postal_code": "64101",
+    "street_address": null,
+    "latitude": 39.051476,
+    "longitude": -94.48047
+  }
+}

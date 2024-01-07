@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Staffing and Recruiting,Financial Services",
+    "description": "strongSoftware Engineer brbrstrongstrongu New York brbrustrongstronguAbout UsbrbrustrongCalypso Technology Inc  is a cloudenabled provider of crossasset fronttoback solutions for financial markets with over 35000 users in 60 countries With a rich legacy of innovation and 20 years of experience its awardwinning software improves reliability adaptability and scalability across several verticals including capital markets investment management central banking clearing treasury and collateral managementbrbrCalypsos success is founded on our values of accountability transparency and peoplebrbrstronguDivision OverviewbrbrustrongAt Calypso RampD comprises of Development Product Management Quality Assurance Architecture and Infrastructure teams These teams work towards delivering a powerful yet flexible technology platform keeping the needs of end customer in mind The development teams ensure that all codes are delivered to clients with the highest quality Product managers are technical and capital market experts who work together to design and build the software and product roadmap whereas QA team constantly aims at enhancing the quality of Calypsos platform delivery through test methodologies for implementations upgrades and migrationsbrbrstronguTeam OverviewbrbrustrongThe RampDEngineering team has multiple subdivisions responsible for application development and enhancement as per clients request and ensure systems are up to date The Calypso system is a largescale software product for the capital markets supporting trading risk management and processing of various financial products such as Interest Rate Equity and Credit DerivativesbrbrstronguRole OverviewbrbrustrongWe are seeking a highly motivated Software Engineer for our New Yorkbased Front Office UI team As a member of the Front Office UI team you will be responsible for development and maintenance of innovative Calypso Front Office solutionsbrbrstronguResponsibilitiesbrustrongul li Ensure high performance availability scalability and robustness of Front Office solutions using best industry practices li li Contribute to the design development and testing of Front Office solutions li li Troubleshoot resolve and test timecritical hotfixes for multithreaded concurrency issues in an ntiered architecture li li Help promote clean design development and coding practices li li Analyze defects and coordinate development of fixes li brbrulstronguRequirementsbrustrongul li Minimum 3 years of experience in commercial software development using Java Swing JDBC RMI with BS or higher education in Computer Science equivalent li li UI development experience using Java Swing Javascript or Angular li li Experience with multithreaded environments and distributed systems li li Strong Object Oriented Analysis design amp development skills li li Knowledge of relational databases such as Sybase andor Oracle and experience with SQL query language li li Experience using integrated development environments Eclipse and source Control Management systems Git Svn li li Experience practicing Agile development model and Test Driven Development li li Strong communication skills li brulstrong Our office brbrstrongCalypso New York office is located in beautiful Park Avenue and just a block away from worldfamous landmark and transportation hub Grand Central Station It is easily accessible via subway bus or walk from Penn Station It is a modern office with lovely view of the Empire State Building Grand Central Park Avenue and a short walk to United Nations and the East River New York office has a friendly and diverse environment with people from all over the worldbrbrstrong Why Apply brbrstrongAt Calypso we are always looking for passionate individuals who will use their professional skills and experience to work side by side with clients in addressing their complex business and regulatory challenges and help develop and deliver products that drive value If this sounds like you were looking forward to your applicationbrbrCalypso Technology is an equal opportunity employer EOE and strongly supports diversity in the workforce",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T01:09:27.000Z"
+  },
+  "company": {
+    "name": "Calypso Technology",
+    "link": "https://www.linkedin.com/company/calypso-technology"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 75400,
+    "max_value": 158000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

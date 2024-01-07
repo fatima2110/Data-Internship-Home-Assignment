@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "strongJob DescriptionbrbrstrongstrongMachine Learning Engineer in Atlanta GA 30092brbrstrongstrongInterview LogisticsbrbrstrongVideobrbrstrongRequired Skills SetbrbrstrongstrongYears of Experience strong5 yearsbrbrbrstrongEducation Required strongBachelors Degree or equivalent work experiencebrulliMachine LearningliliThe position will require the candidate has experience with Machine Learning strategy data preparation visualization splitting modeling and model deploymentsliliSQLliliWriting efficient queries sourced from restful internalexternal APIs MS SQL Servers Oracle and Teradata sourcesliliPythonliliData analysisliliMSSQL ServerliliETL Skills SSISliliCbrliulstrongNice To Have SkillsbrbrstrongstrongAdditional Preferred SkillsbrstrongulliMinioliliTableauliliMultiPlatform Machine Learning Microsoft Azure Google AI opensource Client platformsliliC Machine Learning Libraries experience Clientnet and extensionsliliC MVCliliJavaliliMicrosoft PowershellliliEssBase AutomationbrliulstrongProject DescriptionbrbrstrongWe are looking for a Machine Learning Client Engineer to help us create business intelligence products that support financial and technical objectives Machine Learning Engineer responsibilities include staging and cleaning data developing machine learning models maintaining Client systems and occasionally presenting findings to executives To do this job successfully you need exceptional skills in statistics and programming This team member will be working with subject matter experts in Accounting Marketing Engineering and FinancebrbrstrongPhysical Environment And Working ConditionsbrbrstrongRemote until covid restrictions are liftedbrbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T08:14:34.000Z"
+  },
+  "company": {
+    "name": "Turnberry Solutions",
+    "link": "https://www.linkedin.com/company/turnberry-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

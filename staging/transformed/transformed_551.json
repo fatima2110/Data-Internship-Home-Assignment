@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer / Web Developer (Python) REMOTE",
+    "industry": "",
+    "description": "pFull Stack Engineer  Web DeveloperppbrppWe are looking for a great coder who has experience with Python Django Postgres Git HTML5 AWS responsive objectoriented web design and good communication skillsnbspiOSChromeOS development is a plusnbspppbrppThe hiring company SPROCKIT is well established and profitable Small team building a brand new productnbspAll REMOTE positionsnbspppbrppThis is a permanent position for an Internet Software Engineer  Web Developer  Full Stack Engineer  Software DevelopernbspppbrppYou will design and build scalable internet webbased software systems in a highavailability highperformance Python  Django environment on AWSnbspppbrppLead the technical level design development testing and debugging of software components and productsnbspppbrppTake ownership of product problems and issues including proactively communicating to coordinate activitiesnbspppbrppDevelop features in an Agile environment and quickly apply new software enhancements and improvement upgrades effectivelyppbrppDesired Skills and ExperienceppEducation BS in Computer Science EngineeringnbspppbrppExperiencepp Minimum 3 years handson Internetweb software development experiencepp Experience in development on Unix Linux or Solaris platformspp Strong objectoriented design amp development skillsnbspppbrppSkills and Abilitiesnbsppp Expertlevel Python development skills Django familiaritypp Experience with exception handling namespaces and internationalizationpp Familiarity with database applications and SQL is highly desirablepp Strong analytical communication and problem solving skillspp Teamoriented individual energetic results oriented and interested in qualitypp Strong knowledge of data structures algorithms and fundamental conceptspp Fluent in objectoriented programming languages such as Pythonpp Familiarity with AWS is desirable but not requiredp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T21:00:17.000Z"
+  },
+  "company": {
+    "name": "SPROCKIT",
+    "link": "https://www.linkedin.com/company/sprockit-world-series-of-start-ups"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

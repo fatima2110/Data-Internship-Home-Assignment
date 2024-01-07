@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "pThe ideal candidate will be responsible for developing highquality applications They will also be responsible for designing and implementing testable and scalable codenbspppnbspppstrongResponsibilitiesstrongpulliDevelop quality mobile software and web applicationsliliAnalyze and maintain existing software applicationsliliDesign highly scalable testable codeliliDiscover and fix programming bugsliulpbrppstrongQualificationsstrongpulliBachelors degree or equivalent experience in Computer Science or related fieldliliDevelopment experience with programming languagesliliSQL database or relational database skillsliul",
+    "employment_type": "INTERN",
+    "date_posted": "2021-08-05T19:09:51.000Z"
+  },
+  "company": {
+    "name": "Pocketbook",
+    "link": "https://www.linkedin.com/company/pocketbookpay"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

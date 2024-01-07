@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Full Stack Software Engineer ",
+    "industry": "Information Technology and Services",
+    "description": "pOptomi in partnership with a major sports association who is looking for a junior level Full Stack Developer This association is looking for someone eager and willing to have all hands on deck The ideal candidate will work well in a collaborative environment and obtain great communications skills Join a team of proud passionate and caring people that together share their diverse talents and backgrounds to serve the members of the associationnbspppnbspppstrongMust Have Skills RequirementsnbspstrongpulliBachelors Degree BS in Computer Programming Computer Science or related fieldnbsplili2 years experienceliliFull stack development experienceliliHas worked with Ruby on RailsnbspliliTest driven developmentliliWeb frameworksliulpbrppstrongWhat The Candidate Will EnjoystrongpulliWorking for a major sports association to design develop test deploy maintain and improve softwareliliManaging individual project priorities deadlines and deliverablesliliHelping build a worldclass team and cultivate innovationliliLeading designs of major software components systems and featuresliliMentoring and training other team members on new technologies design techniques and coding standardsliulpp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T13:34:42.000Z"
+  },
+  "company": {
+    "name": "Optomi",
+    "link": "https://www.linkedin.com/company/optomi"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas-Fort Worth Metroplex",
+    "region": null,
+    "postal_code": "75049",
+    "street_address": null,
+    "latitude": 32.7513,
+    "longitude": -97.08263
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Developer I - Software Engineering",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "stronguRole ProficiencybrbrustrongstrongJob DescriptionbrbrstrongActs under continuous guidance and support develop test and document applicationsbrbrstronguOutcomesbrustrongulli Interpret the applications features and component design developing the same in accordance with user stories specifications per directions providedlili Code debug test document and communicate productcomponentfeature development stages lili Identify and report opportunities to improve efficiency and quality eg repeatable processes that can be automatedlili Adhere to project timelines and communicate effectively over emails and conversationslili Conduct unit testing to validate unit level functionalitieslili Practice FAST goals seek and accept feedbacklili Learn technology business domain system domain individually and as recommended by the projectaccountbrliulstronguMeasures Of Outcomesbrustrongulli Adherence to engineering process and standards coding standardslili Adherence to schedule  timelineslili Adherence to SLAs where applicablelili Number of defects post deliverylili Number of noncompliance issueslili Reduction of reoccurrence of known defectslili Quickly turnaround production bugslili Meet the Defined productivity standards for projectlili Completion of all mandatory training requirementsbrliulstronguCodebrbrustrongOutputs ExpectedbrulliLearn coding standards and practice them in development Develop code with guidance for the abovebrliulstronguConfigurebrustrongulliFollow configuration processbrliulstronguTestbrustrongulliCreate and conduct unit testingliliDocument test resultsbrliulstronguDomain RelevancebrustrongulliDevelop features and components with good understanding of the business problem being addressed for the clientbrliulstronguManage DefectsbrustrongulliRaise fix retest defectsbrliulstronguDocumentbrustrongulliCreate documentation for ones own workbrliulstronguStatus ReportingbrustrongulliReport status of tasks assignedliliComply with project related reporting standardsprocessbrliulstronguManage KnowledgebrustrongulliConsume project related documents share point libraries and client universities brliulstronguReleasebrustrongulliAdhere to release management processbrliulstronguRequirementbrustrongulliUnderstand the requirementsuser storiesbrliulstronguDesignbrustrongulliUnderstand the designLLD and link it to requirementsuser storiesbrliulstronguSkill Examplesbrustrongulli Explain and communicate the design  development to the mentorsleads lili Perform and evaluate test results against product specificationslili Develop user interfaces business software components and embedded software componentslili Manage and guarantee high levels of cohesion and qualitylili Use data modelslili Perform and evaluate tests in the customer or target environmentlili Team playerlili Good written and verbal communication abilitieslili Proactively ask for and offer help brliulstronguKnowledge ExamplesbrbrustrongAdditional CommentsbrbrNone",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T05:24:07.000Z"
+  },
+  "company": {
+    "name": "UST",
+    "link": "https://www.linkedin.com/company/ustglobal"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Analytics Engineer - Remote",
+    "industry": "Hospital &amp; Health Care,Insurance,Pharmaceuticals",
+    "description": "Our work matters We help people get the medicine they need to feel better and live well We do not lose sight of that It fuels our passion and drives every decision we makebrbrstrongstronguJob Posting TitlebrbrustrongstrongSenior Analytics Engineer  RemotebrbrstronguJob DescriptionbrbrustrongThe Senior Analytics Engineer is an integral member of the data analytics organization and is responsible for managing optimizing overseeing and monitoring the retrieval storage and distribution of large data sets to enable data driven business processes and deliver actionable business insights through dashboards reports and other selfservice visualizations toolsbrbrstronguResponsibilitiesbrustrongulliAid in stakeholder holder analysis across all levels of the organization to understand current and future state needs for large and complex datasets and databases that drive business processes and the delivery of Primes products and services collaborates with analytics leadership to develop a strategic roadmap for analytic resources and reporting platforms in alignment with business requirementsliliDevelops constructs tests and maintains data architecture extract load transform ELT processes logical and physical data models data marts meta data repositories and data warehouse designs in alignment with business requirementsliliOptimizes data retrieval develops data set processes algorithms and identifies ways to improve data reliability efficiency and qualityliliContributes to and maintains business glossary and other resources that foster crossfunctional collaboration on analytical data resourcesliliCollaborates with business stakeholders to identify needs and opportunities for improved delivery business processes and tasks that can be automated and to understand the underlying data resources and their relationship to deliver actionable data driven insights and decision supportliliProvides technical guidance to the analytics function and projects ensuring that new initiatives enable effective analytic information management builds and tests proof of concepts to test and demonstrate business valueliliCrosstrain support and work closely with team members in the following roles Data Scientist Systems Analyst Report Developer Database AdministratorliliOther duties as assignedbrliulstronguMinimum QualificationsbrustrongulliBachelors degree in computer science applied mathematics engineering or another ITrelated field or equivalent combination of education andor relevant work experience High School diploma or GED is requiredlili5 years of experience in IT to include 3 years data analytics engineering and experience in business intelligence data warehousing or analyticsliliMust be eligible to work in the United States without need for work or visa residency sponsorshipbrliulstronguAdditional QualificationsbrustrongulliDemonstrated ability to architect develop and maintain cloud technologiesliliUnderstanding of relational and dimensional modeling to facilitate data wrangling code operationalization and exploration of dataliliAbility to develop maintain review and translate data modelsliliProficient in SQL PLSQL and ELT implementations and experience with RDBMSNoSQL databasesliliBasic proficiency with version control software preferably GitbrliulstronguPreferred QualificationsbrustrongulliUnderstanding of Pharmacy Benefit Management  Healthcare eco systemliliProgramming experience with 4th generation and 3rd generation computer languages such as Python and RliliExperience with multiple relational database platforms such as TeradataliliExperience with open source software and databasesliliExperience working with end users to gather requirements and build technical solutions from concept to implementationliliExperience building and maintaining data and analytics systems  products using common BI tools and Cloud productsliliExperience programming in a mainstream programming language such as python and basic familiarly with UNIXbrliulstronguMinimum Physical Job RequirementsbrustrongulliConstantly required to sit use hands to handle or feel talk and hearliliFrequently required to reach with hands and armsliliOccasionally required to stand walk and stoop kneel and crouchliliOccasionally required to life andor more up to 10 poundsliliSpecific vision abilities required by this job include close vision distance vision color vision peripheral vision depth perception and ability to adjust focusbrliulstrongReporting StructurebrstrongulliReports to Manager or Director Data Analytics ServicesbrliulemPrime Therapeutics LLC is an Equal Opportunity Employer We encourage qualified minority female veteran disabled and other diverse candidates to apply and be considered for open positionsem",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:43:16.000Z"
+  },
+  "company": {
+    "name": "Prime Therapeutics",
+    "link": "https://www.linkedin.com/company/prime-therapeutics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Eagan",
+    "region": "MN",
+    "postal_code": "55306",
+    "street_address": null,
+    "latitude": 44.818874,
+    "longitude": -93.16721
+  }
+}

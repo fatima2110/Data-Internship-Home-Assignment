@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer In Test",
+    "industry": "Information Technology and Services",
+    "description": "pstrongJob Title\tSDET Engineerstrongppstronglocation Atlanta GAstrongppbrppstrongFull Time Permanent hirestrongppbrppstrongExperience Range  in Yrs\t810strongppbrppstrongTechnicalFunctional Skills strongpulli10 years experience working with webbased amp cloud based software productsapplications APIs Webservices and backend systemsapplicationsliliAbility to write code with knowledge of Computer Science fundamentals in objectoriented design data structures and algorithmsliliDemonstrated experience in test framework design and development  Excellent communication collaboration reporting analytical and problem solving skillsliliStrong knowledge of QA methodology and tools with demonstrated experience in an SDET roleliliExperience working closely with development and business teams to present qualitytest data read business data negotiate on the scope of test coveragetimingresources and to actively pull business requirements out of datapartners and distill them to testrisk strategyliliQE experience in J2EE technologies and databasesRelational amp Nonrelational strongly preferred  Applied experience in QAQE technologies using Git Jenkins Postman JUnit Soap UI TestNG Java Selenium Protractor Cucumber VersionOne Jira JMeter Loadrunner Jprofiler highly preferredliliExperience with Scripting languages like PythonRubyGoShell Perl Bash JavaScript or equivalentliliExperience testing web services and APIs GUIs ETL for functionalityaccessibility regression security load scalability and high availabilityliliExperienced in Agile or Scrum software development methodologiesliliExperience with white box and black box testing building testing frameworksliliExperience testing cloud based services  architecture AWS Azure etcliliParticipate in Performance testing using LoadRunnerJmeterliliStrong analytical and troubleshooting skillsliliUnderstanding of product release cycles code repositories branching labeling and packagingnbspnbspliulpbrppstrongExperience RequiredstrongpulliStrong in Javawriting codeAPIs Webservices Cucumber SOA scripting knowledge strong communication skills and being able to work with offshore and mentor team membersliliStrong knowledge needed in seleniumprotractornbspliulpbrppstrongRoles amp ResponsibilitiesstrongpulliLead quality assurance testing for agilecloud based web applications APIs Webservices tools and software features and projectsliliDefine QA processes and methodologies and enforce them within the teamliliDefine and implement automation based test strategiesliliWork on every aspect of automated testing that includes E2EUIIntegration tests responsive and break point testing accessibility validation APIfunctional tests security and contract tests performance and load testsliliDevelop inhouse automation frameworks and tool evaluations to solve automation problems  Write maintain and execute test cases both automated and manualliliReview and provide feedback on design and architectural documents for new features in the roadmapliliAdhere to core testing principles set by team and group leadership  Identify opportunities for improved software development lifecycle with focus on automation and CICDliliCan identify improvement opportunities and drive continuous improvement efforts from inception to implementationliliGuide and mentor junior members of the teamliliProduce accurate estimates and participate in daily task tracking activitiesliliSupport continuous integration process improvement and innovationliliTroubleshoot critical defects in software coding throughout the software development lifecycle  Work closely with the developers and engineers to achieve a high level of code coverageliliWork closely with offshore teams to ensure handoffs are seamlessliliSocialize and collaborate testing efforts with peersliliGeneric Managerial SkillsliulpbrppbrpulliKey words to search in resume J2EE Automation QE API Junit CICD Protcator Seleniumliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:24:26.000Z"
+  },
+  "company": {
+    "name": "VARITE INC",
+    "link": "https://www.linkedin.com/company/varite"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Embedded Software Engineer",
+    "industry": "Consumer Electronics",
+    "description": "pstrongPrincipal Duties and ResponsibilitiesnbspnbspstrongppAs an embedded software engineer you will write software enabling our nextgeneration of cloudconnected IoT wireless audio ecosystem of productsnbspYou will work closely with other functional teams to support our currently deployed products help bring new products to market and work on our next generation platforms The ideal candidate has strong C experience in an embedded Linux environment and thrives working in a fastpaced extremely collaborative agile teamppbrppstrongResponsibilities includestrongppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspContribute to an enthusiastic and talented team of Software Engineers to bring new products and compelling experiences to the marketppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspTake a leadership role in supporting improving and enhancing a very large and complex software ecosystemppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspWork closely with other engineering disciplines to resolve difficult technical issues with deployed software and with software in developmentppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspBuild platforms by architecting reusable building blocks enabling faster and more efficient product creationppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspTake part in full stack software development which includes embedded mobile apps cloud and everything in betweenppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspWork with QA on developing testing processes frameworks and automation strategiesppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspFocus on innovating new and better ways to create solutions that add value and amaze the end user with a penchant for simple elegant design in every aspect from data structures to code to systems architectureppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspStay up to date on relevant technologies plug into user groups understand trends and opportunities to ensure we are using the best techniques and toolsppbrppstrongQualificationsstrongppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspBS in Computer Science or equivalent advanced degree a plusppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspExcellent object oriented design OOD and object oriented programming OOP using Cppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbsp7 years experience using C with at least one embedded operating system LinuxpreferredppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspExperience with Bluetooth WiFi or other similar wireless protocolsppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspExcellent interpersonal communication collaboration and presentation skillsppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspStrong sense of ownership passionate fast learner detailoriented analytical mindset perfection seekerppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspStrong experience with one scripting language like Python Perl or ShellppbrppstrongHighly DesirablestrongppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspEmbedded firmware programming in CppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspWritingmodifying device drivers and boot loaders on embedded systemsppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspExperience working with common peripherals such as USB I2C I2S or SPIp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:19:33.000Z"
+  },
+  "company": {
+    "name": "Bose Corporation",
+    "link": "https://www.linkedin.com/company/bose-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81000,
+    "max_value": 151000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Framingham",
+    "region": "MA",
+    "postal_code": "01703",
+    "street_address": null,
+    "latitude": 42.28156,
+    "longitude": -71.41882
+  }
+}

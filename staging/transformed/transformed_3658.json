@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Management Consulting",
+    "description": "stronguDescriptionbrbrustrongTiger Analytics is looking for experienced Data Scientists to join our fastgrowing advanced analytics consulting firm Our employees bring deep expertise in Data Science Machine Learning and AI We are the trusted analytics partner for multiple Fortune 500 companies enabling them to generate business value from data Our business value and leadership has been recognized by various market research firms including Forrester and Gartner We are looking for topnotch talent as we continue to build the best global analytics consulting team in the worldbrbrAs a Data Scientist you will apply strong expertise in AI through the use of machine learning data mining and information retrieval to design prototype and build nextgeneration advanced analytics engines and services You will collaborate with crossfunctional teams and business partners to define the technical problem statement and hypotheses to test You will develop efficient and accurate analytical models which mimic business decisions and incorporate those models into analytical data products and tools You will have the opportunity to drive current and future strategy by leveraging your analytical skills as you ensure business value and communicate the resultsbrbrstronguKey ResponsibilitiesbrustrongulliCollaborate with business partners to develop innovative solutions to meet objectives utilizing cutting edge techniques and toolsliliEffectively communicate the analytics approach and how it will meet and address objectives to business partners liliAdvocate and educate on the value of datadriven decision making focus on the how and why of solutioningliliLead analytic approaches integrate solutions collaboratively into applications and tools with data engineers business leads analysts and developersliliCreate repeatable interpretable dynamic and scalable models that are seamlessly incorporated into analytic data productsliliEngineer features by using your business acumen to find new ways to combine disparate internal and external data sourcesliliShare your passion for Data Science with the broader enterprise community identify and develop longterm processes frameworks tools methods and standardsliliCollaborate coach and learn with a growing team of experienced Data Scientists liliStay connected with external sources of ideas through conferences and community engagementsbrliulstronguRequirementsbrustrongulliBachelors Degree in Data Science Computer Science or related fieldlili4 years of Data Science and Machine Learning experience requiredliliProficiency in Python or R Ability to write complex SQL queriesliliProficiency with Machine Learning concepts and modeling techniques to solve problems such as clustering classification regression anomaly detection simulation and optimization problems on large scale data sets liliAbility to implement ML best practices for the entire Data Science lifecycleliliAbility to apply various analytical models to business use cases NLP Supervised UnSupervised Neural Nets etcliliExceptional communication and collaboration skills to understand business partner needs and deliver solutionsliliBias for action with the ability to deliver outstanding results through task prioritization and time managementliliExperience with data visualization tools  Tableau Power BI etc preferredbrliulstronguBenefitsbrbrustrongThis position offers an excellent opportunity for significant career development in a fastgrowing and challenging entrepreneurial environment with a high degree of individual responsibility",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T01:44:04.000Z"
+  },
+  "company": {
+    "name": "Tiger Analytics",
+    "link": "https://www.linkedin.com/company/tiger-analytics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

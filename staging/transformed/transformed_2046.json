@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Tools Engineer",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brWe are a team of Software Tools Engineers developing web based tools and applications for internal Engineering teams  Our work supports the engineers building the products that millions of people use every day to live a better life   Imagine what you could do here  At Apple new ideas have a way of becoming products services and customer experiences very quickly  Every single day people do amazing things at Apple  Do you want to impact billions of users by developing an extraordinary product with a prime focus on accuracy understandability and performance of the product You will become part of a handson development team that furthers engineering perfection creativity and innovation  Dynamic inspiring people and innovative technologies are the norm here  We want you to join our team if you are a resourceful engineer with the desire to research and develop solutions that do not yet exist  Bring passion and dedication to your job and theres no telling what you could accomplishbrbr brstrongKey Qualificationsbrstrong brStrong fundamentals with one or more of C C JavabrbrStrong handson experience in objectoriented programmingbrbrPython experience at least 12 yearsbrbrStrong communication skillsbrbrWeb development usingbrbrPythonDjango or similar MVC backend frameworksbrbrJavaScript jQuery Angular ReactbrbrCSSSASSbrbrFullsolutionfullstack design experiencebrbrRelational database designbrbrUI design and implementationbrbrGitbrbrPreferred Additional SkillsbrbrServer Administration  DevOps brbriOS developmentbrbrExtensive experience with UNIX shellbrbrExposure to scalable systemsbrbrExperience with containers Docker Kubernetesbrbr brstrongDescriptionbrstrong brWe design development and deploy SW for internal engineering teams   Projects include brbr Complex data storage relational nonrelational block file brbr Backend logic for data organization and processing brbr Custom crosssystem APIs brbr Custom authenticationauthorization mechanisms brbr iOSmacOS apps brbr HW test automation brbr Fullstack ownership from communicating with customers to design implementation and deploymentbrbr brstrongEducation amp Experiencebrstrong brBS or MS Computer ScienceEngineering or equivalentbrbr brRole Number 200241040brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:44:57.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 97600,
+    "max_value": 184000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Site Reliability Engineer (SRE)",
+    "industry": "Information Technology and Services",
+    "description": "strongRolebrbrstrongCribl Inc is seeking an incredibly talented Principal Site Reliability Engineer to join our mission to unlock the value of all machine data Cribl provides users a new level of observability intelligence and control over their realtime data You will join a team of technical engineers who are committed to shipping only highquality software and enjoying all the goat gifs the internet has to offer This role is remote and you will report into the engineering organization where you will contribute in our efforts to envision create and run Cribl Cloud offeringbrbrIn this role you will engage with engineering teams across the Cribl products and implement modern interpretations of SRE observability Chaos Engineering and DevOps Our software is deployed in some of the largest organizations in the world processing 100s of TB to PB of IT amp Security databrbrstrongResponsibilitiesbrstrongulliYou will drive technology direction within the product domain and influence setting the bar for the engineering teams for technical excellence and deliveryliliYou will work closely with other technical leader and architects to understand and capture product dependencies and alignprioritize project execution able to challenge decisions when neededliliYou will provide thought leadership for the vision strategy and architecture for the SRE and SaaS engineering teamsliliYou will work with engineers to ensure that the designed solution responds to nonfunctional requirements such as availability performance security and maintainabilityliliImprove the reliability of our systems by working with engineers to ensure that the software delivery pipeline is as efficient as possibleliliMentor our engineers to achieve more than they thought possible You enjoy making other teams successful and are fulfilled through the success of othersliliYou will write and update documentation including runbooksplaybookslililiulliYou will automate work including infrastructure needs testing failover solutions failure mitigation and much moreliliYou will debug complex problems across an entire stack and creating solid solutionsbrliululstrongMinimum Qualificationsbrstrongulli10 years experience with software engineering software development andor system operationsliliAble to lead complex initiativesprojects from inception to completionliliExperience building and operating largescale production systemsliliKnowledge of Container technologies Python Go JavaJSTS amp source control Git GitHubliliExperience working with container deployment and orchestration technologies with knowledge of fundamentals including service discovery deployments monitoring scheduling and load balancingliliUnderstanding of Systems programming network stack file system OS services and networking L2 vs L3 network architecture VLANsliliExperience identifying performance bottlenecks identifying anomalous system behavior and resolving root cause of service issuesliliYou have skills to work across teams and functions to influence design operations and deployment of available softwarebrliulstrongBonus PointsPreferred QualificationsstrongbrulliExperience with development and deployment in a hosted cloud environment preferably AWS amp GCPliliExperience with running containerized environments and understanding of multitenancy and security implicationsliliExperience with optimized and scalable software that operates on a large number of nodesliliExperience with monitoring and observability tools and applications such as Data Dog or Elastic SearchliliExperience automating infrastructure testing and deployments using tools like Cloud Formation Chef or Terraform and can explain the Infrastructure as Code paradigmliul brbrstrongWhat we offerbrstrongulliCompetitive SalaryliliStock OptionsliliMedical dental and vision insuranceliliFlexible spending account FSAlili401k plan offeredliliParental LeaveliliProfessional Development and Career GrowthliliGenerous Vacation and Holiday Policy including 2 Floating Holidays to use for holidays you observeliliSocial Responsibility Employee Group that reflects our valuedriven company culturebrliulDiversity drives innovation enables better decisions to support our customers and inspires change for the better Were building a culture where differences are valued and welcomed We work together to bring out the best in each other All qualified applicants will receive consideration for employment without regard to race color religion sex sexual orientation gender identity national origin or any other applicable legally protected characteristics in the location in which the candidate is applying",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T05:22:02.000Z"
+  },
+  "company": {
+    "name": "Cribl",
+    "link": "https://www.linkedin.com/company/cribl"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": "Principal"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

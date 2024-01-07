@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Researcher / Simulation Software Engineer ",
+    "industry": "Information Technology and Services,Information Services,Capital Markets",
+    "description": "pThe high frequency trading team is seeking a Research Engineer to join them in Austin The role will involve implementing features models and strategies in C and managing the inhouse compute and data cluster job scheduler and Python based pipeline to provide robust efficient 247 backtestsimulationresearch environmentppbrppstrongRequirementsstrong pulliStrong engineering instincts and a deep understanding of computer science fundamentalsliliExperience in statistical modelling mathematics liliAn ability to generate research ideas and implement and execute solutions to represent themliliInnovative bigpicture thinking grounded in realworld pragmatismliliA desire to continuously improve in a rapidly evolving environmentliliA readiness to set technical direction promote engineering principles and do the right thingliliStrong experience with C Python amp Linux liliExperience with GPUs FPGAs is interesting but not essentialliliCandidates from national labs high frequency trading firms and top tier tech firms are of particular interest liliSuitable for candidates with between 410 years of industry experiancelilistrongNo financial experience is required However an interest in financial markets and machine learning in the context of automated high frequency trading is a prerequeststrongliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-23T10:39:51.000Z"
+  },
+  "company": {
+    "name": "NJF Global Holdings Ltd",
+    "link": "https://uk.linkedin.com/company/njfglobal"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

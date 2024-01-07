@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "stronguAbout DatadogbrbrustrongWere on a mission to build the best platform in the world for engineers to understand and scale their systems applications and teams We operate at high scaletrillions of data points per dayproviding alwayson alerting metrics visualization logs and application tracing for tens of thousands of companies Our engineering culture values pragmatism honesty and simplicity to solve hard problems the right waybrbrstronguThe OpportunitybrbrustrongYou will have a fantastic team of data engineers to support you a collaborative environment to encourage your work and the best technologies for performing data science at high scale in your toolkitbrbrstronguYou Willbrustrongul liPresent the latest academic research papers to your teamli liResearch and benchmark the latest algorithms that can be used for our particular usecasesli liApply machine learning algorithms and statistical techniques to build new product featuresli liDeploy a new feature to production instantly affecting customers with your workli liMentor other data scientists on your teamli liExplore and find meaning in extremely high volumes of datali liInvestigate and fix a production issue from a service your team ownsli brbrulstronguRequirementsbrustrongul liYou have 2  years professional experienceli liYou are fluent with SQL  relational algebrali liYou have mastered working with data in a language such as Python R or Juliali liYouve done data science at high scale with tools like Hadoop and Sparkli liYou have backend programming experience in one or more languagesli liYou have significant experience applying machine learning to real business problemsli liYou want to work in a fast highgrowth startup environment and thrive on autonomyli liYou care about code simplicity and performanceli liYou have a BSMSPhD in a scientific field or equivalent experienceli liYou can explain complex ideas and algorithms in understandable waysli brbrulstronguBonus Pointsbrustrongul liYouve written production data pipelinesli liYoure familiar with time series analysisli brbrulstronguEqual Opportunity At DatadogbrbrustrongDatadog is an Affirmative Action and Equal Opportunity Employer and is proud to offer equal employment opportunity to everyone regardless of race color ancestry religion sex national origin sexual orientation age citizenship marital status disability gender identity veteran status and more We also consider qualified applicants regardless of criminal histories consistent with legal requirementsbrbrstronguYour PrivacybrbrustrongAny information you submit to Datadog as part of your application will be processed in accordance with Datadogs Applicant and Candidate Privacy Notice",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T15:11:01.000Z"
+  },
+  "company": {
+    "name": "Datadog",
+    "link": "https://www.linkedin.com/company/datadog"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 91300,
+    "max_value": 192000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10001",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

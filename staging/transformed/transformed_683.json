@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Public Safety,Judiciary,Law Enforcement",
+    "description": "pstrongPlease Note United States Citizens Green Card Holders and those authorized to work in the United States are encouraged to apply We are unable to sponsor H1b candidates at this timestrongppbrppOur growth and clientcentric vision has created a career opportunity for a selfmotivated individual looking to establish a career with a fastpaced rapidly growing company The purpose of the Data Scientist is to help us discover the information hidden in vast amounts of data both structured and unstructurednbspThe position will help us to build and deliver products and services that utilize machine learning and analytics for public safety and criminal justice clients The role requires a clientfocused professional committed to success by embracing and living our core values of emPersistence Integrity Trust Accountability and PrudenceemppstrongnbspstrongppstrongExpectationsstrongpulliApply and enable data mining techniques and statistical analysis to build high quality prediction and pattern matching systems integrated with our solutionsliliLead andor aid in the implementation of data analytic solutions sold to end user clients liliInterpret customer requirements and information speak with customers to understand their end user needs and relay this information to process flows and diagrams liliPerform technical presentations that demonstrate how data analysis information and process flow can benefit and meet customer needsliliProvide technical specifications and statements of work for a quote or proposal and aid in preparing accompanying materialsliliPrepare technical reports by collecting analyzing and summarizing information and data trends liliAdept at using large data sets to find opportunities for product and process optimization and using models to test the effectiveness of different courses of action liliAssess the effectiveness and accuracy of new data sources and data gathering techniques Process cleanse and verify integrity of data used for analysisliliProvide presale technical assistance and product education to the Growth Team and prospective clientsliliMaintain customer confidence and protect operations by keeping information confidentialliliServe as liaison with other teams and divisions within the company to gather and share technical expertise for supporting growthliliAttend weekly service delivery meetings and ensure business development opportunities are compliant with company capabilitiesliliContribute to team effort by accomplishing related results as neededliliWork with the Division management team for pricing an opportunityliulpnbspppstrongBasic Requirements Knowledge and SkillsstrongpulliBachelors Degree in Statistics Mathematics Computer Science or another quantitative fieldnbspMasters Degree preferred lili57 years of experience manipulating large data sets from multiple sources and building statistical modelsliliDemonstrated experience using a variety of data miningdata analysis methods building and implementing models usingcreating algorithms and creatingrunning simulations liliProven background working with and creating machine learning data architectures to include selecting features building and optimizing classifiersliliGood applied statistics skills such as distributions statistical testing regression etcliliMastery experience with at least one common data science toolkits such as R Weka NumPy MATLAB etc liliExperience with data visualization tools such as D3js GGplot R Python Tableau etcliliProficiency utilizing MapReduce techniques and frameworks such as Apache HadoopliliExperience with advanced statistical techniques and concepts Maintain indepth knowledge of data mining and analysis tool capabilitiesliliUnderstanding of criminal justice data and predictive analyticsliliStrong problemsolving skills nbspDetailedoriented analytical and inquisitiveliliHave a passion for discovering solutions hidden in large data setsliliEffective organizational and timemanagement skills with the ability to work as part of a team andnbspindependentlyliliExemplary Communications both oral and writtennbspWriting for presentations and technical reportsnbspExceptional listenernbspUnderstanding client goals and how they measure success Identify needs present concepts develop specifications and recommendations and deliver solutions liliEstimated travel is 30liliValid Drivers License with the ability to drive to client sites and MCP regional office locationsliulpnbspppstrongAbout Usstrongpp strongMission Critical Partners LLCstrongnbspnbspnbspnbspnbspnbsppp Mission Critical Partners MCP is a leading independent consulting and information technology IT support services firm that helps clients evolve their public safety systems and operations and improve emergency response through our extensive experience knowledge and resources By providing insight and support every step of the way our clients are able to transform their missioncritical operations maximize the value of their investments and ensure optimal performance and success Additional information and career opportunities are available at wwwMissionCriticalPartnerscareersppnbspppnbspppstrongnbspstrongppstrongnbspstrongppstrongAs an Affirmative Action and Equal Opportunity Employerstrong strongMission Critical Partners shall abide by the requirements of 41 CFR 6014a 603005a and 607415a These regulations prohibit discrimination against qualified individuals based on their status as protected veterans or individuals with disabilities and prohibit discrimination against all individuals based on their race color religion age sex sexual orientation gender identity or national origin Moreover these regulations require that covered prime contractors and subcontractors take affirmative action to employ and advance in employment individuals without regard to race color religion age sex sexual orientation gender identity national origin disability or veteran statusstrongppnbspppp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T04:01:06.000Z"
+  },
+  "company": {
+    "name": "Mission Critical Partners",
+    "link": "https://www.linkedin.com/company/mission-critical-partners-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

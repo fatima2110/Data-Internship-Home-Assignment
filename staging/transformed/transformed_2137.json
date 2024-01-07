@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Software Engineer - Motion Simulation",
+    "industry": "Information Technology and Services,Computer Software,Automotive",
+    "description": "stronguWho We ArebrbrustrongAt Aurora were on a mission to deliver the benefits of selfdriving technology safely quickly and broadly It all starts with the Aurora Driver a platform created from industryleading hardware and software and designed to adapt across a variety of vehicle types and industriesbrbrWere led by a team of selfdriving luminaries and weve forged strategic partnerships with leading transportation companiesincluding ridehailing network Uber truckmanufacturers PACCAR and Volvo Trucks and the worlds largest automaker Toyotasetting us up to deliver the Aurora Driver in both trucks and passenger vehicles We are funded by Amazon Uber T Rowe Price and some of Silicon Valleys best venture capital firms including Sequoia Greylock and Index VenturesbrbrAurora is in the best position to lead the selfdriving space with a team of unparalleled depth and expertise the technology to deliver and the partnerships to build a transformative business for the longtermbrbrAurora hires talented people with diverse backgrounds who are ready to help build a transportation ecosystem that will make our roads safer get crucial goods where they need to go and make mobility more efficient and accessible for all We are searching for an experienced software engineer to join our Simulation team This individual will contribute to the development of simulation architecture to enable Auroras selfdriving stack to be trained tested prototyped and validated in a virtual environmentbrbrstrongIn this role you willbrstrongul liAutomate and scale scenario creation from complex onroad experiencesli liExtend our simulation architecture to more efficiently simulate motion planning localization and controls realworld driving scenarios at scaleli liCreate realistic simulated interactions between multiple actorsli liImplement physics models to simulate vehicle dynamicsli liDevelop validation and metrics to grade the performance of our autonomous vehicles software in simulation li brbrulstronguRequired Qualificationsbrustrongul liExcellent C programming and software design skillsli liMS or PhD in Robotics Computer Science or similar technical field of study or equivalent practical experienceli li7 years of industry experience programming C software li li7 years of experience in simulation robotics motion planning or controlsli liStrong mathematical skills including linear algebra numerical methods and stochastic methodsli liPassion for solving challenging impactful problems li brbrulstronguDesirable Qualificationsbrustrongul liExperience building simulations for industry or researchli liExperience with motion planning or behavior planningli liExperience in the autonomous driving industryli brbrulstrongWorking at AurorabrbrstrongAt Aurora we bring together people with extraordinary talent and experience united by the strength of our values We operate with integrity set outrageous goals and continue to build a culture where we win togetherall without any jerksbrbrstronguBenefitsbrbrustrongWe also offer a competitive benefits package that supports the whole you includingbrbrWe have offices in Pittsburgh Mountain View San Francisco Bozeman Dallas and Seattlebrul liCompetitive salary bonus and RSU packageli liPremium choices for Medical vision and dentalli li401k benefitsli liLife and disability benefitsli li18 weeks paid leave for new parents and caregiversli liFlexible vacation and company paid holidaysli liFertility benefits through Carrotli liWorking from home supportli liProfessional growth and mentorship opportunities through the Aurora Academyli liWellness Platforms Spring Health Headspace Aaptiv Quit Geniusli brulWe believe that selfdriving technology has broad benefits  including an increase in safety and access to transportation  and to achieve those benefits we want and need a workforce with diverse experiences insights and perspectives said another way a workforce that reflects the communities and people our technology will benefitbrbremIndividuals seeking employment at Aurora are considered without regard to race color religion national origin age sex gender gender identity gender expression sexual orientation marital status pregnancy status parent or caregiver status ancestry political affiliation veteran andor military status physical or mental disability or any other status protected by federal or state law Your responses or your choice not to respond will not be associated with your specific application nor will they be used in the selection process or in making any hiring decisionbrbremstronguAbout AurorabrbrustrongFounded in 2017 Aurora was started by industry luminaries and now were a team with a multitude of perspectives and experiences Chris Urmson helped lead Carnegie Mellons efforts in Darpas Grand Challenges then was a founding member of Googles selfdriving team Sterling Anderson worked on the tech at MIT before leading Teslas Model X and Autopilot programs Drew Bagnell also a Carnegie Mellon alum is a machine learning expert who helped build Ubers autonomy effort Regarded as the most experienced leadership team in the industry these three bring decades of expertise passion and focus to realizing our mission",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:37:50.000Z"
+  },
+  "company": {
+    "name": "Aurora",
+    "link": "https://www.linkedin.com/company/auroradriver"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Seattle Area",
+    "region": null,
+    "postal_code": "98109",
+    "street_address": null,
+    "latitude": 47.591396,
+    "longitude": -122.33279
+  }
+}

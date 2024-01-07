@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Hospital &amp; Health Care",
+    "description": "Founded in 2015 by neuroscientists and technologists Drs David Eagleman and Yael Katz BrainCheck helps reduce the human and economic toll of cognitive impairment and dementia through its interactive cognitive assessment and care management technology We have traction with over 400 primary care and neurology practices as well as several brandname health systems and payers Our dynamic team is based in Houston and Austin TexasbrbrData ScientistbrbrThis is a unique opportunity to join a dynamic team in a fastgrowing company and gain extensive experience and knowledge working in the RampD team as we grow our team and expand our capacity The ideal candidate will have a Masters or PhD with excellent statistical and data analytical skills who is willing to embrace new challenges is highly organized and motivated We are committed to providing experiencebased learning multidimensional assignments targeted training and continual coaching and developmentbrbrYour chargebrulliDesign build and interpret statistical methods to address selected research hypotheses for clinical studies liliDesign build and maintain advanced machine learningdeep learning algorithms and analytics methods to support products and business needsliliCreate insightful visualizations that can help a nontechnical audience make informed decisions based on complex datasetsliliParticipate in ad hoc projects and tasks as needed liliPrepare research reports for presentation and assist with preparation of manuscripts for publication brbrliulstronguAbout YoubrustrongulliMasters degree or higher in a quantitative field Data Science Biostatistics Computer Science Software Engineering Operations Research Applied Math Statistics or relatedliliKnowledge of a wide range of statistics and machine learning techniqueslili1 years of experience manipulating data sets and building statisticalmachine learning modelsliliFluency in statistical programming languages Python is required 3 experience and R is also preferred liliAn analytical and independent thinker with strong quantitative skills who uses data to ask and answer questionsliliAn adept communicator able to collaborate across the company and lead through influence liliCreative problem solver quick learner and comfortable experimenting with new approaches liliDetailoriented multitasker Able to effectively selfmanage across multiple priorities liliYoure gritty scrappy and hungry to change healthcare and the worldliliYou thirst for knowledge and the application of it in practical settingsliliYoure humble enough to accept feedback and ask for helpliliYoure a selfstarter and comfortable with ambiguity and a fastpaced environment liliCompetitive compensation consisting of cash and equitybrbrliulstronguBonus QualificationsbrustrongulliPrior research or clinical study experience especially in NeuropsychologyliliPrior experience in healthcare industryliliKnowledge and familiarity with clinical trials and experimental designsliliKnowledge of deep learning techniquesbrliulPowered by JazzHRbrbrnjPiCTMfDP",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-21T07:15:30.000Z"
+  },
+  "company": {
+    "name": "BrainCheck",
+    "link": "https://www.linkedin.com/company/braincheck"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Houston",
+    "region": "TX",
+    "postal_code": "77208",
+    "street_address": null,
+    "latitude": 29.760803,
+    "longitude": -95.36951
+  }
+}

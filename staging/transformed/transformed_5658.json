@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "pstrongRequired Qualificationsstrongpulli45 years of work experience year work experience in a DevOps or Site Reliability Engineer roleliliGood working knowledge in productionapplication supportliliGood with OOP concepts and Python programmingscriptingliliStrong Computer Science fundamentals in Data Structures Algorithms Complexity Analysis ObjectOriented Design and Designing Large Scale DataIntensive Applicationslili4 years industry experience in Expert Knowledge in Linux Python Shell JavaScript MongoDB Elasticsearch RedisliliComfortable multitasking managing multiple stakeholders and working as part of a teamliulpnbspppstrongPreferred QualificationsstrongpulliExperience in ELK Stack Elasticsearch Logstash Kibana or Prometheus  GrafanaliliExperience with continuous deploymentdelivery practicesliliAWS Certifications such as Solution Architect DevOps EngineerliliExperience with Container technologies like Docker KubernetesliliExperience with cloud computing systemsliliNetworking including TCP HTTP DNS SSL certificatesliliKnowledge of SlangSecDB is a plusliulpbrppbrppif your interested please share updated resume to udilipkumartmitcinfotechcomup",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T14:22:51.000Z"
+  },
+  "company": {
+    "name": "ITC Infotech",
+    "link": "https://in.linkedin.com/company/itc-infotech"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York City Metropolitan Area",
+    "region": null,
+    "postal_code": "10021",
+    "street_address": null,
+    "latitude": 40.748295,
+    "longitude": -73.98556
+  }
+}

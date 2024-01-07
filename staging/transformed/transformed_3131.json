@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer - 2 year contract",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "About the RolebrbrFinicity is recognized as a pioneer and leader in Financial Data Access FinTech Data Science and Decisioning Consumers should have full transparency and control of their Financial Data Finicity expands financial inclusion and increases financial and data literacybrbrFinicitys Intelligent Machine Services teams focus on Intelligent Decisioning Financial Certainty Attribute Feature and Entity Resolution Payment Intelligence and much more Join our team to make an impact across all sectors of the economy Check out Experian Boost UltraFICO and other Open Banking initiatives for morebrbrAs a Machine Learning Engineer you will bring expertise to advance our teams Production Data Science Models for internal and external clientfacing edgeservices This team is changing industries with advanced Data Science and AI enabled financial interactionsbrbrFinicitys solutions provide Intelligence and realtime access to Financial data Mastercard has recently acquired FinicitybrbrWhat you will dobrbrAs a Machine Learning Engineer you will empower consumers and create business value You will deploy solutions and design models for Financial Institutions FinTechs Small and Medium Sized Businesses Large Enterprises Consumers and even Government Agencies and related Ecosystems In this role you will focus on Payment Intelligence building the next generation of tools to make financial transactions simpler and safer for Consumers Banks and Businesses You may also contribute to other solutions including lending decisioning financial management and payment services The underlying services are Settlement Confidence Verification Services Entity Resolution Attribute and Temporal Analysis and morebrbrstronguKey QualificationsbrbrustrongIdeally the Machine Learning Engineers will have deep technical and domain expertise across multiple domains Examples of our domains include Positive Attribution for CreditRisk Scores Decision Science in Lending Optimization of Payment Streams and a suite of services for Financial Institutions and FinTechs that enable consumers to transact in refined and innovative waysbrulliMasters Degree or higher in Data Science Physics Econometrics Computer Science Mathematics Statistics or similar field of study required PhD is preferredlili8 years commercial machinedeep learning and modeling experience Combinations of SoftwareData Engineering may be considered with sufficient ML experienceliliA strong understanding of Natural Language Understanding Computer Vision Statistical Modeling Visualization and advanced Data Science techniquesmethodsliliSolve problems that are new to the company the financial industry and to data scienceliliFocus on the techniques that will lead to solutions ability to create models is a plusliliGain insights from text including nonlanguage tokensliliAbility to perform error analysis of a given model and explain the analysis to othersliliUse the thought process of image annotations in text analysisliliAbility to reduce dimensions and explain impact following the logic of PCA or similarliliUnderstand which aspects of a model make it work wellliliFamiliarity with cutting edge data science concepts algorithms and productsliliMid to Seniorlevel Python coding experience requiredliliExperience with Kubernetes Containers Docker REST APIs GraphQL Event Streams or other delivery mechanisms requiredliliExcellent written and oral communication skills on technical and nontechnical topicsbrliulPreferred qualifications includebrulliSenior Level Software Development Data Engineering or Data Science Programming is highly desiredliliExperience with real world applications of discrete differential deterministic and probabilistic mathematical structures with applicability to Finance FinTech scoringliliAdvanced Interpretation and Validation skills including Statistical methods Classical ML Deep Learning and Transformer Models andor Attention MechanismsliliAdvanced Data Modeling Querying Structuring Architecture and Design skillsliliExposure to risk evaluation credit risk modelingliliAdditional Finance and FinTech ExperiencebrliulAbout FinicitybrbremFinicity a Mastercard company helps individuals families and organizations make smarter financial decisions through safe and secure access to fast highquality data Our trusted and proven open banking platform empowers consumers to easily connect their financial data to the apps they choose transforming the way we experience money for everything from budgeting and payments to investing and lendingbrbrememThrough marketleading data connections Finicity partners with influential financial institutions and disruptive fintech providers alike to give consumers a leg up in a complicated financial world helping to improve financial literacy expand financial inclusion and ultimately lead to better outcomes Finicity is headquartered in Salt Lake City UtahbrbremstrongFinicity provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race color religion age sex national origin disability status genetics protectedbrbrstrongPowered by JazzHRbrbrdoJ3KQlhyG",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-10T07:11:08.000Z"
+  },
+  "company": {
+    "name": "Finicity, a Mastercard Company",
+    "link": "https://www.linkedin.com/company/finicity"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Salt Lake City",
+    "region": "UT",
+    "postal_code": "84101",
+    "street_address": null,
+    "latitude": 40.758476,
+    "longitude": -111.888145
+  }
+}

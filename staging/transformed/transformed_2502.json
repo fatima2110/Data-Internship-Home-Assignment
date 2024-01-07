@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer, Applications",
+    "industry": "Biotechnology",
+    "description": "Recursion is a clinicalstage biotechnology company decoding biology by integrating technological innovations across biology chemistry automation data science and engineering to radically improve the lives of patients and industrialize drug discovery Our team is working to solve some of the hardest most meaningful problems facing human health today Come join us in our mission to decode biology to radically improve lives while doing the most impactful work of your lifebrbrstrongThe Impact Youll MakebrbrstrongYou will use your experience developing machine learningbased products to build and maintain Recursions highthroughput biological research platformbrulli Develop and deploy MLDL products to support both active research programs and our longterm goals to decode biology and industrialize the drug discovery process lili Build the infrastructure to support our evolving research initiatives in collaboration with software engineers and other company partners lili Create reporting metrics or tools required by partners to understand interpret or otherwise make decisions from our phenomic data in collaboration with other data scientists and engineers lili Deeply understand how we use our phenomic image data in order to propose and deliver projects that improve our data generation or analysis processes and increase our ability to discover therapeutics lili Learn from the diverse skill of your peers and likewise be a mentor to others through the sharing of experiences in project collaborations and regular group learning opportunities brliulstrongThe Team Youll Join brbrstrongWith treatments for hundreds of diseases in our sights weve built a data science team with domain expertise in computer science physics biology mathematics applied statistics and more We work sidebyside with Biologists Automation Scientists Chemists Software Engineers and many others together we develop the tools and methods to turn our experimental data into treatments for pathologies to affect the lives of countless individuals Whether youre developing new ML tooling for the Data Science team new approaches for evaluating our phenomics platform data or improving on our production DL models youll become an essential member of our effort to industrialize drug discovery and decode biologybrbrstronguThe Experience Youll Needbrustrongulli Working knowledge of machine learning fundamentals data preparation modeling approaches algorithms regularization optimization etc and demonstrable experience applying a diversity of approaches to realworld problems lili Experience releasing and maintaining deep learningbased products in a continuoususe production environment lili Experience working in a collaborative CICD software development environment including use of git peer code review and independent authorship of well tested easily maintained scalable and documented code lili A strong sense of project ownership curiosity and the professional skillset to excel in an open highly collaborative environment lili Senior Demonstrable independence in leading datadriven machinelearning projects gated by clearlydefined performance metrics and milestones lili Senior 3 years industry experience brliulstronguNice To Havebrustrongulli Material you can share highlighting your excellence in the above competencies publications patents code repositories whitepapers launched products etc lili 2 years experience working with convolutional neural networks brliulstronguThe BenefitsPerks Youll Enjoybrustrongulli 100 Coverage of health vision and dental insurance premiums lili 401k with generous matching immediate vesting lili Stock option restricted stock unit RSUs and employee stock purchase plan ESPP programs lili Two oneweek paid company closures summer and winter lili Flexible vacationsick leave lili Generous paid parental leave including adoptive lili Onsite daycare facility  Salt Lake City lili Commuter benefit and vehicle parking to ease your commute lili Complimentary chefprepared lunches and wellstocked snack bars Salt Lake City lili Monthly fitnesswellness stipend lili Oneofakind 100000 square foot headquarters complete with a 70foot climbing wall showers lockers and bike parking Salt Lake City liliUnited States based employeesbrliulstronguMore About UsbrbrustrongCentral to our mission is the Recursion Operating System or Recursion OS that combines an advanced infrastructure layer to generate what we believe is one of the worlds largest and fastestgrowing proprietary biological and chemical datasets and the Recursion Map a suite of custom software algorithms and machine learning tools that we use to explore foundational biology unconstrained by human bias and navigate to new biological insights which may accelerate our programs We are a biotechnology company scaling more like a technology company Recursion is proudly headquartered in Salt Lake CitybrbrLearn more at wwwrecursioncom  or connect on Twitter and LinkedIn brbrRecursion is an Equal Opportunity Employer that values diversity and inclusion All qualified applicants will receive consideration for employment without regard to race color religion sex sexual orientation gender identity national origin age disability veteran status or any other characteristic protected under applicable federal state local or provincial human rights legislation",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T14:48:13.000Z"
+  },
+  "company": {
+    "name": "Recursion",
+    "link": "https://www.linkedin.com/company/recursion-pharmaceuticals"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Salt Lake City",
+    "region": "UT",
+    "postal_code": "84101",
+    "street_address": null,
+    "latitude": 40.758476,
+    "longitude": -111.888145
+  }
+}

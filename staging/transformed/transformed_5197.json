@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Consumer Electronics",
+    "description": "pstrongSite Reliability EngineerstrongppOur client is looking to hire a Site Reliability Engineer to join their team The SRE will configure tune and troubleshoot multitiered systems to achieve optimal application performance stability and availability In this role this person will work closely with the software engineers infrastructure and network engineers to deploy and maintain our services This position is fully remote but strongcandidates must be able to work PST hours strongAdditionally candidates for this role strongmust be eligible to work W2 we are unable to work C2C at this timestrongppbrppstrongThe Right Candidate For This Role WillstrongpulliHave a handson get the job done attitudeliliBe a selfstarter who can troubleshoot from start to finish with minimal supervisionliliHave the flexibility to deal with rapidly changing needsliliBe able to balance multiple projects and assignmentsliulpbrppstrongRequirementsstrongpulli5 years of experience as an SRE in a large fastpaced production environmentliliMust have at least 3 years of experience building and managing AWS infrastructure using TerraformliliMust be able to demonstrate deep knowledge of the following AWS Managed Services EKS ECS MSKliliMust have strong Python skills the ability to write simple and complex automation scripts from scratch as well as modify existing onesliliMust have excellent troubleshooting skillsliliMust have excellent communication skills and be able to work crossfunctionallyliulpbrppstrongPlus SkillsstrongpulliExperience with Kubernetes will help with troubleshootingliliUnderstanding of the Linux and system administration at a large scaleliulpbrppstrongDayToDaystrongppThe primary function of the role is 70 or morepulliSupporting the health of the production systemsliliDaily looking at all the monitoring dashboards to see if there are any problems that need to be taken care of and then prioritizing thoseliliAs needed monitoring the infrastructure issues Slack channel from the engineering group and communicate with that team to further understand the problem and resolve itliulpThe secondary function of the role is 30 or lesspulliWorking on sprint board tasks  Example Someone comes across a problem and they currently arent monitoring for that So the task on the sprint board is Create a new monitoring system  This person would then develop scripts used for environment monitoring and task automation using Pythonliulpp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-20T17:00:51.000Z"
+  },
+  "company": {
+    "name": "The Select Group",
+    "link": "https://www.linkedin.com/company/the-select-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

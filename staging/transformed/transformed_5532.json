@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "QA Engineer",
+    "industry": "",
+    "description": "strongSoftware QAAutomation EngineerbrbrstrongstronguDescriptionbrbrustrongWe are looking for a versatile curious and motivated QA engineer to help define the way we build and test our products in a startup like environment If you are passionate about pioneering new technologies into software testing have your voice and ownership in quality improving product performance security and more we would like to connect with youbrbrstrongThe RolebrbrstrongAs a Quality Assurance Engineer QA you will join a team of handson passionate engineers to ensure the highest quality for our products You will help build and own various test frameworks for both the frontend and backend This role is an integral part of creating products with first class user experience as well as sustaining a fastgrowing customer basebrulliReview product requirements and design creative in coming up with test plans and test cases with maximum test coverageliliWork with developers to understand the overall technical architecture and how each feature is implementedliliDevelop and own test frameworks for UI API performance and security improve test efficiency and statistics collection liliAble to put together automation with various technologies and tools to meet testing requirements liliExecute and benchmark performance metrics Monitor application to determine system behaviorliliPerform manual and automated testsliliIdentify document and validate system or software defectsbrliulstronguBasic QualificationsbrustrongulliBackground in computer science engineering or similarlili2 year of experience working as a Quality Assurance EngineerliliExcellent programming fundamentals with Java Scala andor PythonliliExperience in automation testingliliExcellent communication skillsliliPassionate about learning new technologiesbrliulstronguPreferred QualificationsbrustrongulliExperience with API UI testing with SeleniumliliExperience with backend performance tooling and framework developmentliliExperience with measuring and troubleshooting frontend performance metrics using Chrome Dev tools or similarliliExperience with database testingliliExperience with AWS or other cloud technologiesliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:37:28.000Z"
+  },
+  "company": {
+    "name": "Prendio",
+    "link": "https://www.linkedin.com/company/prendio-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Woburn",
+    "region": "MA",
+    "postal_code": "01815",
+    "street_address": null,
+    "latitude": 42.479126,
+    "longitude": -71.1518
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "AI/ML - Machine Learning Engineer - Multi-modal Systems, Siri Understanding",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brPlay a part in the next revolution in humancomputer interaction Contribute to a product that is redefining mobile computing Create groundbreaking technology for large scale systems spoken language computer vision big data and artificial intelligence And work with the people who created the intelligent assistant that helps millions of people get things done  just by asking Join the Siri multimodal learning team at Apple brbrbrThe Siri team is looking for a bright and talented machine learning engineer to influence in developing Siris next generation multimodal assistant on Apples innovative devices and novel features You should be eager to get involved in handson work researching and developing new Siri experiences with multiple input modalities like speech vision and other sensorsbrbr brstrongKey Qualificationsbrstrong brMachine learning research and development experience on developing systems for computer vision speech recognition natural language understanding applicationsbrbrFluency in programming languages including but not limited to PythonJavabrbrProficiency in at least one major machine learning framework such as Tensorflow PyTorch etcbrbrStrong understanding of machine learning for different modalities like computer vision speech processing natural language understanding brbrConsistent track record of researching inventing andor shipping advanced machine learning algorithmsbrbrCreativity and curiosity for solving highly complex problemsbrbrOutstanding communication and interpersonal skills with ability to work well in cross functional teamsbrbr brstrongDescriptionbrstrong brYou will be a part of a team thats responsible for help research and develop Siris multimodal experience in a full range Apple devices This position requires passion for researching and developing multimodal machine learning algorithms and systems You will work with the speech vision natural language understanding teams to deliver a great Siri user experience You must have a make this happen attitude and willingness to also work handson in building machine learning tools testing data collection running experiments as well as work with stateoftheart computer vision speech and natural language understanding processing algorithmsbrbrbrYour key responsibilities in this role arebrbrResearch design and implementation of machine learningdeep learning algorithmsbrbrBenchmarking and fine tuning of machine learningdeep learning algorithmsbrbrOptimizing algorithms for real time and low power constraints for embedded devicesbrbrSupport algorithm integration into Apple productsbrbrCollaboration with teams across Apple with multidisciplinary skillsbrbrbrBecause youll be working closely with engineers from a number of other teams at Apple youre a team player who thrives in a fast paced environment with rapidly changing prioritiesbrbr brstrongEducation amp Experiencebrstrong brMSPhD in Computer Science Electrical Engineering or related field with focus on machine learning computer vision speech processing natural language understanding or similarbrbr brstrongAdditional Requirementsbrstrong brAIMLsiriunderstandingmachinelearningspeechaiseattlebrbr brRole Number 200154868brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:29:15.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

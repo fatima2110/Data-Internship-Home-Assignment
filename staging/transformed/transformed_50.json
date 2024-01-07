@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "iOS Engineer - Mid-Level",
+    "industry": "Internet",
+    "description": "Are you an iOS Engineer with hands on Swift development experience Have you worked on reactive programming Do you have desire to help parents save time If so read onbrbrHeadquartered in Downtown Los Angeles we are close to LA metro stops We are mission driven Our growth has exceeded even our own expectations Our mission our enormous market potential our team and the technology challenges we are solving make us one of LAs hottest startups and an allaround awesome place to work Weve been featured in TechCrunch New York Times CNN Money amp have the backing of LAS top Venture Capital firmsbrbrWE ARE OFFERING FULL REMOTE WORKbrbrWe are tackling complex and interesting technical challenges every day We are building across multiple platforms for multiple user types  some of our current challenges include using Geographic Information Services GIS Big Data and Machine Learning We use micro services and ephemeral cloud architectures to rapidly deploy our efforts right into consumers handsbrbrWe are looking to bring on a MidLevel iOS Engineer to help us continue to build and grow our complex mobile platform As our user base continues to grow the MidLevel iOS Engineer will work to build and modernize our mobile applications and experiences for our end usersbrbrTop Reasons to Work with Usbrulli Our technology we have significant scale amp offer challenges which require the best of the best engineerslili Great compensation package salary full benefits equitybrliulWhat You Will Be Doingbrulli Work with iOS features with Swift and ObjectiveC to improve on features and connect to back end serviceslili Work with existing code base and updatemigrate legacy code to modern robust frameworklili Build and create new features with a heavy focus on highly scalable codelili Collaborate with crossfunctional development teams to ensure high quality developmentbrliulWhat You Need for this PositionbrbrThe MidLevel iOS Engineer must have at least two years of development experience and be familiar withbrulli Experience in working with modern iOS libraries Swift ObjectiveC etclili Familiar with asynchronous development principles and working with Test Driven Developmentlili REST API integrations and building custom REST APIs from scratchlili Solid grasp of UIKit layouts and other tools UIViewControllerUIView etclili Bachelors Degree in CS or related fieldbrliulstronguNice To Havebrustrongulli Background with location data services CoreLocation CoreData FMDB etclili Experience with reactive programming RxSwift ReactNative SnapKit etclili Experience working with startups highly desiredbrliulWhats In It for Youbrulli Competitive compensation packageslili VacationPTOlili Robust MedicalDentalVision Insurance planslili Bonus  401K  Stock opportunitiesbrliulSo if you are an iOS Engineer with experience building complex mobile features from the ground up please apply todaybrbrstronguEmail Your Resume In Word TobrbrustrongLooking forward to receiving your resume through our website and going over the position with you Clicking apply is the best way to apply but you may alsobrbrDanielOKeefeCyberCoderscombrulliPlease do NOT change the email subject line in any way You must keep the JobID linkedin  DO21638630  in the email subject line for your application to be consideredbrliulDaniel OKeefe  Sr Executive Recruiter  CyberCodersbrbrApplicants must be authorized to work in the USbrbrstrongCyberCoders Inc is proud to be an Equal Opportunity EmployerbrbrstrongAll qualified applicants will receive consideration for employment without regard to race color religion sex national origin disability protected veteran status or any other characteristic protected by lawbrbrstrongYour Right to Workstrong  In compliance with federal law all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hirebrbrCyberCoders will consider for Employment in the City of Los Angeles qualified Applicants with Criminal Histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring Ban the Box Ordinance",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T17:42:08.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

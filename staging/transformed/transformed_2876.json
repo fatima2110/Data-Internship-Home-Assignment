@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Infrastructure (MLOps) Engineer",
+    "industry": "Information Technology and Services",
+    "description": "pstrongDirect Client PositionstrongppstrongML Infrastructure Platform Engineerstrongppstrong12 Months Contract to HirestrongppstrongMain Skills requiredstrong MLops Kubernetes productionalization etcppbrppstrongClient Notes strongHiring Manager is looking for candidates with Building the infrastructure to bring the models into production Basically building the infrastructure and doing the productionalizationppnbspppWe are seeking a creative Machine Learning ML Engineer with expertise in machine learning and software architecture to partner with Data Scientists to design build and bring to production predictive models that directly benefit our customers Our ML products delight our fans by helping them buy and sell the best tickets at the right price at the right timeppbrppYour work will have a direct impact on Clients bottom line and on the efficiency of the ticket markets on our platform You will have access to the rich data set of the worlds largest dynamically priced ticketing marketplace You will uncover hidden signals in the data that predict trends in thousands of volatile markets determine the preferences of millions of customers and provide tools to customers that help them see their favorite performers at the best price and sell their tickets effortlessly when they cant goppbrppOur Marketplace Intelligence Data Science team is a small team of outstanding scientists and engineers based in Clients San Francisco headquarters We work closely with other teams in the company to establish business goals to incorporate existing insights into our algorithms to uncover new opportunities for optimizing the business and to establish rigorous methods for gauging performanceppYou WillppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspLead the design and implementation of all parts of the ML buildout training pipelines serving architecture and refresh automationppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspLead a groundup rebuild of critical models and services on a new platform You will own the design of the rebuild and begin with no tech debtppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspCollaborate with and influence the broader organization to ensure the platform rebuild enables ML to best serve our customersppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspPartner with data scientists to create algorithms that can effectively manage and price perishable inventory across multiple dynamic marketplacesppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspOwn your models from initial research all the way to productionppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspInspire your teammates with your knowledge of machine learning and your application of modern software development techniquesppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspFrame complicated problems in simple terms and enjoy clarifying sophisticated solutionsppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspBring a passion for discovery problem solving and groundbreaking technologyppYou AreppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspAccomplished Earned a graduate degree in Computer Science Economics Statistics Physics or equivalent quantitative fieldppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspCreative Known for coming up with different ways of looking at problems and for investigating the latest advancements in the fieldppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspTechnical Familiar with modern machine learning and software engineering techniques and are passionate about embracing new toolsppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspKnowledgeable Have significant experience with machine learning algorithms and software developmentppnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspMotivated Want to help customers build a cherished memory of an amazing live eventppnbspppstrongnbspstrongp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-05T16:44:10.000Z"
+  },
+  "company": {
+    "name": "Aditi Consulting",
+    "link": "https://www.linkedin.com/company/aditiconsulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

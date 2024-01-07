@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability/ Security Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "We are looking for a strongJava Factory Developerstrongstrong strongIf you are looking for a new project let us know your interest by applying for the samebrbrstronguAbout The RolebrustrongulliOwn the endtoend infrastructure of the companys cloudliliDefine and introduce security best practices identify gaps in infrastructure and come up withlilisolutionsliliDesign and implement tools and software to manage the companys infrastructureliliStay handson write and review code and documentation debug and root cause issues inliliproduction environmentbrbrliulstronguMinimum QualificationsbrustrongulliExperience in managing cloudnative infrastructure setupliliPassionate about security and have a good understanding of industry best practicesliliExperience in programming languages like Python Golang and enjoying automating everything using codeliliGood skills and intuition on root cause issues in the production environmentbrbrliulstronguPreferred QualificationsbrustrongulliExperience in TerraformliliExperience in database and network managementliliExperience in defining security policies and best practicesliliExperience in managing a large scale multicloud environmentliliKnowledge of SOC GDPR or ISO 27001 security compliance standards is a plusbrliulPowered by JazzHRbrbr9OT1R5Ldvc",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-06T19:11:28.000Z"
+  },
+  "company": {
+    "name": "OmegaHires",
+    "link": "https://www.linkedin.com/company/omegahires"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

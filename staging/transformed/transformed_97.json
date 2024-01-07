@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Silicon Validation Software Engineer: Embedded and Low-level Programming",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brImagine what you could do here At Apple new ideas have a way of becoming extraordinary products services and customer experiences very quickly Bring passion and dedication to your job and theres no telling what you could accomplish Dynamic smart people and inspiring innovative technologies are the norm here The people who work here have reinvented entire industries with all Apple Hardware products The same passion for innovation that goes into our products also applies to our practices strengthening our commitment to leave the world better than we found it Join us to help deliver the next groundbreaking Apple productbrbrbrAre you passionate about changing the world We have a critical impact on getting high quality functional products to millions of customers quickly and we are hiring all levels from junior to senior roles You will become part of our core infrastructure team responsible for porting and improving our embedded test software environments including CFE and our RTOS and perhaps Linuxbrbr brstrongKey Qualificationsbrstrong brYou are an excellent C programmerbrbrYou are an expert in boot code lowlevel OS code drivers computer initialization IO devices SoC bringup debuggersbrbrYou have a detailed understanding of SOC architecturebrbrYou have experience and are interested in writing code to test IO devices andor functional unitsbrbrLinux driver experience an assetbrbr brstrongDescriptionbrstrong br  You will be porting CFEbootcodeRTOS to new SoC and CPU architecturesbrbrbr  improving the lowlevel support provided in our debug environments to provide better support for writing higherlevel tests eg scaler jpegbrbrbr  You will be implementing device libraries to aid in the portability of device drivers bringing up lowlevel code on new SoCs brbrbr  You will work with other teams to support our common SoCs and memory init codebrbrbrDesired ability to write Linux drivers and to write directed tests for IPs on the SoCbrbr brstrongEducation amp Experiencebrstrong brBS  MS  PhD in EE or CS is requiredbrbr brRole Number 200028677brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:16:42.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

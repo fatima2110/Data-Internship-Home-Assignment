@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "pSkycart is currently looking for a Software Development Engineer to join our team ppbrppWere a drone hardwaresoftware and logistics company currently working on COVID19 vaccine and other medical supply deliveries ppbrppWere looking to expand to lastmile ecommerce deliveries globally throughout the next several yearsnbspWere in the process of a funding round right now on a platform called Wefunder and weve had a decent amount of investment from a few angels already without ever launching publiclynbspThe compensation to start off for this role will be in equity shares however given that is a parttime role you are welcome to be working in an external role to SkycartnbspIf this sounds interesting to you go ahead and drop your resume in the chat and our Head of Software Stephen Enright will proceed with the next stepsppbrppFullstack app development experience is a plusppbrpulliWorked on mobile appsliliWorked on backend cloud softwareliliExperience with drones preferableliliWorked on relevant projects liliMust know Go or golang Java React and Android developmentliliKnowledge in CCC Python Golang GO Java REST API Android development kit React Flutter Elastic Search Microservices Securityliulpbrppbrp",
+    "employment_type": "PART_TIME",
+    "date_posted": "2021-07-29T00:55:07.000Z"
+  },
+  "company": {
+    "name": "Skycart",
+    "link": "https://www.linkedin.com/company/skycart"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

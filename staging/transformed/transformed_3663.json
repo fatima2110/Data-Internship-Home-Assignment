@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "pstrongData ScientiststrongppbrppstrongThis position will be joining a team thats primary focus will be Government ContractsstrongppbrppAs a  Data Scientist will support enabling and growth for the existing automation efforts and drive forward their natural language processing effortsnbspThis is a crossfunctional team that is adding talent at all levels As an early member of the team your experience is going to be valuable in making datadriven decisionsppbrppstrongLocation strongNorthnbspAustin office if youd like to use itppstrongSalarystrong 120k  135kppstrongVisa Statusstrong US CitizenppnbspppstrongResponsibilitiesstrongpulliAnalyze raw data assessing quality cleansing structuring for downstream processingliliDesign accurate and scalable prediction algorithmsliliCollaborate with the engineering team to bring analytical prototypes to productionliliGenerate actionable insights for business improvementsliulpbrppstrongQualificationsstrongpulliMS in a quantitative field Statistics Mathematics Computer Science Engineering etcliliAt least 1  2 years of experience as a Data ScientistliliDeep understanding of predictive modeling machinelearning clustering and classification techniques and algorithmsliliFluency in PythonliliWorked with terabytes of dataliulpbrppFor further details please submit a resumeppbrppAustin Fraser Inc is acting as an employment business in relation to this advert As a professional company we gladly welcome applications from persons of any age and background and do not intend to discriminate with advert text and terminologyp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T15:37:48.000Z"
+  },
+  "company": {
+    "name": "Austin Fraser",
+    "link": "https://uk.linkedin.com/company/austin-fraser"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "Texas Metropolitan Area",
+    "postal_code": "78723",
+    "street_address": null,
+    "latitude": 30.276316,
+    "longitude": -97.70931
+  }
+}

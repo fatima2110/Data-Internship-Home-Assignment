@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "pstrongJOBnbspDESCRIPTIONstrongppbrppstrongSitenbspReliabilitynbspEngineerstrongppbrppAsnbspannbspEngineernbspinnbspthenbspRetailnbspandnbspAthletenbspToolsnbspteamnbspyounbspwillnbspbenbsppassionatenbspaboutnbspmaximumnbspavailabilitynbspobservabilitynbspreliabilitynbspsecuritynbspandnbspperformancenbspofnbspClientsppDigital Experiences in Stores and in our Digital call centers around the globe You willnbspbuild applications tools and automation using your technical skills to provide deepnbspproblem analysis detect system faults or code defects define report write and buildnbspobservability processes for critical metrics and partner up with product delivery teamsnbspto provide long term scalable solutions to production issuesppbrppstrongWenbspare lookingnbspfor hardworking engineersnbspwho can bringnbspthe followingstrongppbrpulliAbility to observe diagnose code and test fixes for production issues quickly andnbspefficientlyliliAbility to develop and drive realtime supervising solutions that provide transparencynbspinto site health and key performance indicatorsliliStrong communication skills are written and verbal with the ability to articulate issues andnbsptheirnbspimpacts write concise runbooks and give technical demosliliCapable of reporting and communicating metrics with an understanding of thenbspbusiness landscape and how site reliability influences our consumersliliWorkingnbspunderstandingnbspofnbspITnbspservicenbspmanagementnbspIncidentnbspProblemnbspChangenbspandnbspKnowledge managementliliAbility to work across teams business and technical to continuously analyze systemnbspperformance seek for avoidancerootcause and proactively identify areas in need ofnbspoptimizationliliPassion for continuous learning partnership and teamworkliulpbrppstrongQualificationsstrongppbrpulliBachelors degree in Computer Science Information Systems Business or another relevant subject arealili12 years of professional experience in software development testing andor DevOps engineeringliulpbrppstrongCareerstrongppbrpulliDesign and development experience with microservicebased architecture in JavanbspNodejs or similar language preferredliliDesign and development experience with frontend UI languages such as JavascriptnbspReact Swift or similar preferredliliExperiencenbspbuildingnbspdeployingnbspandnbspsupportingnbspcloudbasednbspsystemsnbspinnbspAWSnbsppreferredliliExperience with at least one database layer such as SQL DynamoDb CassandranbspetcliliUnderstanding of basic network and infrastructure concepts such as DNSnbspVirtualizationnbspLinuxliliExperience with Docker andor Serverless patterns a plusliliExperience with observability monitoring tools such as Splunk SignalFx New Relicnbspor Catchpoint is a plusliliBackground with ITIL or Lean a plusliul",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-12T21:43:26.000Z"
+  },
+  "company": {
+    "name": "Centizen, Inc.",
+    "link": "https://www.linkedin.com/company/centizen"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Beaverton",
+    "region": "OR",
+    "postal_code": "97007",
+    "street_address": null,
+    "latitude": 45.486595,
+    "longitude": -122.795616
+  }
+}

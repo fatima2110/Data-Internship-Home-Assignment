@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "As a member of the ITSoftware Team you design and develop robust and scalable software used for internal highvolume webbased applications Youll be part of the whole software development lifecycle and through this you can see the positive impact of your development within a few weeks of starting You bring OnLogic goals to life with new technologies and proven technologies as we focus on delivering the right solutions to our internal customers You cooperate with all departments across the globe and communicate with all of our offices worldwidebrbrOn an average day youllbrulliDevelop implement and maintain company web applications amp servicesliliCollaborate with system architects to drive our tech strategyliliSupport fellow development team members with code reviews brainstorming and offering guidanceliliCollaborate with colleagues to solve IT problems and come up with creative solutionsliliKeep effective remote communication with global officesbrliulThe team you will be joiningbrbrOur IT team touches every aspect of our business and each of our day to day lives here at OnLogic Made up of software developers infrastructure and security experts systems and network engineers and business technology professionals our IT team is constantly working to improve our internal systems to make our lives easier while optimizing our website to do the same for our customers From the technology we use to do our jobs to the infrastructure that supports the way we build test and ship our products our IT team keeps our business running smoothlybrbrLearn more about Life at OnLogicbrbrstronguRequirementsbrustrongulliYou have a minimum of 4 years experience in a professional software development environmentliliYou have proven skills in languages akin to Python and TypeScriptNodeJS and experience leveraging related libraries methodologies APIS and frameworksliliYou have experience with cloud technologies and containerized developmentliliYou are competent in SQL Postgres MySQL SQL ServerliliYou have knowledge of Git flow branching model and Testing FrameworksliliYou are familiar with reviewing the code of peers and providing feedbackliulWho were looking forbrulliYou possess the capacity to learn new processes quickly and efficiently communicate effectively and hold others and yourself accountableliliYou have a passion for quality efficiency and trailblazing to continue to elevate our internal systemsliliYou are analytical and driven to solve problems in collaboration with stakeholdersbrliulWho we arebrbrOnLogic is growing and we want to give you the same opportunity to grow in your career We design and manufacture specialized computers and hardware solutions for companies all over the world helping them to make the seemingly impossible possible Our computers are designed to work where others would fail and its our vision to be the first choice in industrial computing To make that vision a reality weve built a team of ambitious problem solvers guided by the companys core values of Open Fair Innovative and Independent We have an open office open salaries and strive to be fair and transparent in our decision making We encourage input and feedback from every member of our team and look to improve ourselves and our business every single daybrbrOnLogic is an equal opportunity employer We celebrate diversity and are committed to creating an inclusive environment for all employeesbrbrTo learn more about our values our mission and what its like to work at OnLogic visit wwwonlogiccomcareersbrbrustrongBenefitsbrbrstronguThe salary range for this role is 85000 to 100000 We determine final compensation based on discussions with applicants and their experience in similar rolesbrulliA competitive Salary based upon your experience and the requirements of the roleliliA comprehensive Benefits packagelili401k Plan with 3 Employer ContributionliliAn Annual Profit Share Bonus liliPaid Maternity amp Paternity Leave and Short amp Long Term DisabilityliliOpportunity to Participate in our Employee Stock Purchase PlanliliA personal development plan created to help you and us growliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-11T04:05:48.000Z"
+  },
+  "company": {
+    "name": "OnLogic",
+    "link": "https://www.linkedin.com/company/onlogic"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cary",
+    "region": "NC",
+    "postal_code": "27511",
+    "street_address": null,
+    "latitude": 35.791473,
+    "longitude": -78.78114
+  }
+}

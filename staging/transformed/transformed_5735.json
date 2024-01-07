@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Java Software Engineer",
+    "industry": "",
+    "description": "brpstrongSenior Java Developer with MicroServicesstrongppstrong12 Months ContractstrongppstrongSt Louis MOstrongppbrppOpen only for H1B  GC USCppbrppstrongStrictly No OPT  CPT  H4  TN VisastrongppbrppstrongQualificationsstrongppMinimum 9nbspyears of IT software Development experience especially in Core Java concepts and Advanced Java MultiThreading collectionsExceptionsppDevelopment of applications using JavaJ2EE MicroservicesSpring Spring Boot Hibernate Pivotal cloud foundryppStrong experience in Springboot Microservices is requiredppStrong Java developer with very good understanding of micro servicesppGrasp of software engineering skills in modular design data structures algorithmsppDeep knowledge and hands on experience with modern applications like spring boot AngularppExperience building and operating critical production systemsppSolid understanding of modern API design and Restful principlesppFluent with git preferred or other SCM systemppWrite well designed and testable codeppStrong Experience in automation and build tools like Maven Ant and GradleppBachelors degree in computer science engineering or a related discipline or equivalent work experienceppExperience in software development design and implementation of large scale distributed systems and web services building complex software that is testable and designed for extensibilityppGood understanding of building deploying and maintaining critical applications in a cloud based environmentppWork extensively with open source software capable to modify or extend code maintained as part of an open source projectppEmploy both Object Orientated development skills and Systems Engineering skillsppbrp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-25T17:20:06.000Z"
+  },
+  "company": {
+    "name": "Confidential",
+    "link": "https://www.linkedin.com/company/confidentialcompany"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "St Louis",
+    "region": "MO",
+    "postal_code": "63121",
+    "street_address": null,
+    "latitude": 38.635357,
+    "longitude": -90.20099
+  }
+}

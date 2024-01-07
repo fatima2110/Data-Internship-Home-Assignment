@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "strongJoin a leading fintech company thats democratizing finance for all brbrstrongRobinhood was founded on a simple idea that our financial markets should be accessible to all With customers at the heart of our decisions Robinhood is lowering barriers removing fees and providing greater access to financial information Together we are building products and services that help create a financial system everyone can participate inbrbrstronguWe Are Proud Of The World Class Products And Company Culture We Continue To Build And Have Been Recognized AsbrbrustrongJust as we focus on our customers we also strive to create an inclusive environment where our employees can thrive and do impactful workbrulliA Great Place to WorkliliA CNBC Disruptor 50 in 2019 and 2020liliA LinkedIn Top Startup in 2017 2018 2019 and 2020brliulRobinhood is backed by leading investors that include DST Global Index Ventures NEA Ribbit Capital Thrive Capital and SequoiabrbrCheck out life at Robinhood on The MusebrbrstronguAbout The RolebrbrustrongWere a rapidly growing team serving a highly resultsoriented engineering organization The Site Reliability Engineering SRE team provides a specialization within engineering focused on designing engineering evolving and safely making changes to largescale distributed systems these systems are often composed of disparate components which are each individually complex In the process of that work they are also responsible for analyzing repairing and preventing unexpected issues that emerge from such systemsbrbrstronguThe SRE Team Has Three Goalsbrustrongulli Set high standards for reliable products at Robinhoodlili Architect products and infrastructure that encourage and enforce high reliabilitylili Inspire change across the broader organization to embrace product reliability best practices and high reliability infrastructurebrliulWe are seeking an experienced SRE to work with our SRE leadership team to help build define the vision and roadmap of our newly formed SRE organization Initially you will embed with a product engineering team to understand their work and look for opportunities to bring SRE wisdom to bearbrbrstronguYour Daytoday Will InvolvebrustrongulliCombine software and systems knowledge to engineer highvolume distributed systems in a reliable scalable and faulttolerant mannerliliContinually optimize systems and workflows by improving architecture infrastructure automation CICD and observabilityliliAct as an owner and leader of Robinhoods infrastructure by ensuring project infrastructure needs are met and working proactively with customer teams to help them improve reliability and set best practicesliliProvide mentorship both formally and informally to engineers at Robinhood define and formalize the architecture design process and guide the overall architectural directionliliRepresent Robinhood in the technology community ex conferences technical blog posts etcbrliulstronguAbout YoubrustrongulliFluent in one or more programming languages eg Go Python JavaliliExperience authoring and operating highscale servicesliliExperience with scalable distributed systems either built from scratch or on public Cloud eg AWS primitivesliliA focus on software engineering best practices such as testing static analysis continuous integration delivery and deploymentliliWillingness to learn and use new technologies and to learn the insandouts of the financial systemliliVery datadrivenliliA minimum of 5 years of industry experienceliliAbility to debug complex systemsbrliulstronguBonus PointsbrustrongulliFamiliarity of PythonDjango or GoliliExperience with highgrowth startupsliliStrong open source contributionsbrliulstronguTechnologies We UsebrustrongulliPython DjangoDRFliliGoliliCICD and test automation frameworks liliContainer and container orchestration technologies eg Docker KubernetesliliMicroserviceoriented architectures and related OSS technologies eg Kafka CeleryRabbitMQ nginx Redis Postgres Airflow Consul etcliliCloudnative infrastructure AWS GCPliliLinux internals and network configuration and protocolsliliInfrastructure as Code and configuration management Terraform SaltStackliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T01:18:41.000Z"
+  },
+  "company": {
+    "name": "Robinhood",
+    "link": "https://www.linkedin.com/company/robinhood"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Sr."
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Menlo Park",
+    "region": "CA",
+    "postal_code": "94029",
+    "street_address": null,
+    "latitude": 37.45322,
+    "longitude": -122.18322
+  }
+}

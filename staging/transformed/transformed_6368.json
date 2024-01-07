@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Hardware,Computer Software",
+    "description": "pstrongSite Reliability Engineer  REMOTEstrongppstrongLOCATION UNITED STATESstrongppbrppstrongNOTE We are unable to provide visa sponsorship for this role at this timenbspNo candidates requiring visa sponsorship will be consideredstrongppbrppPassionate about technology and see the world a little differently than your peers Everywhere you look theres possibility Opportunity Boundaries to push and challenges to solve You believe software engineering changes how people liveppnbspppWe are looking for talented engineers to join our expanding cloud team for food and beverage softwarenbspYou will help build and operate a suite of integrated cloud services that deliver bestinclass features to your favorite restaurants and eateriesppnbspppAs a site reliability engineer you will be responsible for helping ensure our systems are reliable and scalable by designing processes automating deployments building tooling and guiding development teams to adhere to best practices for the cloudppnbspppWe work with some of the smartest nicest people youll meet People who work here say the problems they work on are enormously challenging and that the team culture is the most supportive they have seenppnbspppCurious Read on Were looking for software engineering talent like youppstrongnbspstrongppstronguWhat working on this team is likeustrongpulliWe own our process and were free to improve on itliliWe emphasize quality above all elseliliWe automate everythingliulpnbspppstronguHow do you know if you are right for this jobustrongpulliYou thrive in a fastpaced environment focused on delivering production code at a regular cadence using Agile techniques tools and methodologiesliliYou have built or want to build automation tools and components to aide in installation and provisioning of cloudbased applications in cloud providers like Oracle Cloud AWS Azure or similarliliYou understand the value of continuous delivery and want to help teams release frequently and often to production with high qualityliliYou have helped develop and manage systems in production environmentsliliYou have the ability to tackle both large and small problemsliliYou have a strong desire to continually learn new technologies tools and methodologies including those out of your comfort zoneliulpnbspppstronguExperience and skills you will needustrongpulliSolid understanding of core computer science fundamentals including common data structures algorithms and concurrent programmingliliStrong experience with at least one scripting language such as Ruby Python or JavaScriptliliWorking knowledge of containers and supporting tools like Docker Podman etcliliExperience using container orchestration tools like Kubernetes or Docker SwarmliliStrong attention to detail and excellent analytical capabilitiesliliPassion for developing clear robust and testable softwareliliBS in Computer Science Software Engineering Computer Engineering or equivalent experienceliulpnbspppstronguExperience and skills we hope to seeustrongpulliPrior experience solving automation problems such as deployment orchestration continuous integration etcliliFamiliarity working with at least one major cloud platform such as Oracle Cloud AWS Azure GCP etcliliExperience with infrastructure automation with tools such as Terraform CloudFormation etcliliUnderstanding of security principles and how they apply to cloudbased softwareliliBackground working on publicly available production systemsliliSkill with additional programming languages such as Java C C Scala Go Clojure etcliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-26T19:43:17.000Z"
+  },
+  "company": {
+    "name": "Oracle",
+    "link": "https://www.linkedin.com/company/oracle"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

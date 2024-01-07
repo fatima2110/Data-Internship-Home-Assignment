@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Embedded Software Engineer",
+    "industry": "Information Technology and Services,Computer &amp; Network Security,Computer Software",
+    "description": "stronguJob Descriptionbrbrustrongstrong Job Responsibilities brstrongulli Develop and maintain software components on current and future productslili Hands on in bug fixing current productslili Implement software features of high quality and on schedulelili Communicate effectively both verbal and writtenbrliulstronguJob Requirementsbrustrongulli Minimum of 4 years of experience in networking related software developmentlili Strong C experience in embedded UnixLinux environment is essentiallili Experience programming in Linux Kernel routing system netfilter and packet forwardinglili Experience with multi processthread programminglili Experience in router firewall VPNlili Knowledge of general QA procedures and methodologies as well as software development fundamentalslili Good verbal and written communication and teamwork for cross team collaborationlili Quick learning ability adaptability and curiosity about new technologybrliulstronguEducation Requirementbrustrongulli BS in Computer Science or Electrical Engineering MS preferredbrliulGDbrbrstronguAbout UsbrbrustrongstrongFortinet NASDAQ FTNT secures the largest enterprise service provider and government organizations around the world Fortinet empowers its customers with intelligent seamless protection across the expanding attack surface and the power to take on everincreasing performance requirements of the borderless network  today and into the future Only the Fortinet Security Fabric architecture can deliver security features without compromise to address the most critical security challenges whether in networked application cloud or mobile environments Fortinet ranks number one in the most security appliances shipped worldwide and more than 450000 customers trust Fortinet to protect their businessesbrbrstrongstrongWe are committed to providing reasonable accommodations for all qualified individuals with disabilities If you require assistance or accommodation due to a disability please contact us at accommadationsfortinetcombrbrstrongstrongFortinet is an equal opportunity employer We value diversity in our company and all qualified applicants will receive consideration for employment without regard to race color religion sex sexual orientation gender identity national origin or any other applicable legally protected characteristics in the location in which the candidate is applyingbrbrstrong",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T17:43:31.000Z"
+  },
+  "company": {
+    "name": "Fortinet",
+    "link": "https://www.linkedin.com/company/fortinet"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Information Technology and Services,Computer Software,Hospital &amp; Health Care",
+    "description": "stronguCompany DescriptionbrbrustrongAccolade provides personalized health and benefits solutions designed to empower every person to live their healthiest life We help millions of people and their employers navigate the complexities of the healthcare system with empathy expertise and through exceptional service while supporting them in lowering the cost of care and improving health outcomes Accolade blends technologyenabled health and benefits solutions specialized support from Accolade Health Assistants and Clinicians and access to expert medical opinion services for highcost treatment decisions We consistently receive consumer satisfaction ratings over 90 percent and have been recognized by Inc Magazine as a Top Place to Work 2020 and Business Intelligence for Excellence in Customer Service 2020 Please visit us on LinkedIn Twitter Instagram and Facebook and at accoladecombrbrstronguRole OverviewbrbrustrongThe Software Engineer I is responsible for helping us build and test our next generation of tools We strive to help our clients navigate the winding road in healthcare by building intuitive performant and helpful software As a developer on our application team you will be at the forefront of reinventing how we help those we servebrbrstronguJob DescriptionbrbrustrongstronguA day in the lifebrustrongulliWork with a small agile team to design charted to build out the tools and applications necessary to support our government customersliliInterface with our internal users and beta testers to gather feedback and troubleshoot issuesliliProductize our tools to help create an application platform which can be used to create new applications and features quickly and consistentlyliliWork tightly with our DevOps teams to deploy and support our software using cloud services and tools such as Amazon Web Services GitHub Shippable Docker and moreliliMarry business APIs with UX designs to build performant UI using React Redux and LessSassliliOperates effectively as a collaborative member of the development teamliliOperates effectively as an individual for quick turnaround of enhancements and fixesliliResponsible for meeting expectations and deliverables on time with high qualityliliEffectively develops in a clean well structured easily maintainable formatliliDemonstrates creative technical and analytical skillsliliDemonstrates ability to communicate effectively in both technical and business environmentsbrliulstronguQualificationsbrbrustrongstronguWhat we are looking forbrustrongulliCandidate must be a US Citizen who currently holds or is able to attain a public trust or higherlevel clearanceliliExperience in designing evaluating and developing web applicationsliliMinimum of 12 years of web development and applications development experience is requiredliliSolid understanding of UX and UI design with an emphasis on maximizing usabilityliliSolid understanding of building web applicationsliliProficient at backend development with experience building web UIliliProficiency in utilizing modern HTML CSS JavaScript and frameworksliliPreferred exposure to LessSass React Node Flux Redux AngularJS nix shell Docker npm AWSliliStrong written and oral communication skillsliliDesire and willingness to work in an Agile collaborative innovative flexible and teamoriented environmentbrliulstronguDesired Personal CharacteristicsbrustrongulliAn excellent leader with a cando attitudeliliHandson detailoriented methodical amp inquisitiveliliA motivated selfstarter with a solid level of experience that quickly grasps complex challengesliliA skillful communicator with experience working with technical management teamsliliA strong customer focus and metrics drivenliliA quick learner with a passion to challenge himherself outside of the comfort zoneliliFantastic collaborator team player negotiator and influencerliliFast fail entrepreneurial and innovative spiritliliThrives in a fastpaced environment where continuous improvement is the norm and the bar for quality is extremely highbrliulAdditional InformationbrbrAll your information will be kept confidential according to EEO guidelines",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T15:04:52.000Z"
+  },
+  "company": {
+    "name": "Accolade, Inc.",
+    "link": "https://www.linkedin.com/company/accolade-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

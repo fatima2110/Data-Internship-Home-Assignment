@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Data Scientist",
+    "industry": "Computer Hardware",
+    "description": "strongIntroductionbrbrstrongAs a Data Scientist at IBM you will help transform our clients data into tangible business value by analyzing information communicating outcomes and collaborating on product development Work with Best in Class open source and visual tools along with the most flexible and scalable deployment options Whether its investigating patient trends or weather patterns you will work to solve real world problems for the industries transforming how we livebrbrstrongYour Role and ResponsibilitiesbrbrstrongThis position is a Junior Data Scientist role with Kyndryl Finance that is focused on leading the design development and implementation of supervised and unsupervised learning models to provide financial insights that enhance Kyndryls business results Responsibilities include data collection exploratory data analysis model selectiontestingvalidation factbased quantitative analysis systematic model explainability model interpretation in business terms and communication of findings to business leaders The Junior Data Scientist will receive direction guidance from other data scientists on the team as well as help to manage the model pipeline and change management for models as requiredbrbrstrongRequired Technical and Professional ExpertisebrbrstrongulliBS in Data Science Machine Learning Statistics or related STEM fieldliliProficiency in PythonliliExperience with common Python libraries used by data scientists eg NumPy Pandas SciPy scikitlearn matplotlib Seaborn etcliliCoursework in machine learning natural language processing and deep learning as well as unsupervised learning methodsliliExperience working with structured and unstructured dataliliExperience building endtoend data pipelines and deploying in the CloudliliDemonstrated ability to think strategically about business product and technical challenges in an enterprise environmentliliExperience in Agile developmentliliDemonstrated leadership abilities with team leader or managerial experience preferredliliExcellent oral and written communication skillsliliAbility to collaborate in a team environmentbrbrliulstrongPreferred Technical And Professional ExpertisebrbrstrongulliMasters degree in quantitative Field or 5 years of relevant experienceliliProficiency with other programming languages such as R and SQLliliProfessional experience with Big Data Spark Hadoop etcliliExperience working with Financial dataliliUnderstanding of common Finance conceptsliliHandson experience deploying analytical models to solve business problemsbrbrliulstrongAbout Business UnitbrbrstrongThe IBM Finance organization is responsible for driving enterprise performance and transformation We are the financial stewards of IBM delivering IBMs financial strategy developing new business models and mitigating enterprise risk Do you have a passion for creating business value Join our team in accounting financial planning pricing business controls tax treasury business development acquisitions amp divestitures and global financingbrbrstrongYour Life  IBMbrbrstrongstrongAbout IBMbrbrstrongstrongLocation StatementbrbrstrongstrongBenefitsbrbrstrongIn addition to a competitive benefits program consisting of medical and life insurance retirement plans and time off eligible employees may also have access tobrbrIBM offers a wide range of resources for eligible IBMers to thrive both inside and outside of workbrbrulli12 weeks of paid parental bonding leave Family care options are also available to support eligible employees during COVID19liliWorldclass training and educational resources on our personalized AIdriven learning platform IBMs learning culture supports your restless attitude to grow your skills and build the depth and scale of knowledge needed to achieve your career goalsliliWellbeing programs to support mental and physical healthliliFinancial programs that empower you to plan save and manage your money including expert financial counseling 401k IBM stock discount etcliliSelect educational reimbursement opportunitiesliliDiverse and inclusive employee resource groups where you can network and connect with IBMers across the globeliliGiving and volunteer programs to benefit charitable organizations and local communitiesliliDiscounts on retail products services and experiencesbrbrliulWe consider qualified applicants with criminal histories consistent with applicable lawbrbrIBM will not be providing visa sponsorship for this position now or in the future Therefore in order to be considered for this position you must have the ability to work without a need for current or future visa sponsorshipbrbrstrongBeing You  IBMbrbrstrongKyndryl is committed to creating a diverse environment and is proud to be an equal opportunity employer All qualified applicants will receive consideration for employment without regard to race color religion gender gender identity or expression sexual orientation national origin genetics pregnancy disability age veteran status or other characteristics Kyndryl is also committed to compliance with all fair employment practices regarding citizenship and immigration status",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T00:00:00.000Z"
+  },
+  "company": {
+    "name": "IBM",
+    "link": "https://www.linkedin.com/company/ibm"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

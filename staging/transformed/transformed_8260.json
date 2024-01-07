@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "stronguOur CompanybrbrustrongChanging the world through digital experiences is what Adobes all about We give everyonefrom emerging artists to global brandseverything they need to design and deliver exceptional digital experiences Were passionate about empowering people to create beautiful and powerful images videos and apps and transform how companies interact with customers across every screenbrbrWere on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity We realize that new ideas can come from everywhere in the organization and we know the next big idea could be yoursbrbrstrongThe Opportunity brbrstrongAdobes Commerce Customer Engineering team is looking for a Site Reliability Engineer to join our Cloud Operations teambrbrAs a highgrowth ecommerce company we are looking for an experienced SRE with a heavy emphasis on backend operations support We define create and operate Adobes ecommerce platform that includes client experience build and deploy analysis production applications and infrastructurebrbrstronguWhat Youll DobrustrongulliWork on reliability and performance aspects for database infrastructure pieces that allow Adobe Commerce Cloud to scale liliSolve complicated issues with live cloud server environments and provide software configuration and tuning recommendations for optimal performanceliliTake ownership and provide feedback on any infrastructure changes related to DB including version upgradesliliWrite software layers scripts deployment frameworks tracers monitors selfhealingauto remediation tools and automate the processesliliAnalyze SQL queries and provide query optimization recommendations and best practicesliliCollaborate with engineers to diagnose and troubleshoot database errorsliliParticipate on RCAs and take action items to mitigate issuesliliParticipate in shared oncall schedule followthesun model managed across SREDBRE amp EngineeringliliExcellent social skills in your interactions with Internal and External DevelopersCommunityMerchantsbrliulstronguWhat You Need To SucceedbrustrongulliBachelors degree on Computer Science or similarlili3 years experience working on PaaSSaaS handling high transactional environments providing critical 24x7 uptimeliliExperience on sophisticated database migrations into cloud native databases AWS Aurora preferredliliFluent on transactional NoSQL DBs ElasticSearch RedisliliExperience on LAMP architecture stack Also proven experience on highscalable containerbased environments Kubernetes Docker Swarm liliConfirmed experience on high level languages Bash Python Ruby Perl or similarliliExperience working with hyperscale cloud providers AWS Azure GCP etcliliExperience in securing monitoring capacity planning fullproof DR backup amp recovery for distributed database systemsliliExtensive experience with Monitoring  Logging  Alerting systemsliliIntellectual curiosity to pursue the unknown and to continuously learnliliGreat communication interpersonal and teamwork skills to work with internal teams but also our customersliliGood social skills and desire to work in a dynamic and fastpaced environmentliliExperience usingimplementing CICD frameworks such Jenkins Travis Gitlab CI All about IaaC is also relevant in our stuck so real handson using ChefPuppet Ansible Terraform etc is also welcomeliliParticipate in oncall pager rotationbrliulstronguBonus Points For The FollowingbrustrongulliAWSAzure CertificationliliLinux CertificationliliKubernetes CertificationliliMySQL CertificationliliOther database experiencecertifications sqlnonsqlliliExperience in Lean SixSigma or KaizenliliITIL certificationbrliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-16T04:05:15.000Z"
+  },
+  "company": {
+    "name": "Adobe",
+    "link": "https://www.linkedin.com/company/adobe"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

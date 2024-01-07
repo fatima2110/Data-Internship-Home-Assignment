@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist, Machine Learning",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Interested in Machine Learning techniques in the areas of Predictive Modeling TimeSeries Forecasting and Survival Analysis As a Data Scientist at GoHealth you will work with partners to build endtoend data science models throughout our diverse business This includes projects for callcenter traffic projection agentbehavior modeling and customer retention decay curves You will also contribute to the maintenance and improvement of our realtime production models and the underlying AWS deployment pipeline You will report directly to our Director of Data SciencebrbrstrongFrequently cited statistics show that women and members of underrepresented groups apply to jobs only if they meet 100 of the qualifications GoHealth encourages you to break that statistic and to apply No one ever meets 100 of the qualifications We look forward to your application brbrstrongstronguResponsibilitiesustrong ulliDevelop data and predictive models for solving business problems and in improving GoHealths software products and business processesliliEvangelize software engineering best practices and proactively identify technical debt and other issues related to improving SLAliliSeek out ways to automate and accelerate development of datadriven products and then implementing themliliMaintain and look to improve our Machine Learning Deployment Pipeline on AWS SagemakerliliCollaborate with business stakeholders business operations and product engineering teams in analyzing business problems building and testing solutions and data models and implementing the algorithms and results of the modelsliliWork closely with Data Engineers in designing the schemas and data pipelines needed for downstream use by regression models and jobsliliAuthor formal and informal reports that effectively communicate the models and the results to both technical and nontechnical audiencesliliConfer with Data Science Product and Engineering stakeholdersliulliTo define and implement new datapowered products and predictive modelsliliTo deploy and maintain them in production as RESTful services andor batch jobsbrliululstronguSkills And Experienceustrong ulliMasters or PhD in Statistics Mathematics Computer Science Economics or related quantitative fieldlili2 years of experience demonstrating trajectory of professional growth in data science or machine learningliliSkilled in the the followingliulliMachine learning data science modeling  using scikitlearn tensorflow pytorch and relevant technologiesliliPython  scikitlearn pandas numpyliliPython unit testing framework  pytest nosetest or other testing frameworksliliAWS ecosystem and preferably with docker andor LinuxUnix experienceliliRelational databases and SQL including MySQL Postgres SQL Server Oracle or equivalentliliWeb service architecture eg REST SOAP etcliliVersion control systems using Git Bitbucket SVN or Team FoundationliliSoftware engineering practicesliulliStrong analytical and problem solving ability with strong attention to detail and accuracybrliulstronguBenefits And PerksbrustrongulliOpen vacation policy because work life balance is importantlili401k program with company matchliliEmployee Stock Purchase ProgramliliMedical dental vision and life insurance benefitsliliPaid maternity and paternity leaveliliProfessional growth opportunitiesliliGenerous employee referral bonusesliliEmployee Resource GroupsliliWork from Home StipendliliGoHealth is an Equal Opportunity EmployerbrliulstrongemDue toemstrongstrongem the unprecedented situation of COVID19 GoHealth has decided to protect our emstrongstrongemcurrent and futureemstrongstrongem employees by managing our business remotely This is inclusive of interviewing onboarding and each role daytoday Please consider that our roles will not be remote longterm and will return to an office setting once were safe to do so following the guidance of local health authorities and the CDCbrbremstrong",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T22:15:25.000Z"
+  },
+  "company": {
+    "name": "GoHealth",
+    "link": "https://www.linkedin.com/company/gohealth"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Illinois",
+    "region": "United States",
+    "postal_code": "61709",
+    "street_address": null,
+    "latitude": 40.12414,
+    "longitude": -89.14863
+  }
+}

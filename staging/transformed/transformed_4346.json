@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Java Designer/Developer)",
+    "industry": "Information Technology and Services,Computer Software,Automotive",
+    "description": "At Ford Motor Company we believe freedom of movement drives human progress We also believe in providing you with the freedom to define and realize your dreams With our incredible plans for the future of mobility we have a wide variety of opportunities for you to accelerate your career potential as you help us define tomorrows transportationbrbrAs a key member of our Information Technology group youll play a critical part in shaping the future of mobility If youre looking for the chance to leverage advanced technology to redefine the transportation landscape enhance the customer experience and improve peoples lives this is the opportunity for you Join us and challenge your IT expertise and analytical skills to help create vehicles that are as smart as you arebrbrstronguWhat Youll Be Able To DobrbrustrongResponsible for designing and developing capabilities for a Java application used for viewing requesting and using data exchange services at Ford This role requires crossorganizational interaction communicating with users and ensuring the quality of existing and new capabilitiesbrulliWork with cross functional team members and business owners to identify requirementsliliDesigndevelop application capabilities from scratch including all front and backend aspectsliliCreate technical specifications and runbooksliliLead in testdriven developmentliliPartner with a technical anchor and architects to design the architectureliliAssure correct security and data protection settings liliResponsible for maintaining application EndtoEndbrliulstronguThe Minimum Requirements We SeekbrustrongulliBachelors Degree in Information Technology Computer Science or other scientific field of studylili4 years of experience as a full stack Java developer including design development and implementation which includes REST API based on Spring Boot Microservices architecture and Angular based UI development lili4 years of experience with CICD tools Jenkins Github or Nexus with code deployment in Pivotal Cloud Foundrylili3 years of experience with codeAPI security using Sonarqube 42Crunch or Checkmarxlili4 years of experience with messaging interoperability with Rabbit MQ and experience with global applicationbrliulstronguThe Preferred Requirements We SeekbrustrongulliSelf starter and problem solverliliExcellent verbal and presentation skillsliliJava CertificationsliliFamiliar with Agile methodology brliulstronguWhat You Will Receive In ReturnbrbrustrongAs part of the Ford family you will enjoy excellent compensation and a comprehensive benefits package that includes generous PTO retirement savings and stock investment plans incentive compensation and much more You will also experience exciting opportunities for professional and personal growth and recognitionbrbrIf you have what it takes to help us redefine the future of mobility we would love to have you join usbrbrCandidates for positions with Ford Motor Company must be legally authorized to work in the United States Verification of employment eligibility will be required at the time of hire Visa sponsorship is not available for this position brbrWe are an Equal Opportunity Employer committed to a culturally diverse workforce All qualified applicants will receive consideration for employment without regard to race religion color age sex national origin sexual orientation gender identity disability status or protected veteranbrbrFor information on Fords benefits and compensation click here httpscorporatefordcomcontentdamcorporateusenusdocumentscareers2021benefitsandcompGSRsalplan1pdf",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T21:53:44.000Z"
+  },
+  "company": {
+    "name": "Ford Motor Company",
+    "link": "https://www.linkedin.com/company/ford-motor-company"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 60100,
+    "max_value": 108000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dearborn",
+    "region": "MI",
+    "postal_code": "48120",
+    "street_address": null,
+    "latitude": 42.32214,
+    "longitude": -83.17594
+  }
+}

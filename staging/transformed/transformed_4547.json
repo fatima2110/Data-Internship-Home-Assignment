@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Hospital &amp; Health Care",
+    "description": "pSoftware Engineerpp100 Remotepp6 month contracttohireppFortune 500 Health ClientppnbspppstrongPosition OverviewnbspnbspstrongppTeam member will work on a team of truly talented individuals and be responsible for design build and testing using automation scripts but not limited to unitintegrationperformance testing of Product Enrollment Suite This team is responsible for 5 systems all having to do with product You will be working with homegrown systems and client systems The candidate will be responsible for buildingnbspcomponents of thenbspProduct Enrollment Suite with a range of cutting edge technologies that interface with various enterprise systemsppnbspppstrongKey Technologies NeedednbspnbspstrongpulliAngularnbspliliNodejsTypescriptliliPythonnbspliliDeploymentcontainerization tools KubernetesdockerjenkinsetcnbspliulpnbspppstrongRequired Experiencenbsp QualificationsnbspnbspstrongppnbspnbspnbspnbspnbspnbspnbspnbspnbspSolid Analytical skillsppnbspnbspnbspnbspnbspnbspnbspnbspFamiliar withnbspMicroservices Architecture and Rest patterns using leading industry recommended security frameworksppnbspnbspnbspnbspnbspnbspnbspnbspExperience in Data Integration batch realtime following Enterprise Integration PatternsppnbspnbspnbspnbspnbspnbspnbspnbspHighly motivated wellrounded team player and selfstarter that works best in a collaborative dynamic agile environmentnbspppnbspppstrongDesired Experience  QualificationsnbspnbspstrongppnbspnbspnbspnbspnbspnbspnbspnbspExperience in Cloud and related technologies such as AWS Google AzureppnbspnbspnbspnbspnbspnbspnbspnbspSAFe Agile experience with any SAFe certifications a plusppnbspnbspnbspnbspnbspnbspnbspnbspKnowledge of reportingBI tools such as Cognos would be plusppnbspnbspnbspnbspnbspnbspnbspnbspQuick learner of new technologies and adapt to changesppnbspnbspnbspnbspnbspnbspnbspnbspExcellent communication skillsnbspnbspppp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T17:23:24.000Z"
+  },
+  "company": {
+    "name": "Brooksource",
+    "link": "https://www.linkedin.com/company/brooksource"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Indianapolis",
+    "region": "IN",
+    "postal_code": "46203",
+    "street_address": null,
+    "latitude": 39.76845,
+    "longitude": -86.15621
+  }
+}

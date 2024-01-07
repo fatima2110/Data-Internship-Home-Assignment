@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Site Reliability Engineer, Factory Software Systems",
+    "industry": "Automotive,Renewables &amp; Environment,Utilities",
+    "description": "The RolebrbrThe Core Automation Services CAS team at Tesla is building applications to enable manufacturing with an eye towards reliability availability scalability speed and security Were a diverse team composed of Controls Automation Engineers Software Engineers and various other disciplines that help facilitate automated manufacturing processesbrbrAs an SRE on the CAS team youll be working with the infrastructure systems and applications that act as the middleware layer between Programmable Logic Controllers PLCs and the outside world such as Databases MES systems and other servicesbrbrstronguResponsibilitiesbrustrongulliSupport interim HMISCADA vendor application Ignition from Inductive AutomationliliBuilding tooling around it evaluating its usage and helping to ensure its reliability availability and securityliliDesign software and systems that enable automated manufacturing at TeslaliliAssist Software Controls Manufacturing and other types of Engineers with onboarding and integrating services into the Tesla stack KubernetesVMWareBaremetalliliEnsuring best practices and observability of the service such as metrics logging tracing and alertingliliAutomate configuration and deployment of servicesliliConsult on and design infrastructure systems and application architectureliul Requirementsbrulli5 years as DevOpsSite Reliability EngineerliliExperience with Virtualization or Containerization VMWareKubernetes preferred or Xen OpenStack etcliliExpert skills in Linux and its administration Ubuntu preferred or CentOS RHEL etcliliUnderstanding of networking RoutingSwitching VLANs Firewalls Load BalancersliliUnderstand the concepts of Observability and Infrastructure as Code Prometheus AlertManager Grafana Jaeger andor SplunkliliAble to readunderstand code Bash Python Java Go preferred or any other high level alternativeliliCICD pipeline experience GitLab preferred or JenkinsCircleCITravisCI etcliliSystems Automation Ansible preferred or ChefPuppetliliArtifact storageretrieval Artifactory preferred or alternativeliliMonitoringVisualization PrometheusAlertManagerGafanaOpsGenie preferred or TICK stack Nagios Zabbix PagerDuty etcliliSecrets management Hashicorp Vault and AnsibleVault preferred or Azure Key Vault AWS Secrets Manager etcliliUnderstand the concepts of Observability and Infrastructure as CodeliliComfortable on an oncall rotationliliComfortable doing live troubleshooting of issues on NOC bridgesoutage callsliliHabitual documenter and spreader of knowledgeliliWilling to mentor other team members and engineers with less SWEIT type knowledgeliliStrong bias for action vs endless planning willing to get hands dirty and make mistakes sometimesliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-01T21:43:47.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 74200,
+    "max_value": 106000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

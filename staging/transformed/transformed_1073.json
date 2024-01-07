@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Electrical/Electronic Manufacturing,Information Technology and Services,Computer Software",
+    "description": "stronguJob DescriptionbrbrustrongstrongPosition Title strongData ScientistbrbrstrongPosition Descriptionstrong Protingent Staffing has an exciting opportunity for a Data Scientist opportunity with our client located in San Francisco bay areabrbrstronguJob Requirementsbrustrongul liAs a Data Scientist you will work with a product team to design develop and launch efficient and reliable data pipelines to move analyze and model data and to provide intuitive analytics from large and complex datasetsli liA strong systematic mind is a priority as well as the ability to communicate clearly in multiple technical contexts li liThe ideal candidate should be passionate about finding insights in large datasets while maintaining attention to database architecture data reliability efficiency and quality li liAs we are continually releasing new features and products the ability to construct elegant systemlevel data architecture is expectedli liDiscover datasets that could help in solution developmentli liData curation analysis quantitative modelingli liValidation and quality assurance of data models and resultsli liDeploy and implement solutions in collaboration with product team li liInteract with the product team on current and upcoming user requirementsli brbrulstronguJob Qualificationsbrustrongul liMasters or PhD in Sciences Mathematics or Engineering especially numerical methods and simulations li liStrong background in database management solutions familiarity with databases such as MySQL and Oracleli liLargescale data processing and implementing batch processing pipelines in HPC or cloud architectureli liBackground in Statistics is expected and Experience with Machine Learning is a bonusli liExperience with Cloud Computing environments AWS GCloud Azure is a plusli brulstrongAbout Protingentstrong Protingent is a niche provider of top Engineering and IT talent to Software Electronics Medical Device Telecom and Aerospace companies nationwide Protingent exists to make a positive impact and contribution to the lives of others as well as our community by providing relevant rewarding and exciting work opportunities for our candidatesbrbrstrongBenefits Packagestrong Protingent offers competitive salary 100 paid health insurance educationcertification reimbursement pretax commuter benefits Paid Time Off PTO and an administered 401k planbrbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T06:08:33.000Z"
+  },
+  "company": {
+    "name": "Protingent",
+    "link": "https://www.linkedin.com/company/protingent"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

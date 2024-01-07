@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Apple Pay",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brAt Apple new ideas have a way of becoming phenomenal products services and customer experiences very quickly Imagine what you could do here Bring passion and dedication to your job and theres no telling what you could accomplishbrbrbrThe Apple Pay Server team is a rare engineering group within Apple We provide critical services for the company across every product line From manufacturing to customer facing our services span across the entire lifecycle of most Apple hardware By designing and implementing services that are tightly coupled with hardware we support the ongoing need to improve security of customers sensitive data financial or otherwise and privacy Many of our services are seen in the iOS Security Guide and are publicly discussed on Internet forumsbrbr brstrongKey Qualificationsbrstrong br25 years experience in server software programming using JavabrbrExperienced in designing amp developing highly scalable applications RESTful web servicesbrbrDetailed knowledge of relational and nonrelational databasesbrbrExpertise in testdriven developmentbrbrProven track record of successful product deliverybrbrExceptional analytical and problem solving skills across large ecosystemsbrbrDemonstrated ability to think criticality and quickly learn new technologiesbrbrStrong communication collaboration amp interpersonal skillsbrbriOS and macOS familiarity preferredbrbrExperience in payment industry is a plusbrbrExpertise in identity management is a huge plusbrbrExperienceunderstanding of security amp cryptography is a plusbrbr brstrongDescriptionbrstrong brImagine the freedom of a startup with the funding and laser focus of the most valuable company in the world brbrbrAs a Software Engineer on the Apple Pay Server team   brbr You will participate in initiatives that are essential to the success of upcoming product launches and product security initiatives  brbr You will get the opportunity to lead a small group of engineers working on product features  brbr You will develop the next generation of cloud support that powers Apple Pay  brbr You will be responsible for designing and developing large scale platforms that can support future Apple Pay functionality  brbr You will have the opportunity to explore and contribute to a wide range of technologies  brbr You will work collaboratively with Apples iOS Engineering team NFC team security team and external partners to define the next hot feature of Apple Paybrbr brstrongEducation amp Experiencebrstrong brBS or MS in Computer ScienceEngineering or equivalent practical experiencebrbr brRole Number 200215817brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T17:09:19.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 75600,
+    "max_value": 160000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

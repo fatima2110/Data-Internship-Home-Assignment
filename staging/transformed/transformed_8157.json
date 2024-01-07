@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Hospital &amp; Health Care",
+    "description": "Abbott is a global healthcare leader that helps people live more fully at all stages of life Our portfolio of lifechanging technologies spans the spectrum of healthcare with leading businesses and products in diagnostics medical devices nutritionals and branded generic medicines Our 109000 colleagues serve people in more than 160 countriesbrbrstronguSoftware Engineer I  St Paul Little Canada Tech CenterbrbrustrongJoin a dynamic and motivated team at Abbott Electrophysiology EP developing medical products that set the bar for clinical excellence and efficient workflow Our products provide cutting edge advanced software to enable 3D cardiac models which help in diagnosing and treating cardiac disease As a member of the software development team you will help take these products to the next level and reduce cost improve quality increase access The Software Engineer I contributes to all phases of the software lifecycle including concept development requirements design implementation and testingbrbrstronguPrimary Duties And ResponsibilitiesbrustrongulliWrite welldesigned testable codeliliDevelop Machine learning capabilities for recognizing and analyzing cardiac imagesliliWork closely with crossfunctional teams in Systems and hardwarefirmware to develop optimal solutions combining software and embedded software on FPGAsliliIntegrate software components into functional software systemliliDevelop graphical user interface componentsliliDevelop manual and automated tests for software verification as neededliliDevelop and maintain documentation to identify design requirements and solutionsliliUtilize your familiarity with all aspects of Software Development Life Cycle and methodologiesliliCommunicate effectively both within immediate team and across the program and business leadership teambrliulstronguRequired QualificationsbrustrongulliBS in Computer Engineering Computer Science Electrical Engineering Computer Systems Engineering Software Engineering or related disciplineliliExcellent CCJava knowledgebrliulstronguPreferredbrustrongulliMasters Degree in Engineering Computer Electrical Computer Systems or Software Computer Science or related discipline  Advanced degree may substitute for up years of experiencelili2 months of software engineering designliliExcellent documentation skillsliliStrong understanding of the hardwaresoftware interfaceliliExperience working in a Linux environmentliliExperience working in a regulated environment preferably medicalliliStrong oral and written communication skillsliliStrong interpersonal skillsliliSoftware development tool experience such as Perforce Jira JenkinsbrliulstronguWhat We OfferbrbrustrongAt Abbott you can have a good job that can grow into a great career We offerbrulliTraining and career development with onboarding programs for new employees and tuition assistance and student loan repayment programliliStudent Loan Repayment AssistanceliliFinancial security through competitive compensation incentives and retirement plans liliHealth care and wellbeing programs including medical dental vision wellness and occupational health programs liliPaid time off lili401k retirement savings with a generous company match liliThe stability of a company with a record of strong financial performance and history of being actively involved in local communities brliulstrongemLearn more about our benefits that add real value to your life to help you live fully  emstrongemwwwabbottbenefitscombrbrememFollow your career aspirations to Abbott for diverse opportunities with a company that provides the growth and strength to build your future Abbott is an Equal Opportunity Employer committed to employee diversitybrbrememConnect with us at ememwwwabbottcomemem on Facebook at ememwwwfacebookcomAbbottemem and on Twitter AbbottNews and AbbottGlobalem",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-14T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Abbott",
+    "link": "https://www.linkedin.com/company/abbott-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Minneapolis–Saint Paul",
+    "region": "MN",
+    "postal_code": "56304",
+    "street_address": null,
+    "latitude": 44.95,
+    "longitude": -93.2
+  }
+}

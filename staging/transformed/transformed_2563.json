@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Financial Services,Information Technology and Services,Internet",
+    "description": "strongOur PurposebrbrstrongWe work to connect and power an inclusive digital economy that benefits everyone everywhere by making transactions safe simple smart and accessible Using secure data and networks partnerships and passion our innovations and solutions help individuals financial institutions governments and businesses realize their greatest potential Our decency quotient or DQ drives our culture and everything we do inside and outside of our company We cultivate a culture of inclusion for all employees that respects their individual strengths views and experiences We believe that our differences enable us to be a better team  one that makes better decisions drives innovation and delivers better business resultsbrbrstrongJob TitlebrbrstrongSoftware EngineerbrbrExperiences make life more meaningfulbrbrPricelesscom is the platform for our Priceless Cities program  available exclusively to Mastercard cardholders It provides access to unforgettable experiences in the cities where we live and travel Help fuel passions and enable lifelong memories Start Something PricelessbrbrWe are looking for a Software Development Engineer to help us scale pricelesscombrbrIn this role you will be a key player in the Development team This is a fullstack engineering role You will apply your broad knowledge of modern web software technologies to design and build leading edge easytouse web interfaces and web services that drive our exciting platform We are looking for a motivated handson individual who will proactively seek ways to improve our product software architecture and development processbrbrstronguQualificationsRequirementsbrbrustrongBS degree or MS degree or equivalent in Computer SciencebrGood knowledge of Javascript programming PHP Web Application Frameworks ideally Yii Framework nodejs SQL database design and programming Javascript MySQL HTML AJAX Web servers Web ServicesbrA plus to have some knowledge of data warehousing UnixLinux system administration Unix shell scripting Python AWS Web Secure programmingbrSome experience building SQL andor NoSQL driven web applicationsbrStrong data analysisdatabase skillsbrStrong written and verbal communication skillsbrUnderstanding of web technologies web design and web architecturesbrThe ability to work with a diverse group of coworkers understand customer needs and develop solutions to meet those needsbrbrDue to COVID19 most of our employees are working from home Weve implemented a virtual hiring process and continue to interview candidates by phone or video and are onboarding new hires remotely We value the safety of each member of our community because we know were all in this togetherbrbremMastercard is an inclusive Equal Employment Opportunity employer that considers applicants without regard to gender gender identity sexual orientation race ethnicity disabled or veteran status or any other characteristic protected by law brbrememIf you require accommodations or assistance to complete the online application process please contact ememreasonableaccommodationmastercardcomemem and identify the type of accommodation or assistance you are requesting Do not include any medical or health information in this email The Reasonable Accommodations team will respond to your email promptlyem",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T05:18:11.000Z"
+  },
+  "company": {
+    "name": "Mastercard",
+    "link": "https://www.linkedin.com/company/mastercard"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 97800,
+    "max_value": 147000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

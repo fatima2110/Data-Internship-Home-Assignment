@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Computer Software",
+    "description": "strongJob Titlestrong Senior Software EngineerbrbrstrongLocationstrong Philadelphia PA or New York NYbrbrstronguRequired Technology And Skillsbrustrongulli5 years of software development experience with focus on webbased applications and fullstack development for both customer facing UI and backend servicesliliExperience developing software in LAMP stack with PHP preferable utilizing SymfonyliliExperience developing with a UI framework Emberjs preferred or React and Anuglar liliExperience with Linux configurationliliSome experience with different PHP runtimes liliHands on experience with relational databases  MySQL preferred Prefer database design and query developmentliliExperience maintaining and improving distributed systemsbrliulstronguNice To Have SkillsbrustrongulliExperience developing a REST APIliliKnowledge of Docker and containersliliExperience working with AWS services liliExperience with CICD preferred JenkinsbrliulstronguSalary And Compensationbrustrongulli120000140000liliBonusbrliulstronguBenefits And PerksbrustrongulliAbility to work remotelili401K matchbrliulstronguClientbrustrongulliOur client is a Fortune 500 firm that specialize in software solutions for the edtech and health tech spacebrliulPlease email jpilliontalenercom for more information or to apply",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:41:54.000Z"
+  },
+  "company": {
+    "name": "Talener",
+    "link": "https://www.linkedin.com/company/talener"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Philadelphia",
+    "region": "PA",
+    "postal_code": "08051",
+    "street_address": null,
+    "latitude": 39.95106,
+    "longitude": -75.16562
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software",
+    "description": "pMust be local to Phoenix or willing to relo  remote until at least Octoberppbrppstrongspan classqlcursorspanMust Haves strongpp35 years experience with Python or Java development and an emphasis in Machine Learning R mathematical modeling statisticsppBachelors Degree in Computer Science or related field ppHands on experience with libraries such as Spark Splunk Pandas NumPy or Sickitlearn ppStrong understanding and experience having worked in a Linux environment pp35 years experience in building and integrating APIs ppbrppstrongPlusses strongppMasters Degree in Computer Science or related field ppBackground in Linux administration ppKnowledge of WebSphere JBose or NodeJSppstrongnbspstrongppstrongDayToDaystrongppAn employer in North Phoenix is looking for a PythonMachine Learning Engineer to join their team This individual will be on the Site Reliability Team in which they are in charge of mission critical applications that are used by millions for a client facing financial website This individual should be comfortable working in an environment with strict performance requirements and be confident in their python and understanding of machine learning This team is working to implement an Automation First approach in the SRE space This engineer should have an understanding and be able to architect and conceptualize critical applications in a machine learning space ppnbspp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-12T23:11:39.000Z"
+  },
+  "company": {
+    "name": "Insight Global",
+    "link": "https://www.linkedin.com/company/insight-global"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Phoenix",
+    "region": "AZ",
+    "postal_code": "85009",
+    "street_address": null,
+    "latitude": 33.448204,
+    "longitude": -112.072586
+  }
+}

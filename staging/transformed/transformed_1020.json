@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "strongWho We ArebrbrstrongKinship is here to help everyone pet parent like a pro Were a datadriven collective building the future of pet care with interconnected solutions that reimagine every experience across the pet parent journey We combine insights products and services to help people be the best pet parents they can be and ultimately create a better world for pets That includes our worldleading WISDOM PANEL  genetic health screening and DNA testing for dogs the awardwinning WHISTLE  GPS dog tracker and health monitor Pet Insight Project our groundbreaking science team that uses AI to turn billions of data points into actionable insights and our partnerships like the LEAP VENTURE STUDIO accelerator that supports innovators and startups allowing Kinship to bring new solutions to pet parentsbrbrKinship is a business division of Mars Petcare the global leader in pet health nutrition and services and dedicated to one purpose A Better World for Pets  Learn more at wwwkinshipco brbrstrongOUR DATA amp ANALYTICS TEAMbrbrstrongThe Kinship Data amp Analytics team is a multifaceted team with global impact on the Kinship businesses This team a mixture of engineering product insights and data science associates will partner with internal and Mars Petcare teams to build a rich understanding of pets and petowners and power our business and the Kinship data ecosystem We are using an evolving cutting edge tech stack to help us ingest process model and democratize data from across the segment to create robust petcentric views of our clients As a member of a team that is still growing you will have the opportunity to help shape our teams identity and footprint The ideal candidate possesses strong technical skills is comfortable working on everchanging problems works well crossfunctionally has a sharp eye for details proactively owns and solves problems and is always excited to learnbrbrstrongHOW YOULL HELP EVERYONE PET PARENT LIKE A PRObrstrongul liContribute to exciting data projects to support better understanding of pets and pet ownersli liPower our product and services with data by implementing batch and streaming data pipelines using tools like Airflow and cloudbased data services like Googles BigQuery AWS etcli liCollaborate with our engineering team to improve our existing data models and toolingli liDevelop processes for automating testing and deploying your work to ensure data accuracy and qualityli liHelp us evolve Kinship data platform by exploring new methods or technologies through POCs or related activitiesli brulstrongTHE PRO WERE LOOKING FORbrbrstrongstrongLeadership CompetenciesbrbrstrongAs Kinship people we have three pillars that set out how we aim to bein our everyday work and in how we approach each other We call these our Cultural Pillars In all of the roles that we hire for we look for people who are Optimistic Purposefully Inquisitive and Open to All And for this role youll need these skills to knock it out of the dog parkbrbrli You Have Courage  a willingness to bring forth a new idea engaging others across Kinship to support you and taking risks and action will full accountabilitylili You Learn at Pace  a consistent and fast work ethic to meet growth goals and the ability to evolve and pivot quickly from what youve learnedlili You Value Difference  a genuine belief in inclusion and diversity is in your DNA and it shows up in your work and how you workbrbrlistrongTechnical Skillsbrstrongul liBase technical skills you are skilled and confident working in SQL Python and database systems eg AWS GCP Redshift Ideally 1 years of experience with all threeli liFamiliarity with analytical tools and query engines like Tableau Looker etc and the engineering efficiencies they requireli liHistory of collaborating you consider collaboration a core value and have experience engaging with stakeholders to successfully complete deliverablesli liFlexibility and eagerness to adapt to new software and techniques Deep domain expertise in every aspect of data engineering isnt expected but be willing to learn and approach the learning with excitementli liEnergized about working creatively with interesting innovative datali liWere seeking someone with a bachelors degree or above in a related field or equivalent work experienceli brbrulstrongJOIN OUR PROSbrstrongul liUnique opportunities for a customizable career within pet careli liA super collaborative flat work environment with direct access to our senior leadership teamli liWork from the hottest cities across the worldli liDogfriendly workplaces li liMedical dental vision 401k match and pet benefits for you and your familyli liUnlimited paid time off li liFlexible work opportunities li liParental leave for the birth or adoption of your new human child and fur babyli liDiscounts on pet products services nutrition and veterinary wellness plansli liWelcome kits with pet merch amp Kinship swagli liAn extensive onboarding program with a chance to meet all of our leaders across Kinshipliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-20T10:54:45.000Z"
+  },
+  "company": {
+    "name": "Kinship",
+    "link": "https://www.linkedin.com/company/kinshipco"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

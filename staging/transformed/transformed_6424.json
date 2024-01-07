@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Wireless Protocol Engineer",
+    "industry": "Information Technology and Services",
+    "description": "pCapgemini Engineering combines under one brand a unique set of strengths from across the Capgemini Group the world leading engineering and RampD services of Altran  acquired by Capgemini in 2020  and Capgeminis digital manufacturing expertise With broad industry knowledge and cuttingedge technologies in digital and software Capgemini Engineering supports the convergence of the physical and digital worlds Combined with the capabilities of the rest of the Group it helps clients to accelerate their journey towards Intelligent IndustrynbspCapgemini Engineering has more than 52000 engineer and scientist team members in over 30 countries across sectors including aeronautics automotive railways communications energy life sciences semiconductors software amp internet space amp defense and consumer productsppbrppstrongJob Title Wireless Protocol EngineerstrongppstrongType FTEstrongppbrppstrongLocationnbspRedmond WAstrongppbrppstrongJob DescriptionstrongppnbspnbspnbspnbspnbspnbspnbspnbspCreatingnbspProtocolnbsptest scenarios  UMTSLTEnbspacross all thenbspprocedurenbspthat comply to 3GPP and Carrier requirementsppnbspnbspnbspnbspnbspnbspnbspnbspAble to identify thenbspKPIs that make sense for product to definenbspbest user  experiencenbspandnbspfigure out methods to measure the KPIsppnbspnbspnbspnbspnbspnbspnbspnbspIdentifying critical scenariosnbspthat impact user experiencenbspon cellular services  map such scenarios to modem procedure design the test cases on network simulatorsnbspnbsptest and optimize the modem or OS platform ppnbspnbspnbspnbspnbspnbspnbspnbspDebug latencies in various layers in protocol stack Hardware interface nbspsuch as USBPCIe  that could impact power and performanceppnbspnbspnbspnbspnbspnbspnbspnbspIdentifyingnbspthenbspKPIs that will impact the power and performance and define test methods to uncover the issuesnbspDefine details test plans and approach for testing developing test tools to achieve the same ppnbspnbspnbspnbspnbspnbspnbspnbspWindows User mode and kernel mode driver knowledge for networking devices  WiFi LTEnbspppnbspnbspnbspnbspnbspnbspnbspnbspPlan the test approach and scope write test cases execute test cases record and manage defectsppnbspnbspnbspnbspnbspnbspnbspnbspcommunicate issues with greater detail and help development teams to easily understand fix issues faster or assess the level of risknbspnbspnbspnbspppPreferably candidates who moved from Modem level to Drivers side experience ppHands on work experience is at device side Understanding on modem protocol Performance testing ppAnd also Windows based system products is a must to haveppnbspppstrongMain objectivestrong of this team is to work on strongLTE modemstrong amp strongWindows driver integrationstrong and support issues reported from field during certification and new surface launches etcppnbspppstrongThe key skill set expected for these rolesstrongppnbspnbspnbspnbspnbspnbspnbspnbspnbspLTE protocol knowledge and bugfixes experienceppnbspnbspnbspnbspnbspnbspnbspnbspnbspWDMdrivers experience in developingfixing issues in USB PCIe etcppnbspnbspnbspnbspnbspnbspnbspnbspnbspPCMobile system debug knowledge with JTAG and test equipmentppbrppThis company is an equal opportunity employer All qualified applicants will receive consideration for employment without regard to race color religion sex sexual orientation gender identity national origin disability or veteran statusp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:12:16.000Z"
+  },
+  "company": {
+    "name": "Capgemini Engineering",
+    "link": "https://fr.linkedin.com/company/capgemini-engineering"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redmond",
+    "region": "WA",
+    "postal_code": "98073",
+    "street_address": null,
+    "latitude": 47.67491,
+    "longitude": -122.12399
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Hospital &amp; Health Care",
+    "description": "pCitiusTech is a leader in HealthCare innovation We work with over 120 medical technology provider payernbspand life sciences companies across the US We are rated among top 100 emBest Companies to Work Forem 8 years in a row and consistentlynbspachieved the highest NPS in the IndustrynbspnbspppData Science team at CitiusTech is helping many of our clients transform customer experience improve health outcomes and achieve business excellence through the power of AIML We are growing rapidly by 2x year on year As a team we are focused on Deep Work in AI  ML as well as building a culture of openness and respect for each othernbspppbrppstrongSkills  strongpulliAIML cloud Data Science  Python R CAIP DLVM Big Query NLP notebook Python notebook services R Notebook services Data exploration services Data visualizations Tableau Terraform  TensorFlowliulpstrongnbspstrongppstrongJob DescriptionstrongpulliHandson Cloud experienceliliExperience configuring networking andor IAM permissions andor working directly with a networking teamliliExperience with deploying models in a production environment notably a HIPAA or HITRUST environmentliliExperience with Cloud AI Platform CAIP job development and deploying models with customized preprocessing pipelines and prediction routinesliliExperience optimizing MLAIDeep Learning modelsliliWorking knowledge on Google Cloud especially endtoend machine learning with TensorFlow on GCP Smart analytics amp AI on GCP Terraform CAIP DLVM Big Query NLP notebook Python notebook services R Notebook services Data exploration services Data visualizations Tableau RStudio Speech to text Text to speech services IAM permissions configurations etcliliExperience evaluating and presenting costs and tradeoffs of various ML optionsliliSelfstarter with the ability to appropriately prioritize and plan complex work in a rapidly changing environmentliliStrong conceptual and analytical skills demonstrating outsidethebox problem solving skills results orientedliliTeam player with experience in leading and collaborating crossteam to ensure successful delivery of solutionliliWork with customers to troubleshoot their technical issues and questionsliliExcellent communication skills  should be able to explain the technical aspects to the business people and relevant stakeholdersliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-08T21:10:41.000Z"
+  },
+  "company": {
+    "name": "CitiusTech",
+    "link": "https://www.linkedin.com/company/citiustech"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Rochester",
+    "region": "MN",
+    "postal_code": "55901",
+    "street_address": null,
+    "latitude": 44.019333,
+    "longitude": -92.45887
+  }
+}

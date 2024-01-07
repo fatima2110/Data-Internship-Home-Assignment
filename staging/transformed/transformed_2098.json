@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Analyst",
+    "industry": "Information Technology and Services",
+    "description": "pstrongTechnical Business  DatanbspAnalyststrongppstrongFull Time  NO C2CstrongppbrppstrongWe are looking for a Med 4  5 years of experienced and versatile Technical Business  Data Analyst to improve our information technology systems To ensure success as a Technical Business Analyst you should demonstrate experience and creativity in data analysis and dataoriented system development Outstanding Technical Business  Data Analysts combine their IT expertise with indepth business knowledgestrongppbrppstrongTechnical Business Analyst ResponsibilitiesstrongpulliPerforming system and data analyses on software programs databases data pipelines applications and web servicesliliDesign test plans scenarios and scripts in order to conduct quality assurance testingliliDevelop user stories and maintaining the backlog in an Agile environmentliliDevelop automation scripts and reporting systemsliliTranslate business requirements into technical requirements including SQL queriesliliWorking with both business and technical resources often acting as a liaisonliliEfficiently integrating new systems programs and applications with business operations and servicesliliDetermining system efficiency and functionality by liaising with all stakeholdersliliAnalyzing and improving the performance of dataoriented servicesliliEnsuring enduser proficiency with new systems programs and applications across departmentsliliPromoting system efficiency and security by integrating performance metrics and encryptionliliImplementing new advancements in the field of system and enterprise architectureliulpbrppstrongTechnical Business Analyst RequirementsstrongpulliMust have experience working within the financialbanking industries or manufacturingsupply chain industriesliliA Bachelors Degree in Computer Science Information Technology Information Systems or similar fieldlili4 years of directly related experience in database management systems data analysis data pipelines and dataoriented quality assurance testingliliExtensive experience in all phases of the software development life cycle SDLCliliAdvanced knowledge of programming languages like SQL and system integration solutionsliliExperience working with data analysis on cloud platforms like Azure and AWSliliExperience with database technologies such as NoSQL Cosmos DB MongoDBliliNice to have  knowledge  exposure to Azure services like  Logic Apps Service Bus Azure Data Factory Azure Data Catalog and Storage ExplorerliliExceptional written and oral communication skillsliliExpert level skills with MS Excel and PowerPointliliAbility to facilitate internal team and client meetings to achieve their objectivesliliAbility to keep up with IT advancementsliulpp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:15:01.000Z"
+  },
+  "company": {
+    "name": "WorldLink US",
+    "link": "https://www.linkedin.com/company/worldlink-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Texas",
+    "region": "United States",
+    "postal_code": "76522",
+    "street_address": null,
+    "latitude": 31.463793,
+    "longitude": -99.333275
+  }
+}

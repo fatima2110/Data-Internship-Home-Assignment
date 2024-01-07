@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "pstrongJob Title  Site Reliability Engineer AWS or Azure certifiedstrongppstrongLocation Alpharetta GAstrongppstrongType  Long term ContractstrongppstrongRemote  Till Covid19 strongppnbspppstrongMUST Have strongpullistrongAIX and Windows system administrationstronglilistrongStrong DB administration skillsstronglilistrongAWS  Azure certifiedstronglilistrongUnderstanding of SRE concepts Google SRE practicestrongliulpstrongnbspstrongppstrongJob Description strongppBuild holistic visibility into SLIs SLOs and SLAs dependency graphs past performance of software network and system to ensure that we can continue to scale without increasing operational burden or toil Assess the current state of the environment and drive initiatives in collaboration with the rest of the Organization to ensure transparency resiliency stability reliability etc Across both Applications amp Infrastructure stack initiatives for future state can vary from Incident Analysis leveraging ML amp AI Assisting with Datacenter Stability amp Consolidation effort to Application Transformation Monolithic to Microservices PaaS etcppEnables the adoption and implementation of cloudbased application reliability resiliency and observability deployment best practices for production amp nonprod environments including public cloud migration of our mission critical applications from the onprem datacentersppBuild infrastructure and drive projects that break things with the aim to improve the robustness of production systemsppnbspppDue to the current scenario globally COVID 19 as we are working remotely If I miss to answer over the phone The BEST way to communicate is through an EMAILppbrppstrongBest RegardsstrongppstrongSyed RizvistrongppstrongDelivery LeadstrongppstrongQuantum World Technologies Incstrongppstrong199 West Hillcrest Dr Suite  0112 Thousand Oaks CA  91360strongppstrongwwwquantumworldusstrongppstrongOffice 8052220532 Ext139strongppstrongFax  8058340532strongppstrongEnbspsyedquantumworldusstrongp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-24T23:24:31.000Z"
+  },
+  "company": {
+    "name": "Quantum World Technologies Inc",
+    "link": "https://www.linkedin.com/company/quantumworldtechnologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Alpharetta",
+    "region": "GA",
+    "postal_code": "30022",
+    "street_address": null,
+    "latitude": 34.075615,
+    "longitude": -84.29455
+  }
+}

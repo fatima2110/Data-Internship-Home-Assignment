@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Telecommunications",
+    "description": "Sparklight a member of the Cable One family of companies is looking for a committed helpful proactive Software Engineer to design build and deploy solutions and enhancements to existing systems with very specific requirements clearly defined APIs and with existing example solutions and code Additionally this position will maintain updated troubleshooting and equipmentrelated documentation and support escalations from the Application Support TeambrbrstrongWhat this position does to contribute to the Companys successbrstrongulliAnalyzes and develops systems and technologybased OSSBSS solutions to meet user needs including applications databases and related systemsliliMaintains and troubleshoots systems such as applications custom and 3rd party reports andor database logicliliAdvanced ReportQuery design and creationliliManages and troubleshoots support tickets escalated by the Product Software SpecialistsliliProvides escalation monitoring troubleshooting and resolution of issues escalated from other organizations within the companyliliExamines evaluates troubleshoots applications deployed to Windows or Unix servers to include Log analysisliliTroubleshoots application and interface communications over an IP networkliliAnalyzes project requests to estimate time and cost required to accomplish projectliliWorks as part of a project team to coordinate software environments and determine project scope and limitationsliliTakes on other duties needed to help drive our Purpose fulfill our Brand Principles and abide by our Organizations ValuesbrliulstronguQualificationsbrustrongulliOne year of related experience or trainingeducation in application development programming languages such as NET or JavaliliTwo years or more experience as a developer on large scale integrated multisystem environments preferredliliBeginner level certification in programming languages such as Net Java Python or AngularliliExcellent computer skills including Microsoft Excel and Microsoft WordliliMust be a selfstarter with excellent problemsolving and troubleshooting skillsliliAbility to occasionally work oncall after hours and on weekendsbrliulstrongWhy join Sparklightbrstrongulli Medical and dental insurance start from date of hire no waiting period lili Competitive total compensation package lili Annual incentive bonus targeted at 5 of your pay lili 401k with company match program 100 match up to 5 of salary lili Paid Vacation Holidays PersonalSick Days and Angel Day time off to volunteer lili Tuition Reimbursement 5250 right away 10000 after 5 years lili Up to seventyfive dollars a month towards cable and internet services brliulDiversity lies in the communities we serve and among the associates who dedicate themselves to ensure our continued success At Cable One and our family of companies we believe it is our individual and unique talents backgrounds and perspectives that when combined truly make us an unstoppable force Stronger Together is not just a verbal cue it is the motto that our associates live by exemplify and embody each and every day Cable One provides equal employment opportunities to all individuals of different races colors creeds national origins genders marital and veteran statusesbrbremBy submitting your interest in this job you agree to receive text notifications with additional steps to complete your job application You will receive up to 6 messages from the number 63879 Message amp data rates may apply Please refer to our privacy policy for more informationem",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-12T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Sparklight",
+    "link": "https://www.linkedin.com/company/mysparklight"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Phoenix",
+    "region": "AZ",
+    "postal_code": "85009",
+    "street_address": null,
+    "latitude": 33.448204,
+    "longitude": -112.072586
+  }
+}

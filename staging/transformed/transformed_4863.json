@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer, VP",
+    "industry": "Banking,Financial Services,Investment Banking",
+    "description": "Job Id 21346882brbrSite Reliability Engineer is a critical role that will help drive the endtoend deliverables for the Production Resiliency work stream under the TTS strategic client experience pillar Successful candidate will be integral to evolving traditional support organization into newly formed SRE practicebrbrstronguResponsibilitiesbrustrongulliActively participate in architecture design reviews and operational readiness exercises for new and existing servicesliliDrive service reliability by developing tooling that enables scalability resilience and automation of manual tasksliliProvide solutions and recommendations to teams working on Production Resiliency streamsliliContribute to defining resiliency standards and best practicesliliDevelop framework for testing configuration and infrastructure changes which can be incorporated into release management processliliImplement libraries that can be utilized by application development teams to ensure observability standards are followedliliPerform intent driven capacity planning for new and existing servicesliliEducate and train production support personnel on SRE principles brliulstronguKey Qualificationsbrustrongulli7 years of professional software engineering experiencelili2 years of experience in SRE rolesliliExpertise analyzing complex application database network and OS issues across a distributed large scale customer facing systemsliliStrong communication skills and ability to work effectively across multiple business and technical teamliliExperience in Java NET Maven Gradle Jenkins Helm Puppet Chef Ansible Kubernetes AWS Splunk Prometheus liliBS degree in computer science or equivalent fieldbrliulbrbrstrongJob Family Group brbrstrongTechnologybrbrbrbrstrongJob FamilybrbrstrongApplications DevelopmentbrbrbrbrstrongTime TypebrbrstrongbrbrCiti is an equal opportunity and affirmative action employerbrbrQualified applicants will receive consideration without regard to their race color religion sex sexual orientation gender identity national origin disability or status as a protected veteranbrbrCitigroup Inc and its subsidiaries Citi invite all qualified interested applicants to apply for career opportunities If you are a person with a disability and need a reasonable accommodation to use our search tools andor apply for a career opportunity review strongAccessibility at CitistrongbrbrView the strongEEO is the Lawstrong poster View the strongEEO is the Law SupplementstrongbrbrView the strongEEO Policy StatementstrongbrbrView the strongPay Transparency Postingbrbrstrong",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Citi",
+    "link": "https://www.linkedin.com/company/citi"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Jersey City",
+    "region": "NJ",
+    "postal_code": "07306",
+    "street_address": null,
+    "latitude": 40.717495,
+    "longitude": -74.04411
+  }
+}

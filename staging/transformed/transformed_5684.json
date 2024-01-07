@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "strongTitlestrong Site Reliability EngineerbrbrstrongYears of Experience Desiredstrong 3 years of professional work experiencebrbrstrongLocationstrong Fully RemotebrbrstrongSalarystrong Depending on experience competitive compensationbrbrWe are a Cybersecurity leader in our field Our team leads the fight in securing important data and applications wherever they reside Our solutions identify evaluate and eliminate new and upcoming threats so you never have to worry about delivering your product or service to your customers We provide security on all fronts for thousands of enterprises and millions of people daily You can focus on what you do best and leave us to securing your databrbrWhat You Will Be Doingbrulli Contribute to the architecture implementation and automated deployment of modern cloud native applicationslili Set up monitoring for the health of both build and production systems and create automated alerts for outages or degraded performancelili Containerize complex virtual runtime environmentslili Expand and streamline complex CICD pipelines that drive frequent highquality product releaseslili Automate all missioncritical tasks and processesbrliulWhat You Need for this Positionbrulli 3 years of senior admin responsibility for AWS Services autoscaling highly available deployments of network compute storage database monitoring resources in a production environmentlili Experience building and sharing responsibility for the uptime of production cloudnative application architectureslili Cloud Native application architectures utilizing FaaS service meshesproxies etclili Terraform AWS CloudFormation etclili Experience building and managing custom Docker images and containerslili Handson experience with Kubernetes and related toolscomponentslili Experience with gitbased repos and complex autoscaling CICD pipelineslili Familiarity with Python and at least one other development or scripting language CC Go JavaScriptNodeJS PHP etclili BSc or MSc in computer science or a related degreebrliulWhats In It for Youbrulli Stability the company is an industry leader in their spacelili 100 fully remote even after Covid19 restrictions liftlili Competitive Compensation  Bonuslili Amazing Benefits Medical Dental and Vision 401K amp PTObrliulSo if you are a Site Reliability Engineer with experience please apply todaybrulli Apply directly to this job opening herebrliulOrbrulli Email directly for more information to MarcusQuigleyOptellocombrliulstronguEmail Your Resume In Word TobrbrustrongLooking forward to receiving your resume through our website and going over the position with you Clicking apply is the best way to apply but you may alsobrbrMarcusQuigleyOptellocombrulliPlease do NOT change the email subject line in any way You must keep the JobID linkedin  MQ11640686  in the email subject line for your application to be consideredbrliulMarcus Quigley  Executive Recruiter  OptellobrbrApplicants must be authorized to work in the USbrbrstrongOptello is proud to be an Equal Opportunity EmployerbrbrstrongAll qualified applicants will receive consideration for employment without regard to race color religion sex national origin disability protected veteran status or any other characteristic protected by lawbrbrstrongYour Right to Workstrong  In compliance with federal law all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hirebrbrOptello will consider for Employment in the City of Los Angeles qualified Applicants with Criminal Histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring Ban the Box Ordinance",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T13:20:02.000Z"
+  },
+  "company": {
+    "name": "Optello",
+    "link": "https://www.linkedin.com/company/optello-us"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Insurance",
+    "description": "pstrongDATA SCIENTIST  Work from home but must live in Chicago ILstrongppbrppstrongKEY RESPONSIBILITIESstrongpulliDevelop novel ways to help business partners achieve objectives through analysis and modellingliliThink outside the box to identify and test new sources of information that unlock new business valueliliCurate and connect external data sets for broad enterprisewide analytic usageliliEngineer features by using your business acumen to bin aggregate pivot or encode data for optimal resultsliliUtilize machine learning to create repeatable dynamic and scalable modelsliliHave passion to advocate and educate on the value and importance of data driven decision making and analytical methodsliliIdentify and develop longterm data science processes frameworks tools and standardsliliGenerate insights and present findings to the key stakeholdersliliBe a part of the team collaborate ask questions engage and solicit feedback from the team and business partnersliulpbrppbrppstrong QUALIFICATIONSstrongpulliBachelors Degree required 3 years of relevant experiencelili35 years of experience in Data science Degree in Data Science Computer Science Engineering Math Statistics or Economics preferredliliComfortable in basic statistical analysis modeling clustering and data mining techniques etcliliPractical experience with PythonRSQLetc comfortable working with DataFramesliliFamiliarity with cloud computing environmentsliliExperience with data visualization toolsliliExemplary organizational skills with attention to detail and accuracyliliBias for action with ability to deliver outstanding results through task prioritization and time managementliliStrong communication and collaboration skillsliulpbrppstrongPreferred strongppProperty insurance experiencenbspp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-04T18:21:09.000Z"
+  },
+  "company": {
+    "name": "Modis",
+    "link": "https://ch.linkedin.com/company/modis"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

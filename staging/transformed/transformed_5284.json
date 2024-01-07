@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - Payments",
+    "industry": "Internet",
+    "description": "DescriptionbrpPaysign is looking for an experienced expertlevel software engineer to join our team in a criticalbrbrpprole This position is responsible for building maintaining and troubleshooting core paymentsbrbrpptransaction systems APIs and data primarily using core Java technologies In this role youbrbrppwill be designing and building new APIs for the core systems supporting existing APIs as wellbrbrppas taking on ownership of code enhancements and projects related to these systems Ourbrbrppsystems are high performing and highly available therefore you must have deep experience inbrbrppbuilding and maintaining these kinds of worldclass systems We are looking for solid and experienced people ready to join a highly talented and focused engineering organization Experience in the payments andor financial transaction processing domains is requiredbrbrppbrbrbrppstrongEssential FunctionsbrbrstrongpulliBe the expert on our core backend systems financial transaction processingliliDesign build test and support new and existing APIs for the core systemsliliDesign build test and support newexisting functionality in core systemsliliBuilding additional tools and applications as needed to support operationsliliDefine design and build new code and systems for future capabilitiesliliTroubleshoot and debug core applicationsliliAssist with operational support for core systemsliulbrbrRequirementsbrulliExpert level Java ProgrammerliliDeep understandingexperience with PaymentsFinTech software protocols and processesliliProficient in other programming languages and tools preferably C Go Python etcliliDeep understanding of concurrency and transactionsliliHandson experience with highvolume transactional systems and clustered applicationsliliExpert in reading understanding and internalizing existing codebasesliliProficiency with database technologies SQL ORMliliExperience with both REST and SOAP API design and implementationsliliCommitment to testing at all levels of system engineeringliliA mindset of Operational ExcellenceliliExcellent written verbal and interpersonal skillsliulpstrongEducationExperiencebrbrstrongpulliBachelors degree in a technical discipline such as computer science information systems or related field or equivalent related experienceliulpJob Type Fulltime onsitebrbrppbrbrbrppPM20brbrp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:35:16.000Z"
+  },
+  "company": {
+    "name": "Paysign, Inc.",
+    "link": "https://www.linkedin.com/company/paysign"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Henderson",
+    "region": "NV",
+    "postal_code": "89009",
+    "street_address": null,
+    "latitude": 36.034096,
+    "longitude": -114.98445
+  }
+}

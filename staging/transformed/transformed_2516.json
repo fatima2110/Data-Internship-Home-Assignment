@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Semiconductors,Telecommunications,Medical Devices",
+    "description": "stronguDutiesbrbrustrongstrongJob DescriptionbrstrongulliYou will join the department of AIClient within Research BiologyliliYou will collaborate with scientists working on different areas of machine learning and the life sciencesliliYou will closely collaborate with machine learning scientists computational chemists and bioinformaticians across departments in the organizationliliYou will develop and deploy deep learning methods for representation learning of small molecules and prediction of chemical propertiesliliThe work will also involve software development infrastructure and hardware optimizations data pipelining and innovations to implement robust AI solutions for real world use casesbrliulstronguSkillsbrustrongulliDemonstrated experience with deep learning frameworks and models PyTorch is preferredliliProficient in PythonliliDemonstrated experience in software development GPU acceleration model optimization and scaling for multiple server nodesliliExcellent communication and collaboration skillsbrliulstronguEducationbrustrongulliMSc or PhD degree in a quantitative field eg Computer Science Computational Chemistry Machine Learning Statistics Mathematics PhysicsliliIndustry experience as data scientist or Client engineer in a healthcare companyliliExperience in deep learning for graphbased andor sequencebased dataliliExperience in deep learning for small moleculesliul",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-04T08:18:44.000Z"
+  },
+  "company": {
+    "name": "PamTen Inc",
+    "link": "https://www.linkedin.com/company/pamteninc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "South San Francisco",
+    "region": "CA",
+    "postal_code": "94083",
+    "street_address": null,
+    "latitude": 37.65568,
+    "longitude": -122.41248
+  }
+}

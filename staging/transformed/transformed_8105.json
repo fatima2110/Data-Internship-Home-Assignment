@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer, Apple Pay",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brImagine what you could do here At Apple new ideas have a way of becoming phenomenal products services and customer experiences very quickly Bring passion and dedication to your job and theres no telling what you could accomplish Apple Pay Engineering is looking for a Senior Site Reliability Engineer who can lead an emerging team of SREs to design deliver and support the next generation systems powering Apple Pay You would join a team responsible for providing scalability Reliability and Maintainability solutions for our ever growing business and data processing needs Are you interested in solving the most complex and high scale challenges in the world today Do you like the idea of running critical financial services that are used by millions of people all over the globe Do you want to help change how the world uses their wallet and money If you love to solve internet scale challenges on critical financial systems then this is the right job for youbrbr brstrongKey Qualificationsbrstrong brExperience supporting and scaling large enterprise applications in a critical followthesun environmentbrbrInterest in designing analyzing and troubleshooting largescale distributed systemsbrbrAcute drive to automate to constantly replace manual operations with automated solutionsbrbrExperience and proficiency in eventbased and logbased monitoring systems deployment tools Citrix Netscalers Unix and cloud computingbrbrApplication development experience in objectoriented and functional programming languagesbrbrExcellent codedebuggingoptimization analytical problem solving and analytical thinking skillsbrbrAbility to clearly and precisely communicate daytoday operations to ensure thorough handoff to regional SRE teamsbrbrA desire to constantly learn new technologies and stay abreast of the distributed computing landscape and drive digital transformationbrbrDrive high levels of engagement through discovery sessions enablement and solution positioning with executives and technical partnersbrbrComputer science fundamentals in objectoriented design data structures algorithm design problem solving and complexity analysisbrbrConsistent track record of taking ownership of challenging problems and successfully delivering resultsbrbrExcellent communication and collaboration skillsbrbrFast learner who is generous with their knowledgebrbrSelfdirected demonstrates leadership potential and a great teammatebrbrExperience with container orchestration systems like Kubernetes and Continuous Delivery platforms like Spinnaker is a plusbrbr brstrongDescriptionbrstrong brSite Reliability Engineering SRE is an engineering discipline that combines software and systems engineering to build and run largescale massively distributed faulttolerant systems This position requires a highly motivated individual who loves complex challenges in a fastpaced environment You will support payments services to ensure the services are functional work on improving reliability and availability will think creatively and come up with innovative solutions to automate the manual support activitiesbrbr brstrongEducation amp Experiencebrstrong brBS degree in computer science or equivalent industry experiencebrbr brRole Number 200244569brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-17T05:20:12.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 74000,
+    "max_value": 117000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

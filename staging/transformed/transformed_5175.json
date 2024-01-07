@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Hospital &amp; Health Care",
+    "description": "pIDR is partnering with a nationally recognized healthcare company headquartered here in Nashville to fill a u100 remote Site Reliability Engineeru position Our client offers an innovative workspace excellent PTO right out of the gate casual dress code and ample opportunities for growth and advancement Our client has continually been recognized and received awards for customer and employee satisfactionnbspIf you are looking a fast paced highly innovative organization to work for  we want to talk to youppbrppstrongPosition Overview for the Site Reliability Engineer strongpulliDesigns and implements automated systems to provision configure and update VMS containers and other infrastructure liliArchitects builds and improves an innovative observability platform that collects and aggregates IT services liliCollaborates with other engineering teams to design scalable and sustainable systems architectures liliGuides and instructs software engineering teams on exposing appropriate data points to provide clear availability and performance liliPerform other duties and responsibilites as required assigned or requested liulpstrongRequired Skills for the Site Reliability Engineer strongpulliBachelors Degree in Computer Science or equivalent work experience lili13 Years experience in Site Reliability Engineering DevOps Engineering or Software Engineering liliWorks to achieve operational targets which has impact on the overall achievement of results for the team liliGood communication and interpersonal skills liulpstrongWhats in it for youstrongpulliAbility to work in a fast paced collaborative environmentliliFull Benefits Medical Vision Dental and moreliliOpportunity to get in with an industry leading organizationliulpstrongWhy IDRstrongpulli20 Years of Proven Industry Experience in 4 major marketsliliEmployee Stock Ownership ProgramliliDedicated Engagement Manager who is committed to you and your successliliMedical Dental Vision and Life InsuranceliliClearlyRateds Best of Staffing Client and Talent Award winner 8 years in a rowliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T18:52:22.000Z"
+  },
+  "company": {
+    "name": "IDR, Inc.",
+    "link": "https://www.linkedin.com/company/idr-inc-_2"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

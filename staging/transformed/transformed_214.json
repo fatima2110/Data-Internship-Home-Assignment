@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Scientist",
+    "industry": "Management Consulting,Information Technology and Services",
+    "description": "stronguDescriptionbrustrongulliDesign and develop statistical models with Big Data IoT ERP Supply Chain etc to drive major operational business decisionsliliUnderstand customer and business requirements and implement reliable technical solutions for nontechnical end usersliliIdentify opportunities to improve data collection reporting and analysis based on business needsliliRegularly interface with client sponsors and team members to meet project deadlines and provide clear communication with the teamliliProvide documentation and explanation of technical solutions in a professional mannerliliAbility to create and deliver presentations in the Data Science and Advanced Analytics spaceliliAbility to take complex problemsconcepts and simplify down for a variety of audiencesbrliulstronguRequirementsbrustrongulliStrong and proven background of analytical mathematical and critical thinkingliliPassion for data analytics modeling programming and machine learningliliStrong Python andor R programming experienceliliExposure to data ETL storage and manipulation tools including SQL XMLJSON and APIslili4 years of experience in Data Science or related fieldliliBS or MS in Computer Science Computational Mathematics Applied Mathematics Engineering Data Science Statistics or equivalentliliUS Citizen or GC HolderliliTravels to client sitesbrliulDelightersbrulliHaving examples of scaling productionfacing applications or opensource contributionslili2 years of consulting experienceliliExperience using Big Data and Cloud technologiesliliFamiliarity with Spark and Data LakesliliPrior experience in the Oil and Gas industrybrliulstronguBenefitsbrbrustrongstrongSense Corp powers insightdriven organizationsbrbrstrongWe accelerate the entire transformation life cycle from strategy through implementation We turn data into actionable insights and transform organizations for the digital erabrbrOur people culture and how we engage with our clients are differentiators Brilliant Creative Human and Fun exemplify who we are We are regularly recognized as a Best Place to Work by Houston Austin Dallas and St Louis Business Journals With operations in Austin Atlanta Columbus Dallas Houston San Antonio MinneapolisSt Paul and St Louis we serve midmarket to Fortune 50 companiesbrbrstrongThe Sense Corp CompassbrbrstrongWe may be the only management consulting firm in the country where being brilliant isnt enough to land you a job Sense Corp people must be brilliant creative human and fun all at once In other words we hire terrific wellrounded people It is one reason clients love working with us And it is why we enjoy working with each other We may not sound like typical consultants but thats OK We dont think like them either",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-14T20:39:21.000Z"
+  },
+  "company": {
+    "name": "Sense Corp",
+    "link": "https://www.linkedin.com/company/sense-corp"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 98200,
+    "max_value": 164000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Houston",
+    "region": "TX",
+    "postal_code": "77001",
+    "street_address": null,
+    "latitude": 29.760803,
+    "longitude": -95.36951
+  }
+}

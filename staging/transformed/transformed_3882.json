@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "人材",
+    "description": "pstrongMust be located in JapanstrongppbrppstrongResponsibilitiesstrongpulliDevelop strongML  NLPstrong applications on top of our core machine learning assetsliliArchitect and develop a scalable cloud AI serviceliliApplication development on machine learning  deep learning assetsliliDesign and construction of cloud architecture to provide AI services in a scalable mannerliulpbrppstrongemMinimum Skill  Experience Required requirementsemstrongpulliStrong background in Computer Science or a related fieldliliExtensive experiences in application developmentliliWorking experiences with strongAWS or other cloud platformsstrongliliStrong experiences with ML frameworks such as strongScipy  Numpy ScikitLearn Pandas Tensorflow  Keras  PyTorchstrongliliGood working knowledge of machine learning models linear regression ensemble methods boosting strongRNN CNN GCN GAN etcstrongliliExperiences with git strongGitHub CI  CDstrongliliGood communication skillliliComputernbspscience or peripheral backgroundliliExperience in application developmentliliExperience in practical development on cloud platforms such as strongAWSstrongliliUnderstanding machine learning frameworks strongScipy  Numpy ScikitLearn Pandas Tensorflow  Keras  PyTorchstrong liliSufficient Japanese or English Communication skillsliulpbrppbrpp We have many other roles available from our clients please feel free to share your updated resume and contact us for detailsp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T06:47:51.000Z"
+  },
+  "company": {
+    "name": "Talisman Corporation",
+    "link": "https://jp.linkedin.com/company/talisman-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "JP",
+    "locality": "東京",
+    "region": null,
+    "postal_code": null,
+    "street_address": null,
+    "latitude": 35.686962,
+    "longitude": 139.74947
+  }
+}

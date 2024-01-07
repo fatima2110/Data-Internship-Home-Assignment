@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "How you will helpbrbrYou will support the engineering team and implement automation to fortify and expand our current technical processes You will develop a strong technical understanding of the components of our system and work with internal resources to solve any challenges that may arisebrbrWhat you will dobrulli Design and develop software across our full product stack React on the frontend powered by a robust backend microservice architecturelili Contribute to our product direction by translating customer requirements into functional scalable code consulting with product and design resources to guide our engineering choices and workflowlili Devise and implement improvements to our automated testing and deployment processeslili Manage the operation and automation of production environmentslili Triage technical support requests as neededbrbrliulstrong Desired Skills And Experience brstrongulli 2 years of experience making full stack contributions to production web applicationslili Strong developmenttools fundamentals gitGitHub npmyarn dependency management etclili Proficient working knowledge of AWS bonus LambdaServerlesslili DevOps experience with complex microservicedriven production systemslili Comfortable with ES6 JavaScript  TypeScriptbrbrliulstrong About You brbrstrongYou brulli Are motivated to automate processes efficiently and effectivelylili Understand best technical practiceslili Take initiative and always look for ways to grow your skillsetbrliulOur company challengesbrulli Empowering clients with highly rewarding data discovery and licensing toolslili Ingesting and managing billions of healthcare records from a wide variety of partnerslili Standardizing on common data models across data typeslili Orchestrating an industryleading HIPAA privacy layerlili Innovating our proprietary deidentification and data science algorithmslili Building a culture that supports rapid iteration and new possibilitiesbrliulThe infrastructure and culture we are building will provide an environment that cultivates innovation We want to move fast knowing we can fix anything we break along the way If a new need arises we want to turn around a solution quickly We want to solve our challenges in ways that create even more possibilities Were creating a platform that lets us discover what else we might dobrbrWe have big plansbrbrWe are building a platform that will scale to support an evergrowing array of data providers and innovative products You must be able to think big while still delivering on nearterm requirementsbrbrHealthVerity based in Center City Philadelphia is a venturebacked technology company that is transforming the way dataled organizations make critical decisions Our technology platform serves as the foundation for the rapid creation exchange and management of healthcare and consumer data in a fullyinteroperable privacyprotecting manner Advantaged by highly sophisticated identity resolution and matching capabilities HealthVerity is on a mission to increase transparency forge interoperability and activate deeper insightsbrbrHealthVerity is an equal opportunity employer devoted to inclusion in the workplace We believe incorporating different ideas perspectives and backgrounds make us stronger and encourages an environment where ageism racism sexism ableism homophobia transphobia or any other form of discrimination are not tolerated At HealthVerity were working towards an innovative and connected future for healthcare data and believe the future is better together We can only do that if everyone has a seat at the table Read our Equity Inclusion and Diversity StatementbrbrThis is a remote positionbrbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T05:10:36.000Z"
+  },
+  "company": {
+    "name": "HealthVerity",
+    "link": "https://www.linkedin.com/company/healthverity"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

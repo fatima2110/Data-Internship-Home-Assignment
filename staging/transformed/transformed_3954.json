@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Software Engineer",
+    "industry": "Financial Services,Information Technology and Services,Information Services",
+    "description": "strongJob DescriptionbrbrstrongstrongThe RolebrbrstrongFidelity is looking for a Principal DevOps engineer to join our Enterprise Cybersecurity Customer Protection team Were looking for someone who has a passion for technical excellence who can lead by example and feels comfortable navigating ambiguity Handson experience building and maintaining CICD pipelines performing cloud migrations and automating manual processes is a must Come be part of a missioncritical team of engineers who are using bestinclass technology cloud services and DevOps practices to achieve maximum scalability stability and resiliencybrbrstrongThe Expertise And Skills You BringbrstrongulliBachelors degreelili58 years of experience in a DevOps roleliliStrong linux systems administration expertiseliliExperience with AWS services such as EKS EC2 ECS requiredliliAWS or Kubernetes Certified preferredliliPipeline automation and orchestration utilizing the following stack or similarliliGIT Jenkins Maven JUnit Docker JMeter Artifactory Sonar Vericode KubernetesliliMonitoring automation systems such as Datadog CloudWatch or Splunk Datadog preferredliliUnderstanding of networking infrastructure and protocolsliliExcellent troubleshooting and problem solvingliliIntegrating modern SaaS solutions and vendors with existing systems and servicesliliMigrating legacy products to reduce technical debtliliProven ability to effectively collaborate on a crossfunctional agile teamliliWillingness to share oncall support rotation with your product teamliliSharing operational expertise in a team aiming for DevOps perfectionliliForever learning and expanding your skillsets to help create a wellrounded teamliliAutomating yourself out of todays job so that you can move on to the next big challengebrbrliulstrongThe TeambrbrstrongWe are Customer Protection We create the services that protect millions of customers every day Our teams focus on delivering endtoend product solutions where stability and security are our highest priority We are obsessed with simplifying complex problems by automating everything and monitoring the right thingsbrbrstrongCertificationsbrbrstrongCompany OverviewbrbrAt Fidelity Investments our customers are at the heart of everything we do As a privately held company with a rich 75year history our mission has remained the same since our founding emto strengthen the financial wellbeing of our clientsem We help people invest and plan for their future We assist companies and nonprofit organizations in delivering benefits to their employees And we provide institutions and independent advisors with investment and technology solutions to help invest their own clients moneybrbrJoin UsbrbrAt Fidelity youll find endless opportunities to build a meaningful career that positively impacts peoples lives including yours You can take advantage of flexible benefits that support you through every stage of your career empowering you to thrive at work and at home And you dont need a finance background to succeed at Fidelitywe offer a range of opportunities for learning and growth so you can build the career youve always imagined We welcome associates from different backgrounds and with different perspectives to help us innovate and make a difference for our customers and our communitiesbrbrWe invite you to strongFind Your Fidelitystrong at fidelitycareerscombrbrFidelity Investments is an equal opportunity employer We believe that the most effective way to attract develop and retain a diverse workforce is to build an enduring culture of inclusion and belongingbrbrFidelity will reasonably accommodate applicants with disabilities who need adjustments to participate in the application or interview process To initiate a request for an accommodation contact the HR Leave of AbsenceAccommodation Team by sending an email to accommodations fmrcom or by calling 8008355099 prompt 2 option 2brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T07:13:25.000Z"
+  },
+  "company": {
+    "name": "Fidelity Investments",
+    "link": "https://www.linkedin.com/company/fidelity-investments"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Principal"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Westlake",
+    "region": "TX",
+    "postal_code": "76299",
+    "street_address": null,
+    "latitude": 32.99391,
+    "longitude": -97.19771
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "pTITLE Data ScientistMachine Learning EngineerppLOCATION RemoteppDuration 8 months extensionsppbrppstrong                       Must be eligible to work on W2strongppbrppnbspIdeal Qualificationspulli5 Python software development for composition and modularity debugging and following tracebacksliliStrong stats background and concepts including hypothesis testing correlation R squared PvalueliliExperience with Pandas NumPy SciPy PytorchliliTensorflow functional API deep learningliliMathematics of machine learning linear algebra multivariable calculusliliSQL queryingliliHyperparameter optimization regularizing regression modelsliulpbrppstrongNice to HavestrongpulliMasters HIGHLY preferredliliEcommerce experienceliulpbrppstrongResponsibilities includestrongpulliAnalyze large data sets by quantifying the data quality identifying particular patterns and visualizing resultsliliUnderstand business problems and identify the right data sets and MLStatistical approach to produce the desired outcomesliliAdapt to account for changes and be able to propose alternative approachesliliIdeate and develop analytics and modeling solutions crossfunctionally to build customized longterm and sustainable solutionsliliProvide critical thought leadership and enhance organizational capabilitiesliliOwn machine learning pipelines endtoendliliWrite productiongrade machine learning code using standard engineering practices and deploy models to productionliliImprove codebase and leadparticipate in code reviews with Research Scientists and Data ScientistsliliHelp nonengineers develop their engineering skillsliliMentor junior team members and contribute to a culture where everyone is valuedliulpbrp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-13T15:45:25.000Z"
+  },
+  "company": {
+    "name": "DataEdge",
+    "link": "https://www.linkedin.com/company/dataedgeusa"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Illinois",
+    "region": "United States",
+    "postal_code": "61709",
+    "street_address": null,
+    "latitude": 40.12414,
+    "longitude": -89.14863
+  }
+}

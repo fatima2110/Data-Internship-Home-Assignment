@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "AI/ML- Machine Learning Engineer, Information Intelligence",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brThe AIML  Web Answers team is redefining how hundreds of millions of people use their devices to get their questions answered We are an RampD team pushing the limits of question answering technologies responsible for a production service We are part of a wider effort to power search and answers across a variety of Apple products  including Siri Spotlight Safari Messages and more As part of our team you will be leveraging and improving upon the latest deep learning models in order to understand queries rank documents and find useful answers to users questions Our team is responsible for deploying these models at scale using the latest advances in model compression and inferenceoptimized hardwarebrbr brstrongKey Qualificationsbrstrong brExperience in natural language processingbrbrMastery of one of following languages Python Go Java CbrbrExcellent interpersonal skills ability to work independently as well as in a teambrbrExcellent knowledge and good practical skills in major machine learning algorithmsbrbrExcellent data analytical skillsbrbrExperience with large scale search and machine learning systems is highly desiredbrbrExperience with Hadoop Hive andor Impala is a plusbrbrStrong background in algorithms and data structuresbrbr brstrongDescriptionbrstrong brAs a member of our fastpaced group youll have the unique and rewarding opportunity to shape upcoming products from Apple Our team includes a diversity of backgrounds from applied scientists with a focus in NLP to experienced distributed systems engineers As such we are looking for candidates with applied machine learning experience and solid engineering skills This role will have the following responsibilitiesbrbr Analyzing search ranking and relevance requirements issues and opportunitiesbrbr Utilizing PyTorch for training deep learning modelsbrbr Understanding product requirements then translating them into modeling tasks and engineering tasksbrbr Building an endtoend production service for question answeringbrbr Building machinelearned models for search relevance ranking query understanding and questioningbrbr Utilizing Spark Hadoop MapReduce Hive Impala to perform distributed data processing pipelinesbrbr brstrongEducation amp Experiencebrstrong brMS or PhD in Computer Science Machine Learning or related fieldbrbr brRole Number 200224378brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-14T08:19:10.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

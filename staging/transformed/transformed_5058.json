@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Quality Engineer",
+    "industry": "Hospital &amp; Health Care",
+    "description": "Abbott is a global healthcare leader that helps people live more fully at all stages of life Our portfolio of lifechanging technologies spans the spectrum of healthcare with leading businesses and products in diagnostics medical devices nutritionals and branded generic medicines Our 109000 colleagues serve people in more than 160 countriesbrbrThe Senior Software Quality Engineer assures new or modified products conform to requirements and establish compliance with the quality system They are responsible for maintaining a strong collaborative partnership with crossfunctional team members that facilitates organizational success by protecting patient  user safety and meeting business needs The Senior Software Quality Engineer position focuses primarily on software quality but also supports other aspects of product development based on experiencebrbrstronguThe Senior Software Quality Engineer PositionbrustrongulliProvides technical and quality system guidance related to establishing software requirementsliliSupports software verification and validation activities for new products in accordance with design planning procedures This includes but is not limited to review and approval of software test case protocols and reports review of software development plans and review of other system and software documentationliliLeads meetings to prioritize review andor approve of action plans for addressing issues captured in problem resolution systems during developmentliliPerforms risk evaluation and associated management activities related to software development including FMEA product risk analysis and mitigation of software issuesliliParticipates in technical and management reviews to ensure design plans product design and deliverables related to product software are met Represents the quality engineering function for the review and approval of designated design outputsliliSupports nonproduct software validation by assessing the need for validation and preparing andor supporting protocols reports and other documentation as requiredliliMay be involved with supporting product cybersecurity assessments in conjunction with a crossfunctional teamliliDrive best practices for establishing requirements and completing design verification and validation especially as it relates to user needsliliComplies with US Food and Drug Administration FDA regulations other regulatory requirements company policies operating procedures processes and task assignmentsliliMaintains a strong collaborative partnership with cross functional team members especially with RampDliliWorks as an individual contributor and may provide guidance or oversee work of other QE team membersliliPerforms other related duties and responsibilities on occasion as assignedbrliulstronguRequiredbrbrustrongQualificationsbrulliBachelors degree in Engineering or Technical FieldliliMinimum of 7 years of quality engineering experience with new product development and demonstrated use of quality tools  methodologiesliliKnowledge of regulations standards and guidance affecting medical software and nonmedical device software developmentliliProject management and leadership skills including the demonstrated ability to lead multidepartmental project teams and resolve qualityrelated issues in a timely and effective mannerliliAdvanced computer skills including statisticaldata analysis and report writing skillsliliAbility to work in a highly matrixed and geographically diverse business environmentliliAbility to work within a team and as an individual contributor in a fastpaced changing environmentliliAbility to leverage andor engage others to accomplish projectsliliStrong verbal and written communication with ability to effectively communicate at multiple levels in the organizationliliMultitasks prioritizes and meets deadlines in timely proactive mannerliliStrong organizational and followup skills as well as attention to detailliliAbility to travel approximately 10 including internationallyliliAbility to maintain regular and predictable attendancebrliulstronguPreferredbrustrongulliAdvanced degreeliliASQ CSQE certification desiredliliPrior medical device experience preferredliliExperience in Medical Device Software and Integrating Systems or in a related industry with relevant Software  System Integration experienceliliExperience working in a broader enterprise  crossdivision business unit modelliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T23:03:45.000Z"
+  },
+  "company": {
+    "name": "Abbott",
+    "link": "https://www.linkedin.com/company/abbott-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist, New Graduate",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Our mission at Duolingo is to develop the best education in the world and make it universally available But weve got more left to do  and thats where you come inbrbrDuolingo is the most popular languagelearning application in the world with over 500 million users and over half a billion exercises completed daily Beyond our core learning product we have also entered into literacy with Duolingo ABC and English proficiency testing with the Duolingo English Test brbrWe are passionate about educating our users making factbased decisions and finding innovative solutions to complex problems We offer meaningful work limitless learning opportunities and collaboration with worldclass minds Come brighten your life and over half a billion morebrbrstronguWhat Youll Dobrustrongul li Derive insights from data to influence product roadmaps and drive business results li li Lead product experiments to create and improve user experiences li li Apply advanced analytical methods to model user behavior and collaborate with product teams to develop solutions li li Develop dashboards reports and forecasts li li Ensure the quality of our tracking and data collection li li Help preserve our culture of factbased decision making as we scale li brbrulstronguWhat Were Looking Forbrustrongul li Strong understanding of consumer digital products and an interest in applying advanced analytics to business outcomes li li Pursuing a BS or MS degree in a quantitative field eg statistics economics computer science computational psychology or commensurate industry experience li li Graduation expected in Spring 2022 or Fall 2021 li li Previous experience with analyzing large datasets and presenting results li li Skilled in SQL R Python andor statistical methods to analyze behavioral data li li Excellent presentation and communication skills li brulstrongExceptional Candidatesbrstrongul li Experience with big data and cloud computing technologies like Redshift Hadoop Hive BigQuery li li Experience articulating business questions and using available data to find answers that translate into product recommendations li li Selfstarter with a desire both to learn new techniques and guide others li li Programming experience in Java or Scala is a plus li brulstrongWhy youll love working herebrstrongul li Language learning opportunities li li Catered inhouse lunches and breakfast and dinner options li li Companywide Hackathon li li PTO and company holidays li li Frequent companywide dinners monthly celebrations social clubs and so much moreliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-07T00:11:39.000Z"
+  },
+  "company": {
+    "name": "Duolingo",
+    "link": "https://www.linkedin.com/company/duolingo"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pittsburgh",
+    "region": "PA",
+    "postal_code": "15235",
+    "street_address": null,
+    "latitude": 40.44217,
+    "longitude": -79.99496
+  }
+}

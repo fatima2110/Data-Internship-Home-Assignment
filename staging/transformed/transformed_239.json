@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Deep Learning Analytics – Senior Advanced Data Scientist / Software Engineer (REMOTE)",
+    "industry": "Information Technology and Services,Defense &amp; Space,Computer Software",
+    "description": "pspanGeneral Dynamics Mission Systems GDMS engineers a diverse portfolio of high technology solutions products and services that enable customers to successfully execute missions across all domains of operationnbsp With a global team of 13000 top professionals we partner with the best in industry to expand the bounds of innovation in the defense and scientific arenasnbsp Given the nature of our work and who we are we value trust honesty alignment and transparencynbsp We offer highly competitive benefits and pride ourselves in being a great place to work with a shared sense of purpose nbspYou will also enjoy a flexible work environment where contributions are recognized and rewardednbsp If who we are and what we do resonates with you we invite you to join our high performance teamnbspspanspanGeneral Dynamics is an Equal OpportunityAffirmative Action Employer that is committed to hiring a diverse and talented workforcenbsp EOEDisabilityVeteranbrbrspanppspannbspbrbrspanppnbspbrbrppstrongspanBasic Qualificationsnbsp spanstrongBachelorrsquos of Science or Arts in a STEM Science Technology Engineering Mathematics related field plus 8 yrs or Masterrsquos degree plus 6 yrsbrbrppnbspbrbrppnbspbrbrppstrongspanClearance RequirementsspanstrongspanbrAbility to obtain a Department of Defense Top Secret security clearance is required at time of hire Department of Defense Top Secret security clearance spanis preferredspan Applicants selected will be subject to a US Government security investigation and must meet eligibility requirements for access to classified information Due to the nature of work performed within our facilities US citizenship is requiredbrbrspanppspannbspbrbrspanppspannbspbrbrspanppnbspbrbrppspanDeep Learning Analytics Center of Excellence DLACoE is looking for aspan seasoned experienced professional having a wide range of data integration data visualization big data and programming skills possessing a demonstrated understanding of artificial intelligence or machine learning with the ability to apply these skills under real world conditionsbrbrppspannbspbrbrspanppspanDuties and TasksspanspannbspbrbrspanpullispanLead the design and development of machine learning algorithms to support and achieve customer goals spanullispanAccountable for the direction and completion of a projectspanlilispanPerform program management dutiesnbspspanlilispanDraw on expertise and research to apply data science and machine learning to challenging problems over a broad range of domainsnbspspanlilispanDirect and collaborate with a dispersed and diverse team of engineers and scientists to implement data driven solutionsspanlilispanRepresent DLA CoE as a subject matter expert SME across the organization and with senior leaders spanliullilispanAssignments vary by task and may require you tospanullispanWrangle preprocess and manipulate data for use in machine learning algorithmsspanliliDevelop a proficiency with deep learning algorithms design considerations and methods to overcome limitations or constraints due to hardware or datalilispanPlan and conduct experiments to improve model performancespanlilispanExport deep architectures onto a small SWAP hardware platform such as an FPGA or GPU SoC systemsspanliliOptimize deep architectures for performance and implement systems to formalize and support such optimizationlilispanCommunicate results to team members and external nontechnical leadershipspanliullilispanProvide mentoring and training to team membersspanlilispanCollaborate with customerdomain experts through research and developmentspanlilispanContribute to technical proposals and business developmentspanlilispanPresent new concepts clearly through oral and visual mediaspanlilispanExcellent written and verbal communications skillsspanliulpspannbspspanspanTechnical SkillsbrbrspanpullispanMachine learning and deep learning in Python and CUDA including scikitlearn TensorFlow Caffe  Caffe2 PyTorch etc spanlilispanDevOps including machine provisioning eg Vagrant Puppet Docker spanlilispanFamiliarity with the Linux command line bash scriptingspanlilispanExperience working with large complex datasets images cyber NLP and other signals spanlilispanDistributed version control systems eg gitspanlilispanData preparation and corpus filtering with PostgresSQL mySQL and other DBs spanlilispanValidation methodsspanlilispanExperimental designspanliulpnbspbrbrppnbspbrbrppspanCJ3brbrspanp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-06T19:34:00.000Z"
+  },
+  "company": {
+    "name": "General Dynamics Mission Systems",
+    "link": "https://www.linkedin.com/company/gdms"
+  },
+  "education": {
+    "required_credential": null
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 69600,
+    "max_value": 131000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "United",
+    "region": "PA",
+    "postal_code": "15689",
+    "street_address": null,
+    "latitude": 40.218006,
+    "longitude": -79.49159
+  }
+}

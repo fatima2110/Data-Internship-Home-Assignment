@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Staffing and Recruiting",
+    "description": "pOur client a global provider of information technology products and services is seeking an IT Data Scientistpp ppstrongLocationnbspstrongRemoteppstrongPosition TypenbspstrongFull TimeppbrppstrongPosition SummarystrongppbrppThe IT Data Scientist position is responsible for defining planning and managing data analysis initiatives that applies data science principles and technology to develop innovative highquality technology solutions to solve complex operational problems and process challenges The IT Data Scientist identifies opportunities through the use of statistical algorithmic mining and visualization techniques The role requires advanced analytical skills and proficiency at integrating and preparing large varied datasets architecting specialized data structures and computing environments and effectively communicating results The IT Data Scientist works closely with IT application and database teams along with business and operational subject matter expertsppbrppstrongWhat You Will DostrongpulliLead and mentor staff and provide learning and development opportunities by sharing Subject Matter ExpertiseliliDesigns experiments test hypotheses and build models for the assigned operational problemsliliConducts advanced data analysis and complex design algorithms to discover patternsliliWork with stakeholders to identify business requirements and expected outcomesliliModels and frames business scenarios that are meaningful and which impact critical business processes andor decisionsliliCollaborates with subject matter experts both within IT and business areas to select the relevant sources of informationliliWorks with IT teams to support data collection integration and retention requirements based on input collected with the businessliliWorks in iterative processes at times using experimental design approaches to validate findingsliliAssesses with the business the expected qualification and assurance of the information in support of the use casesliliDefines the validity of the information how long the information is meaningful and other information it is related toliliRecommends ongoing improvements to methods and algorithms that lead to findings including new information or data external to the organization that may be usefulliliIdentifies and analyzes patterns in the data including the type of data and speed of sudden variations in the data collectionliliProvides business metrics for assigned projects to show improvementsliliProvides ongoing tracking and monitoring of performance of decision systems and modelsliliTroubleshoots and implements enhancements and fixes to systems as neededliliDemonstrates data scientist qualities including clarity accuracy precision relevance depth breath logic significance and fairnessliliAdhere to ethical standards and comply with the laws and regulations applicable to your job functionliulpbrppstrongWhat You Will BringstrongpulliBachelors degree in Data Science Mathematics Statistics Computer Science or related field or an equivalent combination of education and professional experience is required Masters degree is preferredlili57 years of related experience in IT or a related fieldlili57 years of experience in IT technologies trends and analysisliliPrevious experience in Data Warehouse and Data Analytics is preferredliliExcellent written and verbal communication skillsliliStrong tactical and analytical skills at the corporate levelliliExperience with machine learning techniques and algorithmsliliExperience with Data Warehouse implementations and ETL skillsliliAbility to work with complex data sources technical concepts and business problems effectivelyliliMust be proficient in query languages such as SQLliliAbility to work effectively as member of a team and also independently to achieve business goalsliulpbrppstrongProcess Outputs amp DeliverablesstrongpulliNew or improved operational data analysis technologies andor methodologiesliliData analysis design and implementation in support of operational processes and projectsliliAchievement of documented project goals and deliverablesliliWork product specific to individual business unit eg application development new products improved security database maintenance cost estimatesliliIncreased productivity problem resolution and process efficienciesliliReduced costs and consistent customer satisfactionliliIncreased product andor service quality and staff efficiency through consistent implementation of industry best practicesliliTimely and relevant updates to IT Manager or Director and other leadership as appropriate on departmental activity Development and implementation of standards procedures and technologies that support company objectivesliulpp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:31:11.000Z"
+  },
+  "company": {
+    "name": "Mitchell Martin Inc.",
+    "link": "https://www.linkedin.com/company/mitchell-martin"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

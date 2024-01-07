@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "pHUED is a venturebacked early stage healthcare engagement platform tailored to improving quality of care for Black and Latinx populations By reducing barriers that these communities face due to fear distrust comfortability and lack of access to quality medical care HUED seeks to change the lives of 500000 Black and Latino patients by 2025ppnbspppWe are looking for a VP of Engineering This role will establish company technology vision strategies and plans for growth The VP of Engineering will build improve and supervise our platform and quality assurance processesppnbspppThis is an exciting opportunity to be part of HUEDs founding teamppnbspppstrongDuties and Key responsibilities includenbspstrongppnbsppulliDevelop the technical aspects of our companys strategy including but not limited to hiring amp building our inhouse engineering team amp managing outsourced developersdesignersliliCreate a timeline for development and deployment of technology servicesliliEnsure system infrastructure is functioning and working efficientlyliliBuild processes for data protection and quality assuranceliliMonitor and report on Key Performance Indicators and metricsliliReduce the risk of technological breaches and protect sensitive digital informationliliRespond to feedback from stakeholders and use it to make improvements or adjustments needed to our technology stackliliMake sure regulatory standards are met eg HIPAA GDPR CCPAliliOversee any changes in system architecture and ensure continued compliance eg SOC 2liliDeploy and implement a disaster recovery plan in the event of a breachliliPlan and implement appropriate use policies for employeesliliCommunicate our technology strategy to our partners as well as investorsliulpnbspppstrongSkills amp KnowledgestrongppnbsppulliAbility to be a big picture thinkerliliExcellent leadership team building and management skillsliliAble to multitask prioritize and manage time efficientlyliulpnbsppulliAble to build strong interpersonal relationships with peers leaders and other senior management throughout the companyliliEncouraging to team and staff able to mentor and leadliliExcellent verbal and written communication skillsliliEnjoys being a polyglot and unafraid to dabble in new programming languages or frameworks amp toolsliulpnbspppstrongEducation  ExperiencestrongppnbsppulliBachelors degree in information technology computer science or related field Technologyrelated discipline preferredliliEight to ten years experience in a software development role information technology role or related field five years in management or leadership role preferredliliExperience with Mobile Application DevelopmentliliPreferable to have experience in building healthcare related productsliulpnbspppstrongComputer  Software  Technology ProficiencystrongppnbsppulliRuby on Rails JavaScript TypeScript SQL or similar stackliliDatabases MySQL PostgresQL NoSQL MongoDB DynamoDB RedisliliCode Versioning Git using GitHubliliMobile Development React Native Xamarin or other crossplatform mobile development frameworks Familiarity with SwiftObjectiveC and Java for AndroidKotlinliliAPI Development REST and GraphQLliliNice to have DevOps experience leveraging AWS Docker Kubernetes or other IaaS or PaaS providers eg HerokuliulpnbspppnbspppIf interested please send resume to engagehuedcocomnbspppbrp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T01:40:49.000Z"
+  },
+  "company": {
+    "name": "HUED",
+    "link": "https://www.linkedin.com/company/huedco"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

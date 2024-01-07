@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Linux Engineering - open source, remote",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "This is a fastpaced engineering role in Linuxbased softwaredefined infrastructure and applications covering all layers of the stack including bare metal virtualization KVM and containerization LXCLXD storage Ceph and Linux filesystems networking OVS OVN and Core networking up to OpenStack and Kubernetes and the open source applications running on top of thembrbrThis role is an opportunity for a technologist with a passion for Linux and open source to build a career with Canonical and drive success for our customers community and the company If you have an affinity for open source development great communication skills and a passion for troubleshooting and fixing issues in technology used by millions across the world then you will enjoy working with some of the best people in the industry at CanonicalbrbrstronguJob SummarybrbrustrongThis role deals with critical issues in the open source stack that require software engineering for upstream fixes Our engineers have to be able to work productively at any level of the stack above the kernel in a wide range of languages to understand and address the software issues at hand Our group is critical to the success of our enterprise customers partners and Ubuntu itselfbrbrYou will help with troubleshooting and driving issues to resolution with workarounds guidance and fixes to be released upstream and in UbuntubrbrAs a Linux Engineer you willbrul liResolve complex customer problems related to Ubuntu Kernel or Cephli liMaintain a close working relationship with Canonicals field support and product engineering teamsli liParticipate in upstream communitiesli liDevelop fixes backport patches and work with upstream for inclusionli liDemonstrate good judgement in technical methods and techniquesli liPrioritise work and manage your time effectively against those prioritiesli liParticipate in team discussions to improve processes tools and documentationli liMaintain clear technical and concise communicationsli liTravel internationally up to 10 of work time for team meetings events and conferencesli brulThe successful Linux Engineer will havebrul liProfessional experience as a software engineer is requiredli liBachelors or equivalent in Computer Science STEM or similar degreeli liStrong experience with Linux Ceph OpenStack Kubernetes or other cloud technologiesli liStrong developmentlevel experience with Python Go C or C on Linuxli liAbility to troubleshoot with gdb and other toolsli liFamiliarity with git source code repositories and branchesli brulWhat youll dobrul liCollaborate proactively with a distributed teamli liDebug issues and produce high quality code to fix themli liReview code produced by other engineersli liDiscuss ideas and collaborate on finding good solutionsli liWork from home with global travel 2 to 4 weeks per year for internal and external eventsli brulWho you arebrul liYou love technology and working with brilliant peopleli liYou are curious flexible articulate and accountableli liYou value soft skills and are passionate enterprising thoughtful and selfmotivatedli liYou have interest in and experience with most of the following Ubuntu Linux  kernel or userspace Kubernetes OpenStack Ceph QEMUKVM LXCLXD Python Go C Postgresql Mongo Debian packaging distributed systemsli brbrulstronguAbout CanonicalbrbrustrongCanonical is a growing multinational software company that works with the opensource community to deliver Ubuntu  the worlds leading cloud operating system Our services help businesses worldwide to reduce costs improve efficiency and enhance security with UbuntubrbrWe offerbrul liLearning and personal professional development budgetli liAnnual compensation reviewli liRecognition rewardsli liAnnual leaveli liGenerous parental leaveli liPriority Pass for travelli brulemCanonical believes a diverse workforce enhances our ability to deliver world class software and services which meet the worlds computing needs We are committed to ensuring equal employment opportunities to all qualified individuals All qualified applicants will receive consideration for employment without regard to race color religion gender gender identity or expression sexual orientation national origin genetics disability age or veteran statusbrbremstackbrbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:07:06.000Z"
+  },
+  "company": {
+    "name": "Canonical",
+    "link": "https://uk.linkedin.com/company/canonical"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "California",
+    "region": "PA",
+    "postal_code": "15419",
+    "street_address": null,
+    "latitude": 40.067097,
+    "longitude": -79.89491
+  }
+}

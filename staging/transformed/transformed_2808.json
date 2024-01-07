@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "pstrongRequired SkillsstrongpulliExpert in MySQL and one or more of the following Oracle Mongodb Postgres Oracle MSSQL Kafka Hadoop Hbase or HivenbspliliExperience in Kafka for at least 1 year is Must liliBachelors degree in computer science or Information TechnologyliliExpert in database and SQL tuningnbspliliExpert troubleshooternbspliliAuthored software to do parts or all of your jobliliStrong Shell Python and SQL scripting to automate DB related jobsnbspnbspliliFamiliarity with observability tools such as Grafana Prometheus Vividcortex Solarwinds Nagios Icinga Munin Cacti WiresharkliliAbility to work with development teamsnbspliliFamiliarity with low level debugging tools strace tcpdump gdb lsof and netstatnbspliliFamiliarity with SplunknbspliliExpertise in setting up and testing backupsnbspliulpnbspppstrongResponsibilitiesstrongpulliRespond to issues within the Service Level Objective during your assigned oncall rotationliliSupport 1 of 2 of these tracks of technologyliliKafka ElasticSearchLogStashKibana and RabbitMQliliMySQL Postgres Oracle MSSQLliliWrite software to improve the reliability scalability and performance of Clients infrastructureliliTroubleshoot broken systems and services issuesliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T19:29:29.000Z"
+  },
+  "company": {
+    "name": "Akraya, Inc.",
+    "link": "https://www.linkedin.com/company/akraya-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

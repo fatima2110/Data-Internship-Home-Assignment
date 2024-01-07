@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Information Technology and Services,Computer Software",
+    "description": "stronguJob DescriptionbrbrustrongAs a software engineer in the Technology Development Analytics and Technology Automation TD ATA Factory Data Systems group you will partner with other engineers to create integrated software systems that improve manufacturing output and productivity for Intels semiconductor manufacturing factories These stateoftheart systems include tracking the product as it moves through the factory to enable traceability of material processed by Intel manufacturing plants worldwidebrbrstronguResponsibilities Will Include But Not Be Limited TobrustrongulliAnalyzing the customer requirements and designing software solutions to meet requirementsliliMaintaining clear communications with customers and stakeholdersliliWork as part of a software development team to create robust reliable and highperformance applications that achieve customer requirementsliliCreating and running test suites to prove the functionality reliability and performance of the applications developedliliProviding expert level support to end users on use of these applicationsbrliulThe candidate should also exhibit the following behavioral traits andor skillsbrulliAnalytical problem solving and troubleshooting skillsliliWritten and oral communication skillsliliTeamwork skills and collaboration skillsliliTolerance of ambiguity and selfmotivationbrliulstronguQualificationsbrbrustrongMinimum qualifications are required to be initially considered for this position Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidatesbrbrstronguMinimum QualificationsustrongulliCandidate must possess a bachelors masters or PhD in Computer Science Computer Engineering or related disciplinelili5 years of experience inliulliObjectOriented software design and development eg C Java CliliDatabase development eg Oracle Microsoft SqlServerbrliululstronguPreferred Qualificationsustrongulli3 years of experience inliulliOracle DB developmentliliMicrosoft development tools Visual Studio NETliliBuilding distributed systems Semiconductor device traceabilitybrliululstrongInside this Business GroupbrbrstrongAs the worlds largest chip manufacturer Intel strives to make every facet of semiconductor manufacturing stateoftheart  from semiconductor process development and manufacturing through yield improvement to packaging final test and optimization and world class Supply Chain and facilities support Employees in the Technology and Manufacturing Group are part of a worldwide network of design development manufacturing and assemblytest facilities all focused on utilizing the power of Moores Law to bring smart connected devices to every person on EarthbrbrstrongPosting StatementbrbrstrongAll qualified applicants will receive consideration for employment without regard to race color religion religious creed sex national origin ancestry age physical or mental disability medical condition genetic information military and veteran status marital status pregnancy gender gender expression gender identity sexual orientation or any other characteristic protected by local law regulation or ordinancebrbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T04:08:40.000Z"
+  },
+  "company": {
+    "name": "Intel Corporation",
+    "link": "https://www.linkedin.com/company/intel-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Phoenix",
+    "region": "AZ",
+    "postal_code": "85009",
+    "street_address": null,
+    "latitude": 33.448204,
+    "longitude": -112.072586
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer In Test",
+    "industry": "Information Technology and Services",
+    "description": "pstronguResponsibilities ustrongpp Analyzing designing developing implementing and maintaining automation codepp Developing automation framework as per customer requirements in C Net and leveraging Microsoft tools and technologies like PowerShell Visual Studio Gitnbsppp Own independently functional testing test infra setupnbsptest case management defect management and test results analysis of SCCM product featuresnbsppp Strong communication skills should be able communicate complex information to technical and nontechnical stakeholdersnbsppp Daily and weekly reporting to customer stakeholdersnbspppnbspppstrongSKILLS  strongppstrongNeed experienced SDET 2 to 3 yearsnbspstrongppnbspnbspnbspnbspC coding NET framework SQLnbspppnbspnbspnbspnbspKnowledge on PowerShell or any scriptingnbspnbspppnbspnbspnbspnbspSystemApplication Testing experiencenbspppnbspnbspnbspnbspExperience on Microsoft technologies like Domain Controller Role amp Features AD etcnbspppnbspnbspnbspnbspKnowledge on Visual Studio GIT or any other version control toolnbspppnbspnbspnbspnbspSCCM knowledge will be a plus Experience in installing various Operating system with good knowledge of Networking concepts HyperV VirtualizationppnbspppstronguEducationustrongppMS in computer science or Equivalent degreeppnbspppstrongABOUT MINDTREEstrongppMindtree delivers digital transformation and technology services from ideation to execution enabling Global 2000 clients to outperform the competition Born digital Mindtree takes an agile collaborative approach to creating customized solutions across the digital value chain We are coheadquartered in Bangalore India and New JerseyppFounded in 1999 we are now 16000 Mindtree Minds across the globe Our annual revenue crossed 780 million in 201617 Mindtree provides services in ecommerce mobile applications cloud computing digital transformation data analytics EAI and ERP with more than 290 clients and offices in 14 countriesppVisit httpcareersmindtreecom for more detailsppnbspppstrongMode of HiringstrongppnbspppFull timep",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T17:40:22.000Z"
+  },
+  "company": {
+    "name": "Mindtree",
+    "link": "https://in.linkedin.com/company/mindtreeltd"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 62300,
+    "max_value": 115000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellevue",
+    "region": "WA",
+    "postal_code": "98007",
+    "street_address": null,
+    "latitude": 47.6137,
+    "longitude": -122.19093
+  }
+}

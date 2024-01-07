@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "Financial Services,Information Technology and Services,Internet",
+    "description": "strongOur PurposebrbrstrongWe work to connect and power an inclusive digital economy that benefits everyone everywhere by making transactions safe simple smart and accessible Using secure data and networks partnerships and passion our innovations and solutions help individuals financial institutions governments and businesses realize their greatest potential Our decency quotient or DQ drives our culture and everything we do inside and outside of our company We cultivate a culture of inclusion for all employees that respects their individual strengths views and experiences We believe that our differences enable us to be a better team  one that makes better decisions drives innovation and delivers better business resultsbrbrstrongJob TitlebrbrstrongData EngineerbrbrHave you ever wondered how do you see offers on your credit card based on your past purchase If you wanted to find the answer do join our teambrbrWe are looking for a Data Engineer to not only build data pipelines but also extend the next generation of our data tools As a Data Engineer you will develop a clear sense of connection with our platform  as Data Engineering is the eyes through which they see the productbrbrData Engineer ResponsibilitiesbrbrLead day to day system development and maintenance activities of the team to meet service level agreements and create solutions with high level of innovation cost effectiveness high quality and faster time to marketbrbrSupport code versioning and code deployments for Data PipelinesbrbrEnsure test coverage for unit testing and support integration and performance testingbrbrContribute ideas to help ensure that required standards and processes are in placebrbrResearch and evaluate current and upcoming technologies and frameworksbrbrBuild data expertise and own data quality for your areasbrbrstronguMinimum QualificationsbrbrustrongExtensive JavaScala development experiencebrbrExtensive experience with SQLbrbrStrong experience with Spark Processing enginebrbrStrong experience with Big data tools  technologies Hive Impala OOZIE Airflow NIFIbrbrStrong experience with Data ModelingbrbrExperience in Kafka and PCF Pivotal Cloud FoundrybrbrExperience analyzing data to discover opportunities and address gapsbrbrExperience working with cloud or onprem Big Data platformie Netezza Teradata AWS Redshift Google BigQuery Azure Data Warehouse or similarbrbrDue to COVID19 most of our employees are working from home Weve implemented a virtual hiring process and continue to interview candidates by phone or video and are onboarding new hires remotely We value the safety of each member of our community because we know were all in this togetherbrbremMastercard is an inclusive Equal Employment Opportunity employer that considers applicants without regard to gender gender identity sexual orientation race ethnicity disabled or veteran status or any other characteristic protected by law brbrememIf you require accommodations or assistance to complete the online application process please contact ememreasonableaccommodationmastercardcomemem and identify the type of accommodation or assistance you are requesting Do not include any medical or health information in this email The Reasonable Accommodations team will respond to your email promptlyem",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:25:16.000Z"
+  },
+  "company": {
+    "name": "Mastercard",
+    "link": "https://www.linkedin.com/company/mastercard"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81900,
+    "max_value": 135000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

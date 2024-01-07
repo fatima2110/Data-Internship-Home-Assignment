@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Software Engineer - ios Developer",
+    "industry": "Information Technology and Services",
+    "description": "Role within the iOS Consumer Mobile Applications Team will include working closely with product management user experience designers and other software development engineers across our locations in the US and India to deliver best in quality consumer mobile applicationsResponsibilitiesbrulliCollaborates with architects and other team members to build flexible scalable and maintainable mobile appsliliValidates and execute unit tests and automated UI tests to identify application errors and ensure software meet functional specsliliParticipates and coaches others in all software development life cycle phases by applying an indepth understanding of industry methodologies and standardsliliParticipate in code reviews to instill the highest of code quality ensure IOS best practices and own the continuous improvement of yourself and the teamliliStay uptodate with the latest trends techniques and innovations in Apple products and iOS developmentliliShare thoughts and ideas on how to improve the IOS Consumer mobile applicationMinimum QualificationsliliBachelors Degree in Computer Science CIS or related fieldlili7 years of experience in software development using XCode or relevant experienceliliStrong CSanalytical skillsliliGood written and verbal communication skillsliliPassionate about learning innovation knowledge sharing and continuous improvementliliPassionate for shipping consumer facing high quality mobile applicationsliliShould be able to collaborate work with and lead global teamsliliExperience in software development using ObjectiveCliliAbility to work in core frameworks on iOSo UIKito Core Datao Auto Layouto Storyboards for UI DesignliliProficient writing unit tests and UI automation tests using XCTest and XCUITestliliWell versed with the Apple HIG Human Interface GuidelinesliliExperienced with the XCode build system and deploying apps to the Apple App StoreliliExperience using Firebase SDKsliliExperience with third party dependency tools such as CocoaPods and FrameworksliliAble to provide best practices for development unit testing and acceptance testingliliExperience working in an Agile team environment and willingness to adaptPreferred QualificationsliliExperience with Kotlin Java and Google Cloud Platform GCP a plusliul",
+    "employment_type": "PART_TIME",
+    "date_posted": "2021-08-17T07:43:37.000Z"
+  },
+  "company": {
+    "name": "TechFetch.com - On Demand Tech Workforce hiring platform",
+    "link": "https://www.linkedin.com/company/techfetch"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": "Sr."
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irving",
+    "region": "TX",
+    "postal_code": "75063",
+    "street_address": null,
+    "latitude": 32.813877,
+    "longitude": -96.949936
+  }
+}

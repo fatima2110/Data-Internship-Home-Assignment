@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer In Test",
+    "industry": "Internet",
+    "description": "pstrongAbout GameChangerstrongppWe believe sports are important because they encourage leadership teamwork responsibility and confidencecritical life lessons that have the power to propel our youthnbsptoward meaningful futures We recognize that without coaches parents and volunteers organized youth sports could not exist We celebrate those dedicated heroes and make it our mission to help them do what they do bestppbrppGameChanger provides teams across the country with team management and scorekeeping capabilities as well as live fan experiences that keep parents family and friends engaged as games are announced animated and video streamed in realtime With GameChanger coaches and parents are able to organize and follow their athletes journey in a simple and powerful wayppbrppBased in downtown Manhattan GameChanger is a cuttingedge technology company and a proud member of the DICKS Sporting Goods familyppbrppstrongThe PositionnbspstrongppAs an SDET you will work with our Platform team to ensure that iOS Android and web applications meet our high standards for quality You will be responsible for building test automation frameworks and maintaining the test suites across our platformsnbspThis is a fulltime position within GameChangers Engineering Department and can be located either remotely throughout the US or at our headquarters in NYCppbrppstrongWhat Youll DostrongpulliLead quality assurance on our fastpaced Platform teamliliEstablish and maintain an automated test environment for UI testing for our Android iOS and Web appsliliIntegrate with test case management bug tracking source control and continuous integration platformsliliEducate team members on test automationliliDesign document execute and troubleshoot automated test scenariosliliEstimate test efforts analyze and communicate test results and participate in QA activitiesnbspliliIdentify required improvements in the test and development processes and make contributions to our automation toolsnbspliliCoordinate with Platform team and engineers to deliver stable product releasesliliLearn and understand release processes while improving and expanding our test coverageliliContribute to planning sessionsliliDocument issues using a bugtracking systemliliCommunicate issues found concerns and feedback back to the teamnbspliliManage release processesliulpbrppstrongWho You Arestrongpulli3 years experience in building automated testing frameworks including for iOS and Android native appsliliExperience in test automation scripting using Python Espresso Java XCUI Test Swift and SeleniumnbspliliExperience in API testing load testing performance testing and security testingliliExperience working in an Agile development processliliExperience testing iOS and Android native appsliliPositive energy and a friendly collaborative attitudeliliSelfstarter who has good attention to detail and qualityliliAbility to tradeoff getting tasks done with stepping back to see the big pictureliliPrecision in isolating issues and identifying steps to reproduceliliSound judgment and problemsolving abilitiesliliBachelors Degree in Computer ScienceliulpbrppnbspstrongPerksstrongpulliWork remotely or from our wellfurnished modern office in NYCs FiDililiUnlimited vacation policyliliTechnology stipend  3500 every 2 years to purchase new technologyliliFull health benefits  medical dental vision prescription FSAHRA etc as well as coverage for familydependentsliliLife insurance  basic life supplemental life and dependent lifeliliDisability leave  shortterm disability and longterm disabilityliliRetirement savings  401K plan offered through VanguardliliGenerous maternitypaternity leaveliliCommuter benefitsliliDICKS Sporting Goods Teammate DiscountliulpbrppWe are an equal opportunity employer and value diversity at our company We do not discriminate on the basis of race religion color national origin gender sexual orientation age marital status veteran status or disability statusppbrppstrongIn your cover letter please tell us why youre interested in the SDET position and GameChangerstrongp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:37:28.000Z"
+  },
+  "company": {
+    "name": "GameChanger",
+    "link": "https://www.linkedin.com/company/gamechangermedia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York City Metropolitan Area",
+    "region": null,
+    "postal_code": "10021",
+    "street_address": null,
+    "latitude": 40.748295,
+    "longitude": -73.98556
+  }
+}

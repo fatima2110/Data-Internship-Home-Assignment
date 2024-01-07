@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Frontend (Mid, Senior, and Staff level openings)",
+    "industry": "Financial Services",
+    "description": "pstrongAbout UsstrongppSince 2005 Prosper hasnbsphelped advance financial wellbeing for our users With over 1 million users gaining access to 19 billion in loansnbspProspernbspis the first peertopeer marketplace lender in US It is built on a simplenbspidea connect people who want to borrow money with thosenbspwhonbsphave money to investnbspWe are believers ofnbspadvancing financialnbspwellbeing and are passionate about offering our customers a portfolio ofnbspproductsnbspfromnbspHELOCnbsptonbspPersonal Loans and Credit CardnbspOur diverse culture rewards accountability and cross functional teamwork because we believe that this this enables the kind of innovative thinking that will accelerate our missionnbspnbspppnbspppWere on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity We realize that new ideas can come from everywherenbspIt is important to us that every hire connects with our vision mission and core values Join a leading fintech company thats democratizing finance for allnbspnbspppbrppstrongAbout Our Technology TeamstrongppWe are aggressively growing our Technology team to support our various financial products including a new product to be launched this year The ideal candidate is passionate about learning the Fintech domain and delivering cuttingedge highquality solutions to solve business problems We utilize a progressive testdriven Agile development methodology that places a high premium on communication teamwork sound design and clean implementationnbspppbrppstrongOur ValuesstrongppemAccountability at all levels drives resultsemppemCollaborationnbspcreates better solutionsnbspemppemExcellencenbspleads to longevitynbspemppemDiversitynbspfuels our innovationnbspemppemSimplicitynbspguides our user experiencenbspemppemIntegritynbspdefines all our relationshipsemppbrppwwwprospercompulliOur Story amp TeamnbspnbspnbspnbspOur BlognbspliulpbrppbrppstrongWhat We NeedstrongppnbspppWe are aggressively growing our engineering team to support our various financial products including a new product to be launched this year We are seeking motivated software engineers to work on our interdisciplinary scrum teams building large scale systems at Prosper MarketplacenbspThe ideal candidate is passionate about learning the Fintech domain and delivering cuttingedge highquality solutions to solve business problems We utilize a progressive testdriven Agile development methodology that places a high premium on communication teamwork sound design and clean implementationnbspnbspppbrppTechnology versatility is a critical success factor for our team The ability to stretch beyond ones specialty by learning new technologies fast and contributing to the teams goal is highly valued Prospers team culture encourages teamwork and development of wellrounded engineers who have a holistic view of the problems and solution designs Above all other factors we are looking for smart determined candidates who want to be part of a culture of innovation and creativity as we develop and define the peertopeer lending marketplacenbspppbrppWe currently have multiple openings within our Engineering department You will have the opportunity to work on cutting edge technology with a solid team and will be provided autonomy and career growth We are looking for strong frontend engineers at all levels to help continue to grow our businessnbspnbspppbrppTechnologies we use React Java script AngularppbrppstrongProblems You Will SolvestrongppbrpulliWork with a team of passionate smart and ambitious engineers who are working on building large scale systems at Prosper MarketplacenbspliliLearn from and help shape our companys engineering culturenbspliliTake ownership champion best practices and help grow one of the strongest engineering teams in San FrancisconbspliliDesign build and support core backend and frontend software componentsnbspliliPartner with crossfunctional product and analytics teams to steer or contribute to large scale strategic projects as well as solve ongoing operational problems at scalenbspliliUse engineering skill sets in a business organization to drive meaningful business impact by looking at problems through an operational lensnbspliliSelfidentify gaps problems needs and create robust solutions with relative freedomnbspliliMigrate existing onprem services to modern cloud technologiesnbspliulpbrppstrongAll About Youstrongppbrpulli5  years of experience building web applicationsliliAbility to lead and focus a team of experienced engineers leading them to a optimal solutionliliDeep understanding of cross browser cross device and web speed considerationsliliSolid coding practices including good design documentation unit testing peer code reviews and a preference for agile methodslili Proficiency using modern web development technologies and techniques including JavaScript TypeScript and CSS as well as React and GraphQLliliExperience in developing RESTful services using Spring Boot Java frameworks preferredliliPassion for building a rich and innovative user experienceliliExperience building high traffic consumer applications or customer acquisition funnelsliliExperience in Authentication and Authorization solutionsliulpbrppstrongWhat We OfferstrongppbrpulliThe opportunity to collaborate with a team of creative fun and driven colleagues on products that have an immediate and significant impact on peoples livesnbspliliThe opportunity to work in a fastpaced environment with experienced industry leadersnbspliliFlexible time off comprehensive health coverage competitive salary 401k employer match paid parental leavenbspliliWellness benefits including access to mental health resources virtual HIIT and yoga workoutsnbspliliA bevy of other perks including Udemy access childcare assistance pet insurance discounts legal assistance and additional discounts throughnbspPerkspotnbspliliThe ability to work remotely in the United Statesnbspliulpp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:13:39.000Z"
+  },
+  "company": {
+    "name": "Prosper Marketplace",
+    "link": "https://www.linkedin.com/company/prosper-marketplace"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 121000,
+    "max_value": 184000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

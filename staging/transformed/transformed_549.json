@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Test Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "stronguJob DescriptionbrbrustrongSENIOR SOFTWARE TEST ENGINEERbrbrThe Registration and Titling Solutions RTS Sr Software Test Engineer is responsible for developing automated testing strategies and implementing automation test suites for the RTS OnLine registration and titling solutions The RTS Sr Software Test Engineer plays a role in providing advice and guidance and monitoring emerging automated testing technologiesbrbrKey ResponsibilitiesbrbrWrites debugs and executes code used in application testing effortsbrbrPlans approach and test strategy for automated application testingbrbrMaintains existing scripts for the purpose of reusability and regression testingbrbrAnalyzes test results to identify issues and works with architects and developers to suggest improvements and drive issues to resolutionbrbrConducts applications tests analyses and presents test results metrics and drives issues to resolutionbrbrBuilds repository of historical testing executions for the purpose of plotting trends over timebrbrAbility to Manage the strategy design and execution of business process tests and usability evaluationsbrbrstronguTestingbrbrustrongDetermine testing standards and influence others in best practicesbrbrManage all testing activitiesbrbrManage and communicate all risks associated with the execution of testing as it relates to the quality and predictability of the encompassing program and takes mitigating action when any risks become unacceptablebrbrAssess and advise on the possibility of testing process alternatives including automated testingbrbrInitiate improvements to test processes and contributes to their implementationbrbrAssess vendors capabilities for supporting testing effortsbrbrManage stakeholder relationships with respect to all testing mattersbrbrstronguProgramming Software DevelopmentbrbrustrongDesign and implement test automation frameworks using industry best practicesbrbrEvangelize and implement test frameworks across the software testing teamsbrbrstronguQualificationsbrbrustrongBachelors degree in Computer Science or related field and 5 working experience OR 9 years equivalent combination of industry related professional experience and educationbrbrWorking experience in software development andor testingbrbrWorking experience in automated testing frameworksbrbrWorking experience with software test tools and processes building and testing frameworks and consumerfacing applications and databasesbrbrWorking experience with regulatory standards testing processesbrbrWorking experience of scripting and configuration toolsbrbrWorking knowledge of delivering products in an engineering operations or release rolebrbrWorking knowledge of development lifecycle methodologies eg waterfall agile iterativebrbrWorking experience with performance and load testing tools and practicesbrbrWorking experience with automated testing for modern javajavascript REST API driven web applicationsbrbrWorking experience with both UI and API based automation testingbrbrWorking experience with test data mocking scenarios and tools a plusbrbrJbrbrTop 5 Must Haves work experience with writing executing and supporting automation scripts API automation UI automation Parasoft Robot SQL",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-13T06:30:45.000Z"
+  },
+  "company": {
+    "name": "InfoPeople Corporation",
+    "link": "https://www.linkedin.com/company/info-people-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 108,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Groton",
+    "region": "CT",
+    "postal_code": "06349",
+    "street_address": null,
+    "latitude": 41.3408,
+    "longitude": -72.07131
+  }
+}

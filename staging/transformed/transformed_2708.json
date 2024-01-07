@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Kubernetes",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "strongSkills Kubernetes OpenShift Container Platform Infrastructure As a CodeIaC Python DockerbrbrstrongExperience level AssociatebrbrExperience required 6 YearsbrbrEducation level Bachelors degreebrbrJob function Information TechnologybrbrRelocation assistance Limited assistancebrbrstrongLocation  Dallas TX or Jersey City NJ brbrstrongstrongMUST HAVEbrbrstrongContainer migrationbrbrDockerbrbrKubernetesbrbrInfrastructure As a CodeIaCbrbrstronguSummarybrbrustrongWe are looking for a Container migration SRE who understands the enterprise containers in Docker Swarm to advanced Kubernetes platforms OpenShift Tanzu deployments and has prior experience with container migrations and deployments The container migration SRE will bring in Kubernetes deployment with software engineering SRE standard methodologies This role will be instrumental in continuing our Container First strategy delivery bringing expertise with development and implementation of container migration projectsbrbrstronguYour Primary ResponsibilitiesbrbrustrongLead the container platform ecosystembrbrCluster capacity management and provisioning through automation of underlying hostsbrbrUnderstanding the infrastructure components server network storage firewall load balancer etc required for Kubernetes platform Infrastructure As a CodeIaCbrbrDeveloper DifferentiatorbrbrExperience with a modern application software language especially a systems programming language Go PythonbrbrUnderstanding of architectural patterns Microservices are important but experience with other patterns helpfulbrbrPractitioner of version control experience with different branching strategies and understands why GitFlow is not a good choice for CICD and enterprise development teamsbrbrUnderstands and uses unit and functional testing ideally advocates tests up front advocates tests for moving fasterbrbrExperience defining delivery pipelines demonstrable work in automation and observability Bonus points for experience using GitOps for deploymentbrbrUnderstand K8s resiliency patterns HPA selfhealingbrbrUnderstands container image optimizationbrbrstrongQualificationsbrbrstrongstronguMinimum Of 6 Years Of Related ExperiencebrbrustrongBachelors degree requiredbrbrKubernetes andor Tanzu or OpenShift Container PlatformbrbrKubernetes and PythonbrbrExpertise in Tanzu Solutions As A Service OfferingsbrbrExperience delivering infrastructure as code using CICD practicesbrbrProven track record of applying technology to tackle business problemsbrbrExperience with migrateonboard application onto KubernetesbrbrAWS associate certifications or higher preferredbrbrRedHat certifications in Linux and OpenShift administration preferredbrbrPowered by JazzHRbrbrR23zQzu3lM",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T07:01:17.000Z"
+  },
+  "company": {
+    "name": "MetaOption LLC",
+    "link": "https://www.linkedin.com/company/metaoption"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

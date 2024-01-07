@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Remote Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "pModis is hiring for multiple Software Engineers on a Direct Hire basis These Software Engineers will have the opportunity to work for a growing team A brief synopsis of the requirements and responsibilities are provided belownbspppbrppstrongResponsibilitiesstrongpulliWorking as part of an Agile Development team drives feature implementation from planning to releaseliliConfers with the product management team and fellow development team members to gain understanding of needed changes or modifications of existing programs Resolves questions of program intent data input output requirements and inclusion of internal checks and controlsliliWrites and maintains programming documentation Understands and implements rolespecific information security access and responsibilitiesliliEnsures safety and confidentiality of data and systems by adhering to the organizations information security policiesliulpbrppstrongRequirementsstrongpulliBachelors degree in Computer Science Information Technology or equivalent experiencenbsplili 4 years developing full stack web applications using JavaScript frameworks such as NodeJs Express VueJs or other similar JavaScript toolslili4 years working with database technologies such as MySQL or Microsoft SQLlili Handson software development experience with a major subset of web technologies such as REST API multitiered solutions HTML 5  CSS and interacting with various Web ServersliliExperience with Bootstrap responsive fluid design frameworks a plusliliExperience with software development concepts such as objectoriented programming testing and debugging software and software deploymentliliUnderstanding of systems security data protection and data privacyliulpp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T17:43:54.000Z"
+  },
+  "company": {
+    "name": "Modis",
+    "link": "https://ch.linkedin.com/company/modis"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Jacksonville",
+    "region": "FL",
+    "postal_code": "32277",
+    "street_address": null,
+    "latitude": 30.325968,
+    "longitude": -81.65676
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Front End UI",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "strongSoftware Engineer Front End  UIbrbrstrongstrongYou brbrstrongAn experienced Full Stack Developer with a passion for UIbrbrstronguResponsibilities amp Goalsbrustrongul liOwn features to create widgets and a hosted UI environment for client financial institutions to provide bill pay to their customers with minimal oversight li ulul liHave a deep understanding of the systems Know the endtoend processing of a payment presented to the system component flow the DTO model the API and the details of the widgets and web service li liDeliver onquality ontime features and tasks assigned and produce platform live with 12 customers by end of year li liProvide insight into our customers li brbrulstronguRequirementsbrustrongul li5 years of software development experience li liFull Stack developer with emphasis on web services and UI li liExperience with responsive web apps and mobile development li liExperience with Javascript tech React JS li liExperience with Cloud Environment AWS li ulul liExperience with DevOps and configuring build environment li liHigh tolerance for ambiguity li liThrives in a fast paced work environment li liSeeks to understand the whole of how things work beyond their functional area li liStoked by solving customer issues li ulul liStrong written and verbal communication skills li liSelfstarter with the ability to own broad feature areas independently li liBABS degree in Computer Science or related major with strong academic record li liWillingness to work in a highly collaborative environment where the belief is that great ideas can come from anywhere li brbrulstronguRecommended But Not Requiredbrustrongul liExperience in payments industry li liExperience with our toolingtech stack li liExperience in small company environment li liClient facing workliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T05:43:54.000Z"
+  },
+  "company": {
+    "name": "BillGO",
+    "link": "https://www.linkedin.com/company/billgopayments"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fort Collins",
+    "region": "CO",
+    "postal_code": "80521",
+    "street_address": null,
+    "latitude": 40.58897,
+    "longitude": -105.08246
+  }
+}

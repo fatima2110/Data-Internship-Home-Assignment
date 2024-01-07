@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - Apple Online Store",
+    "industry": "Consumer Electronics",
+    "description": "brstrongSummarybrstrong brJoin the Apple Online Store team as a Senior Software Engineer Were looking for a highly motivated engineer to work in an exciting fastpaced environment delivering projects sought at improving the hugely successful Apple Online Stores ecommerce experience and features  wwwapplecomshop httpwwwapplecomshopbrbr brstrongKey Qualificationsbrstrong brProgramming in Java Scala or other object oriented programming language with deep understanding of object oriented concepts and experience in Spring or other DI frameworksbrbrbrDevelop multitier scalable highvolume performing multithreaded and reliable customer focussed web applicationsbrbrbrKnowledge and experience of serviceoriented architecturesbrbrbr5  10 years overall Software EngineerDeveloper experiencebrbrbr Demonstrated expertise in application securitybrbrbrExpert knowledge of computer science with indepth understanding of data structures algorithms and software designbrbrbrDemonstrated ability to achieve stretch goals in a highly innovative and fast paced environmentbrbrbrSharp analytical abilities and proven design skillsbrbrbrStrong leadership abilities in driving operational excellence and best engineering practicesbrbrNICETOHAVEbrbr  Experience with high traffic eCommerce applications or online merchandising web sitesbrbrbr  Solid understanding of software development methods and processes including Waterfall and Agile development practicesbrbrbr  Excellent interpersonal and documentation skillsbrbr brstrongDescriptionbrstrong brWe are looking for a self starting upbeat individual with excellent written and communication skills who is a great teammate but not afraid to question assumptions and take initiative As part of the AOS Applications Engineering team your responsibilities include building high throughput high performance reliable serverside web application architecture and features in SOA design working closely with other services engineering team UI engineering team and interacting with product design content QA and many other groups to lead and deliver world class ecommerce experience from merchandising to checkout on all platforms Web MOW and Native iOS in an exciting fastpaced environmentbrbrbrWere looking for a hardworking and passionate person to join this amazing team if you feel this is you wed love to hear from youbrbr brstrongEducation amp Experiencebrstrong brBachelors degree in Computer Science or Information Management is required MS degree or equivalentbrbr brRole Number 200252131brbr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:33:28.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "pCome join a growing SaaS company providing Enterprise POS Business Intelligence and digital tools for the mobile telecom industryppbrppWe are seeking an experienced SRE to help manage and minimize system downtime You will help assess operational risks and develop plans to mitigate them You must have excellent communication skills and the ability to document systems and knowledge gained from analysis and incident response You will have the ability to make a direct impact on the business and will be challenged to continuously improve This is a handson positionppbrppstrongRolestrongpulliHelp maintain and enhance production monitoring and notificationsliliImprove reliability and quality of production systemsliliMeasure and help optimize system performanceliliWork with dev and other teams to identify points of potential failure and then work to help enhance and improve systems to mitigateliliParticipate in capacity planningliliCreate automation to improve deployment speed testing and responding to operational issuesliliWork to meet service level objectivesliliHelp build runbooks tools and other supporting tools to improve incident responseliliMonitor production systems and help manage incident responseliulpbrppstrongRequired SkillsstrongpulliUbuntu or similar Linux environmentsliliHAProxyliliRedisliliMonitoring via tools such as ELK stack Grafana Azure Application InsightsliliAbility to program with one or more languages C  NET languages preferable but open based on experienceliliGit or other distributed source control systemsliliOptimistic pessimistliulpbrppstrongBonus skillsstrongpulliWindows experience HyperVliliSQL ServerliliAzure Dev OpsliliPowershell Bash scriptingliliJira or equivalent ticketing systemsliliExperience with certificatebased authenticationliliExperience with CICD pipelinesliulpbrppSince this is a remote position you should be trustworthy and a self starter You will help us build out and maintain our infrastructure to support our customers create and build automation and document systemsppbrppNot sure if youre interested or want more details Contact us and well setup a callppbrppNo recruiters  agencies Must be eligible to work in the US  cannot sponsor Ideal candidate will be in the continental USp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-15T18:52:03.000Z"
+  },
+  "company": {
+    "name": "RT²",
+    "link": "https://www.linkedin.com/company/rtpos"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

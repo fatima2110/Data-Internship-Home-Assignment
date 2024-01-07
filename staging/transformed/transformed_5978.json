@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "E-Learning",
+    "description": "pWe are looking to hire an MLNLP Tech lead who can own products and play a pivotal role in reengineering our products transformation and scaling of AssessEdppnbspppstronguWHAT ARE WE BUILDINGustrongppA revolutionary way of providing continuous assessments of a childs skill and learning pointing the way to the childs potential in the future This as opposed to the traditional onetime dipstickppthe methodology of a test that hurriedly bundles the child into a slot that inturn declares the child to be fit for a career in a specific area or a particular set of courses that would perhaps get him somewhere At the core of our system is a lot of data  both structured and unstructured We have books and questions and web resources and student reports that drive all our machine learning algorithms Our goal is to not only figure out how a child is coping but also figure out how to help him by presenting relevant information and questions to him in topics that he is struggling to learnppnbspppstronguRequired Skillsetsustrongpp Wisdom to know when to hustle and when to be calm and dig deep Strong can doppmentality who is joining us to build on a vision not to do a jobpp A deep hunger to learn understand and apply your knowledge to create technologypp Ability and Experience tackling hard Natural Language Processing problems to separateppwheat from the chaff knowledge of mathematical tools to succinctly describe the ideas toppimplement them in codepp Very Good understanding of Natural Language Processing and Machine Learning withppprojects to back the samepp Strong fundamental in Linear Algebra Probability and Random Variables and Algorithmspp Strong Systems experience in Distributed Systems Pipeline Hadoop Spark etcpp Good knowledge of at least one prototypingscripting language Python MATLABOctave orppRpp Good understanding of Algorithms and Data Structurespp Strong programming experience in CJavaLispHaskellpp Good written and verbal communicationppnbspppstronguDesired Skillsetsustrongpp Passion for wellengineered product and you are ticked off when something engineered isppoff and you want to get your hands dirty and fix itpp 3 years of research experience in Machine Learning Deep Learning and NLPpp Top tier peerreviewed research publication in areas like Algorithms Computer VisionImageppProcessing Machine Learning or Optimization CVPR ICCV ICML NIPS EMNLP ACL SODAppFOCS etcpp Open Source Contribution include thenbsplink to your projects Github etcpp Knowledge of functional programmingpp International level participation in ACM ICPC IOI TopCoder etcpp International level participation in Physics or Math Olympiadpp Intellectual curiosity about advanced math topics like Theoretical Computer ScienceppAbstract Algebra Topology Differential Geometry Category Theory etcppbrppstronguWhat can you expectustrongpp Opportunity to work on interesting and hard research problem to see the real application ofppstateoftheart research into practicepp Opportunity to work on important problem with big social impact Massive and directppimpact of the work you do on lives of studentspp An intellectually invigorating phenomenal work environment with massive ownership andppgrowth opportunitiespp Learn effective engineering habits required to builddeploy large productionready MLppapplicationspp Ability to do quick iterations and deploymentspp We would be excited to see you publish papers though certain restrictions do applyp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T12:15:27.000Z"
+  },
+  "company": {
+    "name": "BYJU'S",
+    "link": "https://in.linkedin.com/company/byjus"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "IN",
+    "locality": "Bangalore Urban",
+    "region": null,
+    "postal_code": "577566",
+    "street_address": null,
+    "latitude": 12.951727,
+    "longitude": 77.593636
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "C++ Developer",
+    "industry": "",
+    "description": "Job Title  Software Engineer CbrLocation Salt Lake City  UTbrJob Type ContractbrbrJob Description brSoftware Engineer C Linux  Experience in Python Shell scripting Nice to have experience in Java GWT and QT brbrRoles  Responsibilities brParticipate in requirement analysis design coding and testing manual as well as automation brAbility to understandlearn architecture and design of existing applications developed mainly using C brTake ownership of assigned jobs that are part of new feature implementation bugfixes and enhancement activities brTechnical communication with internalexternal stake holders and collaboration with global team will be part of job brbrRequired Skills Technical Competency br35 years of experience in design and development of C software applications and frameworks in Windows Linux brExperience in requirement analysis design development coding code review and unit testing brHands on software development experience  strong C programming skills brExperience in Object Oriented design and multithreading methodologies brExperience analysing debugging issues with multithreaded process using debugger brAbility to write effective and reusable code according to best practices brExperience inworking with Agile methodology in project execution brbrDesired Skills brExperience in Python Shell scripting brNice to have experience in Java GWT and QT brFamiliar with Healthcare domain standard like DICOM and IHE brAbility to explore large code base and understand architecture and design brAbility to deliver without much supervision from leadmanagers brFamiliar with tools like WinSCP Eclipse Putty Rally Collaborator SVN Git brbrIf you are interested kindly apply through the below linkbrhttpsbitly3wCDEbabrbrRecruiter DetailsbrMohamed sheikbr302 3105458brsheikmdusfalconsmartitcombrbrFind all current job openings at our Career PagebrhttpswwwfalconsmartitcomFalconCareerhtmlbrbrFollow us on LinkedIn for Job Opportunitiesbrhttpswwwlinkedincomcompanyfalconsmartit",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-15T18:43:08.000Z"
+  },
+  "company": {
+    "name": "Falcon Smart IT (FalconSmartIT)",
+    "link": "https://uk.linkedin.com/company/falconsmartit"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Salt Lake City",
+    "region": "UT",
+    "postal_code": "84101",
+    "street_address": null,
+    "latitude": 40.758476,
+    "longitude": -111.888145
+  }
+}

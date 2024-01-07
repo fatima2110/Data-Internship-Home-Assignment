@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "pstrongThe things that you will tacklestrongppbrpulliAbility to understand the business context and identify usecases where data science and technology can drive the business solutionliliDesign create test and implement complex models and algorithms that drive analytical solutions throughout the organizationliliConduct advanced statistical and other analyses to provide actionable insights identify trends and measure performanceliliCollaborate with the Product Engineer and Business teams and understands business problems to implement scalable and sustainable solutionsliliCoordinate with MIS Digital Specialists and Data Engineers to deliver holistic analytical solutionsliliSupport translators in communicating the design functioning and output of the analytical modelssolutions developedliliEnsure timely analysis and testing for regular maintenance of solutions over timeliulpWhat you will need to be successfulpulliAdvanced Degree in Computer Science Computer Applications Statistics Mathematics or other relevant field is strongly preferredliliStrong experience in a statistical andor data sciencebusiness intelligence roleliliPrior experience in machine learning statistics optimization or related fields deeper experience in working with large data sets simulation optimization or distributed computing tools is a plusliliLeverage solid principles and a clear framework when approaching data science and data engineer tasks demonstrates secondorder thinkingliliDeep understanding of data science techniques and their mathematical underpinningsliliExperience with programming is required specific experience in R or Python is a plusliliExperience of working with large data sets simulation optimization and distributed computing tools MapReduce Hadoop Hive Spark etc is a plusliliPrevious experience with healthcare or social network use cases are a plusliliUser research and user testing Experience with quantitative methods and analytics is a plusliulpp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-16T19:21:56.000Z"
+  },
+  "company": {
+    "name": "ProArch Consulting Services Private Limited",
+    "link": "https://in.linkedin.com/company/proarchconsultingservices"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

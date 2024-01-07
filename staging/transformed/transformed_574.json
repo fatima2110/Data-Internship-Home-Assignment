@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - 100% Remote",
+    "industry": "Information Technology and Services",
+    "description": "strongJob Title strongSoftware EngineerbrbrstrongJob Type strongPermanentbrbrstrongLocation strong100 remotebrbrstrongWhat Youaposll DobrbrstrongAs a Software Engineer youaposll develop the technical and business foundation to turn your passion for technology into realworld solutions Youaposll architect and implement web applications using modern technology solutions Youaposll drive the endtoend experience from the frontend to the backend systems running in the cloud Strong candidates will have robust technical training and experience You will be part of a team who works together to explore new boundaries and test new technologies and experiences We maintain a tight loop between development feedback and deployment which allows us to build worldclass solutions to our business marketing and data quandariesbrbrul liAutonomy Aspiring entrepreneurs succeed here because you will have fullownership over your work from beginning to endli liCollaborate Better than making the dream work teamwork makes the code work Through open workspace Slack and peer reviews our teams work together to build amazing solutionsli liInnovate With the belief that Everything is Written in Pencil we encourage our teams to test new frameworks learn new languages and challenge the status quo to make us betterli brulstrongWhat Weaposre Looking Forbrbrstrongul liServer side experience in technologies such as Node Golang PHP or Cli liExperience with AWSAzure cloud providersli liExperience with serverless technologiesli liExperience in frontend technologies such as React Angular and Vueli liExperience with OOP and software design practicesli liExperience with databases such as MySQL Postgres DynamoDB etcli liExperience with event driven architectureli liStrong ability to develop systems that meet architectural objectives including reusable scalable code and SOLID principlesli liKnowledge of unittesting TDDBDD tool ie Jasmine Mocha Protractorli liUnderstanding of how to build and consume REST APIsli liUnderstanding of basic authentication protocols such as OAuth2 and SAMLli liAnalytical and detailoriented minds with decisive judgement skillsli liKnowledge of basic web security principlesli liThe ability to prioritize strategize execute and deliver projects on timeli liSelfmotivated and creative problemsolvers who love to challenge themselvesli liIdeal team players hungry humble and smart We value those who are curious and strive to be great people to work withliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T11:15:48.000Z"
+  },
+  "company": {
+    "name": "TriOptus ",
+    "link": "https://www.linkedin.com/company/trioptus"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Paradise Valley",
+    "region": "AZ",
+    "postal_code": "85253",
+    "street_address": null,
+    "latitude": 33.53106,
+    "longitude": -111.94313
+  }
+}

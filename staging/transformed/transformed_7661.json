@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Public Safety",
+    "description": "pstrongSummary strongThe Data Scientist is responsible for creating maintaining and deploying the advanced analytics and statistical models vital to the success of our proprietary products The Data Scientist will be an integral member of the Product Team responsible for propagating our datadriven culture and continually improving the intelligence and autonomy of our product suite The Data Science team is small values open discussion and curiosity while encouraging people to challenge the status quo Thus a commitment to collaborative problem solving product quality and adaptability is essentialppstrongDuties  Responsibilitiesem emstrongpulliProperly apply advanced statistical and predictive modeling techniques in order to continually improve the product offeringliliDevelop innovative approaches to extract insights and advance product intelligenceliliCollaborate with the greater Data Science team to design effective work plansliliDesign build and maintain efficient reusable and reliable statistical codeliliCommunicate results and insights with the greater Data Science team as well as the company as a wholeliliProcess cleanse and verify the integrity of data used for analysis and modelingliliAnalyze internal and external data sources to help determine which are relevant and useful additions to the product suiteliliProactively mine and analyze data to find meaningful signalsliliDelegate tasks to Data Science Interns when applicableliliSpeak to completed projects across a wide range of audiencesliliAdapt to new technologies and situationsliliOther duties as assignedliulpbrppstrongRequired QualificationsstrongpulliAdvanced degree in Mathematics Statistics or related fieldlili2 years of Data Science or Analytical experienceliliProficient coding ability in statistical languages of your choice eg R PythonliliProven ability to write clean readable and reproducible codeliliOrganization and version control eg GithubliliExpertise in SQLbased query languagesliliStrong oral and written communication skillsliliAbility to quickly learn new technologiesliliAbility to work well with a teamoriented environmentliliStrong work ethic and impeccable attention to detailliulpbrppstrongPreferred Qualificationsstrongpulli3 years of Data Science experienceliliUnderstanding of a wide range of statistical models classification regression and clusteringliliExperience in Network AnalysisliliExperience with Natural Language Processing NLPliliExperience with infrastructure tools including working closely with computer engineersliliAmazon Web Services experience preferred EC2 S3 Athena SageMakerliulpbrppstrongNormal Working Hours and ConditionsnbspstrongCore business hours are generally 800 am  500 pmnbspHowever this position will require work to be performed outside of normal business hours based on Company operationsnbspppbrppstrongPhysical RequirementsnbspstrongPrimary functions require sufficient physical ability and mobility to work in an office setting including verbally communicating seeing and hearing to exchange information and fine coordination including use of a computer keyboardnbspDaily physical functions include standing sitting and walking for prolonged periods of time and occasionally stooping bending kneeling crouching reaching and twistingnbspThe employee may engage in lifting carrying pushing and pulling light to moderate amounts of weight up to 25 poundsnbspThe position also requires the operation of office equipment requiring repetitive hand movementnbspnbspppp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T12:44:25.000Z"
+  },
+  "company": {
+    "name": "Navigate360",
+    "link": "https://www.linkedin.com/company/navigate-360"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Burlington",
+    "region": "VT",
+    "postal_code": "05402",
+    "street_address": null,
+    "latitude": 44.47599,
+    "longitude": -73.211
+  }
+}

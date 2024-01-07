@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "pTitlenbspnbspnbspnbspnbspnbspnbspnbspnbspnbspnbspMachine Learning Engineer and PrototyperppDurationnbspnbsp12 MonthsppLocationnbspnbspnbspTampa Washington DC  NYC Delaware Buffalo IrvingppbrppNeed to be able to commute to one of these Client locations as neededppbrppstrongDescriptionstrongppMachine Learning Engineer and Prototyper We need engineers who are comfortable with preproduction work rather than working on existing systemsppWe are looking for a machine learning engineer with a focus on rapid prototyping and preproduction development to build innovative solutions for the Productivity team The ML Engineer will become an integral part of the Productivity and D10X team Our teams work with businesses to solve hard problems that require experimentation an outside in perspective and experience navigating ambiguityppbrppstrongJob BackgroundcontextstrongppThe objective of the job is to create experiment and put in place rapid prototypes and initial MVPs where solution hypothesis generation and testing is done with tangible throwaway proofofconcepts and rapidly implemented solutions We expect that much of the work will require an application of machine learning aimed at process automation but will likely also involve elements of data engineering back end development and process  systems mapping and designppbrppYou should be a jack of all trades with a wellrounded set of programming skills and data sciencedata engineering knowledge with experience in preproduction development You should have an interest in understanding why a software feature has business value  and want to know the customer journey that is being addressed to ensure you are building the right thing in the right way Versatility is key as every project will require a different approach sometimes including nontechnical work like process mapping or data gatheringppbrppThis job will require a high degree of independence curiosity initiative and comfort with good enough over perfection It will also require a huge amount of extroverted communications with other parts of Citi If you have to be told what to do on a daily basis if you dont like sharing your work early or if you are not comfortable in developing relationships in a large organization then this job is not for youppstrongnbspstrongppstrongKey ResponsibilitiesstrongppPrimarily youll be developing prototypes and initial MVPs for functions like risk finance compliance and HRppstrongnbspstrongppstrongTechnical Skillsstrongpp Rapid prototyping experiencepp Comfort with ML concepts and tools including Pythonpp Comfort with data manipulation and data engineeringpp Basic backend development skills PHP Javapp Experience with APIs REST and micro servicespp Experience with rational databasespp Knowledge of code versioningpp Comfort with systems mapping and communicating about process and data flowsppstrongnbspstrongppstrongOther Considerationsstrongpp Technical degreepp Basic frontend development skills HTML CSS JavaScript Angular Flutter React a plus but not requiredpp Experience with early stage new product developmentpp Excellent communication skillspp Ability to work with minimal supervisionpp Willing to collaborate with teams in diverse locationspp Problem solving skills demonstrated by past positionspp Ability to work under tight deadlines and handle multiple tasks in changing environmentpp Experience working at fintech startups or corporate innovation teams is a plusp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-12T22:55:56.000Z"
+  },
+  "company": {
+    "name": "Mindlance",
+    "link": "https://www.linkedin.com/company/mindlance"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irving",
+    "region": "TX",
+    "postal_code": "75063",
+    "street_address": null,
+    "latitude": 32.813877,
+    "longitude": -96.949936
+  }
+}

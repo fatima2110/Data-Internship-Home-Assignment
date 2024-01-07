@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "pLet AIM Consulting guide you to success today Our IT Placement Specialists are dedicated to placing qualified professionals like you in exciting opportunities with leading companies across the nationnbspppbrppWe are currently seeking multiplenbspstronguMachine Learning Engineersustrongnbspfor a strongu100 remoteustrongnbsppositions with a great companynbspplease stronguno third party candidates at this timeustrongppbrppYou can email Madison Brown Nichols to apply directly atnbspstrongumnicholsaimconsultingcomustrongnbspppbrppstrongResponsibilitiesstrongpulliEnhance and extend machine learning algorithms and models in AWS SageMakerliliBuild end to end data pipeline for machine learning modelsliliWork with big data for machine learning applications and write optimized queriesliliWork with a machine learning team to define and enforce data collection standardsliliPerpetually work to identify and improve usability in all applicationsliliHelp understand new KPIs to monitor and leverage to improve the performance of modelsliulpbrppstrongQualificationsstrongpulliExperience in AWS SageMakerliliStrong experience with Python including NumPyliliExperience with AWS tools such as CodePipeline and CodeCommitliliSupport estimation and rollout planning effortsliulpbrppstrongPreferredstrongpulliBachelors Degree in Quantitative Field Data Science Mathematics Computer Science Engineering etcliliCertifications in AWSliliExperience with AWS Redshift andor AWS AuroraliulpbrppstrongBenefitsstrongpulliComprehensive Medical PlanliliPrescription ProgramliliDental PlanliliVision ProgramliliTerm Life Insurance Planlili401k Retirement Savings PlanliulpbrppstrongInclusivitystrongppAIM Consulting is committed to building an inclusive and diverse workplace AIM Consulting is an equal opportunity employer and does not discriminate on the basis of race national origin gender gender identity sexual orientation protected veteran status disability age or other legally protected statusp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T20:38:23.000Z"
+  },
+  "company": {
+    "name": "AIM Consulting Group",
+    "link": "https://www.linkedin.com/company/aim-consulting-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

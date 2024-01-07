@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Intern",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Our mission at Duolingo is to develop the best education in the world and make it universally available But weve got more left to do  and thats where you come inbrbrDuolingo is the most popular languagelearning application in the world with over 500 million users and over half a billion exercises completed daily Beyond our core learning product we have also entered into literacy with Duolingo ABC and English proficiency testing with the Duolingo English Test brbrWe are passionate about educating our users making factbased decisions and finding innovative solutions to complex problems We offer meaningful work limitless learning opportunities and collaboration with worldclass mindsbrbrCome brighten your life and over half a billion morebrbrstronguWhat Youll Dobrustrongul li Collaborate on fullstack software projects in collaboration with product design li li Develop release and maintain services andor infrastructure li li Lead individual project priorities deadlines and deliverables li li Past Projects include liulul li Spanish audio lessons to improve listening comprehension li li Adding pinyin to the Chinese course li li Revamping of Achievements a popular gamification feature li li Adding Stripe as a payment mechanism for Duolingo Plus li li Filtering out bad ads li li Improving cache performance li ul brbrstronguWhat Were Looking Forbrustrongul li Graduating in Spring 2023 or sooner li li Pursuing a BS or MS degree in Computer Science or related technical field ie math physics or data science li li Knowledge of programming languages li li Dedication to our mission of accessible education li li 12 week consecutive availability li li Ability to relocate to Pittsburgh PA li brulstrongWhy youll love working herebrstrongul li Language learning opportunities li li Catered inhouse lunches and breakfast and dinner options li li Companywide Hackathon li li Paid time off and company holidays li li Frequent companywide dinners monthly celebrations social clubs and so much moreliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T01:07:56.000Z"
+  },
+  "company": {
+    "name": "Duolingo",
+    "link": "https://www.linkedin.com/company/duolingo"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pittsburgh",
+    "region": "PA",
+    "postal_code": "15235",
+    "street_address": null,
+    "latitude": 40.44217,
+    "longitude": -79.99496
+  }
+}

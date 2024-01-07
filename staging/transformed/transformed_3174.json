@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "pJob DescriptionppbrppAs a Software Engineer you willppbrppBe involved in fullstack web application development with a variety of languages and frameworks including Python TypeScript HTML React Flask Postgres etcppWork closely with our PM and design teams to define feature specifications and build impactful productsppWork closely with operations to build userfriendly data visualization and processing softwareppbrppMinimum Qualificationsppbrpp12 years of experience in full stack web developmentppBS Computer Science or related technical field preferred fresh grad is also okppExperience with Python and Javascript requiredpp12 years of experience with Pythonpp12 years of experience with Javascriptpp12 years of experience with relational databases and SQLppExperience in ReactJS and Flask preferredppExperience with AWS and GCP a plusppExperience with AI a plusppppbrppWere urgently in need for a Senior Software EngineersppKnow anyone who might be interestedppPlease fillup on the below link attach your updated CV and dont forget to take the coding challengeppKindly mention my name on referred bynbspppbrpphttpslnkdingmZYssbTppbrppSWEppsoftwareengineerjobsppremoteworkpphiringppcareersppnowhiringppbrppbrp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T05:14:29.000Z"
+  },
+  "company": {
+    "name": "Expedock",
+    "link": "https://www.linkedin.com/company/expedock"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

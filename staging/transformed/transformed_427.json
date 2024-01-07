@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "strongMachine Learning Engineer  Python C JuliabrbrstrongThis Jobot Job is hosted by Gene ChoibrbrAre you a fit Easy Apply now by clicking the Apply button and sending us your resumebrbrSalary 150000  200000 per yearbrbrstrongA Bit About UsbrbrstrongBased in Boston MA we use light to create photonic compute chips specialized for AI We recently secured our Series B funding of 80MbrbrIf you are a Machine Learning Engineer then please read onbrbrstrongbrbrstrongWhy join usbrbrstrongstrongulli Competitive Base Salarylili 401k PTO and excellent benefitslili Accelerated Career GrowthbrliulstrongJob DetailsbrbrstrongIs your background a fit Apply if you meet this criteriabrulli Masters or PhD in computer science electrical engineering physics mathematics or any related fieldlili Minimum of 5 years experience in software engineering for machine learning applicationslili Highly proficient in scientific objectoriented programming languages eg Python C and Julia with good code hygienelili Solid understanding of artificial intelligence machine learning and neural networkslili Highly experienced in deep learning programming languages and framework eg Tensorflow PyTorch Caffe MXNetlili Experience programming in CUDA or OpenCL is a plusbrliulInterested in hearing more Easy Apply now by clicking the Apply button",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-12T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Jobot",
+    "link": "https://www.linkedin.com/company/jobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

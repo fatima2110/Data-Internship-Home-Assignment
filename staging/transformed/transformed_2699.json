@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (Remote)",
+    "industry": "Computer Software,Internet,Information Technology and Services",
+    "description": "Our client is one of the largest crypto exchanges and they are growing quicklybrbrOur client is a crypto exchange and custodian that allows customers to buy sell store and earn more than 30 cryptocurrencies like bitcoin bitcoin cash ether litecoin and Zcash Our client is a New York trust company that is subject to the capital reserve requirements cybersecurity requirements and banking compliance standards set forth by the New York State Department of Financial Services and the New York Banking Law Our client was founded in 2014 by twin brothers Cameron and Tyler Winklevoss to empower the individual through cryptobrbrCrypto is about giving you greater choice independence and opportunity We are here to help you on your journey We build crypto products that are simple elegant and secure Whether you are an individual or an institution we want to help you buy sell and store your bitcoin and cryptocurrency Crypto is not just a technology its a movementbrbrstrongThe RolebrbrstrongSite Reliability Engineers SREs are responsible for keeping all userfacing services and other production systems running smoothly SREs are a blend of pragmatic operators and software craftspeople that apply sound engineering principles operational discipline and mature automation to our environments and the codebase We specialize in systems whether it be networking the Linux kernel or some more specific interest in scaling algorithms or distributed systemsbrbrstronguAs An SRE You WillbrustrongulliBe on a PagerDuty rotation to respond to availability incidents and provide support for service engineers with customer incidentsliliUse your oncall shift to prevent incidents from ever happeningliliRun our infrastructure with Chef Terraform and KubernetesliliMake monitoring and alerting alert on symptoms and not on outagesliliDocument so your findings turn into repeatable actionsand then into automationliliImprove the deployment process to make it as boring as possibleliliDesign build and maintain core infrastructure pieces that allow scaling to support hundreds of thousands of concurrent usersliliDebug production issues across services and levels of the stackliliPlan the growth of our clients infrastructurebrliulstrongYou may be a fit to this role if you have some of these inclinationsbrstrongulliThink about systems  edge cases failure modes behaviors specific implementationsliliKnow your way around Linux and the Unix ShellliliKnow what is the use of config management systems like Chef the one we useliliHave strong programming skills  Ruby andor GoliliHave an urge to collaborate and communicate asynchronouslyliliHave an urge to document all the things so you dont need to learn the same thing twiceliliHave an enthusiastic goforit attitude When you see something broken you cant help but fix itliliHave an urge for delivering quickly and iterating fastliliShare our values and work in accordance with those valuesliliHave experience with Nginx HAProxy Docker Kubernetes Terraform or similar technologiesliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T01:57:25.000Z"
+  },
+  "company": {
+    "name": "Recruiting from Scratch",
+    "link": "https://www.linkedin.com/company/recruiting-from-scratch"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Carlos",
+    "region": "CA",
+    "postal_code": "94071",
+    "street_address": null,
+    "latitude": 37.503735,
+    "longitude": -122.26493
+  }
+}

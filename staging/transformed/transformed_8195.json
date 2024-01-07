@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "pTitle Software EngineerppLocation Sunnyvale CaliforniappnbspppJob Description ppAs a Software Engineer in the Engineering Department your primary responsibilities will include working side by side with RampD and 3rd party vender on the development of new automated test equipment You will be expected to demonstrated an excellent working knowledge of CC programming developing application and automating tool per product required You are a selfmotivated professional who demonstrates the ability to quickly grasp new technologies products and use casesppResponsibilities will includepulliParticipate in product functional system architecture and design reviewliliCollaborate effectively with peers and venders to solve complex problems deliver endtoend quality in our product and customer experienceliliTriage customer issues and find timely creative solution to customer problemsliliExecute test cases analyze and report test results to internal RampD or vendersliliWrite API and feature documentationliulpRequired qualificationspulliBSMS in Computer Science or equivalent experiencelili2 year working experience on WindowsLinux SW development with strong debugging skillsliliHave strong programming skills on C Java Python etcliliKnowledge of cloudbased services or imaging process will be preferredliliStrong collaboration and communication skillsliliStrong initiative and ability to work independentlynbspliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-13T17:36:58.000Z"
+  },
+  "company": {
+    "name": "FutureDial, Incorporated",
+    "link": "https://www.linkedin.com/company/futuredial"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

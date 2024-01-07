@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "End User Support Specialist II",
+    "industry": "Financial Services",
+    "description": "brstronguEnd User Support Specialist IIbrbrustrongstrongChicago ILbrbrstrongWeAreTradeStationbrbrTradeStation is an online brokerage firm seeking to level the playing field for selfdirected investors and traders empowering them to claim their individual financial edge We have built a team of amazing people who work together in a highperformance culture to provide our clients with exceptional products and services We offer a collaborative and flexible work environment competitive salaries comprehensive benefits and a generous PTO policybrbrWe are seeking an End User Support Specialist who will provide assistance and consultation to all users The Specialist may perform help desk functions and training provide direct user support and guidance and assist with technology planning Specialists at this level typically provide advanced technical support on hardware and software applications The Specialist will respond to telephone calls email and personnel requests for technical support as well as track and monitor the problem to ensure a timely resolutionbrbrustrongESSENTIAL JOB FUNCTIONSstrongubrulliMaintain and upkeep assigned applications ex SCCM Druva Jamf etcliliSupport endusers with technical questions Hardware or softwareliliAssist in the development of streamlined procedures to ensure effective IT Customer Services assistanceliliAct as an escalation for the Support Specialist I for technical issues and customer service issuesliliServe as liaison between systemnetwork engineer staff and endusers to resolve customeruser problems and concernsliliExplain computing concepts to nontechnical staffliliAssist in the deployment and support of telecommunication devicesliliIntermediate level administration of Active Directory Create or modify security groups update user information etcliliAssist with departmental projectsbrbrliulustrongKNOWLEDGE SKILLS amp ABILITIESstrongubrulliIndepth understanding of desktop operating systems and hardware configurations Windows OS and macOS including system deploymentliliGeneral understanding of network conceptsliliIntermediate knowledge level of Active DirectoryliliIntermediate knowledge of PowerShell scriptingliliAbility to work independently in local andor remote locationsliliAbility to prioritize multiple tasks and projects as neededliliAbility to present computing concepts to technical and nontechnical staff and rely on hisher experience and judgment to plan and accomplish goalsliliKnowledge of enterprise software services ex Druva SCCM Jamf CrowdStrike McAfee Office 365 OneDriveliliKnowledge of commonlyused concepts practices and procedures in more complex help desk support functionsbrbrliulustrongEDUCATION amp EXPERIENCEstrongubrulliBachelors Degree in a related area or Associates Degree and equivalent related experiencelili35 years experience in the computer fieldliliMicrosoft certification is required Minimum MCPliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:34:59.000Z"
+  },
+  "company": {
+    "name": "TradeStation",
+    "link": "https://www.linkedin.com/company/tradestation"
+  },
+  "education": {
+    "required_credential": "associate degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

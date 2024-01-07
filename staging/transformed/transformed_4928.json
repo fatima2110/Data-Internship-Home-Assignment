@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer II",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "strongAre You the Right Fit brbrstrongVisual Lease is an industryleading comprehensive lease accounting solution that helps customers maintain their lease portfolios and achieve compliance with lease accounting standards Our talented engineering team delivers new features and applications on top of our SaaS platform on an iterative basis Visual Lease is looking for an innovative and collaborative software developer to join our fastgrowing engineering team Our crossfunctional delivery teams are made up of software engineers quality engineers product managers and usability designers all working collaboratively to deliver on our roadmap visionbrbrAs part of a team developing new application features improvements and product evolutions you will work across the application stack to develop UI code business logic in Microservices and develop in our relational databases SQL Server and Aurora PostgreSQL On a daily basis you will work sidebyside with crossfunctional team members to understand requirements prepare feature designs write code in Cnet and Python support testing and ultimately releases into our Cloud environmentsbrulliWoodbridge NJ Location but will consider remote candidates in the following states NJ NY WA TX SC NC PA NH MA IL GA CO AZ MD RI and FLliliPlease note that sponsorship is not available for this positionbrliulstronguWhat You Will DobrbrustrongParticipate in the software development process through the entire system lifecycle includingbrulliReview roadmap requirements discuss with stakeholders and document design plansliliInterprets requirements develops and tests fullstack application features of medium complexity using Python CNET amp AngularliliCode new features and improvements to the existing features within the platformliliDevelop and maintain technical documentation about the developed functionalityliliProvide ongoing engineering support to the business by trouble shooting reported problemsliliCreate and maintain reliable unit testsliliWork closely with development architecture product management and quality assurance colleagues to build the expected functionality with qualityliliFollow our engineering standards and best practicesbrliulstronguSkills amp CompetenciesustrongulliA Bachelors Degree in Computer Science Engineering or related technical disciplinelili26 years of software engineering work experiencelili2 year of object oriented development experience with Cnet andor PythonliliHands on experience with RDBMS like MS SQL Server PostgreSQLliliGood understanding of data structure and algorithmsliliWorking experience on Cloud technology like AWSliliExperience with the following is desiredliulliASPNet  ASPNet MVCliliPython HTML JavaScript CSS and jQueryliliAngular or ReactliliPostgreSQLliliMicroservices architectureliliModern JavaScript frameworkslibraries Angular amp ReactliulliCulturally the ideal candidate will fit into team if they possess strong collaboration ownership and a passion for innovationliliTraining certifications or experience with AWS Python Scrum are valuedbrliulstrong Why Work at Visual Lease brbrstrongWe have a passion for simplifying the complex Our lease accounting and lease administration software helps companies manage analyze and report on their leased asset portfolios Loved by more than 800 major companies worldwide our cloudbased SaaS platform embeds decades of lease management and financial accounting expertisebrbrOver the last two years our employee base has seen significant growth Voted one of NJs Best Places to Work we are looking for driven innovative and passionate teamplayers to help us continue this journey and bring us to the next levelbrbrVisual Lease is an Equal OpportunityAffirmative Action Employer All qualified applicants will receive consideration for employment without regard to race color religion sex sexual orientation gender identity national origin disability veteran status or other characteristics protected by law Visual Lease is a background screening drugfree workplace Fulltime positions offer a competitive benefits package and salary commensurate with experiencebrbrwwwvisualleasecom",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:24:31.000Z"
+  },
+  "company": {
+    "name": "Visual Lease",
+    "link": "https://www.linkedin.com/company/visual-lease"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

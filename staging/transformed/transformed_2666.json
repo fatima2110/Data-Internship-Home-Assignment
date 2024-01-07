@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (100% Remote)",
+    "industry": "Management Consulting",
+    "description": "pAs anbspstrongSite Reliability Engineerstrong you will be part developer part operations all continuous integration and delivery expert you will be integral to the design set up automation and maintenance of our entire integration and delivery pipeline The ideal candidate should have a deep software development background married with effective intercommunication skills to promote compromise with developers support engineers customers and senior managementnbspThey will be embedded within the development teams working with our clients and other engineers and developers gathering requirements architecting and communicating an endtoend automated CICD pipelinenbspppnbspppstrongResponsibilitiesstrongpulliCreate and maintain ansible automation scripts for essential tools services and configurationsliliCreate automation frameworks and write automation scripts for moving code through the SDLC process including testing scriptsliliSeek and explore opportunities to automate all operational activitiesliliDesign develop and deploy automation solutions to enable self service capabilities for end usersliliWrite robust frontend and backend API automation testsliliDesign and develop automated solutions across several services and systems in a crossfunctional agile environmentliulpstrongKnowledge and SkillsstrongpulliStrong ansible and AWS Cloud Development Kit and CloudFormation Template development skillsliliAdvanced automated script design coding debugging and maintenance skills using bash python etcliliStrong experience in CICD toolsets eg AWS Code PipelineCode Build Jenkins GitLab etcliliPatience and tolerance for when things just go wrongliliSkilled and disciplined to work remote with a distributed teamliliExcellent communications skills written verbal amp virtualliliStrong drive selfmotivated logical and detailorientedliliPassion for new technologies software amp processesliliAbility to multitask in a fastpaced environment with multiple deadlines is essentialliliOther tools Packer Docker Selenium ReadyAPI SoapUI Pro LoadUI Pro ServiceV Pronbspnbspnbspnbspnbspnbspnbspliulpp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T17:43:12.000Z"
+  },
+  "company": {
+    "name": "Take2 Consulting, LLC",
+    "link": "https://www.linkedin.com/company/take2-consulting-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": null,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tysons Corner",
+    "region": "VA",
+    "postal_code": "22030",
+    "street_address": null,
+    "latitude": 38.912,
+    "longitude": -77.22755
+  }
+}

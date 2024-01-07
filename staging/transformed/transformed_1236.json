@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer (Frontend - Remote)",
+    "industry": "Marketing and Advertising,Computer Software,Financial Services",
+    "description": "FullTimebrbrstrongOverviewbrbrstrongWere SmileDirectClub and we believe everyone deserves a smile theyll love We also believe that you deserve a job youll love Good thing you found us and we found you At SmileDirectClub were all about empowering transformation We want people to become more confident in how they look how they feel and how they think So were spreading smiles and positivity all over the countrybrbrIts no small task Thats why were looking for energetic passionate and confident team members who can help turn frowns into lifechanging grins Are you up for itbrbrSmileDirectClub is seeking a strongFrontend Engineer IVstrong to join a fastpaced dynamic engineering team working on building the next generation of our website We need you to help put a smile on our face to the customer Knowledge of JavaScript and CSS as well as stacks like Node Vue and NuxtJS will allow you to create a world class experience for our customers In joining SmileDirectClub you will be part of a team that values high performance open communication and collaborationbrbrstrongResponsibilitiesbrbrstrongulli You will be a part of setting a culture of creativity innovation and excellence lili Help establish and follow coding standards and best practices for frontend web development lili Collaborate with a team of frontend engineering professionals working on multiple diverse projects lili Build technical proof of concepts for emerging requirements lili Convert technical proofs into working software in a clear and concise fashion brbrliulstrongQualificationsbrbrstrongulli 3 years of experience crafting cuttingedge web experiences using JavaScript CSS and a common framework such as Vue or React we use Vue  NuxtJS lili Cloud experience preferably in Amazon Web Services or Azure Terraform experience is a plus lili TestDriven Development and DomainDriven Design lili Understanding of SDLC and Agile development methodologies lili Experience with Git Continuous Integration and Continuous Delivery mechanisms lili Experience with a headless CMS such as Contentful brbrliulstrongBenefits Of Joining The Clubbrbrstrongulli Medical Dental and Vision Insurance lili 401K with match lili PTO lili Aligner and Whitening Benefit lili Collaborative work environment and positive culture brbrliulstrongCompany ProfilebrbrstrongSmileDirectClub was founded on a simple belief everyone deserves a smile they love The Company is the first digital brand for straightening your smile created after the realization that recent trends in 3D printing and telehealth could bring about disruptive change to the invisible aligner market by matching licensed professionals a quality clearaligner product and customers together By leveraging proprietary cuttingedge technology SmileDirectClub LLCaffiliated dentists are providing greater access of care to consumers who couldnt otherwise afford orthodontic treatment to get a better smilebrulli What is SmileDirectClub Link here lili What are our customers saying Link here lili What is a SmileShop Link here lili What is our culture like Link here lili How do we celebrate your team members Link hereliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T01:39:11.000Z"
+  },
+  "company": {
+    "name": "SmileDirectClub",
+    "link": "https://www.linkedin.com/company/smiledirectclub"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": "Senior"
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 68100,
+    "max_value": 147400,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Nashville",
+    "region": "TN",
+    "postal_code": "37221",
+    "street_address": null,
+    "latitude": 36.166344,
+    "longitude": -86.77907
+  }
+}

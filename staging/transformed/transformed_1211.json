@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "UI Software Engineer",
+    "industry": "Construction,Information Technology and Services,Financial Services",
+    "description": "stronguResponsibilitiesbrustrongulliContribute to flagship products as part of a creative crossfunctional teamliliWork closely together with design team and UIUX experts and leverage design as code conceptliliBuilding automated frameworks for safe production deployments which can easily be maintained and operated by SREsliliAlways learn and bring new concepts and technology to your teambrliulstronguRequirementsbrustrongulliWork experience in some of the following areas Javascript Typescript Python Rest APIs React Angular liliProduce frontend code and visual components to create a polished and highly functional user interface with a focus on usability and simplicity of designliliEager to learn enough about whatever tools or tricks are needed to make things workliliCares about readable performant reliable and secure codeliliUI developer that designs develops tests reviews code documents and deployslili3 years of experiencebrliulstronguYour Key InterestsbrustrongulliMobile development using cross platform UI design and codeliliFollowing latest trends on UI technologies and UI development processesliliAutomated testing of UI functionalityliliCloud environments such as AWS Google Cloud Platform and Azureliul",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T01:13:44.000Z"
+  },
+  "company": {
+    "name": "W3Global",
+    "link": "https://www.linkedin.com/company/w3global"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer - Full time role -(Top Management Consulting)",
+    "industry": "Information Technology and Services,Computer Software,Management Consulting",
+    "description": "strongLevels Consultant and Sr Consultantbrstrongul li2  6 years of overall IT experienceli liManagement consulting or IT consulting experience will be preferredli liExperience with building and deploying MLbased solutions and proficiency in common machine learning frameworks such as TensorFlow Keras scikitlearn Pytorch and ONNXli liSolid experience as a data engineer with largescale data ecosystems including data lake data management governance and the integration of structured and unstructured data to generate insights leveraging cloudbased platformsli liExperience with Big Data and programming languages Python Scala R Java etcli liExperience with AWS Azure or GCPli liShould have valid work authorizationli brbrulstrongKey Hiring Locations brstrongulliNew York San Jose Los Angeles Atlanta Chicago Boston Detroit Columbus Cleveland Cincinnati Denver Dallas Austin Houston Minneapolis Parsippanysome other metropolitan cities will also be consideredbrbrliulstronguRequirementsbrbrustrongstrongImportant considerations brstrongul liUp to 50 travel required post COVIDli liFull Time Direct Hire roleli liRemote till we have COVID restrictionsli brbrulustrongBenefitsbrbrstronguBest in the class",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T02:37:22.000Z"
+  },
+  "company": {
+    "name": "Arth Consulting - An Executive Search Firm",
+    "link": "https://www.linkedin.com/company/arth-consulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

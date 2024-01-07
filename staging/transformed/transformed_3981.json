@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Web Developer",
+    "industry": "",
+    "description": "pWe are currently looking fornbspstrongJr WordPress Web Developersstrongnbspwho are passionate innovative and motivated to make a differenceppstrongResponsibilities includestrongpulliThe developers primary focus will be to assist the development team in developing WordPress sites testing deployment and site updatesliliUtilize HTML  CSS to troubleshoot and edit issues and updates to sites through the production lifecycleliliContinue to learn best practices for developing responsive websites and WordPress themesliulpstrongDesired Skills amp ExperiencestrongpulliAbility to communicate and work in a team environmentliliMust have experience working with WordPressliliOrganizational skills work management ability to prioritize identify and resolve issuesliulpstrongQualificationsstrongpulliThorough knowledge of HTML5 CSS3 WordPressliliSolid understanding of responsive design and development practicesliliExperience in web development industryliliKnowledge of crossbrowser testing and common issuesliliAbility to use PhotoshopliulpstrongCompany PerksstrongpulliBonusesliliIncredible company culture with laidback atmosphereliliCompany events throughout the yearliliWork with a great team of peopleliliFull benefits package including medical vision dental and 401Kliulpbrp",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T07:34:00.000Z"
+  },
+  "company": {
+    "name": "1Point21 Interactive",
+    "link": "https://www.linkedin.com/company/1point21-interactive"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "Orlando",
+    "region": "FL",
+    "postal_code": "32817",
+    "street_address": null,
+    "latitude": 28.589708,
+    "longitude": -81.24801
+  }
+}

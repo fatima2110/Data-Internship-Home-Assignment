@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Data Engineer",
+    "industry": "",
+    "description": "pEspire Services is looking for a temporary to full time Machine Learning Data Engineer to ensure that backend data pipelines amp operations run smoothly 247 from multiple data providers You will be responsible for leading endtoend data management activities including but not limited to working with partners to identify fields data linkage and integration performing data quality checks analysis presenting data and documenting the processnbspppYou must be able to review and understand large sets of data while being able to highlight relevant trends and patterns The ideal candidate is a quick learner curious innovative resultsoriented and has strong interpersonal skillsstrongnbspnbspnbspnbspnbsp strongppstrongnbspstrongppstrongDuties and ResponsibilitiesstrongppnbspActively develop and maintain data pipelines and workflows that are the foundation of our polling and modeling problem scoping data cleaning analysis and testingppnbspWork closely with partners to acquire clean and load new datasetsppnbspCollaborate with and support the work of the data scientists to produce deliverablesppnbspDevelop data acquisition and management protocolsppnbspImplement quality assurance protocolsppnbspDevelop workflows and automate processes using Python or other scripting languagesppnbspCreate maintain and organize technical documentation for all data collection cleaning and analyses to inform both internal external users about data products and methodologyppnbspOversee data linking process including standardization and documentationppnbspSupport the development of data governance processes and monitor compliance with governance policies and proceduresppnbspTake the lead role in data transfer operationsppnbspWork with agency partners to identify data fields that would be valuable for linking to databases and identify potential impediments to linkage and standardization of fieldsppnbspScripting and coding to automate and monitor data management processesppnbspAssist with maintenance and development of internal Analytics data architectureppnbspExercise independent judgement and original thinking in support of data projectsppnbspDesign write and disseminate innovative and visually appealing reportsppnbspWork with internal team members and external partners to support data collection and analysis and understand reporting needsppstrongnbspstrongppstrongEducation and Experiencestrongppnbsp3 years of experience managing data and leveraging analytics toolsppnbspFamiliar with a variety of analytics deployment architectures Python containerized Docker Kubernetes etcppnbspExperience using SQL and other languages R Python Scripts etc to manipulate amp analyze data stored in relational and nonrelational databases or ability to learnppnbspExperience configuring or monitoring data pipelines in cloud platforms AWS and AzureppnbspAbility to connect APIs REST SOAP HTTP MethodsppnbspPrevious experience integrating data familiarity with technical issues eg cleaning merging standardizing documenting and securingppnbspFamiliarity with data visualization including experience with common visualization software eg R Tableau Power BI ElasticsearchKibanapp Experience working on applied data projects that involve working with diverse organizations to collect analyze and interpret datappnbspSolid technical skills across a wide variety of tools and data platformsppnbspAbility to develop relationships with collaborators program providers community partners and othersppnbspAble to successfully prioritize and manage multiple critical projects simultaneously and complete them in a timely manner with a high degree of accuracyppstrongnbspstrongppstrongPreferred Skills amp QualificationsstrongppnbspExperience supporting MISOIO missionsppnbsp2 years using SQL professionally amp proficiency with R or PythonppnbspCloud project work using AWS andor Azureppnbsp Proficient in HTTP Methods Postman developmenttesting of REST andor SOAP APIs and CRUD actionsppnbspnbspDemonstrated high proficiency in statistical analysis software including utilizing Power BI Tableau ElasticsearchKibana Alteryx Python or RppnbspnbspDeep understanding of data quality issues with applied experience in addressing data issues for quality assuranceppnbspnbspProficiency in each phase of the software development lifecycleppnbspnbspStrong record of applied data analysisppnbspnbspExcellent writing and presentation skills with a successful track record of communicating complex concepts to diverse audiencesppnbspFamiliarity with principles of research designppnbspMust be clearable to the Secret  Top Secret levelp",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-06T21:01:00.000Z"
+  },
+  "company": {
+    "name": "Espire Services, LLC",
+    "link": "https://www.linkedin.com/company/espire-services-l-l-c-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": null
+  },
+  "salary": {
+    "currency": null,
+    "min_value": null,
+    "max_value": null,
+    "unit": null
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}
