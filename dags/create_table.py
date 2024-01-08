@@ -1,16 +1,5 @@
 from airflow.providers.sqlite.operators.sqlite import SqliteOperator
-
-import sqlite3
-
-import pandas as pd
-from datetime import timedelta, datetime
-
-from airflow.decorators import dag
-from airflow.providers.sqlite.hooks.sqlite import SqliteHook
-from airflow.providers.sqlite.operators.sqlite import SqliteOperator
-
-import pandas as pd
-import os
+from airflow.decorators import task
 
 
 TABLES_CREATION_QUERY = [
@@ -70,7 +59,7 @@ TABLES_CREATION_QUERY = [
     )"""
 ]
 
-# Définir la fonction create_tables
+# @task()
 def create_tables():
     """Créer les tables dans la base de données SQLite"""
     task = SqliteOperator(

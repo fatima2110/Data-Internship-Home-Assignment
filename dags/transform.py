@@ -1,25 +1,35 @@
 from airflow.decorators import task
 
+from bs4 import BeautifulSoup
+import re
+
 import json
 import os
 
-from bs4 import BeautifulSoup
-import re
-def clean_text(texte):
-    if texte is not None:
-        # Supprimer les balises HTML
-        text_without_html = BeautifulSoup(texte, 'html.parser').get_text()
 
-        # Supprimer les caractères spéciaux
-        cleaned_text = re.sub(r'[^a-zA-Z0-9\s]', '', text_without_html)
+extracted_data_folder_path = 'staging/extracted'
+transformed_data_folder_path = 'staging/transformed'
+
+def clean_text(text):
+    if text is not None:
+        # Remove HTML tags, and replace <br/> with \n
+        soup = BeautifulSoup(text, 'html.parser')
+        for tag in soup.find_all(True):
+            if tag.name != 'br':
+                tag.replace_with('')
+            else:
+                tag.replace_with('\n')
+
+        # Remove special characters
+        cleaned_text = re.sub(r'[^a-zA-Z0-9\s\n]', '', str(soup))
 
         return cleaned_text
     else:
         return None
 
-def transform_json(json_data):
-    # Créer un nouveau dictionnaire avec les clés sélectionnées et renommées
-    output_data = {
+def transform_json_data(json_data):
+    # Create a new dictionary with the selected and renamed keys
+    transformed_json_data = {
         "job": {
             "title": json_data.get("title", None),
             "industry": json_data.get("industry", None),
@@ -60,58 +70,55 @@ def transform_json(json_data):
 
     if isinstance(experience_requirements, str):
         # If it's a string, use its value
-        output_data["experience"]["months_of_experience"] = experience_requirements
+        transformed_json_data["experience"]["months_of_experience"] = experience_requirements
     elif isinstance(experience_requirements, dict):
         # If it's a dictionary, extract values
-        output_data["experience"]["months_of_experience"] = experience_requirements.get("monthsOfExperience", None)
+        transformed_json_data["experience"]["months_of_experience"] = experience_requirements.get("monthsOfExperience", None)
         
     # Extract seniority_level from title
-    title = output_data["job"]["title"]
+    title = transformed_json_data["job"]["title"]
     if title is not None:
         seniority_indicators = ["Senior", "Lead", "Principal", "Manager", "Sr."]
 
         for indicator in seniority_indicators:
             if indicator in title:
-                output_data["experience"]["seniority_level"] = indicator
+                transformed_json_data["experience"]["seniority_level"] = indicator
                 break
 
     # Clean description
-    description = output_data["job"]["description"]
-    output_data["job"]["description"] = clean_text(description)
+    description = transformed_json_data["job"]["description"]
+    transformed_json_data["job"]["description"] = clean_text(description)
 
-    return output_data
+    return transformed_json_data
 
 
 @task()
 def transform():
     """Clean and convert extracted elements to json."""
 
-    extracted_folder_path = 'staging/extracted'
-    transformed_folder_path = 'staging/transformed'
+    # Create the 'transformed_data_folder_path' folder if it does not exist
+    os.makedirs(transformed_data_folder_path, exist_ok=True)
 
-    # Créer le dossier staging/transformed s'il n'existe pas
-    os.makedirs(transformed_folder_path, exist_ok=True)
-
-    for filename in os.listdir(extracted_folder_path):
+    for filename in os.listdir(extracted_data_folder_path):
         if filename.endswith('.txt'):
-            input_file_path = os.path.join(extracted_folder_path, filename)
+            input_file_path = os.path.join(extracted_data_folder_path, filename)
             
-            # Lire le contenu du fichier texte
+            # Read the content of the text file
             with open(input_file_path, 'r', encoding='utf-8') as file:
                 text_content = file.read()
 
-            # Convertir le texte en objet JSON
+            # Convert the text into a JSON object
             try:
                 json_data = json.loads(text_content)
             except json.JSONDecodeError as e:
-                print(f"Erreur de décodage JSON : {e}")
+                print(f"JSON decoding error : {e}")
 
-            # Appeler la fonction transform_json avec json_data
-            output_data = transform_json(json_data)
+            # Call the function 'transform_json_data'
+            output_data = transform_json_data(json_data)
 
-            # Créer le chemin de sortie pour le fichier JSON
-            output_file_path = os.path.join(transformed_folder_path, f"{filename.replace('extracted', 'transformed')[:-4]}.json")
+            # Create the output path for the JSON file
+            output_file_path = os.path.join(transformed_data_folder_path, f"{filename.replace('extracted', 'transformed')[:-4]}.json")
 
-            # Écrire les données dans le fichier JSON
+            # Write the data to the JSON file
             with open(output_file_path, 'w', encoding='utf-8') as json_file:
                 json.dump(output_data, json_file, ensure_ascii=False, indent=2)
