@@ -1,7 +1,7 @@
 from airflow.decorators import task
 
 from bs4 import BeautifulSoup
-import re
+from html import unescape
 
 import json
 import os
@@ -12,16 +12,20 @@ transformed_data_folder_path = 'staging/transformed'
 
 def clean_text(text):
     if text is not None:
-        # Remove HTML tags, and replace <br/> with \n
-        soup = BeautifulSoup(text, 'html.parser')
+        # Decode HTML entities (for example, &lt; becomes <)
+        decoded_text = unescape(text)
+
+        # Remove HTML tags, replacing <br> with \n
+        soup = BeautifulSoup(decoded_text, 'html.parser')
+        
         for tag in soup.find_all(True):
             if tag.name != 'br':
                 tag.replace_with('')
             else:
                 tag.replace_with('\n')
-
-        # Remove special characters
-        cleaned_text = re.sub(r'[^a-zA-Z0-9\s\n]', '', str(soup))
+        
+        # Remove remaining HTML tags and extra whitespaces
+        cleaned_text = soup.get_text(separator='\n', strip=True)
 
         return cleaned_text
     else:

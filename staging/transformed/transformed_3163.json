@@ -2,7 +2,7 @@
   "job": {
     "title": "Machine Learning Systems Engineer",
     "industry": "",
-    "description": "ltpgtAI Training and Inference is very inefficient today incurring huge costs with real impact on the environment ltstronggtWe live in the Jurassic era of AI efficiencyltstronggt and NodAI believes we can do much better with a solid focus on our Computer Science fundamentals with first principles thinking ltpgtltpgtltbrgtltpgtltpgtOur AI Compiler Engineers deliver the best front end for various Machine Learning frameworks like Tensorflow PyTorch etc and very efficiently parallelize and distribute the workloads onto the Nod Runtime for autotuned high performance execution on large clusters and SoCsampnbspOur ML Systems Engineers effectively deploy compiled AI models onto a wide range of hardware platforms  from supercomputers with thousands of devices to SystemonChip designs with hundreds of processing elements PEsampnbspltpgtltpgtWe enable companies to efficiently deploy Machine Learning models without doing the heavy lifting of optimizing the frameworks and models for their hardware and clustersampnbspltpgtltpgtCome work with a high caliber team where everyone is an engineer first and we guide our decisions with data and celebrate our resultsampnbspltpgtltpgtltbrgtltpgtltpgtAs a MLSys Engineer you would be responsible for scaling out the Nod AI Runtime over multiple devices on a single host and across hundreds of machines in a HPC  Datacenter environmentltpgt",
+    "description": "",
     "employment_type": "FULL_TIME",
     "date_posted": "2021-08-08T05:43:51.000Z"
   },
