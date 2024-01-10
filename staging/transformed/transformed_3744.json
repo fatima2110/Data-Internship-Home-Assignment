@@ -2,7 +2,7 @@
   "job": {
     "title": "Software Engineer",
     "industry": "Information Technology and Services",
-    "description": "",
+    "description": "The ideal candidate will be responsible for developing high-quality applications. They will also be responsible for designing and implementing testable and scalable code.    Responsibilities Experience Band 5-10 years (Software Engineers) Extremely proficient in Embedded C, bare metal device driver development, board bring up and BSP/low level (closer to hardware) platform software development Expertise in BSP and drivers for at least one or more of the following - PCIe/USB/UFS/NAND (Exposure to Linux drivers is nice to have but not mandatory) Beyond the driver software a deep protocol level understanding of one or more of the following (USB/UFS/PCIe) is expected Good knowledge on Microprocessors/Microcontrollers - ARM MPU (ARMv7/ARMv8) architectures Should have experience in Linux Internals or RTOS, IPC (Message Queues, Shared memory, Semaphores), multithreading, Mutex, etc) Familiarity with Open source Linux Kernel and development practices. Hands on experience with lab instruments like oscilloscopes, waveforms analyzers, Lauterbach(JTAG) is a plus A self-managed individual with excellent problem-solving skills.",
     "employment_type": "FULL_TIME",
     "date_posted": "2021-08-16T21:45:33.000Z"
   },

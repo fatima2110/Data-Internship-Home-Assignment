@@ -2,7 +2,7 @@
   "job": {
     "title": "Servicenow Developer",
     "industry": "Information Technology and Services",
-    "description": "",
+    "description": "Role: ServiceNow Developer Location: 100% Remote Contract Duration: 6 Months Requirements: Experienced ServiceNow developers Ability to create complex workflows using flow designer Ability to create forms with automation fulfillment Strong knowledge and understanding of ServiceNow data model and tables, especially for incident, change and CMDB Knowledge of SN APIs Network, server, or INF knowledge and experience is a ‘plus’ but not required Responsibilities: Replace work order templates using flow designer Develop forms (including documentation) Consult and help in development of the appropriate rest API to replace the ~100 automations across FI that use BMC ticket API Consult other citizen developers with guardrails and solutions",
     "employment_type": "CONTRACTOR",
     "date_posted": "2021-10-05T17:39:19.000Z"
   },

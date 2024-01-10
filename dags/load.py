@@ -12,7 +12,7 @@ def load():
     """Load data to sqlite database."""
     # Connection to database
     sqlite_hook = SqliteHook(sqlite_conn_id='sqlite_default')
-    conn = sqlite_hook.get_conn()
+    connection = sqlite_hook.get_conn()
 
     try:
         # Loop through JSON files in the folder
@@ -38,8 +38,8 @@ def load():
                 VALUES (?, ?, ?, ?, ?)
                 """
 
-                with conn:
-                    cursor = conn.execute(sql_insert, (title, industry, description, employment_type, date_posted))
+                with connection:
+                    cursor = connection.execute(sql_insert, (title, industry, description, employment_type, date_posted))
 
                     # Retrieve the automatically generated ID (the last inserted row)
                     job_id = cursor.lastrowid
@@ -71,7 +71,7 @@ def load():
                                 INSERT INTO {table_name} ({', '.join(target_fields)})
                                 VALUES ({', '.join(['?' for _ in target_fields])})
                                 """
-                                conn.execute(sql_insert_table, target_values)
+                                connection.execute(sql_insert_table, target_values)
 
     except Exception as e:
         print(f"Error: {str(e)}")

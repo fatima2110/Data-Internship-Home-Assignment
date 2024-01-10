@@ -15,17 +15,9 @@ def clean_text(text):
         # Decode HTML entities (for example, &lt; becomes <)
         decoded_text = unescape(text)
 
-        # Remove HTML tags, replacing <br> with \n
+        # Remove HTML tags
         soup = BeautifulSoup(decoded_text, 'html.parser')
-        
-        for tag in soup.find_all(True):
-            if tag.name != 'br':
-                tag.replace_with('')
-            else:
-                tag.replace_with('\n')
-        
-        # Remove remaining HTML tags and extra whitespaces
-        cleaned_text = soup.get_text(separator='\n', strip=True)
+        cleaned_text = soup.get_text(separator=' ')
 
         return cleaned_text
     else:
@@ -126,3 +118,4 @@ def transform():
             # Write the data to the JSON file
             with open(output_file_path, 'w', encoding='utf-8') as json_file:
                 json.dump(output_data, json_file, ensure_ascii=False, indent=2)
+

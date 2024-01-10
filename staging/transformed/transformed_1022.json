@@ -2,7 +2,7 @@
   "job": {
     "title": "Data Scientist",
     "industry": "Information Technology and Services",
-    "description": "",
+    "description": "Client located headquartered in Denver, Colorado is seeking a 100% remote Data Scientist for a long term contract position. This position will participate on a small team that will work with medical, claims, and policy related data that comes in a variety of formats – structured and unstructured - to generate insights and embed artificial intelligence into applications. Required: -Python. -Strong modeling skills. -Knowledge of BASH. -SQL coding. Desired: -Data library experience (spaCy, Pandas, NumPy, Scikit-learn, XGBoost, Tensorflow, PyTorch, Keras, etc.). -Experience working with insurance data (medical records, insurance claims, policy data). -API development. -Google Cloud Platform.",
     "employment_type": "CONTRACTOR",
     "date_posted": "2021-07-19T15:40:01.000Z"
   },

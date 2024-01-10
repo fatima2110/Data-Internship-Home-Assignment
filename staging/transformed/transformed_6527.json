@@ -2,7 +2,7 @@
   "job": {
     "title": "Machine Learning research Engineer",
     "industry": "Staffing and Recruiting",
-    "description": "",
+    "description": "ML Research Engineer LOCATION: San Francisco, CA, US                                              Full Time ABOUT the role In this role you’ll work with our researchers to do cutting-edge deep learning research—conducting experiments, creating infrastructure, and developing tooling & visualizations—with the goal of developing more human-like machine intelligence. Example projects Implement a self-supervised network using contrastive and reconstruction losses. Create a library on top of PyTorch to enable efficient network architecture search. Implement networks from newly published papers. Run massively parallel experiments to understand all variants of an architecture. Develop more realistic simulations for training our agents. Create visualizations to help us deeply understand what our networks learn and why. Benefits: Work directly on creating software with human-like intelligence. Generous compensation, equity, and benefits. $20K+ yearly budget for self-improvement: coaching, courses, conferences, etc. Actively co-create and participate in a positive, intentional team culture. Spend time learning, reading papers, and deeply understanding prior work. Frequent team events, dinners, off-sites, and hanging out. ABOUT you Passionate about understanding the fundamentals of intelligence. Very comfortable writing Python. Excited to be a world-class ML engineer. A fan of pair programming. Passionate about engineering best practices.    ",
     "employment_type": "FULL_TIME",
     "date_posted": "2021-08-27T18:08:24.000Z"
   },

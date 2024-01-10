@@ -18,7 +18,7 @@ DAG_DEFAULT_ARGS = {
     description="ETL LinkedIn job posts",
     tags=["etl"],
     schedule="@daily",
-    start_date=datetime(2024, 1, 8),
+    start_date=datetime(2024, 1, 10),
     catchup=False,
     default_args=DAG_DEFAULT_ARGS
 )
@@ -32,8 +32,6 @@ def etl_dag():
     load_task = load()
 
     create_tables_task >> extract_task >> transform_task >> load_task
-
-    # create_tables_task >> load_task
 
 
 etl_dag()

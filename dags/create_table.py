@@ -59,7 +59,6 @@ TABLES_CREATION_QUERY = [
     )"""
 ]
 
-# @task()
 def create_tables():
     """Créer les tables dans la base de données SQLite"""
     task = SqliteOperator(

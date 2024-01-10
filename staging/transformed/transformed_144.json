@@ -2,7 +2,7 @@
   "job": {
     "title": "Machine Learning Engineer",
     "industry": "Banking",
-    "description": "",
+    "description": "Short Description   -Kubernetes   - Workflow (one of these: Kubeflow, Prefect, Airflow,...)  - Python  - Micro-service architecture  - CICD  - Preferably some exposure to a Cloud provider like AWS",
     "employment_type": "CONTRACTOR",
     "date_posted": "2021-07-07T22:31:57.000Z"
   },
